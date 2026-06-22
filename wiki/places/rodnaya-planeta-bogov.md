@@ -56,3 +56,5 @@
 - [[people/fred-hoyle|Фред Хойл]]
 - [[places/ostrov-paskhi|Остров Пасхи]]
 - [[artifacts/tyerteriyskie-tablichki|Тертерийские таблички]]
+- [[places/tiauankano|Тиауанако]] — мегалитический город на высокогорье
+- [[places/Ольянтайтамбо|Ольянтайтамбо]] — мегалиты со следами机альной обработки

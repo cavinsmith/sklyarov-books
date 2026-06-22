@@ -21,3 +21,13 @@
 - [[concepts/samosoznanie|Самосознание]] — внутренний рост через接触 с «божественным»
 - [[concepts/egregor|Эгрегор]] — коллективное информационное поле
 - [[concepts/noosphere|Ноосфера]] — сфера разума
+- [[concepts/civilization-of-gods|Цивилизация богов]] — источник откровений
+- [[concepts/lost-technology|Утраченные технологии]] — знания, переданные через откровение
+
+---
+
+## См. также
+
+- [[concepts/dracoonografiya]] — драконография
+- [[concepts/civilization-of-gods]] — цивилизация богов
+- [[books/11-dragonografiya]] — «Драконография»
