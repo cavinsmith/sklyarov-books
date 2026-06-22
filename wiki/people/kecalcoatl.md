@@ -17,15 +17,15 @@
 
 - Кукуруза — один из основных культурных продуктов Мексики
 - Миф о Кецалькоатле поддерживает тезис о божественном происхождении земледелия
-- Параллели с другими «дарителями земледелия»: [[people/Virakocha|Виракоча]], [[people/Osiris|Осирис]], [[people/Enki|Энки]]
+- Параллели с другими «дарителями земледелия»: [[people/virakocha|Виракоча]], [[people/osiris|Осирис]], [[people/enki|Энки]]
 
 ## См. также
 
 - [[books/04-bitva-za-urozhay|Наследие пьяных богов]]
 - [[books/13-meksika-bez-krivyh-zerkal|Древняя Мексика без кривых зеркал]]
 - [[books/11-dragonografiya|Введение в драконографию]]
-- [[concepts/Zemledelie-kak-dar-bogov|Земледелие как дар богов]]
-- [[people/Virakocha|Виракоча]]
-- [[people/Osiris|Осирис]]
-- [[people/Enki|Энки]]
-- [[people/Enlil|Энлиль]]
+- [[concepts/Земледелие как дар богов|Земледелие как дар богов]]
+- [[people/virakocha|Виракоча]]
+- [[people/osiris|Осирис]]
+- [[people/enki|Энки]]
+- [[people/enlil|Энлиль]]

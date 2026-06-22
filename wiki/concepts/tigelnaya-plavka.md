@@ -24,8 +24,8 @@
 
 ## См. также
 
-- [[../concepts/syrodutnyj-process|Сыродутный процесс]]
-- [[../concepts/bronzovyj-vek|Бронзовый век]]
-- [[../concepts/mednyy-vek|Медный век]]
-- [[../concepts/eksperimentalnaya-metallurgiya|Экспериментальная металлургия]]
-- [[../books/22-metally|Металлы - дар небесных богов]]
+- [[concepts/syrodutnyj-process|Сыродутный процесс]]
+- [[concepts/bronzovyj-vek|Бронзовый век]]
+- [[concepts/mednyy-vek|Медный век]]
+- [[concepts/eksperimentalnaya-metallurgiya|Экспериментальная металлургия]]
+- [[books/22-metally|Металлы - дар небесных богов]]

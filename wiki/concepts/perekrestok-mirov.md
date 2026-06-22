@@ -48,4 +48,4 @@
 - [[books/26-siriyskie-perekrestki|Сирийские перекрёстки]]
 - [[concepts/velikaya-siriya]]
 - [[concepts/zodiakalnaya-symbolika]]
-- [[places/Дамаск]]
+- [[places/damask]]

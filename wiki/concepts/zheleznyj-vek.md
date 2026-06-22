@@ -5,7 +5,7 @@
 ## Основные сведения
 
 - **Материал:** Железо и сталь
-- **Предшествующий период:** [[../concepts/bronzovyj-vek|Бронзовый век]]
+- **Предшествующий период:** [[concepts/bronzovyj-vek|Бронзовый век]]
 - **Температура плавки железа:** около 1538°C (значительно выше, чем у меди — 1083°C)
 
 ## Ключевые факты
@@ -22,8 +22,8 @@
 
 ## См. также
 
-- [[../concepts/mednyy-vek|Медный век]]
-- [[../concepts/bronzovyj-vek|Бронзовый век]]
-- [[../concepts/syrodutnyj-process|Сыродутный процесс]]
-- [[../concepts/tigelnaya-plavka|Тигельная плавка]]
-- [[../books/22-metally|Металлы - дар небесных богов]]
+- [[concepts/mednyy-vek|Медный век]]
+- [[concepts/bronzovyj-vek|Бронзовый век]]
+- [[concepts/syrodutnyj-process|Сыродутный процесс]]
+- [[concepts/tigelnaya-plavka|Тигельная плавка]]
+- [[books/22-metally|Металлы - дар небесных богов]]

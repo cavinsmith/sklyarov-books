@@ -1,6 +1,6 @@
 # Период хаоса
 
-Эпоха глубокого кризиса и разрушения цивилизаций, наступившая после [[events/voyna-bogov-iv-tysyacheletie|Войны богов]] (~3500-3100 до н.э.). Описывается в книге «[[books/06-vavilonskaya-bashnya|Вавилонская башня]]» [[people/Андрей Скляров|Андрея Склярова]] как прямое следствие утраты [[concepts/edinaya-pismennost|единой письменности]] и перехода к [[concepts/foneticheskoe-pismo|фонетическому письму]].
+Эпоха глубокого кризиса и разрушения цивилизаций, наступившая после [[events/voyna-bogov-iv-tysyacheletie|Войны богов]] (~3500-3100 до н.э.). Описывается в книге «[[books/06-vavilonskaya-bashnya|Вавилонская башня]]» [[people/andrey-sklyarov|Андрея Склярова]] как прямое следствие утраты [[concepts/edinaya-pismennost|единой письменности]] и перехода к [[concepts/foneticheskoe-pismo|фонетическому письму]].
 
 ---
 

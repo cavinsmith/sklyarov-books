@@ -14,7 +14,7 @@
 ## Ключевые объекты
 
 ### Ближний Восток
-- [[places/baalbek|Баальбек]] — блоки до 1200 тонн, [[places/baalbek#Триystone|Триystone]] (~800 тонн)
+- [[places/baalbek|Баальбек]] — блоки до 1200 тонн, [[places/baalbek|Триystone]] (~800 тонн)
 - [[places/palmyra|Пальмира]] — следы механической обработки
 
 ### Турция
@@ -28,8 +28,8 @@
 - [[places/puma-punku|Пума-Пунку]] — блоки с идеально ровными поверхностями
 
 ### Египет
-- [[places/giza|Гиза]] — пирамиды
-- [[places/sakara|Саккара]] — [[artifacts/stone-vessels-saqqara|Саккарская коллекция]] из 35 000 каменных сосудов
+- [[places/giza-plateau|Гиза]] — пирамиды
+- [[places/saqqara|Саккара]] — [[artifacts/stone-vessels-saqqara|Саккарская коллекция]] из 35 000 каменных сосудов
 
 ## Аргументы
 

@@ -10,7 +10,7 @@
 
 - Ян символизирует свет, напряжение, активность, мужской принцип
 - В [[concepts/dvoichnaya-sistema|двоичном коде]] corresponds to the digit 1
-- В сочетании с [[concepts/yin|инь]] образует [[concepts/trigrama|триграммы]] и [[concepts/geksagramма|гексаграммы]]
+- В сочетании с [[concepts/yin|инь]] образует [[concepts/trigrama|триграммы]] и [[concepts/geksagramma|гексаграммы]]
 
 ---
 

@@ -23,7 +23,7 @@
 
 ## См. также
 
-- [[../places/sintashta|Синташта]]
-- [[../concepts/bronzovyj-vek|Бронзовый век]]
-- [[../concepts/myshyakovistaya-bronza|Мышьяковистая бронза]]
-- [[../books/22-metally|Металлы - дар небесных богов]]
+- [[places/sintashta|Синташта]]
+- [[concepts/bronzovyj-vek|Бронзовый век]]
+- [[concepts/myshyakovistaya-bronza|Мышьяковистая бронза]]
+- [[books/22-metally|Металлы - дар небесных богов]]

@@ -12,7 +12,7 @@
 
 ## Основные направления исследований
 
-- [[concepts/civilizaciya-bogov|Цивилизация богов]] и [[concepts/Палеоконтакт|палеоконтакт]]
+- [[concepts/civilization-of-gods|Цивилизация богов]] и [[concepts/Палеоконтакт|палеоконтакт]]
 - [[concepts/megaculture-traces|Мегалиты как следы присутствия «богов»]]
 - [[concepts/lost-technology|Утраченные технологии]]
 - [[concepts/cultural-continuity|Культурная преемственность цивилизаций]]
@@ -50,4 +50,4 @@
 - [[books/18-drevnie-bogi|Древние боги — кто они?]]
 - [[books/24-opasnoe-nasledie|Опасное наследие богов]]
 - [[concepts/Древние боги|Древние боги]]
-- [[concepts/civilizaciya-bogov|Цивилизация богов]]
+- [[concepts/civilization-of-gods|Цивилизация богов]]

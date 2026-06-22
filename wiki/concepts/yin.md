@@ -10,7 +10,7 @@
 
 - Инь символизирует тень, гибкость, пассивность, женский принцип
 - В [[concepts/dvoichnaya-sistema|двоичном коде]] corresponds to the digit 0
-- В сочетании с [[concepts/yang|ян]] образует [[concepts/trigrama|триграммы]] и [[concepts/geksagramма|гексаграммы]]
+- В сочетании с [[concepts/yang|ян]] образует [[concepts/trigrama|триграммы]] и [[concepts/geksagramma|гексаграммы]]
 
 ---
 

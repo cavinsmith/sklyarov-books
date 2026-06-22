@@ -15,7 +15,7 @@
 
 ## Роль в контексте книги
 
-[[people/Андрей Скляров|Андрей Скляров]] в книге «[[books/06-vavilonskaya-bashnya|Вавилонская башня]]» опирается на периодизацию Гимбутас для датировки уничтожения [[concepts/drevneevropeyskaya-civilizaciya|древнеевропейской цивилизации]] и связывает это с [[concepts/period-haosa|Периодом хаоса]], последовавшим за [[events/voyna-bogov-iv-tysyacheletie|войной богов]] IV тысячелетия до н.э.
+[[people/andrey-sklyarov|Андрей Скляров]] в книге «[[books/06-vavilonskaya-bashnya|Вавилонская башня]]» опирается на периодизацию Гимбутас для датировки уничтожения [[concepts/drevneevropeyskaya-civilizaciya|древнеевропейской цивилизации]] и связывает это с [[concepts/period-haosa|Периодом хаоса]], последовавшим за [[events/voyna-bogov-iv-tysyacheletie|войной богов]] IV тысячелетия до н.э.
 
 ---
 

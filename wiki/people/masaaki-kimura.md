@@ -40,5 +40,5 @@
 - [[books/20-strana-voshozhdeniya|Страна восходящего солнца]]
 - [[artifacts/monument-yonaguni|Памятник Яёнурагуни]]
 - [[people/kihachiro-aratake|Кихатиро Аракатэ]]
-- [[people/robert-shoch|Роберт Шок]]
+- [[people/robert-schoch|Роберт Шок]]
 - [[places/yonaguni|Яёнурагуни]]

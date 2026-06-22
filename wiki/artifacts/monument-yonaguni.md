@@ -57,6 +57,6 @@
 - [[places/yonaguni|Яёнурагуни]]
 - [[people/masaaki-kimura|Масааки Кимура]]
 - [[people/kihachiro-aratake|Кихатиро Аракатэ]]
-- [[people/robert-shoch|Роберт Шок]]
-- [[concepts/megaliticheskie-sooruzheniya|Мегалитические сооружения]]
+- [[people/robert-schoch|Роберт Шок]]
+- [[concepts/megalithic-architecture|Мегалитические сооружения]]
 - [[concepts/podvodnaya-arkheologiya|Подводная археология]]

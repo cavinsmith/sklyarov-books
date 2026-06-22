@@ -46,4 +46,4 @@
 - [[artifacts/monument-yonaguni|Памятник Яёнурагуни]]
 - [[places/yonaguni|Яёнурагуни]]
 - [[people/masaaki-kimura|Масааки Кимура]]
-- [[concepts/megaliticheskie-sooruzheniya|Мегалитические сооружения]]
+- [[concepts/megalithic-architecture|Мегалитические сооружения]]

@@ -22,7 +22,7 @@
 2. **Волна Степняков** (~3400-3200 до н.э.)
 3. **Волна Ранних Курганщиков** (~3000-2800 до н.э.)
 
-По [[people/Андрей Скляров|Склярову]], эти волны связаны с [[events/voyna-bogov-iv-tysyacheletie|войной богов]] и [[concepts/period-haosa|Периодом хаоса]].
+По [[people/andrey-sklyarov|Склярову]], эти волны связаны с [[events/voyna-bogov-iv-tysyacheletie|войной богов]] и [[concepts/period-haosa|Периодом хаоса]].
 
 ---
 

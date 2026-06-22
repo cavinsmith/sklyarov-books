@@ -23,7 +23,7 @@
 
 ## См. также
 
-- [[../concepts/tigelnaya-plavka|Тигельная плавка]]
-- [[../concepts/syrodutnyj-process|Сыродутный процесс]]
-- [[../concepts/myshyakovistaya-bronza|Мышьяковистая бронза]]
-- [[../books/22-metally|Металлы - дар небесных богов]]
+- [[concepts/tigelnaya-plavka|Тигельная плавка]]
+- [[concepts/syrodutnyj-process|Сыродутный процесс]]
+- [[concepts/myshyakovistaya-bronza|Мышьяковистая бронза]]
+- [[books/22-metally|Металлы - дар небесных богов]]

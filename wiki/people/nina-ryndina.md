@@ -21,6 +21,6 @@
 
 ## См. также
 
-- [[../people/sergej-grigorev|Сергей Григорьев]]
-- [[../concepts/eksperimentalnaya-metallurgiya|Экспериментальная металлургия]]
-- [[../books/22-metally|Металлы - дар небесных богов]]
+- [[people/sergej-grigorev|Сергей Григорьев]]
+- [[concepts/eksperimentalnaya-metallurgiya|Экспериментальная металлургия]]
+- [[books/22-metally|Металлы - дар небесных богов]]

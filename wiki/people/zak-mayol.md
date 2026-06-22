@@ -41,4 +41,4 @@
 - [[artifacts/monument-yonaguni|Памятник Яёнурагуни]]
 - [[people/kihachiro-aratake|Кихатиро Аракатэ]]
 - [[places/yonaguni|Яёнурагуни]]
-- [[places/ryukyu|Рюкюнский архипелаг]]
+- [[places/ryukyu-ostrova|Рюкюнский архипелаг]]

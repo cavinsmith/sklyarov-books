@@ -23,8 +23,8 @@
 
 ## См. также
 
-- [[../places/arkaim|Аркаим]]
-- [[../concepts/bronzovyj-vek|Бронзовый век]]
-- [[../concepts/myshyakovistaya-bronza|Мышьяковистая бронза]]
-- [[../concepts/syrodutnyj-process|Сыродутный процесс]]
-- [[../books/22-metally|Металлы - дар небесных богов]]
+- [[places/arkaim|Аркаим]]
+- [[concepts/bronzovyj-vek|Бронзовый век]]
+- [[concepts/myshyakovistaya-bronza|Мышьяковистая бронза]]
+- [[concepts/syrodutnyj-process|Сыродутный процесс]]
+- [[books/22-metally|Металлы - дар небесных богов]]

@@ -22,7 +22,7 @@
 
 ## См. также
 
-- [[../concepts/mednyy-vek|Медный век]]
-- [[../concepts/syrodutnyj-process|Сыродутный процесс]]
-- [[../concepts/tigelnaya-plavka|Тигельная плавка]]
-- [[../books/22-metally|Металлы - дар небесных богов]]
+- [[concepts/mednyy-vek|Медный век]]
+- [[concepts/syrodutnyj-process|Сыродутный процесс]]
+- [[concepts/tigelnaya-plavka|Тигельная плавка]]
+- [[books/22-metally|Металлы - дар небесных богов]]

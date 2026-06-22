@@ -23,7 +23,7 @@
 
 ## См. также
 
-- [[../concepts/zheleznyj-vek|Железный век]]
-- [[../concepts/tigelnaya-plavka|Тигельная плавка]]
-- [[../concepts/bronzovyj-vek|Бронзовый век]]
-- [[../books/22-metally|Металлы - дар небесных богов]]
+- [[concepts/zheleznyj-vek|Железный век]]
+- [[concepts/tigelnaya-plavka|Тигельная плавка]]
+- [[concepts/bronzovyj-vek|Бронзовый век]]
+- [[books/22-metally|Металлы - дар небесных богов]]

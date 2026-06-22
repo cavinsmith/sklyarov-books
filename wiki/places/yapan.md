@@ -43,7 +43,7 @@
 
 - [[books/20-strana-voshozhdeniya|Страна восходящего солнца]]
 - [[places/yonaguni|Яёнурагуни]]
-- [[places/ryukyu|Рюкюнский архипелаг]]
+- [[places/ryukyu-ostrova|Рюкюнский архипелаг]]
 - [[people/khimiko|Химико]]
 - [[people/princ-sotoku|Принц Сётоку]]
 - [[concepts/dzemon-period|Период Дзёмон]]
