@@ -5,11 +5,9 @@ categories:
   - places
   - archaeology
   - peru
-tags:
-  - tiahuanaco
-  - megalithic
-  - adobe
-  - walls
+tags: [tiahuanaco, megalithic, adobe, walls]
+description: "Ракчи (исп. Raqchi) — археологический комплекс в Перу с двухъярусными стенами: нижняя из мегалитов, верхняя из адобов. Связан с культурой Тиауанако и..."
+
 ---
 
 # Ракчи

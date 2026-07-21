@@ -1,8 +1,12 @@
 ---
+
+
 slug: temple-knights-founding
 title: "Основание Тамплиеров"
 categories: [concepts]
 tags: []
+description: "История основания Ордена Храмовников (Тамплиеров) в 1119 году в Иерусалиме. Рассматривается people/andrey-sklyarov|А. Скляровым в контексте поиска..."
+
 ---
 
 # Основание Тамплиеров

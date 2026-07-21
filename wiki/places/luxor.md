@@ -1,8 +1,10 @@
 ---
+
 slug: luxor
 title: Луксор
 categories: [places]
 tags: [egypt, city, temple, thebes]
+description: "Страна: Египет"
 ---
 
 # Луксор
@@ -29,3 +31,8 @@ tags: [egypt, city, temple, thebes]
 - [[places/karnak]] — Карнакский храмовый комплекс
 - [[places/deir-el-medina]] — Дейр-эль-Медина
 - [[books/12-tsivilizaciya-bogov-egipta]]
+- [[places/denderskiy-hram]]
+- [[places/hatshepsut-temple]]
+- [[places/kolossy-memnona]]
+- [[places/aswan]]
+- [[places/abu-roat]]

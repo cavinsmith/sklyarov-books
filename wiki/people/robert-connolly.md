@@ -1,8 +1,10 @@
 ---
+
 slug: robert-connolly
 title: "Роберт Коннолли (Robert Connolly)"
 categories: [people, researchers]
 tags: []
+description: "Роберт Коннолли — исследователь, обративший внимание на черепа аномальной формы в Южной Америке."
 ---
 
 # Роберт Коннолли (Robert Connolly)

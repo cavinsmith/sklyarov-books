@@ -1,8 +1,10 @@
 ---
+
 slug: irodion
 title: "Иродион"
 categories: [places]
 tags: []
+description: "Крепость-дворец people/herod-great|Ирода Великого."
 ---
 
 # Иродион

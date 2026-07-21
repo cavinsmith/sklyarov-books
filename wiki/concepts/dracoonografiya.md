@@ -1,8 +1,12 @@
 ---
+
+
 slug: dracoonografiya
 title: "Драконография"
 categories: [concepts]
 tags: []
+description: "Описание: "Наука, изучающая жизнь и поведение драконов" — термин, введённый people/andrey-sklyarov|Андреем Скляровым в книге "Введение в..."
+
 ---
 
 # Драконография
@@ -23,7 +27,7 @@ tags: []
 - Образ Дракона отражает реальные события — контакт с инопланетной цивилизацией
 - Борьба Драконов и «богов-антропоморфов» — ключевой мотив мифологии
 - Драконы связаны с водной стихией и [[concepts/potop|Потопом]]
-- [[concepts/paleokontakt]] — драконография как аспект палеоконтакта
+- [[guides/paleokontakt]] — драконография как аспект палеоконтакта
 - [[concepts/drevnie-bogi]] — драконы как одна из форм «богов»
 - [[concepts/konflikt-yahve-i-baala]] — отражение конфликта разных «божественных» групп
 
@@ -40,7 +44,7 @@ tags: []
 ## См. также
 
 - [[concepts/drevnie-bogi]] — предполагаемые контактёры
-- [[concepts/paleokontakt]] — общая тема
+- [[guides/paleokontakt]] — общая тема
 - [[concepts/konflikt-yahve-i-baala]] — конфликт «богов»
 - [[books/11-dragonografiya]] — «Драконография»
 - [[people/andrey-sklyarov|Андрей Скляров]]

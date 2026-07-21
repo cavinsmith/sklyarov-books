@@ -1,8 +1,10 @@
 ---
+
 slug: era-of-gods-civilization
 title: "Эпоха цивилизации богов"
 categories: [concepts]
 tags: []
+description: "Концепция, описывающая период в древней истории, когда «боги» — представители высокоразвитой concepts/civilization-of-gods|цивилизации богов —"
 ---
 
 # Эпоха цивилизации богов

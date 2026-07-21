@@ -1,8 +1,10 @@
 ---
+
 slug: uniformizm
 title: "Униформизм"
 categories: [concepts]
 tags: []
+description: "Описание: Направление в геологии, основанное people/charlz-layel|Чарльзом Лайелем, согласно которому геологические процессы протекали в прошлом с той..."
 ---
 
 # Униформизм
@@ -36,3 +38,8 @@ tags: []
 - [[concepts/katastrofizm|Катастрофизм]] -- противоположное направление
 - [[concepts/princip-aktualizma|Принцип актуализма]] -- основной постулат
 - [[books/07-radio-uglerodnoe-datirovanie|Вавилонская башня -- рекордсмен долгостроя]]
+
+
+## См. также
+
+- [[concepts/index-concepts|Индекс концепций]]

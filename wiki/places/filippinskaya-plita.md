@@ -1,8 +1,10 @@
 ---
+
 slug: filippinskaya-plita
 title: "Филиппинская плита"
 categories: [places]
 tags: [tectonics, pacific, meteorite]
+description: "Тип: Литосферная плита"
 ---
 
 # Филиппинская плита

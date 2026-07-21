@@ -1,8 +1,10 @@
 ---
+
 slug: antarktida
 title: Антарктида
 categories: [places]
 tags: [continent, ice, ancient-maps, cartography]
+description: "Площадь: 14,2 млн км² (второй по величине континент)"
 ---
 
 # Антарктида
@@ -30,3 +32,5 @@ tags: [continent, ice, ancient-maps, cartography]
 - [[places/bering-strait]] — Берингов пролив
 - [[places/grenlandiya]] — Гренландия
 - [[books/14-obitaemyy-ostrov]]
+- [[concepts/absolyutnoe-datirovanie]]
+- [[people/vegener]]

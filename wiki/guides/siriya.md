@@ -1,8 +1,10 @@
 ---
+
 slug: siriya
 title: "Путеводитель: Сирия"
 categories: [guides]
 tags: [syria, damascus, palmyra, ebla, ugarit, levant, baal]
+description: "Все материалы wiki, связанные с Сирией — древнейшими цивилизациями Эблы и Угарита, городами Пальмирой, Дамаском и Алеппо, храмовым комплексом..."
 ---
 
 # Путеводитель: Сирия

@@ -5,11 +5,9 @@ categories:
   - places
   - archaeology
   - anatolia
-tags:
-  - tin
-  - mining
-  - bronze-age
-  - turkey
+tags: [tin, mining, bronze-age, turkey]
+description: "Кестель (тур. Kestel) — древние касситеритовые шахты в восточной Турции, одно из старейших известных мест добычи олова в мире. Шахты..."
+
 ---
 
 # Кестель

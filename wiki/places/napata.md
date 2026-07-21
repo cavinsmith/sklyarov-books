@@ -1,8 +1,10 @@
 ---
+
 slug: napata
 title: Напата
 categories: [places]
 tags: [sudan, ancient-city, kush, pyramids]
+description: "Страна: Судан"
 ---
 
 # Напата
@@ -22,10 +24,18 @@ tags: [sudan, ancient-city, kush, pyramids]
 - Горячие источники
 - Храм Амона
 
----
+## Упоминание в работах
+
+- [[books/17-piramidy|Пирамиды]] — Напата как центр кушитской цивилизации
+
+## Связанные концепции
+
+- [[concepts/pyramids|Пирамиды]]
+- [[concepts/civilization-of-gods|Цивилизация богов]]
+- [[concepts/drevnie-tsivilizacii|Древние цивилизации]]
 
 ## См. также
 
-- [[places/meroe]] — Мероэ
-- [[places/kush]] — Куш
-- [[books/17-piramidy]]
+- [[places/meroe|Мероэ]]
+- [[places/kush|Куш]]
+- [[places/egipet-drevniy|Древний Египет]]

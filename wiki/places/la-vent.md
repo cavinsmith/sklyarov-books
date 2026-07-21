@@ -1,8 +1,10 @@
 ---
+
 slug: la-vent
 title: Ла-Вента
 categories: [places]
 tags: [olmec, mexico, archaeology, pyramids]
+description: "Страна: Мексика"
 ---
 
 # Ла-Вента
@@ -31,3 +33,8 @@ tags: [olmec, mexico, archaeology, pyramids]
 - [[places/olmeki]] — Ольмекская цивилизация
 - [[artifacts/olmeckie-golovy]] — Ольмекские головы
 - [[books/13-meksika-bez-krivyh-zerkal]]
+- [[places/cuicuilco]]
+- [[places/oaxaca]]
+- [[places/aztec]]
+- [[places/teotiuakan]]
+- [[places/tollan]]

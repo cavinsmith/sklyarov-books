@@ -6,11 +6,9 @@ categories:
   - archaeology
   - china
   - bronze-age
-tags:
-  - bronze
-  - vessel
-  - erlitou
-  - ritual
+tags: [bronze, vessel, erlitou, ritual]
+description: "Бронзовый сосуд цзюэ — древнейший ритуальный сосуд из бронзы, относящийся к культуре places/erlitou|Эрлитоу (XXIV–XV века до н.э., Китай)."
+
 ---
 
 # Бронзовый сосуд цзюэ

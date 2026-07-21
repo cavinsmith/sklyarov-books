@@ -1,8 +1,10 @@
 ---
+
 slug: zak-mayol
 title: "Жак Майоль (Jacques Mayol)"
 categories: [people]
 tags: [diving, yonaguni, underwater]
+description: "Описание: Французский ныряльщик свободного погружения, двукратный обладатель мирового рекорда по глубине погружения на задержке дыхания (достиг 61 м..."
 ---
 
 # Жак Майоль (Jacques Mayol)

@@ -1,8 +1,10 @@
 ---
+
 slug: imhotep
 title: "Имхотеп"
 categories: [people]
 tags: [egypt, pyramid, architecture]
+description: "Древнеегипетский зодчий, врач и мудрец, живший при фараоне people/djoser|Джосере (III династия, около 2670 г. до н.э.). Приписывается создание..."
 ---
 
 # Имхотеп

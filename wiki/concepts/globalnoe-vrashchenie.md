@@ -1,8 +1,10 @@
 ---
+
 slug: globalnoe-vrashchenie
 title: "Глобальное вращение"
 categories: [concepts]
 tags: []
+description: "Другие названия: Вращение Земли, Земная ротация"
 ---
 
 # Глобальное вращение

@@ -4,11 +4,9 @@ title: "Актуализм"
 categories:
   - concepts
   - geology
-tags:
-  - actualism
-  - lyell
-  - geology
-  - uniformism
+tags: [actualism, lyell, geology, uniformism]
+description: "Актуализм (от лат. actualis — действительный) — направление в геологии, принцип которого гласит: «настоящее — ключ к прошлому»."
+
 ---
 
 # Актуализм
@@ -35,6 +33,8 @@ tags:
 Критики актуализма указывают на то, что ряд геологических образований не может быть объяснён постепенными процессами.
 
 ## См. также
+
+- [[concepts/index-concepts|Индекс концепций]]
 
 - [[concepts/katastrofizm|Катастрофизм]]
 - [[concepts/potop|Потопная катастрофа]]

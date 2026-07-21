@@ -1,8 +1,10 @@
 ---
+
 slug: ramses-expedition
 title: Экспедиция Рамзеса
 categories: [events]
 tags: [egypt, pharaoh, expedition, military, battle-kadesh]
+description: "Военная экспедиция фараона people/ramesses-ii|Рамзеса II (XIX династия). Включала несколько кампаний, включая знаменитую events/battle-kadesh|битву..."
 ---
 
 # Экспедиция Рамзеса
@@ -46,3 +48,9 @@ tags: [egypt, pharaoh, expedition, military, battle-kadesh]
 - [[places/abu-simbel]] — Абу-Симбел
 - [[books/12-tsivilizaciya-bogov-egipta]] — Цивилизация богов древнего Египта
 - [[books/17-piramidy]] — Пирамиды: загадки строительства и назначения
+
+- [[artifacts/great-pyramid|Великая пирамида Гизы]]
+- [[concepts/megalithic-architecture|Мегалитическая архитектура]]
+- [[places/giza|Гиза]]
+- [[concepts/egyptian-pantheon|Египетский пантеон]]
+- [[places/saqqara|Саккара]]

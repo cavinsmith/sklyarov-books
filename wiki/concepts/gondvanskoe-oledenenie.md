@@ -1,8 +1,10 @@
 ---
+
 slug: gondvanskoe-oledenenie
 title: "Гондванское оледенение"
 categories: [concepts]
 tags: []
+description: "Другие названия: Пермо-карбоновое оледенение, Палеозойское оледенение"
 ---
 
 # Гондванское оледенение

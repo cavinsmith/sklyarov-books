@@ -1,8 +1,10 @@
 ---
+
 slug: olovyannaya-bronza
 title: "Оловянная бронза"
 categories: [concepts]
 tags: []
+description: "Сплав меди с оловом, составляющий основу concepts/bronzovyj-vek|бронзового века и определивший технологический уровень развития ранних цивилизаций."
 ---
 
 # Оловянная бронза

@@ -5,10 +5,9 @@ categories:
   - places
   - archaeology
   - kazakhstan
-tags:
-  - copper
-  - mining
-  - bronze-age
+tags: [copper, mining, bronze-age]
+description: "Джезказган — исторический регион в Центральном Казахстане, известный древними медными рудниками. Один из крупнейших центров металлургии бронзового..."
+
 ---
 
 # Джезказган

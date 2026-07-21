@@ -5,11 +5,9 @@ categories:
   - places
   - archaeology
   - egypt
-tags:
-  - temple
-  - granite
-  - cutting
-  - ancient-technology
+tags: [temple, granite, cutting, ancient-technology]
+description: "Карнак — крупнейший храмовый комплекс Древнего Египта, расположенный на восточном берегу Нила близ places/lukssor|Луксора."
+
 ---
 
 # Карнак
@@ -22,7 +20,24 @@ tags:
 - Длина вертикальных прорезей **> 5 м**
 - Свидетельство использования высокоточных инструментов обработки камня
 
-## См. также
+## Упоминание в работах
+
+- [[books/12-tsivilizaciya-bogov-egipta|Цивилизация богов Египта]] — Карнак как пример высоких технологий
+- [[books/17-piramidy|Пирамиды]] — архитектурные особенности
+
+## Связанные концепции
 
 - [[concepts/machine-processing|Машинная обработка камня]]
+- [[concepts/civilization-of-gods|Цивилизация богов]]
+- [[concepts/dva-texnologicheskih-urovnya|Два технологических уровня]]
+
+## Связанные места
+
+- [[places/lukssor|Луксор]]
+- [[places/fivy|Фивы]]
+- [[places/egipet-drevniy|Древний Египет]]
+
+## См. также
+
 - [[books/27-sozdanie-tsivilizaciy|Создание древних цивилизаций]]
+- [[people/ekhnaton|Эхнатон]]

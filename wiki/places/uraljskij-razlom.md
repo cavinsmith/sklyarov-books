@@ -1,8 +1,10 @@
 ---
+
 slug: uraljskij-razlom
 title: "Уральский разлом"
 categories: [places]
 tags: [urals, tectonics, copper, geology]
+description: "Тип: Тектоническая структура"
 ---
 
 # Уральский разлом

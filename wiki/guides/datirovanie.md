@@ -1,8 +1,10 @@
 ---
+
 slug: datirovanie
 title: "Путеводитель: Методы датирования"
 categories: [guides]
 tags: [dating, chronology, radiocarbon, dendrochronology]
+description: "Все материалы wiki, связанные с методами датирования древних объектов и критикой академической хронологии."
 ---
 
 # Путеводитель: Методы датирования
@@ -45,7 +47,7 @@ tags: [dating, chronology, radiocarbon, dendrochronology]
 
 ### Палеонтология
 
-- [[concepts/paleokontakt|Палеоконтакт]] — вопросы датировки древних объектов
+- [[guides/paleokontakt|Палеоконтакт]] — вопросы датировки древних объектов
 - [[concepts/geneticheskiy-kod-chelovechestva|Генетический код человечества]] — генетические методы датирования
 - [[concepts/horizontal-gene-transfer|Горизонтальный перенос генов]] — передача генов
 

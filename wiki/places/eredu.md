@@ -6,10 +6,9 @@ categories:
   - archaeology
   - mesopotamia
   - sumer
-tags:
-  - sumer
-  - enki
-  - temple
+tags: [sumer, enki, temple]
+description: "Эреду — древнейший город places/sumer|Шумера, с храмом бога Энки."
+
 ---
 
 # Эреду
@@ -26,3 +25,5 @@ tags:
 
 - [[places/sumer|Шумер]]
 - [[books/27-sozdanie-tsivilizaciy|Создание древних цивилизаций]]
+
+- [[places/temple-mount|Храмовая гора]]

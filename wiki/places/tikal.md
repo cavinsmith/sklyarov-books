@@ -1,8 +1,10 @@
 ---
+
 slug: tikal
 title: Тикаль
 categories: [places]
 tags: [maya, guatemala, pyramid, ancient-city, classic-period]
+description: "Страна: Гватемала"
 ---
 
 # Тикаль
@@ -42,5 +44,5 @@ tags: [maya, guatemala, pyramid, ancient-city, classic-period]
 - [[places/palenque]] — Паленке
 - [[places/copan]] — Копан
 - [[places/teotihuacan]] — Теотиуакан
-- [[places/maya]] — Цивилизация майя
+- [[concepts/maya]] — Цивилизация майя
 - [[books/13-meksika-bez-krivyh-zerkal]]

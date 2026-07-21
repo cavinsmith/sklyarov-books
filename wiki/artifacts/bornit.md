@@ -1,8 +1,10 @@
 ---
+
 slug: bornit
 title: "Борнит"
 categories: artifacts
 tags: [минерал, медная руда, сульфиды]
+description: "Описание: Минерал, важная медная руда, также известный как «павлиний глаз» или «медная з '".$_." blende"."
 ---
 
 # Борнит
@@ -53,6 +55,6 @@ tags: [минерал, медная руда, сульфиды]
 - [[artifacts/magnetit|Магнетит]] — магнитная железная руда
 - [[artifacts/kuprit|Куприт]] — оксид меди
 - [[artifacts/mednyj-topor|Медный топор]]
-- [[artifacts/metalloobrabotka|Древняя металлургия]]
+- [[concepts/metalloobrabotka|Древняя металлургия]]
 - [[books/22-metally|Металлы — дар небесных богов]]
 - [[concepts/utrachennye-tekhnologii|Утраченные технологии]]

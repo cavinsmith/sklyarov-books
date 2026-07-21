@@ -1,8 +1,10 @@
 ---
+
 slug: dlinnyj-schet
 title: Длинный счёт
 categories: [concepts]
 tags: [maya, calendar, mathematics, long-count]
+description: "Система летоисчисления майя, использующая позиционную систему счисления для записи больших чисел. Основана на циклах различной длины."
 ---
 
 # Длинный счёт
@@ -25,3 +27,7 @@ tags: [maya, calendar, mathematics, long-count]
 - [[concepts/additivno-pozicionnaya-sistema]] - Аддитивно-позиционная система
 - [[concepts/kalendar-52-goda]] - Календарь 52 года
 - [[books/13-meksika-bez-krivyh-zerkal]]
+- [[artifacts/drezdenskij-kodeks]]
+- [[people/maya-people]]
+- [[artifacts/parizhskij-kodeks]]
+- [[artifacts/kodeks-grolle]]

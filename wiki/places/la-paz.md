@@ -1,8 +1,10 @@
 ---
+
 slug: la-paz
 title: "Ла-Паз"
 categories: [places]
 tags: []
+description: "Тип: Город"
 ---
 
 # Ла-Паз

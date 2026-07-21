@@ -1,8 +1,10 @@
 ---
+
 slug: minsky
 title: Минский
 categories: [people]
 tags: [researcher, alternative-history]
+description: "Исследователь, упоминаемый в контексте альтернативных теорий."
 ---
 
 # Минский
@@ -22,3 +24,5 @@ tags: [researcher, alternative-history]
 
 - [[books/14-obitaemyy-ostrov]]
 - [[books/01-mif-o-potope]]
+
+- [[concepts/alternative-history|Альтернативная история]]

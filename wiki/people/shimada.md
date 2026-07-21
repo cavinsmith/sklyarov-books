@@ -1,8 +1,10 @@
 ---
+
 slug: shimada
 title: "Шимада Идзуми"
 categories: [people]
 tags: [archaeology, peru]
+description: "Описание: Японский археолог, руководивший раскопками древнего металлургического комплекса Батан Гранде в Перу."
 ---
 
 # Шимада Идзуми
@@ -41,3 +43,7 @@ tags: [archaeology, peru]
 - [[places/batan-grande|Батан Гранде]]
 - [[concepts/metalloobrabotka|Древняя металлургия]]
 - [[people/soldi-bratya|Братья Сольди]] — первые крупные коллекционеры артефактов Перу
+- [[concepts/mednye-splavy-i-tekhnologii|Медные сплавы и технологии]]
+- [[concepts/bronzovyj-vek|Бронзовый век]]
+- [[places/uari|Уари]]
+- [[places/machu-pikchu|Мачу-Пикчу]]

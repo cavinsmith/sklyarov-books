@@ -1,8 +1,10 @@
 ---
+
 slug: engels-fridrih
 title: "Фридрих Энгельс (Friedrich Engels)"
 categories: [people]
 tags: [philosophy, marxism]
+description: "Немецкий философ, социолог и политический деятель (1820–1895), соавтор people/marks-karl|Карла Маркса."
 ---
 
 # Фридрих Энгельс (Friedrich Engels)

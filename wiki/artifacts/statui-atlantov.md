@@ -1,8 +1,10 @@
 ---
+
 slug: statui-atlantov
 title: Статуи атлантов
 categories: [artifacts]
 tags: [greece, mycenae, sculpture, atlantes]
+description: "Место находки: Древняя Греция"
 ---
 
 # Статуи атлантов
@@ -29,3 +31,9 @@ tags: [greece, mycenae, sculpture, atlantes]
 - [[places/mycenae]] — Микены
 - [[places/tiryns]] — Тиринф
 - [[books/18-drevnie-bogi]]
+
+## Связанные страницы
+
+- [[places/tula|Тула]]
+- [[places/sparta|Спарта]]
+- [[places/delfy|Дельфы]]

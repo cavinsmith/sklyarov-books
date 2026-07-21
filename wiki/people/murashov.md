@@ -1,8 +1,12 @@
 ---
+
+
 slug: murashov
 title: "Мурашов"
 categories: [people]
 tags: [physics, consciousness]
+description: "Учёный, чьи работы упоминаются people/andrey-sklyarov|Андреем Скляровым в контексте альтернативных исследований."
+
 ---
 
 # Мурашов

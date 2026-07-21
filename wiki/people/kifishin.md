@@ -1,8 +1,10 @@
 ---
+
 slug: kifishin
 title: А. Кифишин
 categories: [people]
 tags: [assyriology, tablets, shumer, reading]
+description: "Востоковед и ассириолог, прочитавший тэртерийские таблички по-шумерски."
 ---
 
 # А. Кифишин

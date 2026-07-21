@@ -5,11 +5,9 @@ categories:
   - artifacts
   - architecture
   - religion
-tags:
-  - babylon
-  - ziggurat
-  - bible
-  - tower
+tags: [babylon, ziggurat, bible, tower]
+description: "Масштабное сооружение из кирпича-сырца, упоминаемое в Библии как проект строительства башни до небес, ставший символом человеческой гордыни и..."
+
 ---
 
 # Вавилонская башня (артефакт)
@@ -35,3 +33,8 @@ tags:
 - [[concepts/civilization-of-gods|Цивилизация богов]] — «боги» как строители сооружений
 - [[concepts/megalithic-architecture|Мегалитическая архитектура]] — строительные технологии
 - [[events/padenie-ierihona|Падение Иерихона]] — параллельная тема разрушений
+
+## Связанные страницы
+
+- [[places/observatornaya-bashnja|Обзорная башня]]
+- [[places/effeleva-bashnya|Эйфелева башня]]

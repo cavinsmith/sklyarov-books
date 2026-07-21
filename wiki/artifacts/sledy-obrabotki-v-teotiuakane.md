@@ -1,8 +1,10 @@
 ---
+
 slug: sledy-obrabotki-v-teotiuakane
 title: "Следы обработки в Теотиуакане"
 categories: artifacts
 tags: []
+description: "Описание: Артефакты с характерными следами механической обработки, обнаруженные на территории Теотиуакана. Включают гранитные, базальтовые и..."
 ---
 
 # Следы обработки в Теотиуакане
@@ -26,3 +28,15 @@ tags: []
 - [[places/teotihuacan]] -- местонахождение
 - [[books/13-meksika-bez-krivyh-zerkal]] -- книга, описывающая артефакты
 - [[concepts/yazyk-kamnya]] -- метод анализа следов
+
+## Связанные страницы
+
+- [[concepts/machine-processing|Следы машинной обработки камня]]
+- [[concepts/sledy-mashinnoy-obrabotki-kamnya|Следы машинной обработки камня]]
+
+## См. также
+- [[concepts/potop|Потоп]]
+- [[events/velikii-potop|Великий Потоп]]
+- [[events/global-flood|Всемирный потоп]]
+- [[concepts/megalithic-architecture|Мегалитическая архитектура]]
+- [[concepts/civilization-of-gods|Цивилизация богов]]

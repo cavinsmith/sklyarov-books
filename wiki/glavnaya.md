@@ -1,3 +1,14 @@
+---
+
+
+slug: glavnaya
+title: "Главная страница"
+categories: [main]
+tags: [навигация, обзор]
+description: "Энциклопедия знаний, извлечённых из книг people/andrey-sklyarov|Андрея Склярова — российского исследователя альтернативной истории, создателя..."
+
+---
+
 # Wiki Андрея Склярова
 
 Энциклопедия знаний, извлечённых из книг [[people/andrey-sklyarov|Андрея Склярова]] — российского исследователя альтернативной истории, создателя Научно-исследовательского центра «Евразия».
@@ -11,7 +22,7 @@
 ### [[concepts/alternativnaya-istoriya]]
 Пересмотр общепринятых представлений о прошлом человечества.
 
-### [[concepts/paleokontakt]]
+### [[guides/paleokontakt]]
 Гипотеза о контакте древних людей с высокоразвитой цивилизацией.
 
 ### [[concepts/drevnie-bogi]]
@@ -66,16 +77,16 @@
 ## Справочные разделы
 
 - [[glossary/glossariy|Глоссарий терминов]]
-- [[people/indeks-personaliy|Индекс персоналий]]
+- [[people/indeks-personaliy|indeks-personaliy]]
 - [[places/indeks-mest|Индекс географических объектов]]
-- [[artifacts/indeks-artefaktov|Индекс артефактов]]
+- [[artifacts/indeks-artefaktov|indeks-artefaktov]]
 - [[events/khronologiya|Хронология событий]]
 
 ## Популярные темы
 
 ### Цивилизация богов и палеоконтакт
 - [[concepts/civilization-of-gods|Цивилизация богов]] — кто были «боги» древних цивилизаций?
-- [[concepts/paleokontakt|Палеоконтакт]] — гипотеза о контакте с высокоразвитой цивилизацией
+- [[guides/paleokontakt|Палеоконтакт]] — гипотеза о контакте с высокоразвитой цивилизацией
 - [[concepts/drevnie-bogi|Древние боги]] — реконструкция облика и природы «богов»
 - [[concepts/geneticheskiy-kod-chelovechestva|Генетический код]] — следы генетического вмешательства
 
@@ -99,7 +110,7 @@
 
 ### Египет и Мезоамерика
 - [[concepts/egyptian-pantheon|Египетский пантеон]] — божества Древнего Египта
-- [[concepts/olmeki|Ольмеки]] — древнейшая цивилизация Мезоамерики
+- [[places/olmeki|Ольмеки]] — древнейшая цивилизация Мезоамерики
 - [[concepts/kultura-naska|Культура Наски]] — гигантские рисунки на полях
 - [[concepts/high-tech-mesoamerica|Высокие технологии Мезоамерики]] — следы_advanced технологий
 
@@ -149,7 +160,7 @@
 ## Обзорные статьи
 
 - [[concepts/alternativnaya-istoriya|Альтернативная история]]
-- [[concepts/paleokontakt|Палеоконтакт]]
+- [[guides/paleokontakt|Палеоконтакт]]
 - [[concepts/geokhronologiya|Геохронология и её критика]]
 - [[concepts/potop|Великий Потоп]]
 - [[concepts/drevnie-bogi|Древние боги]]
@@ -174,3 +185,8 @@
 
 ### Издательства
 - [[publishers/veche|Издательство «Вече»]] — publisher книг Склярова
+
+## Связанные страницы
+
+- [[literature/indeks-istochnikov|Индекс источников и литературы]]
+- [[books/index-books|Индекс книг]]

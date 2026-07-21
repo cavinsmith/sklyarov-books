@@ -5,12 +5,9 @@ categories:
   - concepts
   - philosophy
   - energy
-tags:
-  - spirit
-  - soul
-  - dual-substance
-  - life-energy
-  - sklyarov
+tags: [spirit, soul, dual-substance, life-energy, sklyarov]
+description: "Жизненная энергия — концепция, разработанная people/andrey-sklyarov|Андреем Скляровым в книге «Основы физики духа». Представляет собой..."
+
 ---
 
 # Жизненная энергия

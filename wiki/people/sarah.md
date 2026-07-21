@@ -1,8 +1,10 @@
 ---
+
 slug: sarah
 title: "Сара"
 categories: [people]
-tags: []
+tags: [woman, bible, patriarch]
+description: "Сара — жена Авраама, мать Исаака, библейский персонаж."
 ---
 
 # Сара

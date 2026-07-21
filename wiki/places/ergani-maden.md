@@ -5,11 +5,9 @@ categories:
   - places
   - archaeology
   - anatolia
-tags:
-  - copper
-  - mining
-  - chalcolithic
-  - turkey
+tags: [copper, mining, chalcolithic, turkey]
+description: "Эргани-Маден (тур. Ergani Maden) — ancient mining site in southeastern Turkey, one of the largest sources of native copper and malachite in the..."
+
 ---
 
 # Эргани-Маден

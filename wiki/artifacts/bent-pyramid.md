@@ -1,8 +1,10 @@
 ---
+
 slug: bent-pyramid
 title: Наклонная (Искривлённая) пирамида
 categories: [artifacts]
 tags: [egypt, pyramid, dahshur, dynasty-iv]
+description: "Местоположение: places/dahshur|Дахшур, Египет"
 ---
 
 # Наклонная (Искривлённая) пирамида
@@ -41,5 +43,11 @@ tags: [egypt, pyramid, dahshur, dynasty-iv]
 
 - [[people/snofru]] — фараон, приписываемый строительству
 - [[places/dahshur]] — некрополь, расположение пирамиды
-- [[artifacts/red-pyramid]] — Красная пирамида Снофру
+- [[places/red-pyramid]] — Красная пирамида Снофру
 - [[books/12-tsivilizaciya-bogov-egipta]] — книга о цивилизации богов Египта
+
+## Связанные страницы
+
+- [[people/khufu|Хуфу (Хеопс)]]
+- [[places/red-pyramid|Красная пирамида]]
+- [[people/menkaure|Менкаур (Микерин)]]

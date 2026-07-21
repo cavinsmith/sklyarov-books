@@ -1,8 +1,10 @@
 ---
+
 slug: pottery
 title: "Керамика"
 categories: [concepts]
 tags: [керамика, гончарное дело, искусство, технологии]
+description: "Описание: Изделия из обожжённой глины. Древняя керамика свидетельствует о высокоразвитых технологиях concepts/bogi-vysokorazvitaya-civilizaciya|богов."
 ---
 
 # Керамика
@@ -31,5 +33,5 @@ tags: [керамика, гончарное дело, искусство, тех
 ## Связанные страницы
 
 - [[concepts/neolithic|Неолит]]
-- [[concepts/moche|Моче]]
+- [[places/moche|Моче]]
 - [[concepts/drevnie-tehnologii|Древние технологии]]

@@ -1,8 +1,10 @@
 ---
+
 slug: itro
 title: "Итро (Рагуэль)"
 categories: [people]
 tags: []
+description: "Статья о итро (рагуэль)"
 ---
 
 ## Итро (Рагуэль)
@@ -26,5 +28,5 @@ tags: []
 ### Связанные сущности
 
 - [[people/moisey|Моисей]] — зять
-- [[concepts/kovcheg-zaveta]]
+- [[artifacts/kovcheg-zaveta]]
 - [[books/25-kovcheg-zaveta]]

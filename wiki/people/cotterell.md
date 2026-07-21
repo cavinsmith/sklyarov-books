@@ -1,8 +1,10 @@
 ---
+
 slug: cotterell
 title: Коттерелл
 categories: [people]
 tags: [astronomy, researcher, dragon]
+description: "Астроном и исследователь, работы которого анализируются в контексте concepts/dracoonografiya|драконографии."
 ---
 
 # Коттерелл

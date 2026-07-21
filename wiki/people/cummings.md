@@ -1,8 +1,10 @@
 ---
+
 slug: cummings
 title: Каммингс
 categories: [people]
 tags: [researcher, dragonography]
+description: "Исследователь, работы которого анализируются в контексте изучения мифов о драконах."
 ---
 
 # Каммингс
@@ -23,3 +25,5 @@ tags: [researcher, dragonography]
 
 - [[concepts/dracoonografiya]]
 - [[books/11-dragonografiya]]
+
+- [[places/red-sea|Красное море]]

@@ -1,8 +1,10 @@
 ---
+
 slug: geer
 title: "Освальд Геер"
 categories: [people]
 tags: [палеоботаника, ботаника, эволюция]
+description: "Швейцарский палеоботаник, автор «теории перечеканки» (1859 г.)."
 ---
 
 # Освальд Геер
@@ -16,8 +18,17 @@ tags: [палеоботаника, ботаника, эволюция]
 ## Упоминание в работах
 
 - [[books/21-geneticheskiy-kod|Генетический код человечества]] — гл. «Другие теории эволюции»
+- [[books/16-sensacionnaya-istoriya|Сенсационная история]] — критический анализ эволюционных теорий
+
+## Связанные концепции
+
+- [[concepts/synteticheskaya-teoriya-evolyucii|Синтететическая теория эволюции]]
+- [[concepts/evolycionizm|Эволюционизм]]
+- [[concepts/teoriya-evolyucii|Теория эволюции]]
+- [[concepts/kreacionizm|Креационизм]]
 
 ## См. также
 
-- [[concepts/synteticheskaya-teoriya-evolyucii|Синтететическая теория эволюции]]
-- [[people/andrey-sklyarov]]
+- [[people/charles-darwin|Чарлз Дарвин]]
+- [[people/andrey-sklyarov|Андрей Скляров]]
+- [[people/balabanova-svetlana|Светлана Балабанова]]

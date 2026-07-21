@@ -1,14 +1,10 @@
 ---
+
 slug: hattusa
 title: "Хаттуса"
-categories:
-  - places
-  - archaeology
-  - turkey
-tags:
-  - hittite
-  - capital
-  - anatolia
+categories: [places]
+tags: [hittite, capital, anatolia, turkey, megaliths]
+description: "Хаттуса — древняя столица Хеттской империи в Центральной Анатолии (современная Турция)."
 ---
 
 # Хаттуса
@@ -21,7 +17,18 @@ tags:
 - Обнаружены следы дисковой пилы диаметром **180 см** на базальтовом блоке
 - Мегалитическая кладка с признаками высокотехнологичной обработки
 
+## Упоминание в работах
+
+- [[books/27-sozdanie-tsivilizaciy|Создание древних цивилизаций]] — Хаттуса как пример высоких технологий хеттов
+
+## Связанные концепции
+
+- [[concepts/megalithic-architecture|Мегалитическая архитектура]]
+- [[concepts/diskovye-pily|Дисковые пилы]]
+- [[concepts/sledy-mashinnoy-obrabotki-kamnya|Следы машинной обработки камня]]
+
 ## См. также
 
 - [[places/aladza-huyuk|Аладжа-хююк]]
-- [[books/27-sozdanie-tsivilizaciy|Создание древних цивилизаций]]
+- [[places/anatoliya|Анатолия]]
+- [[concepts/hittites|Хетты]]

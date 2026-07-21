@@ -1,8 +1,10 @@
 ---
+
 slug: jupiter
 title: "Юпитер"
 categories: [concepts]
 tags: []
+description: "Другие названия: Юпитер-Зевс, Jove"
 ---
 
 # Юпитер

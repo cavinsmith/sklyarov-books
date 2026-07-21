@@ -5,11 +5,9 @@ categories:
   - places
   - archaeology
   - egypt
-tags:
-  - valley-of-kings
-  - egypt
-  - pharaohs
-  - tombs
+tags: [valley-of-kings, egypt, pharaohs, tombs]
+description: "Долина Царей (араб. وادي الملوك, Вади-эль-Мулюк) — ущелье на западном берегу Нила в places/egipet-drevniy|Египте, где расположены гробницы фараонов..."
+
 ---
 
 # Долина Царей

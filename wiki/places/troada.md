@@ -5,10 +5,9 @@ categories:
   - places
   - geography
   - turkey
-tags:
-  - troy
-  - anatolia
-  - bronze-age
+tags: [troy, anatolia, bronze-age]
+description: "Трояда (тур. Troya) — исторический регион на северо-западе Турции, связанный с древней Троей (Илионом). Расположен на территории провинции Чанаккале,..."
+
 ---
 
 # Трояда

@@ -1,8 +1,12 @@
 ---
+
+
 slug: shultz
 title: "Шульц"
 categories: [people]
 tags: [geology]
+description: "Учёный, чьи работы упоминаются people/andrey-sklyarov|Андреем Скляровым в контексте теории проскальзывания земной коры."
+
 ---
 
 # Шульц

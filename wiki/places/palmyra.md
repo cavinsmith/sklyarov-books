@@ -1,8 +1,10 @@
 ---
+
 slug: palmyra
 title: "Пальмира"
 categories: [places]
 tags: []
+description: "Другие названия: Тадмор (Таммур), ал-Мадинат"
 ---
 
 # Пальмира
@@ -90,3 +92,10 @@ tags: []
 - [[concepts/baal-worship]] — бог, которому был посвящён главный храм Пальмиры
 - [[books/19-zemlya-vaala]] — книга, рассматривающая Пальмиру как сохранение культа Баала
 - [[concepts/megalithic-architecture]] — мегалитические элементы в постройках Пальмиры
+
+- [[concepts/drevnie-tehnologii|Древние технологии]]
+- [[people/zenobia|Зенобия]]
+- [[places/palmira|Пальмира]]
+- [[concepts/drevnie-tehnologii|Древние технологии]]
+- [[people/zenobia|Зенобия]]
+- [[places/palmira|Пальмира]]

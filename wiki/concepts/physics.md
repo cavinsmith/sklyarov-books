@@ -1,8 +1,10 @@
 ---
+
 slug: physics
 title: "Физика"
 categories: [concepts]
 tags: [наука, законы, энергия, технологии]
+description: "Описание: Наука о строении материи и энергии. Физические законы лежат в основе concepts/drevnie-tehnologii|древних технологий и..."
 ---
 
 # Физика

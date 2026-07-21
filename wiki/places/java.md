@@ -1,8 +1,10 @@
 ---
+
 slug: java
 title: "Ява"
 categories: [places]
 tags: []
+description: "Остров в составе Индонезии, один из крупнейших в мире, известный археологическими находками иartifacts/homo-erectus-java|останками Homo erectus."
 ---
 
 # Ява

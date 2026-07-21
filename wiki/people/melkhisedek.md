@@ -1,8 +1,10 @@
 ---
+
 slug: melkhisedek
 title: "Мельхиседек"
 categories: [people]
 tags: [bible, jerusalem]
+description: "«Царь Салимский», «священник Бога Всевышнего», связанный с places/gora-moriya|горой Мория и places/ierusalim|Иерусалимом."
 ---
 
 # Мельхиседек

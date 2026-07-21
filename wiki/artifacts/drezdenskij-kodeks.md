@@ -1,8 +1,10 @@
 ---
+
 slug: drezdenskij-kodeks
 title: Дрезденский кодекс
 categories: [artifacts]
 tags: [maya, codex, hieroglyphs, mathematics, astronomy]
+description: "Хранение: Саксонская государственная и университетская библиотека, Дрезден, Германия"
 ---
 
 # Дрезденский кодекс
@@ -36,3 +38,9 @@ tags: [maya, codex, hieroglyphs, mathematics, astronomy]
 - [[books/13-meksika-bez-krivyh-zerkal]]
 - [[concepts/additivno-pozicionnaya-sistema]]
 - [[concepts/dlinnyj-schet]]
+
+## Связанные страницы
+
+- [[concepts/kalendar-52-goda|Календарь 52 года]]
+- [[places/tikal|Тикаль]]
+- [[places/jaina|Остров Хайна]]

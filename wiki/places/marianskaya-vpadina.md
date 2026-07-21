@@ -1,8 +1,10 @@
 ---
+
 slug: marianskaya-vpadina
 title: "Марианская впадина"
 categories: [places]
 tags: []
+description: "Описание: Самая глубоководная впадина Мирового океана (11 022 м), расположенная в западной части places/phippine-sea|Тихого океана, вблизи от..."
 ---
 
 # Марианская впадина
@@ -23,3 +25,7 @@ tags: []
 - [[places/phippine-sea]] -- район падения метеорита
 - [[places/filippinskaya-plita]] -- маленькая плита как следствие удара
 - [[events/vsemirnyi-potop]] -- результат падения метеорита в этом районе
+
+## См. также
+- [[concepts/potop|Потоп]]
+- [[events/velikii-potop|Великий Потоп]]

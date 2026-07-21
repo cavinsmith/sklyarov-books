@@ -1,8 +1,10 @@
 ---
+
 slug: gods-and-pyramids
 title: Боги и пирамиды
 categories: [concepts]
 tags: [gods, pyramids, ancient, egypt, energy, technology]
+description: "Связь между «богами» (высокоразвитыми существами) и строительством пирамид. Пирамиды могли быть построены «богами» для различных целей —"
 ---
 
 # Боги и пирамиды
@@ -39,11 +41,13 @@ tags: [gods, pyramids, ancient, egypt, energy, technology]
 - [[concepts/pyramid-energy]] — Пирамидальная энергетика
 - [[concepts/pyramids]] — Пирамиды
 - [[concepts/orion-belt]] — Пояс Ориона, ориентир для пирамид
-- [[concepts/paleokontakt]] — Палеоконтакт
+- [[guides/paleokontakt]] — Палеоконтакт
 
 ---
 
 ## См. также
+
+- [[concepts/index-concepts|Индекс концепций]]
 
 - [[artifacts/great-pyramid]] — Великая пирамида Гизы
 - [[places/giza-plateau]] — Плато Гизы

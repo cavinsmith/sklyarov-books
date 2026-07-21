@@ -1,8 +1,10 @@
 ---
+
 slug: hebron
 title: "Хеврон"
 categories: [places]
 tags: []
+description: "Другие названия: аль-Халиль (الخليل)"
 ---
 
 # Хеврон

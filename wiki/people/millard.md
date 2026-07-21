@@ -1,8 +1,10 @@
 ---
+
 slug: millard
 title: "Алла Миллард"
 categories: [people]
 tags: [антропология, археология]
+description: "Антрополог, специалист в области палеоантропологии."
 ---
 
 # Алла Миллард
@@ -21,3 +23,12 @@ tags: [антропология, археология]
 
 - [[people/andrey-sklyarov]]
 - [[concepts/preryvistoe-ravnovesie|Прерывистое равновесие]]
+- [[concepts/paleoanthropology|Палеоантропология]]
+- [[concepts/human-evolution|Эволюция человека]]
+- [[people/richard-leakey|Ричард Лики]]
+- [[people/jeffrey-schwartz|Джеффри Шварц]]
+
+- [[concepts/alternativnaya-istoriya|Альтернативная история]]
+- [[guides/paleokontakt|Путеводитель: Палеоконтакт]]
+- [[events/troyanskaya-voyna|Троянская война]]
+- [[artifacts/kamni-iki|Камни Ики]]

@@ -1,8 +1,10 @@
 ---
+
 slug: zelko
 title: "Золтан Зелко"
 categories: [people]
 tags: [nazca, map]
+description: "Золтан Зелко — исследователь, предложивший теорию карты геоглифов Наски."
 ---
 
 # Золтан Зелко
@@ -17,7 +19,15 @@ tags: [nazca, map]
 
 Упоминается в [[books/23-naska|книге «Наска: гигантские рисунки на полях»]] как один из исследователей, предложивших альтернативные теории назначения геоглифов.
 
+## Связанные концепции
+
+- [[concepts/geoglify|Геоглифы]]
+- [[concepts/moreplavanie|Мореплавание]]
+- [[concepts/civilization-of-gods|Цивилизация богов]]
+
 ## См. также
 
 - [[places/plato-naska|Плато Наска]]
-- [[concepts/geoglify|Геоглифы]]
+- [[books/23-naska|Наска: гигантские рисунки на полях]]
+- [[people/masaki-kimura|Масаки Кимура]]
+- [[places/indiya|Индия]]

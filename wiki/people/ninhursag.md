@@ -1,8 +1,10 @@
 ---
+
 slug: ninhursag
-title: Нинхурсаг
+title: "Нинхурсаг"
 categories: [people]
 tags: [sumer, goddess, fertility, mythology]
+description: "Шумерская богиня плодородия и рождения. Одна из древнейших богинь месопотамского пантеона. Мать нескольких шумерских богов."
 ---
 
 # Нинхурсаг

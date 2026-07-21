@@ -1,8 +1,10 @@
 ---
+
 slug: tula
 title: Тула
 categories: [places]
 tags: [mexico, toltec, ancient-city, atlantes]
+description: "Страна: Мексика"
 ---
 
 # Тула
@@ -31,3 +33,9 @@ tags: [mexico, toltec, ancient-city, atlantes]
 - [[artifacts/statui-atlantov]] — Статуи атлантов
 - [[places/mexico-city]] — Мехико
 - [[books/13-meksika-bez-krivyh-zerkal]]
+
+## Связанные страницы
+
+- [[artifacts/obsidian-monkey|Обсидиановая обезьяна]]
+- [[artifacts/spiralnaya-trubka-iz-nefrita|Спиральная трубка из нефрита]]
+- [[artifacts/manzheta-iz-obsidiana|Манжета из обсидиана]]

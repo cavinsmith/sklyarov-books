@@ -4,10 +4,9 @@ title: "Галенит"
 categories:
   - artifacts
   - minerals
-tags:
-  - lead-mineral
-  - galena
-  - metallurgy
+tags: [lead-mineral, galena, metallurgy]
+description: "Галенит (PbS) — сульфид свинца, основная руда этого металла в древности."
+
 ---
 
 # Галенит

@@ -1,8 +1,10 @@
 ---
+
 slug: puteshestviya-gullivera
 title: "Путешествия Гулливера"
 categories: artifacts
 tags: []
+description: "Описание: Роман Джонатана Свифта «Путешествия Гулливера» (1726) содержит описания фантастических путешествий, которые, по мнению ряда исследователей,..."
 ---
 
 # Путешествия Гулливера
@@ -35,5 +37,10 @@ tags: []
 ## См. также
 
 - [[people/erih-fon-daniken|Эрих фон Дэникен]]
-- [[concepts/paleokontakt|Палеоконтакт]]
+- [[people/swift|Джонатан Свифт]]
+- [[people/andrey-sklyarov|Андрей Скляров]]
+- [[guides/paleokontakt|Палеоконтакт]]
+- [[concepts/civilization-of-gods]] — цивилизация богов
+- [[concepts/drevnie-bogi]] — древние боги
 - [[books/18-drevnie-bogi|Древние боги — кто они?]]
+- [[books/24-opasnoe-nasledie|Опасное наследие]]

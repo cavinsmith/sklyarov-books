@@ -1,8 +1,10 @@
 ---
+
 slug: gematit
 title: "Гематит"
 categories: artifacts
 tags: [минерал, железная руда, флюс]
+description: "Описание: Минерал, важная руда железа, использовавшаяся как флюс в древней металлургии."
 ---
 
 # Гематит
@@ -38,3 +40,10 @@ tags: [минерал, железная руда, флюс]
 - [[artifacts/magnetit|Магнетит]]
 - [[concepts/metalloobrabotka|Древняя металлургия]]
 - [[places/uraljskij-razlom|Уральский разлом]] — крупнейшие месторождения железных руд
+
+## См. также
+- [[concepts/drevnie-bogi|Древние боги]]
+- [[concepts/civilization-of-gods|Цивилизация богов]]
+- [[concepts/alternativnaya-istoriya|Альтернативная история]]
+- [[guides/paleokontakt|Путеводитель: Палеоконтакт]]
+- [[concepts/utrachennye-tekhnologii|Утраченные технологии]]

@@ -1,8 +1,12 @@
 ---
+
+
 slug: veseleil
 title: "Веселеил"
 categories: [people]
 tags: []
+description: "Библейский мастер, построивший Ковчег Завета по указанию Бога. Упоминается people/andrey-sklyarov|Андреем Скляровым в контексте исследования Ковчега."
+
 ---
 
 # Веселеил
@@ -33,5 +37,5 @@ tags: []
 
 ## Связанные понятия
 
-- [[concepts/kovcheg-zaveta]] — Ковчег Завета
+- [[artifacts/kovcheg-zaveta]] — Ковчег Завета
 - [[concepts/cherubim]] — Херувимы

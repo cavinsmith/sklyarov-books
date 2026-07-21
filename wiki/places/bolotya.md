@@ -1,8 +1,10 @@
 ---
+
 slug: bolotya
 title: Болота
 categories: [places]
 tags: [swamp, peat, ancient, flood]
+description: "Болотистые территории, упоминаемые в контексте археологических свидетельств concepts/potop|Всемирного Потопа."
 ---
 
 # Болота

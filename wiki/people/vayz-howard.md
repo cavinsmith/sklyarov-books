@@ -1,8 +1,10 @@
 ---
+
 slug: vayz-howard
 title: "Вайз Говард (Howard Vyse)"
 categories: [people]
 tags: [egypt, giza, pyramid]
+description: "Описание: Британский офицер и исследователь, который в 1837 году якобы обнаружил надписи с именем фараона Хеопса в разгрузочных камерах Великой..."
 ---
 
 # Вайз Говард (Howard Vyse)

@@ -1,8 +1,10 @@
 ---
+
 slug: uilyam-bukland
 title: "Уильям Букланд (William Buckland)"
 categories: [people]
 tags: []
+description: "Описание: Английский геолог и теолог, автор трактата «Reliquiae Diluvianae» (Остатки Потопа). Один из первых учёных, пытавшихся найти научные..."
 ---
 
 # Уильям Букланд (William Buckland)

@@ -5,10 +5,9 @@ categories:
   - places
   - nazca
   - peru
-tags:
-  - nazca
-  - observation-tower
-  - tourism
+tags: [nazca, observation-tower, tourism]
+description: "Обзорная башня — сооружение, построенное в 1976 году для обозрения геоглифов places/plato-naska|плато Наска."
+
 ---
 
 # Обзорная башня

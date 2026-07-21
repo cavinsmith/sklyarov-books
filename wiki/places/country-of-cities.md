@@ -1,8 +1,10 @@
 ---
+
 slug: country-of-cities
 title: "Страна городов"
 categories: [places]
 tags: [kazakhstan, bronze-age, urban, archaeology]
+description: "Страна городов — регион урбанизированных поселений бронзового века в Казахстане."
 ---
 
 # Страна городов

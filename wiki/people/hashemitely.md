@@ -1,8 +1,10 @@
 ---
+
 slug: hashemitely
 title: "Хашемиты"
 categories: [people]
 tags: [династия, Иордания, ближний восток]
+description: "Хашемиты — арабская династия, правящая в Иордании, Ираке и ранее в Сирии."
 ---
 
 # Хашемиты
@@ -26,6 +28,9 @@ tags: [династия, Иордания, ближний восток]
 
 ## См. также
 
-- [[israel]]
-- [[palestina]]
-- [[blizhniy-vostok]]
+- [[places/israel]]
+- [[places/palestina]]
+- [[guides/blizhniy-vostok]]
+- [[concepts/III-dynasty]]
+- [[places/mertvoe-more]]
+- [[people/djedefra]]

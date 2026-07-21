@@ -1,8 +1,10 @@
 ---
+
 slug: kern-pitri-n7
 title: "Керн Питри N.7"
-categories: artifacts
-tags: []
+categories: [artifacts]
+tags: [artifact, granite, drilling]
+description: "Описание: Гранитный керн (образец), обнаруженный Флиндерсом Питри при раскопках в Асуане. Содержит чёткие спиральные следы сверления,..."
 ---
 
 # Керн Питри N.7
@@ -23,7 +25,7 @@ tags: []
 - Предположительно использовался ультразвуковой бур (20 кГц) -- гипотеза Данна
 
 **Связанные сущности:**
-- [[people/christopher-dunn]] -- проводивший измерения
-- [[concepts/trubchatoe-sverlenie]] -- технология обработки
-- [[artifacts/nezavershennyj-obelisk]] -- другой объект с доказательствами сверления
-- [[books/12-tsivilizaciya-bogov-egipta]] -- книга, анализирующая артефакт
+- [[people/christopher-dunn|Кристофер Данн]] — проводивший измерения
+- [[concepts/trubchatoe-sverlenie|Трубчатое сверление]] — технология обработки
+- [[artifacts/nezavershennyj-obelisk|Незавершённый обелиск]] — другой объект с доказательствами сверления
+- [[books/12-tsivilizaciya-bogov-egipta|Цивилизация богов Египта]] — книга, анализирующая артефакт

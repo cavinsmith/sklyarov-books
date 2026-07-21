@@ -1,8 +1,10 @@
 ---
+
 slug: disk-saw
 title: Дисковая пила
 categories: [concepts]
 tags: [technology, stone-cutting, ancient, tool]
+description: "Концепция использования дисковых пил для обработки камня в древности. Следы дисковых пил обнаружены на многих артефактах."
 ---
 
 # Дисковая пила
@@ -21,6 +23,8 @@ tags: [technology, stone-cutting, ancient, tool]
 ---
 
 ## См. также
+
+- [[concepts/index-concepts|Индекс концепций]]
 
 - [[artifacts/disk-saw-traces]] - Следы дисковых пил
 - [[concepts/machine-processing]] - Машинная обработка

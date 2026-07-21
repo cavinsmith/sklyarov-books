@@ -1,8 +1,10 @@
 ---
+
 slug: kudryavtsev
 title: "Н. Кудрявцев"
 categories: [people]
 tags: [geology, petroleum, abiogenic]
+description: "Роль: Советский геолог, сторонник абиогенного происхождения нефти и критик официальной геологии."
 ---
 
 # Н. Кудрявцев

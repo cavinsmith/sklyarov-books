@@ -1,8 +1,10 @@
 ---
+
 slug: tatarstan
 title: "Татарстан"
 categories: [places]
 tags: [russia, volga, bulgaria, archeology]
+description: "Официальное название: Республика Татарстан"
 ---
 
 # Татарстан

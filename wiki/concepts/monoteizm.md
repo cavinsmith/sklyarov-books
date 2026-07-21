@@ -1,8 +1,12 @@
 ---
+
+
 slug: monoteizm
 title: "Монотеизм"
 categories: [concepts]
 tags: []
+description: "Религиозная система, основанная на вере в единого Бога, которая заменила политеистические религии «богов». В работах people/andrey-sklyarov|Андрея..."
+
 ---
 
 # Монотеизм
@@ -35,7 +39,7 @@ tags: []
 - «Боги» стали объектом поклонения вместо изучения
 - Технические описания стали интерпретироваться как чудеса
 - Утрата контекста привела к непониманию древних сооружений
-- [[concepts/paleokontakt|Палеоконтакт]] был замаскирован религией
+- [[guides/paleokontakt|Палеоконтакт]] был замаскирован религией
 
 ## Роль монотеизма в истории
 
@@ -46,7 +50,13 @@ tags: []
 ## См. также
 
 - [[concepts/bogi-skarlyarova]]
-- [[concepts/paleokontakt]]
+- [[guides/paleokontakt]]
 - [[concepts/drevnie-bogi]]
 - [[books/25-kovcheg-zaveta|Ковчег Завета]]
 - [[books/24-opasnoe-nasledie|Опасное наследие]]
+
+- [[concepts/civilization-of-gods|Цивилизация богов]]
+- [[concepts/alternativnaya-istoriya|Альтернативная история]]
+- [[artifacts/kamni-iki|Камни Ики]]
+- [[concepts/baal-worship|Поклонение Баалу]]
+- [[concepts/yahweh-vs-baal|Конфликт Яхве и Баала]]

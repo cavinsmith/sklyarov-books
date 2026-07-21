@@ -1,8 +1,10 @@
 ---
+
 slug: orion-belt
 title: "Пояс Ориона"
 categories: [concepts]
 tags: []
+description: "Другие названия: Три Мага, Аль-Натак"
 ---
 
 # Пояс Ориона

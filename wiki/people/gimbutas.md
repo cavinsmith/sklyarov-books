@@ -1,8 +1,10 @@
 ---
+
 slug: gimbutas
 title: Мария Гимбутас
 categories: [people]
 tags: [archaeology, europe, kurgan, migration]
+description: "Литовско-американский археолог, автор теории о миграционных волнах курганной культуры в «Старую Европу»."
 ---
 
 # Мария Гимбутас (Marija Gimbutas)

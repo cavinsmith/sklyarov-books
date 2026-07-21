@@ -5,10 +5,9 @@ categories:
   - places
   - geography
   - russia
-tags:
-  - geology
-  - superdeep
-  - borehole
+tags: [geology, superdeep, borehole]
+description: "Кольская сверхглубокая скважина — самая глубокая скважина в мире (12 262 м), расположена в Мурманской области, Россия. Пробурена в 1970–1992 годах..."
+
 ---
 
 # Кольская сверхглубокая скважина

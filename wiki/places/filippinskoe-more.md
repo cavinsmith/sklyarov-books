@@ -1,8 +1,10 @@
 ---
+
 slug: filippinskoe-more
 title: "Филиппинское море"
 categories: [places]
 tags: [pacific, ocean, mariana-trench]
+description: "Расположение: Западная часть Тихого океана, между Филиппинами, Японией и Марианскими островами."
 ---
 
 # Филиппинское море
@@ -46,3 +48,10 @@ tags: [pacific, ocean, mariana-trench]
 - [[places/ollantaytambo]] -- разрушения Потопом
 - [[places/giza-piramidy]] -- построены после Потопа
 - [[places/teotihuacan]] -- допотопное сооружение
+
+## См. также
+- [[concepts/potop|Потоп]]
+- [[events/velikii-potop|Великий Потоп]]
+- [[events/global-flood|Всемирный потоп]]
+- [[concepts/alternativnaya-istoriya|Альтернативная история]]
+- [[guides/paleokontakt|Путеводитель: Палеоконтакт]]

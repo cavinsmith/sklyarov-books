@@ -1,8 +1,12 @@
 ---
+
+
 slug: many-worlds
 title: "Теория многих миров"
 categories: [concepts]
 tags: [физика, квантовая механика, философия]
+description: "Интерпретация квантовой механики, предполагающая существование параллельных вселенных. В работах people/andrey-sklyarov|Андрея Склярова теория многих..."
+
 ---
 
 # Теория многих миров
@@ -17,6 +21,8 @@ tags: [физика, квантовая механика, философия]
 - Связь с [[concepts/dukhovno-nematerialnyy-mir|духовно-нематериальным миром]]
 
 ## См. также
+
+- [[concepts/index-concepts|Индекс концепций]]
 
 - [[concepts/kvantovaya-teoriya]] — квантовая теория
 - [[concepts/dukhovno-nematerialnyy-mir]] — духовно-нематериальный мир

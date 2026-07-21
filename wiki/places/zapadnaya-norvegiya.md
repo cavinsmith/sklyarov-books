@@ -5,10 +5,9 @@ categories:
   - places
   - geography
   - norway
-tags:
-  - geology
-  - overthrust
-  - caledonides
+tags: [geology, overthrust, caledonides]
+description: "Западная Норвегия — область на западе Норвегии, важная для изучения геологических процессов, особенно тектонических нарушений (надвигов). Здесь..."
+
 ---
 
 # Западная Норвегия

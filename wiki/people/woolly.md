@@ -1,8 +1,10 @@
 ---
+
 slug: woolly
 title: Вулли
 categories: [people]
 tags: [archaeology, ur, mesopotamia]
+description: "Английский археолог, руководивший раскопками древнего города Ур в Месопотамии."
 ---
 
 # Леонард Вулли (Leonard Woolley)

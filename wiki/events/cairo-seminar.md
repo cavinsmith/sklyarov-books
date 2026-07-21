@@ -1,13 +1,17 @@
 ---
+
+
 slug: cairo-seminar
 title: Каирский семинар
 categories: [events]
 tags: [egypt, seminar, lecture, alternative-history, sklyarov]
+description: "Мероприятие, организованное people/andrey-sklyarov|Андреем Скляровым в places/egipet-drevniy|Египте. Включало лекции и презентации по альтернативной..."
+
 ---
 
 # Каирский семинар
 
-Мероприятие, организованное [[people/andrey-sklyarov|Андреем Скляровым]] в [[places/egipet-drevniy|Египте]]. Включало лекции и презентации по альтернативной истории Древнего Египта, технологии обработки камня и вопросам [[concepts/paleokontakt|палеоконтакта]].
+Мероприятие, организованное [[people/andrey-sklyarov|Андреем Скляровым]] в [[places/egipet-drevniy|Египте]]. Включало лекции и презентации по альтернативной истории Древнего Египта, технологии обработки камня и вопросам [[guides/paleokontakt|палеоконтакта]].
 
 ---
 

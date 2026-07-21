@@ -1,8 +1,10 @@
 ---
+
 slug: kultura-naska
 title: "Культура Наска"
 categories: [concepts]
-tags: []
+tags: [nazca, peru, civilization]
+description: "Культура Наска — древняя цивилизация Южной Америки."
 ---
 
 # Культура Наска

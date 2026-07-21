@@ -1,8 +1,10 @@
 ---
+
 slug: noosfera
 title: "Ноосфера"
 categories: [concepts]
 tags: []
+description: "Концепция оболочки разума, предложенная Вернадским и Тейяром де Шарденом."
 ---
 
 # Ноосфера
@@ -44,3 +46,10 @@ tags: []
 - [[concepts/spiritual-world]] — альтернативная авторская концепция
 - [[people/vernadsky]] — один из авторов концепции
 - [[people/teyyar-de-sharden]] — другой автор концепции
+
+## См. также
+- [[concepts/potop|Потоп]]
+- [[events/velikii-potop|Великий Потоп]]
+- [[events/global-flood|Всемирный потоп]]
+- [[concepts/drevnie-bogi|Древние боги]]
+- [[concepts/alternativnaya-istoriya|Альтернативная история]]

@@ -1,8 +1,10 @@
 ---
+
 slug: halkopirit
 title: "Халькопирит"
 categories: artifacts
 tags: []
+description: "Основная медная руда, сульфид меди и железа, добывавшаяся и перерабатывавшаяся человечеством с эпохи concepts/mednyy-vek|медного века."
 ---
 
 # Халькопирит

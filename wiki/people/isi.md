@@ -1,8 +1,10 @@
 ---
+
 slug: isi
 title: "Иси (Исида)"
 categories: [people]
 tags: []
+description: "Египетская богиня, жена Осириса, мать Гора."
 ---
 
 # Иси (Исида)

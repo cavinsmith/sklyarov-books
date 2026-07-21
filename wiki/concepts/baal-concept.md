@@ -1,8 +1,10 @@
 ---
+
 slug: baal-concept
 title: "Баал"
 categories: [concepts]
 tags: []
+description: "Другие названия: Бaal, «Господин», «Владыка»"
 ---
 
 # Баал

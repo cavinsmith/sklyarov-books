@@ -2,32 +2,20 @@
 slug: trepanaciya-cherepov
 title: "Трепанация черепов"
 categories: [concepts]
-tags: [медицина, хирургия, череп, артефакты]
+tags: []
+description: "Трепанация черепов"
 ---
 
 # Трепанация черепов
 
-**Описание:** Хирургическая операция по вскрытию черепа. Древние трепанации свидетельствуют о высокоразвитых медицинских знаниях [[concepts/bogi-vysokorazvitaya-civilizaciya|богов]].
+Смотрите [[artifacts/trepanaciya-cherepov]].
 
-## Древние трепанации
+## См. также
 
-- Найдены во многих культурах по всему миру
-- Пациенты выживали — следы заживления на костях
-- Использование неизвестных инструментов
-- [[concepts/drevnie-tehnologii|Древние технологии]] хирургии
-
-## Интерпретация Склярова
-
-- Трепанации — часть медицинских знаний «богов»
-- Высокий уровень хирургии не соответствует «примитивной» эпохе
-- Связь с [[concepts/bogi-vysokorazvitaya-civilizaciya|технологиями богов]]
-
-## Книги Склярова
-
-- [[books/24-opasnoe-nasledie|Опасное наследие богов]]
-- [[books/21-geneticheskiy-kod|Генетический код человечества]]
-
-## Связанные страницы
-
-- [[concepts/drevnie-tehnologii|Древние технологии]]
-- [[concepts/bogi-vysokorazvitaya-civilizaciya|Боги — высокоразвитая цивилизация]]
+- [[concepts/deformaciya-cherepov|Деформация черепов]]
+- [[artifacts/red-pyramid]]
+- [[places/megaliticheskie-sooruzheniya]]
+- [[places/kompyuter-drevnego-kitaya]]
+- [[places/inca]]
+- [[places/pyramids]]
+- [[artifacts/deformaciya-cherepov|Деформация черепов]]

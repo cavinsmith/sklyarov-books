@@ -2,7 +2,8 @@
 slug: bible
 title: "Библия"
 categories: [concepts]
-tags: [bible, religion, scripture, history]
+tags: [религия, писание, история]
+description: "Библия — священный текст иудаизма и христианства, содержащий зашифрованные сведения о реальных исторических событиях по версии Склярова."
 ---
 
 # Библия
@@ -30,6 +31,7 @@ tags: [bible, religion, scripture, history]
 ## См. также
 
 - [[concepts/drevnie-bogi|Древние боги]]
-- [[concepts/kovcheg-zaveta|Ковчег Завета]]
-- [[concepts/potop|Великий Потоп]]
-- [[concepts/yahweh-vs-baal|Конфликт Яхве и Баала]]
+- [[artifacts/kovcheg-zaveta|Ковчег Завета]]
+- [[concepts/vsemirnyj-potop|Великий Потоп]]
+- [[concepts/konflikt-yahve-i-baala|Конфликт Яхве и Баала]]
+- [[people/andrey-sklyarov|Андрей Скляров]]

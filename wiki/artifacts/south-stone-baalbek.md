@@ -1,8 +1,10 @@
 ---
+
 slug: south-stone-baalbek
 title: Южный камень Баальбека
 categories: [artifacts]
 tags: [baalbek, megalith, lebanon, ancient-technology]
+description: "Место находки: Баальбек, Ливан"
 ---
 
 # Южный камень Баальбека
@@ -33,3 +35,9 @@ tags: [baalbek, megalith, lebanon, ancient-technology]
 - [[artifacts/baalbek-trilithon]] — Трилитон Баальбека
 - [[artifacts/trilithons-baalbek]] — Трилитоны Баальбека
 - [[books/19-zemlya-vaala]]
+
+## Связанные страницы
+
+- [[places/alcad-hyuyuk|Аладжахююк]]
+- [[places/bybl|Библ]]
+- [[concepts/piezoelectric-effect|Пьезоэлектрический эффект]]

@@ -1,8 +1,10 @@
 ---
+
 slug: shunkov
 title: Михаил Шунков
 categories: [people]
 tags: [anthropologist, archaeology, ussr]
+description: "Годы жизни: 1905—1980"
 ---
 
 # Михаил Шунков
@@ -26,3 +28,6 @@ tags: [anthropologist, archaeology, ussr]
 ## См. также
 
 - [[books/21-geneticheskiy-kod]]
+
+- [[concepts/geneticheskiy-kod-chelovechestva|Генетический код человечества]]
+- [[people/maya-people|Майя]]

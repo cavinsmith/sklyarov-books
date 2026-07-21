@@ -1,8 +1,10 @@
 ---
+
 slug: veilis-discovery
 title: "Открытие разгрузочных камер Говардом Вайсом"
 categories: [events]
 tags: []
+description: "Полное название: Открытие укладочных (разгрузочных) камер в artifacts/great-pyramid|Великой пирамиде Гизы"
 ---
 
 # Открытие разгрузочных камер Говардом Вайсом
@@ -61,3 +63,8 @@ tags: []
 - [[people/manejon]] — Хуфу, чьё имя было обнаружено на блоках
 - [[people/flinders-petri]] — Флиндерс Петри, продолживший исследования пирамиды
 - [[places/giza-plateau]] — Плато Гиза, расположение пирамиды
+- [[concepts/utrachennye-tekhnologii]] — утраченные технологии
+- [[concepts/katastrofizm]] — катастрофизм
+- [[concepts/dvuhcivizacionnaya-gipoteza]] — двухцивилизационная гипотеза
+- [[guides/paleokontakt]] — палеоконтакт
+- [[books/24-opasnoe-nasledie]] — «Опасное наследие предков»

@@ -1,8 +1,10 @@
 ---
+
 slug: abusir
 title: "Абусир"
 categories: [places]
 tags: []
+description: "Полное название: Некрополь Абусир (араб. أبو صير)"
 ---
 
 # Абусир

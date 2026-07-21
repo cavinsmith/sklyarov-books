@@ -5,11 +5,9 @@ categories:
   - artifacts
   - epigraphy
   - scotland
-tags:
-  - ogham
-  - runes
-  - stone
-  - scotland
+tags: [ogham, runes, stone, scotland]
+description: "Другие названия: Доска Скота, Scott's Stone"
+
 ---
 
 # Плита Скота
@@ -47,8 +45,14 @@ tags:
 
 - [[artifacts/nadpisi-vaiza|Надписи Ваиза]]
 - [[artifacts/uriy|Урий]]
-- [[concepts/ural-spirals]] — спиральные мотивы как универсальный символ
-- [[concepts/paleokontakt]] — возможные трансконтинентальные контакты
+- [[artifacts/ural-spirals]] — спиральные мотивы как универсальный символ
+- [[guides/paleokontakt]] — возможные трансконтинентальные контакты
 - [[concepts/edinaya-pismennost|Единая письменность]]
 - [[books/24-opasnoe-nasledie]] — книга с упоминанием плиты
 - [[books/06-vavilonskaya-bashnya|Вавилонская башня — рекордсмен долгостроя]]
+
+## Связанные страницы
+
+- [[places/plita-skota|Плита Скота]]
+- [[places/kolossochnaya-plita|Колоссальная плита]]
+- [[places/filippinskaya-plita|Филиппинская плита]]

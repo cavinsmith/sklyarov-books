@@ -1,8 +1,10 @@
 ---
+
 slug: ugarit-tablets
 title: "Угаритские таблички"
 categories: artifacts
 tags: []
+description: "Место обнаружения: places/ugarit|Угарит (Рас-Шамра), Сирия"
 ---
 
 # Угаритские таблички

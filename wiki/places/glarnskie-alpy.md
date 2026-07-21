@@ -5,10 +5,9 @@ categories:
   - places
   - geography
   - switzerland
-tags:
-  - geology
-  - overthrust
-  - alps
+tags: [geology, overthrust, alps]
+description: "Гларнские Альпы (нем. Glarner Alpen) — горный хребет в Швейцарии, важный объект для изучения геологии. Здесь расположен знаменитый «гларнский..."
+
 ---
 
 # Гларнские Альпы

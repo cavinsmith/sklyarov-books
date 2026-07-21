@@ -1,8 +1,10 @@
 ---
+
 slug: nechaj
 title: "Дмитрий Нечай"
 categories: [people]
 tags: [nazca, pyramid]
+description: "Дмитрий Нечай — исследователь, предложивший теорию связи с Великой пирамидой для геоглифов places/plato-naska|Наски."
 ---
 
 # Дмитрий Нечай
@@ -18,3 +20,9 @@ tags: [nazca, pyramid]
 - [[places/plato-naska|Плато Наска]]
 - [[concepts/geoglify|Геоглифы]]
 - [[books/23-naska|Наска: гигантские рисунки на полях]]
+
+- [[artifacts/great-pyramid|Великая пирамида Гизы]]
+- [[concepts/megalithic-architecture|Мегалитическая архитектура]]
+- [[places/giza|Гиза]]
+- [[artifacts/geoglify-naska|Геоглифы Наска]]
+- [[concepts/kultura-naska|Культура Наска]]

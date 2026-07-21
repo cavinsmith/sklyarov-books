@@ -6,12 +6,9 @@ categories:
   - archaeology
   - indus-civilization
   - pakistan
-tags:
-  - indus
-  - harappa
-  - city
-  - wells
-  - drainage
+tags: [indus, harappa, city, wells, drainage]
+description: "Мохенджо-Даро (мов. जोड़ो ढांबो) — древний город Индской цивилизации в современном Пакистане."
+
 ---
 
 # Мохенджо-Даро
@@ -34,3 +31,12 @@ tags:
 
 - [[places/sarasvati|Сарасвати]]
 - [[books/27-sozdanie-tsivilizaciy|Создание древних цивилизаций]]
+- [[places/mohendzho-daro]]
+- [[places/kharrapa]]
+- [[places/aswan]]
+- [[places/harappa]]
+- [[places/arequipa]]
+
+## Связанные страницы
+
+- [[places/mohendzho-daro|Мохенджо-Даро]]

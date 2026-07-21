@@ -1,8 +1,10 @@
 ---
+
 slug: malaya-aziya
 title: "Малая Азия"
 categories: [places]
 tags: []
+description: "Полуостров на западе Азии, омываемый Средиземным, Чёрным и Эгейским морями. В работах А. Склярова Малая Азия упоминается как один из ключевых..."
 ---
 
 # Малая Азия
@@ -29,3 +31,10 @@ tags: []
 - [[places/greciya]] — Греция
 - [[places/vizantiya]] — Византия
 - [[places/rimskaya-imperiya]] — Римская империя
+
+## См. также
+- [[concepts/alternativnaya-istoriya|Альтернативная история]]
+- [[guides/paleokontakt|Путеводитель: Палеоконтакт]]
+- [[events/troyanskaya-voyna|Троянская война]]
+- [[artifacts/kamni-iki|Камни Ики]]
+- [[people/andrey-sklyarov|Андрей Скляров]]

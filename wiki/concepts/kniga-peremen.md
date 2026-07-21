@@ -1,8 +1,10 @@
 ---
+
 slug: kniga-peremen
 title: "Книга Перемен (И-Цзин)"
 categories: [concepts]
 tags: []
+description: "Другие названия: И-Цзин, Цзин И, Book of Changes"
 ---
 
 # Книга Перемен (И-Цзин)

@@ -1,8 +1,10 @@
 ---
+
 slug: bagdadskaya-batareika
 title: "Багдадская батарейка"
 categories: [artifacts]
 tags: [ирак, электричество, аномалии, технология]
+description: "Место обнаружения: Хузестан, Ирак (древний Селевкидский/Парфянский период)"
 ---
 
 # Багдадская батарейка
@@ -101,3 +103,9 @@ tags: [ирак, электричество, аномалии, технолог�
 - [[concepts/civilization-of-gods]] — Цивилизация богов
 - [[places/babilon]] — Вавилон (регион находки)
 - [[books/12-tsivilizaciya-bogov-egipta|Цивилизация древних богов Египта]]
+
+## Связанные страницы
+
+- [[concepts/piezoelektricheskiy-effekt|Пьезоэлектрический эффект]]
+- [[concepts/letatelnie-apparaty|Летательные аппараты]]
+- [[concepts/prostranstvenno-vremennye-anomalii|Пространственно-временные аномалии]]

@@ -1,8 +1,10 @@
 ---
+
 slug: period-haosa
 title: "Период хаоса"
 categories: [concepts]
 tags: []
+description: "Эпоха глубокого кризиса и разрушения цивилизаций, наступившая после events/voyna-bogov-iv-tysyacheletie|Войны богов (~3500-3100 до н.э.). Описывается..."
 ---
 
 # Период хаоса
@@ -37,6 +39,8 @@ tags: []
 ---
 
 ## См. также
+
+- [[concepts/index-concepts|Индекс концепций]]
 
 - [[concepts/voyna-bogov|Война богов]]
 - [[concepts/edinaya-pismennost|Единая письменность]]

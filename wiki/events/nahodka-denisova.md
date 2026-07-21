@@ -1,8 +1,10 @@
 ---
+
 slug: nahodka-denisova
 title: "Находка денисовца"
 categories: [events]
 tags: []
+description: "Обнаружение останков древних людей — денисовцев (Homo sapiens denisova) — в Денисовой пещере на Алтае в 2010 году. Одна из наиболее значимых..."
 ---
 
 # Находка денисовца

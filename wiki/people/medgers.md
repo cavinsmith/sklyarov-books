@@ -1,8 +1,10 @@
 ---
+
 slug: medgers
 title: "Медджерс"
 categories: [people]
-tags: []
+tags: [parapsychology, consciousness]
+description: "Медджерс — исследователь парапсихологии и «физики духа»."
 ---
 
 # Медджерс
@@ -19,3 +21,12 @@ tags: []
 **Связанные страницы:**
 - [[concepts/s-matrica]]
 - [[concepts/dao-fiziki]]
+
+
+## См. также
+
+- [[people/rottemberg]]
+- [[people/leonardi-bartres]]
+- [[people/makarevich]]
+- [[people/koglen]]
+- [[people/jorge-acosta]]

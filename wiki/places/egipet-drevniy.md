@@ -5,11 +5,9 @@ categories:
   - places
   - civilization
   - egypt
-tags:
-  - egypt
-  - pharaohs
-  - pyramids
-  - nile
+tags: [egypt, pharaohs, pyramids, nile]
+description: "Древний Египет — цивилизация в северо-восточной Африке, существовавшая с ~3100 до н.э. до 30 до н.э."
+
 ---
 
 # Древний Египет

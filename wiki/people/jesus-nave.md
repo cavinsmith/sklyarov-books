@@ -1,8 +1,10 @@
 ---
+
 slug: jesus-nave
 title: "Иисус Навин"
 categories: [people]
 tags: [bible, jericho]
+description: "Библейский полководец и преемник people/moisey|Моисея, руководивший завоеванием земли Ханаанской. Приписывается разрушение стен Иерихона."
 ---
 
 # Иисус Навин
@@ -26,3 +28,5 @@ tags: [bible, jericho]
 
 - [[books/30-yahve-protiv-baala|Яхве против Баала]]
 - [[people/moisey|Моисей]]
+
+- [[concepts/konflikt-yahve-i-baala|Конфликт Яхве и Баала]]

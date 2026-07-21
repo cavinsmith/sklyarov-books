@@ -1,8 +1,10 @@
 ---
+
 slug: magnetit
 title: "Магнетит"
 categories: artifacts
 tags: [минерал, железная руда, магнетизм]
+description: "Описание: Минерал, магнитная железная руда, один из важнейших источников железа в древней металлургии."
 ---
 
 # Магнетит
@@ -47,3 +49,11 @@ tags: [минерал, железная руда, магнетизм]
 - [[books/22-metally|Металлы]]
 - [[artifacts/gematit|Гематит]]
 - [[artifacts/dolomit|Доломит]]
+
+
+## См. также
+
+- [[artifacts/gematit]]
+- [[artifacts/dolomit]]
+- [[artifacts/bornit]]
+- [[people/cherneih-evgenij]]

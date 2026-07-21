@@ -1,8 +1,10 @@
 ---
+
 slug: ideograficheskiy-princip
 title: "Идеографический принцип"
 categories: [concepts]
 tags: []
+description: "Принцип письма, при котором знаки обозначают целые понятия, идеи или значения, а не звуки. В контексте книги..."
 ---
 
 # Идеографический принцип
@@ -42,6 +44,8 @@ tags: []
 ---
 
 ## См. также
+
+- [[concepts/index-concepts|Индекс концепций]]
 
 - [[concepts/foneticheskiy-princip|Фонетический принцип]]
 - [[concepts/piktografika-i-ieroglifika|Пиктографика и иероглифика]]

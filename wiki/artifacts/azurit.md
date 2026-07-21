@@ -4,10 +4,9 @@ title: "Азурит"
 categories:
   - artifacts
   - minerals
-tags:
-  - copper-mineral
-  - blue
-  - pigment
+tags: [copper-mineral, blue, pigment]
+description: "Азурит — минерал, основной карбонат меди, используемый как руда и краситель в древности."
+
 ---
 
 # Азурит

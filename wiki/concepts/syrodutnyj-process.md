@@ -1,8 +1,10 @@
 ---
+
 slug: syrodutnyj-process
 title: "Сыродутный процесс"
 categories: [concepts]
 tags: []
+description: "Древнейший способ получения железа из руды, основанный на восстановлении оксидов железа углеродом (углём) при высоких температурах в примитивных..."
 ---
 
 # Сыродутный процесс
@@ -34,3 +36,8 @@ tags: []
 - [[concepts/tigelnaya-plavka|Тигельная плавка]]
 - [[concepts/bronzovyj-vek|Бронзовый век]]
 - [[books/22-metally|Металлы - дар небесных богов]]
+- [[artifacts/halkopirit]]
+- [[concepts/krica]]
+- [[concepts/gemotsianin]]
+- [[artifacts/kern-pitri-n7]]
+- [[artifacts/spiralnaya-galaktika]]

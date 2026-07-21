@@ -5,9 +5,9 @@ categories:
   - places
   - archaeology
   - turkey
-tags:
-  - megalithic
-  - neolithic
+tags: [megalithic, neolithic]
+description: "Гёбекли-тепе — мегалитический комплекс в Турции."
+
 ---
 
 # Гёбекли-тепе

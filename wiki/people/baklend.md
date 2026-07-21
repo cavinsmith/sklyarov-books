@@ -1,8 +1,10 @@
 ---
+
 slug: baklend
 title: "Уильям Баклэнд"
 categories: [people]
 tags: []
+description: "Английский геолог (1784–1856), ведущий исследователь («дилювиалист») следов events/vsemirnyi-potop|Всемирного Потопа."
 ---
 
 # Уильям Баклэнд

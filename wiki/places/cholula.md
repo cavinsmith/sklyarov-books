@@ -1,8 +1,10 @@
 ---
+
 slug: cholula
 title: "Чолула"
 categories: [places]
 tags: []
+description: "Полное название: Гора Чолула (исп. Gran Pirámide de Cholula), также Тлачихуэлько (науатль: Tlachihualtepetl — «Искусственная гора»)"
 ---
 
 # Чолула
@@ -44,3 +46,9 @@ tags: []
 - [[concepts/civilization-of-gods]] — Цивилизация богов, предполагаемый создатель пирамиды
 - [[artifacts/great-pyramid]] — Великая пирамида, объект сравнения по объёму
 - [[people/graham-hancock]] — Грэм Хэнкок, связывающий мезоамериканские пирамиды с глобальной цивилизацией
+
+
+## См. также
+- [[concepts/drevnie-tehnologii|Древние технологии]]
+- [[people/maya-people|Майя]]
+- [[books/13-meksika-bez-krivyh-zerkal|Мексика без кривых зеркал]]

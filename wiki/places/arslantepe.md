@@ -5,11 +5,9 @@ categories:
   - places
   - archaeology
   - anatolia
-tags:
-  - copper
-  - bronze-age
-  - turkey
-  - early-state
+tags: [copper, bronze-age, turkey, early-state]
+description: "Арслантепе (тур. Arslantepe, «Холм львов») — древнее поселение в восточной Турции, одно из важнейших археологических памятников раннего бронзового..."
+
 ---
 
 # Арслантепе

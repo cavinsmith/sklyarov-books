@@ -1,8 +1,10 @@
 ---
+
 slug: bazaltovyj-yaguar
 title: "Базальтовая скульптура ягуара"
 categories: artifacts
 tags: []
+description: "Описание: Скульптура ягуара из базальта, обнаруженная в Мексике. Демонстрирует качество обработки, аналогичное современным скульптурным работам."
 ---
 
 # Базальтовая скульптура ягуара
@@ -23,3 +25,9 @@ tags: []
 **Связанные сущности:**
 - [[places/nacionalny-muzej]] -- место хранения
 - [[books/13-meksika-bez-krivyh-zerkal]] -- книга, описывающая артефакт
+
+## Связанные страницы
+
+- [[artifacts/bazaltovaya-gremuchaya-zmeya|Базальтовая гремучая змея]]
+- [[artifacts/nefritovaya-spiralnaya-trubka|Нефритовая спиральная трубка]]
+- [[artifacts/obsidianovyj-disk|Обсидиановый диск]]

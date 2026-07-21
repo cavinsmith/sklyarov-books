@@ -3,6 +3,7 @@ slug: piroliz-metana
 title: "Пиролиз метана"
 categories: [concepts]
 tags: [химия, метан, углеводороды, нефть]
+description: "Процесс термического разложения метана при высоких температурах и давлениях, в результате которого образуются сложные углеводородные соединения."
 ---
 
 # Пиролиз метана
@@ -79,7 +80,8 @@ tags: [химия, метан, углеводороды, нефть]
 
 ## См. также
 
-- [[concepts/piroliz]] — пиролиз (общий процесс)
-- [[concepts/abiogennoe-proishozhdenie-nefti]] — абиогенное происхождение нефти
-- [[concepts/piroliticheskij-grafit]] — пиролитический графит
-- [[concepts/uglevodorody]] — углеводороды
+- [[concepts/piroliz|Пиролиз]] — пиролиз (общий процесс)
+- [[concepts/abiogennoe-proishozhdenie-nefti|Абиогенное происхождение нефти]]
+- [[concepts/piroliticheskij-grafit|Пиролитический графит]]
+- [[concepts/uglevodorody|Углеводороды]]
+- [[people/digonskij-sv|С.В. Дигонский]]

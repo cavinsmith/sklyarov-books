@@ -1,8 +1,10 @@
 ---
+
 slug: buto
 title: "Буто"
 categories: [places]
 tags: []
+description: "Древнеегипетский город и культовый центр, расположенный в Дельте Нила, связанный с культом people/ra|Ра и people/isi|Исиды."
 ---
 
 # Буто

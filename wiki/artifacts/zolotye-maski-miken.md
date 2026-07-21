@@ -5,11 +5,9 @@ categories:
   - artifacts
   - archaeology
   - greece
-tags:
-  - mycenae
-  - gold
-  - mask
-  - schliemann
+tags: [mycenae, gold, mask, schliemann]
+description: "Золотые маски Микен — погребальные маски из чистого золота, обнаруженные Генрихом Шлиманом в 1876 году в царском кургане Аkręcополя близ..."
+
 ---
 
 # Золотые маски Микен
@@ -35,3 +33,7 @@ tags:
 - [[places/mycenae|Микены]]
 - [[people/schliemann|Генрих Шлиман]]
 - [[books/22-metally|Металлы — дар небесных богов]]
+
+## Связанные страницы
+
+- [[places/masks-sanshinduj|Маски из Саньшэньдуя]]

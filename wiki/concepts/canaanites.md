@@ -1,8 +1,10 @@
 ---
+
 slug: canaanites
 title: "Ханаанеяне"
 categories: [concepts]
 tags: []
+description: "Другие названия: Ханаанский народ, Ханаанцы"
 ---
 
 # Ханаанеяне
@@ -34,3 +36,8 @@ tags: []
 
 - [[books/19-zemlya-vaala|Земля Ваала]]
 - [[books/30-yahve-protiv-baala|Яхве против Баала]]
+
+
+## См. также
+
+- [[concepts/index-concepts|Индекс концепций]]

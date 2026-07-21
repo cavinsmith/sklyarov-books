@@ -1,8 +1,10 @@
 ---
+
 slug: orna
 title: "Орна"
 categories: [concepts]
 tags: []
+description: "Другие названия: Орн, Орна-Ашторет"
 ---
 
 # Орна

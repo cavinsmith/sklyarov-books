@@ -1,8 +1,12 @@
 ---
+
+
 slug: makarevich
 title: "Макаревич"
 categories: [people]
 tags: []
+description: "Учёный, чьи работы упоминаются people/andrey-sklyarov|Андреем Скляровым в контексте альтернативных исследований."
+
 ---
 
 # Макаревич
@@ -23,3 +27,10 @@ tags: []
 - [[people/andrey-sklyarov]] — автор, использующий его работы
 - [[people/dymnikov]] — Дымников, другой учёный
 - [[people/murashov]] — Мурашов, коллега
+
+## См. также
+
+- [[concepts/soznanie|Сознание]]
+- [[concepts/dukhovno-nematerialnyy-mir|Духовно-нематериальный мир]]
+- [[concepts/noosfera|Ноосфера]]
+- [[concepts/egregor|Эгрегор]]

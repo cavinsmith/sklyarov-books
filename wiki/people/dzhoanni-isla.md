@@ -1,8 +1,10 @@
 ---
+
 slug: dzhoanni-isla
 title: "Джонни Исла"
 categories: [people]
 tags: [nazca, palpa]
+description: "Джонни Исла — перуанский археолог, соруководитель проекта «projects/naska-palpa|Наска-Пальпа»."
 ---
 
 # Джонни Исла

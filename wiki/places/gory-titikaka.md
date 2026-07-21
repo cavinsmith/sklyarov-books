@@ -6,11 +6,9 @@ categories:
   - geography
   - bolivia
   - peru
-tags:
-  - titicaca
-  - andes
-  - incas
-  - viracocha
+tags: [titicaca, andes, incas, viracocha]
+description: "Горы Титикака — горный массив вблизи озера places/titikaka|Титикака на границе Боливии и Перу."
+
 ---
 
 # Горы Титикака

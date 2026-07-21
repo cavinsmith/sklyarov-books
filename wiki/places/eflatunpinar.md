@@ -5,11 +5,9 @@ categories:
   - places
   - archaeology
   - anatolia
-tags:
-  - hittite
-  - megalithic
-  - temple
-  - water
+tags: [hittite, megalithic, temple, water]
+description: "Эфлатунпинар (тур. Eflatunpınar) — древнее святилище в Турции с мегалитическими сооружениями, расположенное вблизи города Конья. Известно уникальным..."
+
 ---
 
 # Эфлатунпинар

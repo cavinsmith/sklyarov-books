@@ -1,8 +1,12 @@
 ---
+
+
 slug: eye
 title: "Эйе (Eye)"
 categories: [people]
-tags: []
+tags: [pharaoh, egypt, eighteenth-dynasty]
+description: "Египетский полководец и визирь, ставший фараоном после Тутанхамона. Упоминается в работах А. Склярова в контексте истории XVIII династии."
+
 ---
 
 # Эйе (Eye)

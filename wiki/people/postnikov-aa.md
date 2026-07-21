@@ -1,8 +1,10 @@
 ---
+
 slug: postnikov-aa
 title: "А.А. Постников"
-categories: [люди, наука, хронология, критика]
-tags: [хронология]
+categories: [people]
+tags: [history, chronology, russia]
+description: "А.А. Постников — советский и российский историк, критик хронологии."
 ---
 
 # А.А. Постников
@@ -24,3 +26,11 @@ tags: [хронология]
 
 - [[people/fomenko-at]] — А.Т. Фоменко, автор «Новой хронологии»
 - [[concepts/absolyutnoe-datirovanie]] — абсолютное датирование как метод
+
+
+## См. также
+
+- [[concepts/geokhronologiya]]
+- [[events/srednevekove]]
+- [[concepts/alternativnaya-istoriya]]
+- [[concepts/shumerskiy-spisok-koroley]]

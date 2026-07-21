@@ -1,8 +1,10 @@
 ---
+
 slug: faeton
 title: "Фаэтон"
 categories: [concepts]
 tags: []
+description: "Другие названия: Планета Фаэтон, Прото-Марс"
 ---
 
 # Фаэтон

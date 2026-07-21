@@ -1,8 +1,12 @@
 ---
+
+
 slug: bozhestvennye-eksperimenty
 title: "Божественные эксперименты"
 categories: [concepts]
 tags: []
+description: "Гипотеза people/andrey-sklyarov|Андрея Склярова о том, что массовая практика artifacts/trepanaciya-cherepov|трепанации черепов в Южной Америке была..."
+
 ---
 
 # Божественные эксперименты
@@ -21,8 +25,10 @@ tags: []
 - Аналогия: современные медики экспериментируют на животных в «высоких гуманных целях»; «боги» могли иметь аналогичное «оправдание» по отношению к людям.
 
 ## Связанные страницы
+
+- [[concepts/index-concepts|Индекс концепций]]
 - [[artifacts/trepanaciya-cherepov]]
 - [[artifacts/deformaciya-cherepov]]
 - [[artifacts/kamni-iki]]
-- [[concepts/paleokontakt]]
+- [[guides/paleokontakt]]
 - [[books/15-peru-i-boliviya|«Перу и Боливия задолго до инков»]]

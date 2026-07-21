@@ -1,8 +1,10 @@
 ---
+
 slug: lambert
 title: "Патрис Ламбер"
 categories: [people]
 tags: [генетика, молекулярная биология]
+description: "Французский генетик, специалист в области молекулярной генетики и эволюции."
 ---
 
 # Патрис Ламбер
@@ -22,3 +24,7 @@ tags: [генетика, молекулярная биология]
 - [[concepts/neytralnaya-evolyuciya|Нейтральная эволюция]]
 - [[people/masaaki-kimura|Мотоо Кимура]]
 - [[people/andrey-sklyarov]]
+
+- [[concepts/geneticheskiy-kod-chelovechestva|Генетический код человечества]]
+- [[concepts/gemoglobin|Гемоглобин]]
+- [[artifacts/kamni-iki|Камни Ики]]

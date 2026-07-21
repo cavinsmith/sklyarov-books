@@ -1,8 +1,10 @@
 ---
+
 slug: antiokiya
 title: "Антиохия"
 categories: [places]
-tags: []
+tags: [rome, seleucids, ancient-city]
+description: "Антиохия — один из крупнейших городов древнего мира."
 ---
 
 # Антиохия

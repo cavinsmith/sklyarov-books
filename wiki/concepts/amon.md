@@ -1,8 +1,10 @@
 ---
+
 slug: amon
 title: "Амон"
 categories: [concepts]
 tags: []
+description: "Другие названия: Амон-Ра, Амун, Амен"
 ---
 
 # Амон

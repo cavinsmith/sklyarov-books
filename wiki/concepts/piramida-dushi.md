@@ -1,8 +1,12 @@
 ---
+
+
 slug: piramida-dushi
 title: "Пирамида души"
 categories: [concepts]
 tags: []
+description: "Концепция иерархической структуры души, описанная в работах people/andrey-sklyarov|Андрея Склярова в контексте «физики духа»."
+
 ---
 
 # Пирамида души

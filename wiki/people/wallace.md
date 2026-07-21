@@ -1,8 +1,10 @@
 ---
+
 slug: wallace
 title: "Альфред Уоллес (Alfred Russel Wallace)"
 categories: [people]
 tags: [biology, evolution]
+description: "Годы жизни: 1823–1913"
 ---
 
 # Альфред Уоллес (Alfred Russel Wallace)
@@ -27,3 +29,5 @@ tags: [biology, evolution]
 
 - [[concepts/teoriya-evolyucii|Теория эволюции]]
 - [[books/21-geneticheskiy-kod|Генетический код человечества]]
+
+- [[places/red-sea|Красное море]]

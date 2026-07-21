@@ -1,8 +1,10 @@
 ---
+
 slug: djedefra
 title: "Джедефра"
 categories: [people]
 tags: [фараон, египет, династия]
+description: "Джедефра — фараон IV династии Древнего Египта, правивший около 2500 года до н.э."
 ---
 
 # Джедефра
@@ -24,5 +26,12 @@ tags: [фараон, египет, династия]
 
 ## См. также
 
-- [[12-tsivilizaciya-bogov-egipta]]
-- [[17-piramidy]]
+- [[books/12-tsivilizaciya-bogov-egipta|Цивилизация богов Египта]]
+- [[books/17-piramidy|Пирамиды — взгляд изнутри]]
+
+- [[places/rodnaya-planeta-bogov|rodnaya-planeta-bogov]]
+- [[people/pepi-i]]
+- [[people/niuserre]]
+- [[people/pepi-ii]]
+- [[people/userkaf]]
+- [[people/akhenaton]]

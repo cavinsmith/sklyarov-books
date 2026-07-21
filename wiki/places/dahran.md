@@ -1,8 +1,10 @@
 ---
+
 slug: dahran
 title: "Дахшур"
 categories: [places]
 tags: [egypt, pyramids, snefru, dynasty-4]
+description: "Другое название: Дашур"
 ---
 
 # Дахшур

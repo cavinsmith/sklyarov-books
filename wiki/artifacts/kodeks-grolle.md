@@ -1,8 +1,10 @@
 ---
+
 slug: kodeks-grolle
-title: Кодекс Гролле
+title: "Кодекс Гролле"
 categories: [artifacts]
-tags: [maya, codex, hieroglyphs]
+tags: [maya, codex, hieroglyphs, astronomy]
+description: "Один из четырёх сохранившихся кодексов майя. Содержит астрономические и ритуальные тексты. Хранится в Национальной библиотеке Франции."
 ---
 
 # Кодекс Гролле
@@ -25,9 +27,19 @@ tags: [maya, codex, hieroglyphs]
 
 ---
 
+## Источники
+
+- [[books/13-meksika-bez-krivyh-zerkal|Древняя Мексика без кривых зеркал]] — упоминание кодексов майя в контексте анализа мезоамериканских цивилизаций.
+
 ## См. также
 
-- [[artifacts/drezdenskij-kodeks]] — Дрезденский кодекс
-- [[artifacts/madridskij-kodeks]] — Мадридский кодекс
-- [[artifacts/parizhskij-kodeks]] — Парижский кодекс
-- [[books/13-meksika-bez-krivyh-zerkal]]
+- [[artifacts/drezdenskij-kodeks|Дрезденский кодекс]]
+- [[artifacts/madridskij-kodeks|Мадридский кодекс]]
+- [[artifacts/parizhskij-kodeks|Парижский кодекс]]
+- [[concepts/maya|Цивилизация майя]]
+
+## Связанные страницы
+
+- [[places/tikal|Тикаль]]
+- [[places/jaina|Остров Хайна]]
+- [[places/palenque|Паленке]]

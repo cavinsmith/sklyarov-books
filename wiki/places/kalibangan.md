@@ -5,10 +5,9 @@ categories:
   - places
   - archaeology
   - india
-tags:
-  - indus-valley
-  - harappan
-  - fire-altars
+tags: [indus-valley, harappan, fire-altars]
+description: "Калибанган (хинди कालीबंगा, «чёрные браслеты») — древний город Индской цивилизации, расположенный в районе Ганганагар, штат Раджастхан, Индия."
+
 ---
 
 # Калибанган

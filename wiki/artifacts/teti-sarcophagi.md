@@ -1,8 +1,10 @@
 ---
+
 slug: teti-sarcophagi
 title: Саркофаги Тети
 categories: [artifacts]
 tags: [egypt, sarcophagus, pharaoh, pyramid]
+description: "Место находки: Пирамида Тети, Саккара, Египет"
 ---
 
 # Саркофаги Тети
@@ -29,3 +31,9 @@ tags: [egypt, sarcophagus, pharaoh, pyramid]
 - [[artifacts/pyramid-texts]] — Тексты пирамид
 - [[places/saqqara]] — Саккара, некрополь
 - [[books/17-piramidy]]
+
+## Связанные страницы
+
+- [[people/khufu|Хуфу (Хеопс)]]
+- [[people/teti|Тети]]
+- [[people/menkaure|Менкаур (Микерин)]]

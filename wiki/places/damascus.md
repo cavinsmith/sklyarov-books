@@ -1,8 +1,10 @@
 ---
+
 slug: damascus
 title: "Дамаск"
 categories: [places]
 tags: [город, Сирия, древний, культура]
+description: "Описание: Столица Сирии, один из древнейших непрерывно обитаемых городов мира. Связан с concepts/bogi-vysokorazvitaya-civilizaciya|богами и их..."
 ---
 
 # Дамаск

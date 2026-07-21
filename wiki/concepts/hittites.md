@@ -1,8 +1,10 @@
 ---
+
 slug: hittites
 title: "Хетты"
 categories: [concepts]
 tags: []
+description: "Другие названия: Хеттская империя, Новое царство хеттов"
 ---
 
 # Хетты

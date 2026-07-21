@@ -1,8 +1,10 @@
 ---
+
 slug: hepgud-charlz
 title: "Хэпгуд Чарльз"
 categories: [people]
 tags: []
+description: "Описание: Американский геофизик, предложивший теорию "concepts/proskalzyvanie-kory|проскальзывания земной коры" -- быстрого смещения литосферы по..."
 ---
 
 # Хэпгуд Чарльз

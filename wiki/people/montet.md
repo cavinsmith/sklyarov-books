@@ -1,8 +1,10 @@
 ---
+
 slug: montet
 title: "Пьер Монте (Pierre Montet)"
 categories: [people]
 tags: [egypt, archaeology, religion]
+description: "Описание: Пьер Монте (1885–1966) — выдающийся французский египтолог, исследователь древнеегипетской религии и археолог Ближнего Востока."
 ---
 
 # Пьер Монте (Pierre Montet)

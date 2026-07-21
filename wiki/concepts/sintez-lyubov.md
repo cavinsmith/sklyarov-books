@@ -1,8 +1,10 @@
 ---
+
 slug: sintez-lyubov
 title: "Синтез-любовь"
 categories: [concepts]
 tags: []
+description: "Состояние слияния двух «пирамид души» при глубокой духовной любви."
 ---
 
 # Синтез-любовь
@@ -42,3 +44,8 @@ tags: []
 - [[concepts/civilization-of-gods]] — «боги» как носители синтетического знания
 - [[concepts/piramida-dushi]] — структуры, которые сливаются
 - [[concepts/resonance-dissonance]] — механизм резонанса
+
+
+## См. также
+
+- [[concepts/index-concepts|Индекс концепций]]

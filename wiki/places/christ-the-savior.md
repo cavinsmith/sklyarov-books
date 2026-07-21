@@ -1,8 +1,10 @@
 ---
+
 slug: christ-the-savior
 title: "Христос-Спасатель"
 categories: [places]
 tags: []
+description: "Крупнейшая в мире статуя Иисуса Христа, расположенная в Рио-де-Жанейро, Бразилия. В работах А. Склярова упоминается в контексте обсуждения масштабных..."
 ---
 
 # Христос-Спасатель
@@ -24,3 +26,12 @@ tags: []
 
 - [[places/lima]] — Лима, столица Перу
 - [[places/boliviya]] — Боливия, соседнее государство
+
+
+## См. также
+
+- [[artifacts/monument-yonaguni]]
+- [[places/kargalinskie-rudniki]]
+- [[places/marianskaya-vpadina]]
+- [[places/kush]]
+- [[places/plateau-ujuni]]

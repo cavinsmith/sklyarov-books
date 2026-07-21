@@ -1,8 +1,10 @@
 ---
+
 slug: sakkarskiye-sosudy
 title: "Саккарская коллекция сосудов"
 categories: artifacts
 tags: []
+description: "Каменные сосуды из комплекса ступенчатой пирамиды в Саккаре, Египет. Датируются не позднее II династии (~5000 лет назад). На поверхности обнаружены..."
 ---
 
 # Саккарская коллекция сосудов
@@ -31,7 +33,12 @@ tags: []
 ## См. также
 
 - [[books/24-opasnoe-nasledie]] — «Опасное наследие предков»
-- [[places/kamni-iki|Камни Ики]]
+- [[books/12-tsivilizaciya-bogov-egipta|Цивилизация богов Египта]]
+- [[books/17-piramidy|Пирамиды]]
+- [[artifacts/kamni-iki|Камни Ики]]
+- [[artifacts/ben-ben]] — религиозные символы в погребальной традиции
+- [[concepts/civilization-of-gods]] — высокие технологии в изготовлении
+- [[concepts/machine-processing]] — следы обработки камня
+- [[concepts/amon]] — бог Амон связан с погребальными обрядами
 - [[concepts/kollekciya-djulsruda|Коллекция Джульсруда (Акамбаро)]]
-- [[concepts/molotok-iz-texasa|Молоток из Техаса]]
-- [[places/objekt-ayud|Объект Аюд]]
+- [[places/saqqara-collection|Саккарская коллекция]]

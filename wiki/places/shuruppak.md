@@ -1,14 +1,9 @@
 ---
 slug: shuruppak
 title: "Шуруппак"
-categories:
-  - places
-  - archaeology
-  - mesopotamia
-tags:
-  - sumerian
-  - flood-myth
-  - ziusudra
+categories: [places]
+tags: [шумер, потоп, Зиусудра]
+description: "Шуруппак — древний шумерский город, связанный с мифом о потопе. Здесь жил Зиусудра — герой, спасшийся от потопа."
 ---
 
 # Шуруппак
@@ -48,11 +43,12 @@ tags:
 
 ## Связанные концепции
 
-- [[places/mezopotamiya]] — Месопотамия, регион расположения города
-- [[concepts/potop]] — Миф о потопе
-- [[concepts/sumerian]] — Шумерская цивилизация
+- [[places/mezopotamiya|Месопотамия]] — регион расположения города
+- [[concepts/vsemirnyj-potop|Всемирный Потоп]]
+- [[concepts/sumerian|Шумерская цивилизация]]
 
 ## См. также
 
-- [[places/ur]] — Ур, другой важный шумерский город
-- [[places/nippur]] — Ниппур, священный город шумеров
+- [[places/ur|Ур]] — другой важный шумерский город
+- [[places/nippur|Ниппур]] — священный город шумеров
+- [[people/andrey-sklyarov|Андрей Скляров]]

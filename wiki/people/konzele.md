@@ -1,8 +1,10 @@
 ---
+
 slug: konzele
 title: "Генрих Конце"
 categories: [people]
 tags: [филология, индология, религия]
+description: "Немецкий филолог и индолог, исследователь ведической литературы."
 ---
 
 # Генрих Конце
@@ -20,3 +22,10 @@ tags: [филология, индология, религия]
 ## См. также
 
 - [[people/andrey-sklyarov]]
+
+- [[concepts/geneticheskiy-kod-chelovechestva|Генетический код человечества]]
+- [[people/karason]]
+- [[people/grozny]]
+- [[artifacts/idoly]]
+- [[artifacts/ritualnye-predmety]]
+- [[guides/bogstvo]]

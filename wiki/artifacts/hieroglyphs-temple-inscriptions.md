@@ -1,8 +1,10 @@
 ---
+
 slug: hieroglyphs-temple-inscriptions
 title: Иероглифы и храмовые надписи
 categories: [artifacts]
 tags: [egypt, hieroglyphs, inscriptions, ancient-technology]
+description: "Древнеегипетские иероглифические надписи, обнаруженные в храмовых комплексах. Многие из них содержат сведения о технологиях и событиях, не..."
 ---
 
 # Иероглифы и храмовые надписи
@@ -25,3 +27,9 @@ tags: [egypt, hieroglyphs, inscriptions, ancient-technology]
 - [[places/karnak]] — Карнакский храмовый комплекс
 - [[places/luxor]] — Луксорский храм
 - [[books/12-tsivilizaciya-bogov-egipta]]
+
+## Связанные страницы
+
+- [[places/pyramids|Пирамиды]]
+- [[places/denderskiy-hram|Дендерский храм]]
+- [[places/thebes|Фивы]]

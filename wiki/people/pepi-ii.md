@@ -1,8 +1,10 @@
 ---
+
 slug: pepi-ii
 title: "Пепи II"
 categories: [people]
 tags: [egypt]
+description: "Фараон VI династии Древнего Египта, известный самым длительным правлением в истории."
 ---
 
 # Пепи II (Pepi II)

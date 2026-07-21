@@ -1,8 +1,12 @@
 ---
+
+
 slug: geokhronologiya
 title: "Геохронология"
 categories: [concepts]
 tags: [хронология, датирование, геология]
+description: "Система периодизации геологической истории Земли. В работах people/andrey-sklyarov|Андрея Склярова критикуется как система, требующая существенной..."
+
 ---
 
 # Геохронология
@@ -35,7 +39,7 @@ tags: [хронология, датирование, геология]
 
 - [[concepts/alternativnaya-istoriya]]
 - [[methods/radiouglerodnoe-datirovanie]]
-- [[concepts/paleokontakt]]
+- [[guides/paleokontakt]]
 
 ## См. также
 

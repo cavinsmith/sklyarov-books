@@ -1,8 +1,10 @@
 ---
+
 slug: olmeckie-golovy
 title: "Гигантские ольмекские головы"
 categories: artifacts
 tags: []
+description: "Описание: Монументальные базальтовые скульптуры голов, обнаруженные на ольмекских объектах (Сан-Лоренсо, Ла-Вента, Трес-Сапотес). Вес -- до 25 тонн,..."
 ---
 
 # Гигантские ольмекские головы
@@ -29,3 +31,9 @@ tags: []
 - [[places/la-venta]] -- ольмекский центр
 - [[places/tres-zapotes]] -- ольмекский центр
 - [[books/13-meksika-bez-krivyh-zerkal]] -- книга, описывающая головы
+
+## См. также
+- [[concepts/megalithic-architecture|Мегалитическая архитектура]]
+- [[concepts/sledy-mashinnoy-obrabotki-kamnya|Следы машинной обработки камня]]
+- [[events/troyanskaya-voyna|Троянская война]]
+- [[concepts/civilization-of-gods|Цивилизация богов]]

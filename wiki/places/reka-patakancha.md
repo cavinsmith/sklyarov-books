@@ -1,8 +1,10 @@
 ---
+
 slug: reka-patakancha
 title: "Река Патаканча"
 categories: [places]
 tags: []
+description: "Описание: Приток places/reka-urubamba|реки Урубамбы, впадающий в нее в непосредственной близости от places/ollantaytambo."
 ---
 
 # Река Патаканча

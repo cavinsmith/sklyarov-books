@@ -1,8 +1,10 @@
 ---
+
 slug: cherubim
 title: "Херувимы"
 categories: [concepts]
 tags: []
+description: "Другие названия: Керувим, Шеру, Херуб"
 ---
 
 # Херувимы
@@ -24,7 +26,7 @@ tags: []
 
 ## Связанные концепции
 
-- [[concepts/kovcheg-zaveta]] — Ковчег Завета, который охраняли херувимы
+- [[artifacts/kovcheg-zaveta]] — Ковчег Завета, который охраняли херувимы
 - [[concepts/baal-worship]] — связь херувимов с культом Баала
 - [[concepts/tetragrammaton]] — имя Бога, связанное с покровительством херувимов
 

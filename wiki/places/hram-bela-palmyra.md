@@ -1,8 +1,10 @@
 ---
+
 slug: hram-bela-palmyra
 title: "Храм Бэла в Пальмире"
 categories: [places]
 tags: [пальмира, храмы, боги, разрушение]
+description: "Местоположение: places/palmyra, Сирия"
 ---
 
 # Храм Бэла в Пальмире
@@ -81,3 +83,9 @@ tags: [пальмира, храмы, боги, разрушение]
 - [[places/igil]] — Исламское государство
 - [[events/razrushenie-palmiry-siriya]] — Разрушение Пальмиры
 - [[books/26-siriyskie-perekrestki|Сирийские перекрёстки цивилизации]]
+
+## Связанные страницы
+
+- [[concepts/temple-destruction-|Разрушение храмов]]
+- [[artifacts/denderskaya-lampa|Дендерская лампа]]
+- [[guides/bogstvo|Путеводитель: Богство]]

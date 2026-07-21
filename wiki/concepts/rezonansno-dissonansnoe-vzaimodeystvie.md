@@ -1,8 +1,12 @@
 ---
+
+
 slug: rezonansno-dissonansnoe-vzaimodeystvie
 title: "Резонансно-диссонансное взаимодействие"
 categories: [concepts]
 tags: []
+description: "Концепция взаимодействия между духовными и физическими мирами, описанная в работах people/andrey-sklyarov|Андрея Склярова в контексте «физики духа»."
+
 ---
 
 # Резонансно-диссонансное взаимодействие

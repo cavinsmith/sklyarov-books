@@ -5,11 +5,9 @@ categories:
   - concepts
   - geology
   - history
-tags:
-  - catastrophism
-  - cuvier
-  - geology
-  - uniformism
+tags: [catastrophism, cuvier, geology, uniformism]
+description: "Катастрофизм — направление в геологии и палеонтологии, основанное на идее о том, что история Земли определялась рядом катастрофических событий..."
+
 ---
 
 # Катастрофизм

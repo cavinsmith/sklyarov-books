@@ -1,8 +1,10 @@
 ---
+
 slug: conquest-promised-land
 title: "Завоевание Земли Обетованной"
 categories: [events]
-tags: []
+tags: [conquest, canaan, bible]
+description: "Завоевание Земли Обетованной — военная кампания израильских племён."
 ---
 
 # Завоевание Земли Обетованной
@@ -92,6 +94,9 @@ tags: []
 ## См. также
 
 - [[people/moisey]] — предводитель Исхода
+- [[concepts/canaanites]] — ханаанеяне, коренное население завоёванного региона
 - [[concepts/divine-genocide]] — приказ об уничтожении семи народов
 - [[concepts/baal-worship]] — культ, подлежавший уничтожению
+- [[artifacts/kovcheg-zaveta]] — Ковчег Завета, переносившийся во время похода
 - [[books/19-zemlya-vaala]] — книга, рассматривающая завоевание как войну против знаний
+- [[books/30-yahve-protiv-baala|Яхве против Баала]]

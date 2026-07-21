@@ -1,8 +1,10 @@
 ---
+
 slug: chapmen
 title: Чапмен
 categories: [people]
 tags: [researcher, geology, alternative]
+description: "Исследователь, автор статьи «Ошибки геологии», приводящий примеры нарушений последовательности залегания слоёв."
 ---
 
 # Чапмен (Chapmen)

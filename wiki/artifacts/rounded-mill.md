@@ -1,8 +1,10 @@
 ---
+
 slug: rounded-mill
 title: "Круглая мельница"
 categories: artifacts
 tags: [egypt, grinding, ancient-technology]
+description: "Описание: Круглая мельница, обнаруженная в Египте. Артефакт, свидетельствующий о высоком уровне технологий обработки зерна в древнем Египте."
 ---
 
 # Круглая мельница
@@ -38,3 +40,9 @@ tags: [egypt, grinding, ancient-technology]
 - [[concepts/utrachennye-tekhnologii|Утраченные технологии]]
 - [[books/12-tsivilizaciya-bogov-egipta|Цивилизация богов Древнего Египта]]
 - [[books/29-sprint-po-kairu|Спринт по Каиру]]
+
+## Связанные страницы
+
+- [[places/abu-roat|Абу-Роаш]]
+- [[places/kadesh|Кадеш]]
+- [[places/pyramids|Пирамиды]]

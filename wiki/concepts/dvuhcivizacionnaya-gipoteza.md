@@ -1,8 +1,10 @@
 ---
+
 slug: dvuhcivizacionnaya-gipoteza
 title: "Двухцивилизационная гипотеза"
 categories: [concepts]
-tags: []
+tags: [hypotese, archaeology, ancient]
+description: "Двухцивилизационная гипотеза — концепция о двух различных цивилизациях на одном археологическом объекте."
 ---
 
 # Двухцивилизационная гипотеза
@@ -24,5 +26,5 @@ tags: []
 
 **Связанные сущности:**
 - [[concepts/drevnie-bogi]] -- предполагаемые представители ранней цивилизации
-- [[concepts/paleokontakt]] -- возможное объяснение высоких технологий
+- [[guides/paleokontakt]] -- возможное объяснение высоких технологий
 - [[concepts/dva-texnologicheskih-urovnya]] -- проявление гипотезы на практике

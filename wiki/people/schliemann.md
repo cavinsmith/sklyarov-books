@@ -1,8 +1,10 @@
 ---
+
 slug: schliemann
 title: Генрих Шлихман
 categories: [people]
 tags: [archaeology, troy, discovery, legend]
+description: "Немецкий предприниматель и археолог, открывший реальную Трою, руководствуясь мифами Гомера."
 ---
 
 # Генрих Шлихман (Heinrich Schliemann)

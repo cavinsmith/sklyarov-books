@@ -1,8 +1,10 @@
 ---
+
 slug: dopootopniy-severniy-polyus
 title: "Допотопный Северный полюс"
 categories: [concepts]
 tags: []
+description: "Описание: Предполагаемое положение Северного полюса Земли до Всемирного Потопа (~10450 до н.э.), определённое по ориентации мегалитических сооружений..."
 ---
 
 # Допотопный Северный полюс
@@ -28,3 +30,10 @@ tags: []
 - [[places/teotihuacan]] -- ориентированный на допотопный полюс
 - [[places/giza-piramidy]] -- ориентированные на допотопный полюс
 - [[artifacts/sfinks]] -- датировка эрой Льва совпадает с датой Потопа
+
+## См. также
+- [[artifacts/great-pyramid|Великая пирамида Гизы]]
+- [[concepts/megalithic-architecture|Мегалитическая архитектура]]
+- [[places/giza|Гиза]]
+- [[concepts/potop|Потоп]]
+- [[events/global-flood|Всемирный потоп]]

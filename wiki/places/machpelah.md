@@ -1,14 +1,10 @@
 ---
 slug: machpelah
 title: "Пещера Махпела"
-categories:
-  - places
-  - archaeology
-  - israel
-tags:
-  - patriarchs
-  - hebron
-  - sacred-site
+categories: [places]
+tags: [patriarchs, hebron, sacred-site]
+description: "Пещера Махпела — пещера и комплекс в Хевроне, место захоронения библейских патриархов."
+
 ---
 
 # Пещера Махпела

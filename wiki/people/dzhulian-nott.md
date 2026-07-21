@@ -1,8 +1,10 @@
 ---
+
 slug: dzhulian-nott
 title: "Джулиан Нотт"
 categories: [people]
 tags: [nazca, balloon]
+description: "Джулиан Нотт — вице-президент Британского клуба воздухоплавания, участвовавший в эксперименте с воздушным шаром над places/plato-naska|плато Наска."
 ---
 
 # Джулиан Нотт

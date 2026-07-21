@@ -1,8 +1,10 @@
 ---
+
 slug: kesariya
 title: "Кесария"
 categories: [places]
 tags: []
+description: "Портовый город, построенный people/herod-great|Иродом Великим."
 ---
 
 # Кесария

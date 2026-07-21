@@ -1,8 +1,10 @@
 ---
+
 slug: mejson
 title: "Олдон Мейсон"
 categories: [people]
 tags: [археология, наска]
+description: "Олдон Мейсон — исследователь, изучавший геоглифы Наска."
 ---
 
 # Олдон Мейсон
@@ -24,5 +26,13 @@ tags: [археология, наска]
 
 ## См. также
 
-- [[linei-naska]]
-- [[23-naska]]
+- 
+- [[books/23-naska|Наска — линии богов]]
+
+- [[projects/naska-palpa|Проект Наска-Пальпа]]
+- [[places/plato-naska|Плато Наска]]
+- [[people/meyson]]
+- [[guides/drevnie-tsivilizacii]]
+- [[people/artur-poznanskij]]
+- [[people/ivan-guzman-de-rohas]]
+- [[people/agurto-kalvo]]

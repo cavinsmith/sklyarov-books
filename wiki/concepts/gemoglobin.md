@@ -1,8 +1,10 @@
 ---
+
 slug: gemoglobin
 title: "Гемоглобин"
 categories: [concepts]
 tags: []
+description: "Железосодержащий дыхательный пигмент, обеспечивающий транспорт кислорода в крови позвоночных животных, включая человека. Представляет собой белковый..."
 ---
 
 # Гемоглобин
@@ -42,5 +44,5 @@ tags: []
 - [[concepts/golubaya-krov|Голубая кровь]]
 - [[concepts/med-i-zhelezo|Медь и железо]]
 - [[books/05-rodina-bogov|Какова ты, Родина Богов?]]
-- [[places/rodnaya-planeta-bogov|Родная планета богов]]
+- [[concepts/rodnaya-planeta-bogov|Родная планета богов]]
 - [[concepts/soma-napitok-bogov|Сома — напиток богов]]

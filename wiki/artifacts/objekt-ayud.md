@@ -1,8 +1,10 @@
 ---
+
 slug: objekt-ayud
 title: "Объект Аюд"
 categories: artifacts
 tags: []
+description: "Объект из алюминиевого сплава (89% алюминия), обнаруженный в Румынии в 1974 году на глубине 10 метров вместе с останками мастодонта (возраст ~1 млн..."
 ---
 
 # Объект Аюд
@@ -32,7 +34,11 @@ tags: []
 ## См. также
 
 - [[books/24-opasnoe-nasledie]] — «Опасное наследие предков»
+- [[books/22-metally]] — Объект Аюд как аномальный металлический артефакт
 - [[concepts/molotok-iz-texasa|Молоток из Техаса]]
-- [[concepts/boltik-v-kamne|Болтик в камне]]
+- [[artifacts/boltik-v-kamne|Болтик в камне]]
 - [[artifacts/ural-spirals|Уральские спиральки]]
-- [[concepts/sakkarskiye-sosudy|Саккарская коллекция сосудов]]
+- [[artifacts/sakkarskiye-sosudy|Саккарская коллекция сосудов]]
+- [[concepts/utrachennye-tekhnologii]] — утраченные технологии
+- [[concepts/machine-processing]] — следы машинной обработки
+- [[concepts/eksperimentalnaya-metallurgiya]] — экспериментальная металлургия

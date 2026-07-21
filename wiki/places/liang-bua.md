@@ -5,10 +5,9 @@ categories:
   - places
   - archaeology
   - indonesia
-tags:
-  - homo-floresiensis
-  - hobbits
-  - paleoanthropology
+tags: [homo-floresiensis, hobbits, paleoanthropology]
+description: "Лянг-Буа (индон. Liang Bua) — пещера на острове places/flores|Флорес (Индонезия), где были обнаружены останки people/robert-folk|Homo floresiensis —"
+
 ---
 
 # Лянг-Буа

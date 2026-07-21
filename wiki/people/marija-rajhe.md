@@ -1,8 +1,10 @@
 ---
+
 slug: marija-rajhe
 title: "Мария Райхе"
 categories: [people]
 tags: [nazca]
+description: "Мария Райхе (1903–1998) — немецкая исследовательница геоглифов places/plato-naska|Наски."
 ---
 
 # Мария Райхе

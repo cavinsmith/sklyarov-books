@@ -3,11 +3,19 @@ slug: yahweh-vs-baal
 title: "Конфликт Яхве и Баала"
 categories: [people]
 tags: []
+description: "Конфликт Яхве и Баала"
 ---
 
 # Конфликт Яхве и Баала
 
-**Описание:** Религиозный конфликт между почитателями Яхве и Баала.
+Смотрите [[concepts/yahweh-vs-baal]].
 
-**Связанные страницы:**
-- [[books/30-yahve-protiv-baala|Яхве против Баала]]
+## См. также
+
+- [[concepts/baal-concept|Баал]]
+- [[artifacts/red-pyramid]]
+- [[places/megaliticheskie-sooruzheniya]]
+- [[places/kompyuter-drevnego-kitaya]]
+- [[places/inca]]
+- [[places/pyramids]]
+- [[people/baal|Баал]]

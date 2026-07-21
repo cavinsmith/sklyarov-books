@@ -1,8 +1,10 @@
 ---
+
 slug: soma-napitok-bogov
 title: "Сома — напиток богов"
 categories: [concepts]
 tags: []
+description: "Священный напиток, упоминаемый в ведических текстах и других мифологических традициях. В books/05-rodina-bogov|«Какова ты, Родина Богов?"
 ---
 
 # Сома — напиток богов
@@ -37,7 +39,7 @@ tags: []
 - [[concepts/golubaya-krov|Голубая кровь]] — первопричина потребности в напитке
 - [[concepts/gemotsianin|Гемоцианин]] — слабая буферная ёмкость как основа механизма
 - [[concepts/dieta-bogov|Диета богов]] — система питания, соответствующая медному метаболизму
-- [[places/rodnaya-planeta-bogov|Родная планета]] — условия, при которых эволюционировал этот метаболизм
+- [[concepts/rodnaya-planeta-bogov|Родная планета]] — условия, при которых эволюционировал этот метаболизм
 
 ## См. также
 
@@ -47,4 +49,4 @@ tags: []
 - [[concepts/gemoglobin|Гемоглобин]]
 - [[concepts/dieta-bogov|Диета богов]]
 - [[concepts/med-i-zhelezo|Медь и железо]]
-- [[places/rodnaya-planeta-bogov|Родная планета богов]]
+- [[concepts/rodnaya-planeta-bogov|Родная планета богов]]

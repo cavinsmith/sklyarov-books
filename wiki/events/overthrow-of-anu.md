@@ -1,8 +1,10 @@
 ---
+
 slug: overthrow-of-anu
 title: Свержение Ану
 categories: [events]
 tags: [mythology, anu, rebellion, gods, war-of-gods]
+description: "Миф о свержении people/anu|Ану — верховного бога шумерского пантеона. Связан с концепцией concepts/voyna-bogov|войны богов и междоусобных конфликтов..."
 ---
 
 # Свержение Ану

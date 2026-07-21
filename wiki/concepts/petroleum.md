@@ -1,8 +1,10 @@
 ---
+
 slug: petroleum
 title: "Нефть"
 categories: [concepts]
 tags: [нефть, углеводороды, добыча, геология]
+description: "Описание: Природная смесь углеводородов. По concepts/abiogennoe-proishozhdenie-nefti|версии Склярова, нефть образуется абиогенно — из глубинных..."
 ---
 
 # Нефть

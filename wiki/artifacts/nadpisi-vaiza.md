@@ -1,8 +1,10 @@
 ---
+
 slug: nadpisi-vaiza
 title: "Надписи Ваиза"
 categories: artifacts
 tags: []
+description: "Другие названия: Ваизские надписи, Ваизские петроглифы, Waiza inscriptions"
 ---
 
 # Надписи Ваиза
@@ -38,6 +40,9 @@ tags: []
 
 ## Связанные сущности
 
-- [[books/10-kompyuter-drevnego-kitaya]] — книга с анализом надписей
-- [[concepts/paleokontakt]] — гипотеза о контактах между древними цивилизациями
-- [[concepts/civilization-of-gods]] — цивилизация богов как возможный источник знаний
+- [[books/10-kompyuter-drevnego-kitaya|Компьютер Древнего Китая]] — книга с анализом надписей
+- [[guides/paleokontakt|Палеоконтакт]] — гипотеза о контактах между древними цивилизациями
+- [[concepts/civilization-of-gods|Цивилизация богов]] — возможный источник знаний
+- [[concepts/drevnyaya-pismennost|Древняя письменность]]
+- [[concepts/ieroglificheskaya-pismennost|Иероглифическая письменность]]
+- [[places/kitay|Китай]]

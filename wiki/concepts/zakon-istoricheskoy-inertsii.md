@@ -1,8 +1,12 @@
 ---
+
+
 slug: zakon-istoricheskoy-inertsii
 title: "Закон исторической инерции"
 categories: [concepts]
 tags: []
+description: "Концепция, описывающая инерцию исторического развития, описанная в работах people/andrey-sklyarov|Андрея Склярова в контексте «физики духа»."
+
 ---
 
 # Закон исторической инерции

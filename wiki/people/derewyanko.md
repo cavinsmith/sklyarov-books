@@ -1,8 +1,10 @@
 ---
+
 slug: derewyanko
 title: "Анатолий Деревянко"
 categories: [people]
 tags: [археология, палеоантропология, Сибирь]
+description: "Российский археолог и антрополог, академик РАН, один из крупнейших специалистов по палеолиту Северной и Центральной Азии."
 ---
 
 # Анатолий Пантелеевич Деревянко
@@ -22,3 +24,8 @@ tags: [археология, палеоантропология, Сибирь]
 - [[people/shunkov|Михаил Шуньков]]
 - [[people/paabo|Сванте Пääбо]]
 - [[people/andrey-sklyarov]]
+
+- [[concepts/alternativnaya-istoriya|Альтернативная история]]
+- [[guides/paleokontakt|Путеводитель: Палеоконтакт]]
+- [[events/troyanskaya-voyna|Троянская война]]
+- [[artifacts/kamni-iki|Камни Ики]]

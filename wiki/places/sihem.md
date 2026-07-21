@@ -1,8 +1,10 @@
 ---
+
 slug: sihem
 title: "Сихем (синоним)"
 categories: [places]
 tags: [israel, samaria, bible]
+description: "Примечание: Данная статья является дубликатом places/sikhem|Сихема. Основная информация находится в статье places/sikhem|Сихем."
 ---
 
 # Сихем
@@ -22,3 +24,9 @@ tags: [israel, samaria, bible]
 - [[places/ierusalim|Иерусалим]]
 - [[places/kanan|Ханаан]]
 - [[books/30-yahweh-protiv-baala|Яхве против Баала]]
+
+- [[concepts/yahweh-vs-baal|Конфликт Яхве и Баала]]
+- [[events/iskhod|Исход]]
+- [[concepts/alternativnaya-istoriya|Альтернативная история]]
+- [[guides/paleokontakt|Путеводитель: Палеоконтакт]]
+- [[artifacts/kamni-iki|Камни Ики]]

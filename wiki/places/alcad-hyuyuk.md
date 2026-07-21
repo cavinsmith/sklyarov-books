@@ -1,8 +1,10 @@
 ---
+
 slug: alcad-hyuyuk
 title: Аладжахююк
 categories: [places]
 tags: [turkey, megalith, polygons, ancient]
+description: "Древнее поселение в Турции с мегалитическими сооружениями, демонстрирующими полигональную кладку, аналогичную сооружениям в Южной Америке."
 ---
 
 # Аладжахююк (Alacahöyük)
@@ -27,3 +29,8 @@ tags: [turkey, megalith, polygons, ancient]
 - [[places/kusko]]
 - [[concepts/megaliticheskie-sooruzheniya]]
 - [[books/27-sozdanie-tsivilizaciy]]
+- [[places/chayonyu-tepesi]]
+- [[places/arslantepe]]
+- [[concepts/disk-saw]]
+- [[places/norsun-tepe]]
+- [[places/aladzha-hyuyuk]]

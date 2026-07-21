@@ -1,8 +1,10 @@
 ---
+
 slug: geoglify
 title: "Геоглифы Наски"
 categories: [concepts]
 tags: []
+description: "Гигантские рисунки и линии на поверхности places/plato-naska|плато Наска и places/palpa|Пальпы в Перу, созданные путём перемещения тёмных..."
 ---
 
 # Геоглифы Наски
@@ -58,3 +60,9 @@ tags: []
 - [[concepts/potop|Потопная катастрофа]]
 - [[concepts/kultura-naska|Культура Наска]]
 - [[books/23-naska|Наска: гигантские рисунки на полях]]
+
+- [[events/velikii-potop|Великий Потоп]]
+- [[events/global-flood|Всемирный потоп]]
+- [[concepts/drevnie-bogi|Древние боги]]
+- [[concepts/civilization-of-gods|Цивилизация богов]]
+- [[concepts/megalithic-architecture|Мегалитическая архитектура]]

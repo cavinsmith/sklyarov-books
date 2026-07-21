@@ -1,8 +1,10 @@
 ---
+
 slug: teinosa
 title: "Тейноса"
 categories: [places]
-tags: []
+tags: [peru, archaeology]
+description: "Тейноса — древний археологический объект в Перу."
 ---
 
 # Тейноса
@@ -25,5 +27,5 @@ tags: []
 
 - [[places/naska]] —Наска, культураНаска
 - [[places/parakas]] — Паракас
-- [[places/peru]] — Перу
+- [[guides/peru]] — Перу
 - [[concepts/kultura-naska]] — культураНаска

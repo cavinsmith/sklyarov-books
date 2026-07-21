@@ -1,8 +1,10 @@
 ---
+
 slug: mezopotamiya
 title: "Месопотамия"
 categories: [places]
 tags: []
+description: "Древнейшая цивилизация, возникшая вplaces/mesopotamiya-nizmennost|Месопотамской низменности между реками Тигр и Евфрат (современный Ирак). Ключевой..."
 ---
 
 # Месопотамия

@@ -1,8 +1,10 @@
 ---
+
 slug: meteorites
 title: "Метеориты"
 categories: [concepts]
 tags: [космос, катастрофы, импакт, Потоп]
+description: "Описание: Космические тела, упавшие на Землю. Падение крупного метеорита — причина events/potop-xi-tysyacheletiya|Потопа XI тысячелетия до н.э. по..."
 ---
 
 # Метеориты

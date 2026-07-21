@@ -6,11 +6,9 @@ categories:
   - geography
   - india
   - legendary
-tags:
-  - vedic
-  - river
-  - dried-up
-  - indus
+tags: [vedic, river, dried-up, indus]
+description: "Сарасвати (санскр. सरस्वती) — река, упоминаемая в Ведах как могучая река, которая «исчезла в песке» к началу I тыс. до н.э."
+
 ---
 
 # Сарасвати
@@ -31,3 +29,9 @@ tags:
 
 - [[places/mohenjo-daro|Мохенджо-Даро]]
 - [[books/27-sozdanie-tsivilizaciy|Создание древних цивилизаций]]
+
+- [[places/mohendzho-daro|Мохенджо-Даро]]
+- [[places/reka-huanhe]]
+- [[places/mohenjo-daro]]
+- [[places/mohendzho-daro]]
+- [[places/kharrapa]]

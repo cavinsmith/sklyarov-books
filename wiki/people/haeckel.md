@@ -1,8 +1,10 @@
 ---
+
 slug: haeckel
 title: Эрнст Геккель
 categories: [people]
 tags: [biology, philosophy, evolution, germany]
+description: "Немецкий биолог, зоолог и философ, один из основоположников дарвинизма в Германии."
 ---
 
 # Эрнст Геккель (Ernst Haeckel)

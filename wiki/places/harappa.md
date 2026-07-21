@@ -1,8 +1,10 @@
 ---
+
 slug: harappa
 title: "Хараппа"
 categories: [places]
 tags: [india, indus-valley, bronze-age, urban]
+description: "Местоположение: Пенджаб, Пакистан"
 ---
 
 # Хараппа
@@ -47,3 +49,9 @@ tags: [india, indus-valley, bronze-age, urban]
 
 - [[places/bmac]] — Бактрийско-Мариапольская культура
 - [[places/mezopotamiya]] — Месопотамия, торговый партнёр
+
+- [[concepts/drevnie-bogi|Древние боги]]
+- [[concepts/kultovye-sooruzheniya|Культовые сооружения]]
+- [[places/temple-mount|Храмовая гора]]
+- [[concepts/alternativnaya-istoriya|Альтернативная история]]
+- [[guides/paleokontakt|Путеводитель: Палеоконтакт]]

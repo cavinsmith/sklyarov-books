@@ -1,8 +1,10 @@
 ---
+
 slug: gilgamesh
 title: "Гильгамеш (Gilgamesh)"
 categories: [people]
 tags: [shumer, epic, flood]
+description: "Описание: Герой древнешумерского и древневавилонского эпоса, полубог-полуцарь города Урук. Эпос о Гильгамеше — один из древнейших литературных..."
 ---
 
 # Гильгамеш (Gilgamesh)

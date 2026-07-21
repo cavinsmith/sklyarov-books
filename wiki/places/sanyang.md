@@ -1,8 +1,10 @@
 ---
+
 slug: sanyang
 title: Саньян
 categories: [places]
 tags: [china, ancient-city, archaeology]
+description: "Страна: Китай"
 ---
 
 # Саньян
@@ -26,3 +28,14 @@ tags: [china, ancient-city, archaeology]
 
 - [[places/xian]] — Сиань
 - [[books/16-sensacionnaya-istoriya]]
+
+## Связанные страницы
+- [[places/arkaim|Аркаим]]
+- [[guides/drevniy-egipet|Путеводитель: Древний Египет]]
+- [[people/ershova-g|Г. Ершова]]
+
+- [[places/mycenae|Микены]]
+- [[places/oaxaca|Оахака]]
+- [[places/napata|Напата]]
+- [[places/meroe|Мероэ]]
+- [[people/akambaro|Акамбаро]]

@@ -5,10 +5,9 @@ categories:
   - places
   - geography
   - israel
-tags:
-  - samaria
-  - bible
-  - mount-gerizim
+tags: [samaria, bible, mount-gerizim]
+description: "Гора Гевал (ивр. הר עיבל) — гора в Самарии, упоминаемая в Библии как место проклятия народа после завоевания Ханаана. Расположена напротив горы..."
+
 ---
 
 # Гора Гевал

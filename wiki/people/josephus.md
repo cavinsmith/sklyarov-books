@@ -1,8 +1,10 @@
 ---
+
 slug: josephus
 title: "Иосиф Флавий"
 categories: [people]
 tags: []
+description: "Полное имя: Йосеф бен Матитьяху (Иосиф Флавий)"
 ---
 
 # Иосиф Флавий

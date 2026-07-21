@@ -1,8 +1,10 @@
 ---
+
 slug: mariya-reyhe
 title: "Мария Рейхе"
 categories: [people]
 tags: [nazca, geoglyphs, germany]
+description: "Мария Рейхе (1903–1998) — немецкая исследовательница places/plato-naska|геоглифов Наски, посвятившая более 50 лет изучению загадочных линий и..."
 ---
 
 # Мария Рейхе

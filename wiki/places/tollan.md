@@ -5,11 +5,9 @@ categories:
   - places
   - archaeology
   - mesoamerica
-tags:
-  - toltecs
-  - mexico
-  - pyramids
-  - bronze-age
+tags: [toltecs, mexico, pyramids, bronze-age]
+description: "Толлан (на языке науатль: Tollan, «Место тростника») — столица цивилизации тольтеков, расположенная на территории современного мексиканского города..."
+
 ---
 
 # Толлан (Тула)
@@ -51,10 +49,16 @@ tags:
 
 - [[places/teotihuacan]] — Теотиуакан, древний город с пирамидами
 - [[places/chichen-itsa]] — Чичен-Ица, город майя, испытавший влияние тольтеков
-- [[places/maya]] — Цивилизация майя
+- [[concepts/maya]] — Цивилизация майя
 - [[concepts/pyramids]] — Пирамиды Мезоамерики
 
 ## См. также
 
-- [[places/meksika]] — Мексика, современное расположение Толлана
+- [[guides/meksika]] — Мексика, современное расположение Толлана
 - [[places/palenque]] — Паленке, город майя
+
+- [[artifacts/great-pyramid|Великая пирамида Гизы]]
+- [[concepts/megalithic-architecture|Мегалитическая архитектура]]
+- [[places/giza|Гиза]]
+- [[places/olmeki|Ольмеки]]
+- [[books/13-meksika-bez-krivyh-zerkal|Древняя Мексика без кривых зеркал]]

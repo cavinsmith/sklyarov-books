@@ -1,8 +1,10 @@
 ---
+
 slug: ernst-muldashev
 title: "Эрнст Мульдашев"
 categories: [people]
 tags: []
+description: "Российский офтальмохирург и исследователь, автор альтернативных теорий происхождения человека и цивилизации, связанных с Тибетом и Эфиопией."
 ---
 
 # Эрнст Мульдашев
@@ -28,3 +30,10 @@ tags: []
 - [[concepts/drevnie-bogi|Древние боги]] — «боги» как создатели цивилизации
 - [[concepts/evolycionizm|Эволюционизм]] — оспаривание стандартной теории
 - [[places/tibet|Тибет]] — регион исследований
+
+## См. также
+- [[concepts/civilization-of-gods|Цивилизация богов]]
+- [[events/ekspediciya-sklyarova-v-egipet-2004|Экспедиция Склярова в Египет 2004]]
+- [[events/puteshestviya|Путешествия]]
+- [[concepts/alternativnaya-istoriya|Альтернативная история]]
+- [[guides/paleokontakt|Путеводитель: Палеоконтакт]]

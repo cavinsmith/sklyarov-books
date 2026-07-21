@@ -1,8 +1,10 @@
 ---
+
 slug: ussher
 title: Джеймс Ашер
 categories: [people]
 tags: [chronology, ireland, bible, dating]
+description: "Ирландский архиепископ и хронолог, вычисливший дату сотворения мира по Библии."
 ---
 
 # Джеймс Ашер (James Ussher)
@@ -26,3 +28,8 @@ tags: [chronology, ireland, bible, dating]
 
 - [[concepts/geokhronologiya]]
 - [[books/09-geohronologiya]]
+- [[methods/dendrokhronologiya]]
+- [[methods/radiouglerodnoe-datirovanie]]
+- [[guides/datirovanie]]
+- [[concepts/radioaktivnyj-raspad]]
+- [[artifacts/vavilonskaya-bashnya]]

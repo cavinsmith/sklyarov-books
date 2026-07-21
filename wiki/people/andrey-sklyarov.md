@@ -1,8 +1,10 @@
 ---
+
 slug: andrey-sklyarov
 title: "Андрей Скляров"
 categories: [people]
 tags: []
+description: "Андрей Викторович Скляров — исследователь, основатель НИЦ «Евразия» и автора серии книг «Разгром мифов» и «Тайны древних цивилизаций»."
 ---
 
 # Андрей Скляров
@@ -17,5 +19,10 @@ tags: []
 
 ## См. также
 
-- [[concepts/paleokontakt]] — палеоконтакт
+- [[guides/paleokontakt]] — палеоконтакт
 - [[concepts/geokhronologiya]] — геохронология
+- [[people/indeks-personaliy]]
+- [[places/peschera-makhpela]]
+- [[places/ramesseum]]
+- [[expeditions/ekspediciya-v-meksiku-2007]]
+- [[people/zhukov]]

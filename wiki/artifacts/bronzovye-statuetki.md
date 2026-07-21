@@ -5,10 +5,9 @@ categories:
   - artifacts
   - metallurgy
   - sculpture
-tags:
-  - bronze
-  - figurines
-  - ancient
+tags: [bronze, figurines, ancient]
+description: "Небольшие фигурки из бронзы, обнаруженные в археологических контекстах разных культур, свидетельствующие о высоком уровне мастерства металлообработки..."
+
 ---
 
 # Бронзовые статуэтки

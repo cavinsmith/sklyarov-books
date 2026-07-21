@@ -1,8 +1,10 @@
 ---
+
 slug: gamio
 title: Мануэль Гамио
 categories: [people]
 tags: [mexico, archaeology, teotihuacan]
+description: "Мексиканский археолог, руководивший раскопками в places/teotihuacan|Теотиуакане."
 ---
 
 # Мануэль Гамио (Manuel Gamio)
@@ -24,5 +26,5 @@ tags: [mexico, archaeology, teotihuacan]
 ## См. также
 
 - [[places/teotihuacan]]
-- [[places/meksika]]
+- [[guides/meksika]]
 - [[books/13-meksika-bez-krivyh-zerkal]]

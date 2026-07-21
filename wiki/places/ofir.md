@@ -5,10 +5,9 @@ categories:
   - places
   - biblical
   - legendary
-tags:
-  - gold
-  - solomon
-  - biblical
+tags: [gold, solomon, biblical]
+description: "Офир (ивр. אוֹפִיר) — легендарная золотоносная страна, упоминаемая в Библии."
+
 ---
 
 # Офир
@@ -28,3 +27,5 @@ tags:
 
 - [[people/solomon|Соломон]]
 - [[books/22-metally|Металлы — дар небесных богов]]
+
+- [[concepts/metally-dar-nebesnykh-bogov|Металлы — дар небесных богов]]

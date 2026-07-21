@@ -1,8 +1,10 @@
 ---
+
 slug: kadesh
 title: "Кадеш"
 categories: [places]
 tags: [syria, egypt, battle, ramesses]
+description: "Расположение: Сирийская пустыни, современная Сирия"
 ---
 
 # Кадеш
@@ -29,7 +31,7 @@ tags: [syria, egypt, battle, ramesses]
 
 ## Упоминание в работах
 
-- [[books/30-yahve-protив-baала]] — Кадеш как ключевой объект исследования
+- [[books/30-yahve-protiv-baala]] — Кадеш как ключевой объект исследования
 - [[events/battle-kadesh]] — битва при Кадеше
 
 ## Связанные концепции

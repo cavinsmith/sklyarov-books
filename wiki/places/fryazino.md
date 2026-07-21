@@ -1,8 +1,10 @@
 ---
+
 slug: fryazino
 title: "Фрязино"
 categories: [places]
 tags: []
+description: "Город в Московской области, Россия. В работах А. Склярова Фрязино упоминается как местоположение places/lab-alternativnoy-istorii|Лаборатории..."
 ---
 
 # Фрязино

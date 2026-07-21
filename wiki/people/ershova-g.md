@@ -1,8 +1,10 @@
 ---
+
 slug: ershova-g
 title: "Г. Ершова"
 categories: [people]
 tags: [maya, archaeology]
+description: "Описание: Ученица Ю.В. Кнорозова, советского этнографа и лингвиста, дешифровщика письменности майя. Автор описания поселения ацтеков,..."
 ---
 
 # Г. Ершова
@@ -25,3 +27,9 @@ tags: [maya, archaeology]
 - [[people/knorozov|Ю.В. Кнорозов]] — учитель, дешифровщик письменности майя
 - [[concepts/edinaya-pismennost|Единая письменность]] — гипотеза о связи различных систем письма
 - [[books/07-radio-uglerodnoe-datirovanie|Вавилонская башня — рекордсмен долгостроя]]
+
+
+## См. также
+
+- [[people/ruz-lujilye-alberto]]
+- [[people/coe]]

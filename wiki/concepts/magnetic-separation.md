@@ -1,8 +1,10 @@
 ---
+
 slug: magnetic-separation
 title: Магнитная сепарация
 categories: [concepts]
 tags: [technology, magnetic, separation, ancient]
+description: "Концепция использования магнитной сепарации для обработки материалов в древности. Свидетельства обнаружены на некоторых артефактах."
 ---
 
 # Магнитная сепарация
@@ -24,3 +26,10 @@ tags: [technology, magnetic, separation, ancient]
 
 - [[concepts/magnitnaya-separaciya]] - Магнитная сепарация
 - [[books/18-drevnie-bogi]]
+
+- [[concepts/drevnie-bogi|Древние боги]]
+- [[concepts/disk-saw]]
+- [[concepts/plastic-technology]]
+- [[concepts/gods-and-pyramids]]
+- [[people/theophilus]]
+- [[concepts/contact-of-two-civilizations]]

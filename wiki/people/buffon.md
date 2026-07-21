@@ -1,8 +1,10 @@
 ---
+
 slug: buffon
 title: "Жорж-Луи Леклерк де Бюффон (Georges-Louis Leclerc, Comte de Buffon)"
 categories: [people]
 tags: []
+description: "Французский натуралист, математик и космолог (1707--1788), один из основоположников эволюционной мысли. Его многотомный труд «Естественная история»..."
 ---
 
 # Жорж-Луи Леклерк де Бюффон (Georges-Louis Leclerc, Comte de Buffon)

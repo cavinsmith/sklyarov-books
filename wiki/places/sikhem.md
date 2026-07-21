@@ -5,11 +5,9 @@ categories:
   - places
   - archaeology
   - israel
-tags:
-  - samaria
-  - bible
-  - mount-gerizim
-  - mount-eval
+tags: [samaria, bible, mount-gerizim, mount-eval]
+description: "Сихем (ивр. שְׁכֶם) — древний город в Самарии, упоминаемый в Библии как место торжественного подтверждения Завета между горами Гаризим и Гевал."
+
 ---
 
 # Сихем

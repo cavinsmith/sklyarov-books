@@ -1,14 +1,9 @@
 ---
 slug: vorovskaya-jama
 title: "Воровская яма"
-categories:
-  - places
-  - geography
-  - russia
-tags:
-  - copper
-  - mining
-  - ural
+categories: [places]
+tags: [медь, добыча, Урал]
+description: "Воровская яма — открытый медный рудник в Челябинской области, один из древнейших известных мест добычи меди на Урале."
 ---
 
 # Воровская яма
@@ -48,11 +43,12 @@ tags:
 
 ## Связанные концепции
 
-- [[places/ural]] — Урал, регион расположения рудника
-- [[concepts/copper-mining]] — Добыча меди
-- [[concepts/bronze-age]] — Эпоха бронзы
+- [[places/ural|Урал]] — регион расположения рудника
+- [[concepts/copper-mining|Добыча меди]]
+- [[concepts/bronze-age|Эпоха бронзы]]
 
 ## См. также
 
-- [[places/kargalinskie-rudniki]] — Каргалинские рудники, другой важный центр добычи меди
-- [[places/arkaim]] — Аркаим, древний город вблизи рудников
+- [[places/kargalinskie-rudniki|Каргалинские рудники]] — другой важный центр добычи меди
+- [[places/arkaim|Аркаим]] — древний город вблизи рудников
+- [[people/andrey-sklyarov|Андрей Скляров]]

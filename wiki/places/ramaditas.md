@@ -5,11 +5,9 @@ categories:
   - places
   - archaeology
   - chile
-tags:
-  - metallurgy
-  - copper
-  - mining
-  - atacama
+tags: [metallurgy, copper, mining, atacama]
+description: "Рамадитас — археологический памятник в пустыне Атакама (Чили), важный центр металлургического производства. Здесь обнаружены остатки древних печей..."
+
 ---
 
 # Рамадитас

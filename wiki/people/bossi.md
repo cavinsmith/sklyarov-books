@@ -1,8 +1,10 @@
 ---
+
 slug: bossi
 title: "Герман Е. Босси"
 categories: [people]
 tags: [nazca, astronomy]
+description: "Герман Е. Босси — исследователь, связавший геоглиф «Эстрелла» на places/palpa|Пальпе со звездой HD 42807."
 ---
 
 # Герман Е. Босси

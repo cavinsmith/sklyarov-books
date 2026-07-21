@@ -1,8 +1,9 @@
 ---
 slug: obsidianovye-veretena
-title: "Обсидиановые "веретёна""
-categories: artifacts
-tags: []
+title: "Обсидиановые веретёна"
+categories: [artifacts]
+tags: [obsidian, mexico, lathe]
+description: "Обсидиановые веретёна — артефакты из обсидиана, обнаруженные в Мексике."
 ---
 
 # Обсидиановые "веретёна"
@@ -25,3 +26,8 @@ tags: []
 **Связанные сущности:**
 - [[places/nacionalny-muzej]] -- место хранения
 - [[books/13-meksika-bez-krivyh-zerkal]] -- книга, описывающая артефакты
+
+## Связанные страницы
+
+- [[artifacts/hrustalnye-veretena|Хрустальные "веретёна]]
+- [[artifacts/obsidian-shuttles|Обсидиановые челноки]]

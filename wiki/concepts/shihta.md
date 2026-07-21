@@ -1,8 +1,10 @@
 ---
+
 slug: shihta
 title: "Шихта"
 categories: [concepts]
 tags: []
+description: "Искусственная смесь руд и добавок, подготовленная для плавки в доменной или другой печи, играющая важную роль в истории металлургии."
 ---
 
 # Шихта
@@ -28,3 +30,13 @@ tags: []
 - [[concepts/zheleznyj-vek|Железный век]] — эпоха распространения железа
 - [[concepts/tigelnaya-plavka|Тигельная плавка]] — метод переплавки металлов
 - [[concepts/eksperimentalnaya-metallurgiya|Экспериментальная металлургия]] — исследования древних методов
+
+
+## См. также
+
+- [[concepts/index-concepts|Индекс концепций]]
+- [[concepts/drevnie-bogi|Древние боги]]
+- [[concepts/civilization-of-gods|Цивилизация богов]]
+- [[concepts/alternativnaya-istoriya|Альтернативная история]]
+- [[guides/paleokontakt|Путеводитель: Палеоконтакт]]
+- [[concepts/potop|Потоп]]

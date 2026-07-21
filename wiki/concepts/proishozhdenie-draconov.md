@@ -2,7 +2,8 @@
 slug: proishozhdenie-draconov
 title: "Происхождение мифов о Драконах"
 categories: [concepts]
-tags: []
+tags: [mythology, dragons, paleokontakt]
+description: "Гипотеза Склярова о реальном прототипе мифологических Змеев-Драконов: инопланетная цивилизация разумных ящероподобных существ, посетивших Землю."
 ---
 
 # Происхождение мифов о Драконах
@@ -24,6 +25,6 @@ tags: []
 
 **Связанные сущности:**
 - [[concepts/dracoonografiya]] -- метод исследования
-- [[concepts/paleokontakt]] -- общая тема
+- [[guides/paleokontakt]] -- общая тема
 - [[concepts/drevnie-bogi]] -- предполагаемые "боги", воевавшие с Драконами
 - [[books/11-dragonografiya]] -- книга, в которой представлена гипотеза

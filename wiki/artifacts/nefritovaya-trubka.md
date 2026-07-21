@@ -1,8 +1,10 @@
 ---
+
 slug: nefritovaya-trubka
 title: "Нефритовая трубка с полостью"
-categories: artifacts
-tags: []
+categories: [artifacts]
+tags: [artifact, jade, mexico]
+description: "Описание: Артефакт из нефрита, обнаруженный в Мексике. Представляет собой трубку с тонкими стенками (1-1,5 мм) и внутренней полостью, выточенной из..."
 ---
 
 # Нефритовая трубка с полостью
@@ -24,3 +26,14 @@ tags: []
 **Связанные сущности:**
 - [[places/nacionalny-muzej]] -- место хранения
 - [[books/13-meksika-bez-krivyh-zerkal]] -- книга, описывающая артефакт
+
+## Связанные страницы
+
+- [[artifacts/nefritovaya-spiralnaya-trubka|Нефритовая спиральная трубка]]
+- [[artifacts/spiralnaya-trubka-iz-nefrita|Спиральная трубка из нефрита]]
+- [[artifacts/sosudy-zakruglennym-dnom|Сосуды с закруглённым дном]]
+- [[guides/paleokontakt]] — палеоконтакт
+- [[concepts/civilization-of-gods]] — цивилизация богов
+- [[concepts/utrachennye-tekhnologii]] — утраченные технологии
+- [[books/15-peru-i-boliviya|Перу и Боливия задолго до инков]]
+- [[books/01-mif-o-potope|Миф о Потопе]]

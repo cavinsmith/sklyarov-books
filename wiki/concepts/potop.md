@@ -1,8 +1,12 @@
 ---
+
+
 slug: potop
 title: "Потоп"
 categories: [concepts]
 tags: [катастрофа, потоп, мифология]
+description: "Всемирный потоп — глобальная катастрофа, уничтожившая древние цивилизации и ставшая одной из ключевых тем в работах people/andrey-sklyarov|Андрея..."
+
 ---
 
 # Потоп
@@ -68,7 +72,7 @@ tags: [катастрофа, потоп, мифология]
 
 - [[concepts/drevnie-bogi]] — боги, пережившие Потоп
 - [[concepts/utrachennye-tekhnologii]] — утраченные технологии
-- [[concepts/paleokontakt]] — палеоконтакт
+- [[guides/paleokontakt]] — палеоконтакт
 - [[places/plato-naska|Плато Наска]]
 - [[places/filippinskoe-more|Филиппинское море]]
 - [[concepts/proskalzyvanie-kory|Проскальзывание земной коры]]

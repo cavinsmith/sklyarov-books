@@ -1,8 +1,10 @@
 ---
+
 slug: dinozavri-na-kamnyah-iki
 title: "Динозавры на камнях Ики"
 categories: [concepts]
 tags: []
+description: "Сюжетная группа на artifacts/kamni-iki|камнях Ики, составляющая около трети коллекции people/havyer-kabrera|доктора Кабреры, представляющая..."
 ---
 
 # Динозавры на камнях Ики
@@ -39,6 +41,6 @@ tags: []
 ## Связанные страницы
 - [[artifacts/kamni-iki]]
 - [[events/vsemirnyi-potop]]
-- [[concepts/paleokontakt]]
+- [[guides/paleokontakt]]
 - [[books/15-peru-i-boliviya|«Перу и Боливия задолго до инков»]]
 - [[books/16-sensacionnaya-istoriya|«Сенсационная история Земли»]]

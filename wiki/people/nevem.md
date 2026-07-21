@@ -1,8 +1,10 @@
 ---
+
 slug: nevem
 title: "Невем"
 categories: [people]
 tags: [dragonography]
+description: "Исследователь, упоминаемый в контексте concepts/dracoonografiya|драконографии."
 ---
 
 # Невем

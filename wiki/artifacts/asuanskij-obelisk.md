@@ -1,8 +1,10 @@
 ---
+
 slug: asuanskij-obelisk
 title: Асуанский обелиск
 categories: [artifacts]
 tags: [egypt, obelisk, aswan, granite, ancient-technology]
+description: "Местоположение: places/aswan|Асуан, Египет"
 ---
 
 # Асуанский обелиск
@@ -39,3 +41,9 @@ tags: [egypt, obelisk, aswan, granite, ancient-technology]
 - [[artifacts/nezavershennyj-obelisk]] — другой незавершённый обелиск в том же карьере
 - [[places/abu-roat]] — обелиск Хатшепсут, перевезённый из Асуана
 - [[books/12-tsivilizaciya-bogov-egipta]] — книга о цивилизации богов Египта
+
+## Связанные страницы
+
+- [[places/kadesh|Кадеш]]
+- [[places/pyramids|Пирамиды]]
+- [[places/luxor|Луксор]]

@@ -5,11 +5,9 @@ categories:
   - artifacts
   - metallurgy
   - tools
-tags:
-  - copper
-  - axe
-  - hopewell
-  - mississippi
+tags: [copper, axe, hopewell, mississippi]
+description: "Медные топоры — массовые находки в культурах Хоупвелл и Миссисипи."
+
 ---
 
 # Медные топоры
@@ -35,7 +33,7 @@ tags:
 ## См. также
 
 - [[artifacts/mednyj-topor|Медный топор]]
-- [[artifacts/metalloobrabotka|Древняя металлургия]]
+- [[concepts/metalloobrabotka|Древняя металлургия]]
 - [[artifacts/halcopyrite|Халькопирит]]
 - [[artifacts/bornit|Борнит]]
 - [[books/22-metally|Металлы — дар небесных богов]]

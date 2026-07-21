@@ -1,8 +1,10 @@
 ---
+
 slug: mariana-trench
 title: Марианская впадина
 categories: [places]
 tags: [pacific, ocean, trench, deepest-point]
+description: "Расположение: Тихий океан"
 ---
 
 # Марианская впадина
@@ -29,3 +31,9 @@ tags: [pacific, ocean, trench, deepest-point]
 
 - [[places/filippinskoe-more]] — Филиппинское море
 - [[books/16-sensacionnaya-istoriya]]
+
+- [[concepts/pacific-ocean|Тихий океан]]
+- [[places/philippine-sea]]
+- [[places/karibmore]]
+- [[places/tihij-okean]]
+- [[places/sredizemnoe-more]]

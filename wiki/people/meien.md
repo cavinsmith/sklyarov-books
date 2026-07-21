@@ -1,8 +1,10 @@
 ---
+
 slug: meien
 title: "С. В. Мейен"
 categories: [people]
 tags: [paleobotany, evolution]
+description: "Роль: Выдающийся российский палеоботаник, критик догматизма в эволюционной теории."
 ---
 
 # С. В. Мейен

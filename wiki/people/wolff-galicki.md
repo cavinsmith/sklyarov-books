@@ -1,8 +1,10 @@
 ---
+
 slug: wolff-galicki
 title: "Вольф-Галики"
 categories: [people]
 tags: [nazca, extraterrestrial]
+description: "Вольф-Галики — исследователь, предложивший теорию сигналов из внеземной жизни для геоглифов places/plato-naska|Наски."
 ---
 
 # Вольф-Галики
@@ -16,5 +18,5 @@ tags: [nazca, extraterrestrial]
 ## См. также
 
 - [[places/plato-naska|Плато Наска]]
-- [[concepts/paleokontakt|Палеоконтакт]]
+- [[guides/paleokontakt|Палеоконтакт]]
 - [[concepts/geoglify|Геоглифы]]

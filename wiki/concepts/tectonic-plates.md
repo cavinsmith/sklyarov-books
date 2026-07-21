@@ -1,8 +1,10 @@
 ---
+
 slug: tectonic-plates
 title: "Тектонические плиты"
 categories: [concepts]
 tags: [геология, тектоника, литосфера, движение]
+description: "Крупные фрагменты литосферы Земли, перемещающиеся по concepts/astenosfera|астеносфере. Теория тектоники плит является основой современной геологии и..."
 ---
 
 # Тектонические плиты
@@ -87,7 +89,7 @@ tags: [геология, тектоника, литосфера, движени�
 
 ## См. также
 
-- [[concepts/astenosferа]] — астеносфера
+- [[concepts/astenosfer]] — астеносфера
 - [[concepts/spreading-subduction]] — спрединг и субдукция
 - [[concepts/proskalzyvanie-kory]] — проскальзывание коры
 - [[concepts/growing-earth]] — теория роста Земли

@@ -1,8 +1,10 @@
 ---
+
 slug: permsko-triasovoe-poboische
 title: "Пермско-триасовое побоище"
 categories: [concepts]
 tags: []
+description: "Другие названия: Пермское вымирание, Великое вымирание"
 ---
 
 # Пермско-триасовое побоище

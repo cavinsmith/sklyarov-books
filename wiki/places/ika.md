@@ -1,8 +1,10 @@
 ---
+
 slug: ika
 title: "Ика"
 categories: [places]
 tags: []
+description: "Город и провинция в Перу на тихоокеанском побережье, центр находок artifacts/kamni-iki|камней Ики. Расположена примерно в 300 км к югу от places/lima."
 ---
 
 # Ика

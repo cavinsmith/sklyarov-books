@@ -1,8 +1,10 @@
 ---
+
 slug: yam-mu-baal-conflict
 title: Конфликт Ям-Му-Баал
 categories: [concepts]
 tags: [mythology, conflict, baal, yamm]
+description: "Мифологический конфликт между богами Ямом (морским богом) и Баалом. Символизирует борьбу хаоса и порядка."
 ---
 
 # Конфликт Ям-Му-Баал
@@ -20,8 +22,13 @@ tags: [mythology, conflict, baal, yamm]
 
 ---
 
+## Источники
+
+- [[books/19-zemlya-vaala|Земля Ваала]] — анализ конфликта Ям-Баал в контексте ханаанской мифологии.
+
 ## См. также
 
-- [[concepts/voyna-bogov]] - Война богов
-- [[concepts/baal]] - Баал
-- [[books/19-zemlya-vaala]]
+- [[concepts/voyna-bogov|Война богов]]
+- [[concepts/baal|Баал]]
+- [[concepts/gods-as-rebels|Боги как мятежники]]
+- [[people/ninhursag|Нинхурсаг]]

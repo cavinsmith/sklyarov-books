@@ -1,8 +1,10 @@
 ---
+
 slug: parakas
 title: "Паракас"
 categories: [places]
-tags: []
+tags: [peru, culture, skulls]
+description: "Паракас — полуостров и регион на побережье Перу."
 ---
 
 # Паракас

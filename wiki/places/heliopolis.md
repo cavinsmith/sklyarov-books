@@ -1,8 +1,10 @@
 ---
+
 slug: heliopolis
 title: "Гелиополис"
 categories: [places]
 tags: []
+description: "Древний египетский город, центр культа Солнца. Современный Каир."
 ---
 
 # Гелиополис
@@ -21,3 +23,5 @@ tags: []
 ## См. также
 
 - [[people/ra]]
+
+- [[places/rodnaya-planeta-bogov|rodnaya-planeta-bogov]]

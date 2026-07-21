@@ -1,8 +1,10 @@
 ---
+
 slug: woodman
 title: "Джим Вудманн"
 categories: [people]
 tags: [nazca, balloon]
+description: "Джим Вудманн — исследователь, проведший эксперимент с воздушным шаром над places/plato-naska|плато Наска."
 ---
 
 # Джим Вудманн
@@ -23,3 +25,8 @@ tags: [nazca, balloon]
 
 - [[places/plato-naska|Плато Наска]]
 - [[concepts/geoglify|Геоглифы]]
+- [[people/dzhulian-nott]]
+- [[guides/peru]]
+- [[people/alla-belokon]]
+- [[people/nechaj]]
+- [[people/babalin]]

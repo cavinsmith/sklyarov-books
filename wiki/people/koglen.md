@@ -1,8 +1,10 @@
 ---
+
 slug: koglen
 title: "Коглен"
 categories: [people, researchers]
 tags: []
+description: "Исследователь, занимавшийся изучением аномальных артефактов и археологических находок в контексте альтернативной истории."
 ---
 
 # Коглен
@@ -23,4 +25,4 @@ tags: []
 
 - [[concepts/civilization-of-gods|Цивилизация богов]]
 - [[concepts/utrachennye-tekhnologii|Утраченные технологии]]
-- [[concepts/paleokontakt|Палеоконтакт]]
+- [[guides/paleokontakt|Палеоконтакт]]

@@ -1,8 +1,10 @@
 ---
+
 slug: uraeus
 title: "Урей"
 categories: [concepts]
 tags: []
+description: "Змея-кобра, символ божественной власти в Древнем Египте. Изображалась на лбу фараона как знак верховной власти и божественной защиты. Ассоциируется с..."
 ---
 
 # Урей
@@ -31,3 +33,9 @@ tags: []
 - [[concepts/civilization-of-gods]] — цивилизация богов
 - [[concepts/egyptian-pantheon]] — египетский пантеон
 - [[books/12-tsivilizaciya-bogov-egipta]] — «Цивилизация богов Египта»
+
+- [[places/saqqara|Саккара]]
+- [[concepts/drevnie-bogi|Древние боги]]
+- [[concepts/alternativnaya-istoriya|Альтернативная история]]
+- [[guides/paleokontakt|Путеводитель: Палеоконтакт]]
+- [[events/troyanskaya-voyna|Троянская война]]

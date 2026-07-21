@@ -1,13 +1,17 @@
 ---
+
+
 slug: diskovye-pily
 title: "Дисковые пилы"
 categories: [concepts]
 tags: []
+description: "Концепция использования дисковых пил при обработке камня в древности. В работах people/andrey-sklyarov|Андрея Склярова рассматривается как одно из..."
+
 ---
 
 # Дисковые пилы
 
-Концепция использования дисковых пил при обработке камня в древности. В работах [[people/andrey-sklyarov|Андрея Склярова]] рассматривается как одно из свидетельств [[concepts/paleokontakt|палеоконтакта]].
+Концепция использования дисковых пил при обработке камня в древности. В работах [[people/andrey-sklyarov|Андрея Склярова]] рассматривается как одно из свидетельств [[guides/paleokontakt|палеоконтакта]].
 
 ## Основные положения
 
@@ -52,7 +56,7 @@ tags: []
 
 - [[concepts/utrachennye-tekhnologii]]
 - [[concepts/sledy-mashinnoy-obrabotki-kamnya]]
-- [[concepts/paleokontakt]]
+- [[guides/paleokontakt]]
 
 ## Книги, в которых обсуждается
 
@@ -62,5 +66,5 @@ tags: []
 
 - [[concepts/utrachennye-tekhnologii]]
 - [[concepts/sledy-mashinnoy-obrabotki-kamnya]]
-- [[concepts/paleokontakt]]
+- [[guides/paleokontakt]]
 - [[concepts/drevnie-bogi|Древние боги]]

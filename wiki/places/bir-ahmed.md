@@ -1,8 +1,10 @@
 ---
+
 slug: bir-ahmed
 title: "Бир-Ахмед (Bir Aheimed / Birecik)"
 categories: [places]
 tags: []
+description: "Археологический памятник на территории современной Турции ( región Шанлыурфа), связанный с ранними свидетельствами письменности и земледелия."
 ---
 
 # Бир-Ахмед (Bir Aheimed / Birecik)

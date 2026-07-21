@@ -1,8 +1,10 @@
 ---
+
 slug: alexandria
 title: "Александрия"
 categories: [places]
 tags: []
+description: "Древний город в Египте, основанный Александром Македонским. Место Александрийской библиотеки."
 ---
 
 # Александрия
@@ -22,3 +24,10 @@ tags: []
 ## См. также
 
 - [[places/egipet-drevniy]]
+
+- [[guides/drevniy-egipet|Путеводитель: Древний Египет]]
+- [[places/jericho]]
+- [[places/heliopolis]]
+- [[places/ierusalim]]
+- [[places/indeks-mest]]
+- [[places/chichen-itsa]]

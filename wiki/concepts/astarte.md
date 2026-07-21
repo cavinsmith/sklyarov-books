@@ -1,8 +1,10 @@
 ---
+
 slug: astarte
 title: "Астарта"
 categories: [concepts]
 tags: []
+description: "Другие названия: Ашторет, Иштар, Атаргатис"
 ---
 
 # Астарта

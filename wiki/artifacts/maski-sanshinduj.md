@@ -5,16 +5,19 @@ categories:
   - artifacts
   - archaeology
   - china
-tags:
-  - bronze
-  - gold
-  - masks
-  - sanxingdui
+tags: [bronze, gold, masks, sanxingdui]
+description: "Маски Саньсиндуя — золотые и бронзовые маски-личины, обнаруженные в археологической зоне places/sanshinduj|Саньсиндуй (провинция Сычуань, Китай)."
+
 ---
 
 # Маски Саньсиндуя
 
 **Маски Саньсиндуя** — золотые и бронзовые маски-личины, обнаруженные в археологической зоне [[places/sanshinduj|Саньсиндуй]] (провинция Сычуань, Китай).
+
+
+## Связанные страницы
+
+- [[places/masks-sanshinduj|Маски из Саньшэньдуя]]
 
 ## Источники
 

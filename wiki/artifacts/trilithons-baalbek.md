@@ -1,8 +1,10 @@
 ---
+
 slug: trilithons-baalbek
 title: Трилитоны Баальбека
 categories: [artifacts]
 tags: [baalbek, megalith, lebanon, ancient-technology]
+description: "Множественное число от «трилитон» — три гигантских каменных блока, составляющих часть фундамента artifacts/baalbek-trilithon|Храма Юпитера в..."
 ---
 
 # Трилитоны Баальбека
@@ -27,3 +29,9 @@ tags: [baalbek, megalith, lebanon, ancient-technology]
 - [[artifacts/south-stone-baalbek]] — Южный камень (около 1200 тонн)
 - [[places/baalbek]] — комплекс Баальбека
 - [[books/19-zemlya-vaala]] — книга «Земля Ваала»
+
+## Связанные страницы
+
+- [[places/alcad-hyuyuk|Аладжахююк]]
+- [[places/bybl|Библ]]
+- [[concepts/piezoelectric-effect|Пьезоэлектрический эффект]]

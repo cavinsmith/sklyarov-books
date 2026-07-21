@@ -1,8 +1,10 @@
 ---
+
 slug: fomenko-at
 title: "А.Т. Фоменко"
 categories: [люди, наука, хронология, математика]
 tags: [хронология]
+description: "Описание: Советский и российский математик, академик РАН, профессор МГУ. Известен как автор «Новой хронологии» — альтернативной концепции,..."
 ---
 
 # А.Т. Фоменко
@@ -26,3 +28,11 @@ tags: [хронология]
 
 - [[people/postnikov-aa]] — А.А. Постников, автор критических работ по хронологии
 - [[concepts/absolyutnoe-datirovanie]] — абсолютное датирование как метод определения возраста
+
+
+## См. также
+
+- [[concepts/geokhronologiya]]
+- [[events/srednevekove]]
+- [[people/raushenbakh-boris]]
+- [[concepts/alternativnaya-istoriya]]

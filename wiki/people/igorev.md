@@ -1,8 +1,10 @@
 ---
+
 slug: igorev
 title: "Игорь Алексеев"
 categories: [people]
 tags: [nazca, geoglyphs]
+description: "Игорь Алексеев — исследователь, обнаруживший геоглифы с помощью Google Earth до places/truhillo|Трухильо (1000 км от places/naska|Наски)."
 ---
 
 # Игорь Алексеев

@@ -5,10 +5,9 @@ categories:
   - places
   - archaeology
   - turkey
-tags:
-  - hittite
-  - polygonal-masonry
-  - ancient-technology
+tags: [hittite, polygonal-masonry, ancient-technology]
+description: "Аладжа-хююк — археологический памятник близ places/hattusa|Хаттусы (древняя столица Хеттской империи)."
+
 ---
 
 # Аладжа-хююк

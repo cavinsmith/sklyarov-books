@@ -1,8 +1,10 @@
 ---
+
 slug: geoglify-naska
 title: "Геоглифы Наска"
 categories: artifacts
 tags: []
+description: "Система линий, полос, геометрических фигур и изображений животных на поверхности пустынного плато places/naska в Перу. Один из крупнейших..."
 ---
 
 # Геоглифы Наска
@@ -70,3 +72,6 @@ tags: []
 - [[books/15-peru-i-boliviya|«Перу и Боливия задолго до инков»]]
 - [[books/16-sensacionnaya-istoriya|«Сенсационная история Земли»]]
 - [[books/23-naska|Наска]]
+- [[places/linei-naska|Линии Наска]]
+- [[places/plato-naska|Плато Наска]]
+- [[places/plateau-nazca|Плато Наска]]

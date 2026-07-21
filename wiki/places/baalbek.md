@@ -1,8 +1,10 @@
 ---
+
 slug: baalbek
 title: "Баальбек"
 categories: [places]
-tags: []
+tags: [lebanon, megalith, temple]
+description: "Баальбек — мегалитический комплекс в Ливане."
 ---
 
 # Баальбек

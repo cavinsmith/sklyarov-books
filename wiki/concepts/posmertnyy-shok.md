@@ -1,8 +1,12 @@
 ---
+
+
 slug: posmertnyy-shok
 title: "Посмертный шок"
 categories: [concepts]
 tags: []
+description: "Концепция состояния души после смерти тела, описанная в работах people/andrey-sklyarov|Андрея Склярова в контексте «физики духа»."
+
 ---
 
 # Посмертный шок

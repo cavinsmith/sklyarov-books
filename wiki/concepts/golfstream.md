@@ -1,8 +1,10 @@
 ---
+
 slug: golfstream
 title: Гольфстрим
 categories: [concepts]
 tags: [ocean, current, climate, flood]
+description: "Тёплое океанское течение в Атлантическом океане, образовавшееся около 12 000 лет назад как следствие concepts/potop|Всемирного Потопа и изменения..."
 ---
 
 # Гольфстрим

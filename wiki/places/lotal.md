@@ -5,11 +5,9 @@ categories:
   - places
   - archaeology
   - india
-tags:
-  - indus-valley
-  - harappan
-  - port
-  - trade
+tags: [indus-valley, harappan, port, trade]
+description: "Лотал (гудж. લોથલ) — древний город Индской цивилизации, расположенный в районе Ахмедабад, штат Гуджарат, Индия. Известен как один из древнейших..."
+
 ---
 
 # Лотал

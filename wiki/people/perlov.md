@@ -1,8 +1,10 @@
 ---
+
 slug: perlov
 title: Перлов
 categories: [people]
 tags: [researcher, dragonography, mythology]
+description: "Исследователь, работы которого анализируются в контексте concepts/dracoonografiya|драконографии — науки о мифах о драконах."
 ---
 
 # Перлов
@@ -24,7 +26,7 @@ tags: [researcher, dragonography, mythology]
 - [[concepts/dracoonografiya]] — Драконография
 - [[concepts/proishozhdenie-draconov]] — Происхождение мифов о драконах
 - [[concepts/drevnie-bogi]] — Древние боги как возможные прототипы драконов
-- [[concepts/paleokontakt]] — Палеоконтакт
+- [[guides/paleokontakt]] — Палеоконтакт
 
 ## См. также
 

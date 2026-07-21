@@ -1,14 +1,10 @@
 ---
 slug: anaue
 title: "Анау"
-categories:
-  - places
-  - archaeology
-  - turkmenistan
-tags:
-  - bmac
-  - agriculture
-  - central-asia
+categories: [places]
+tags: [bmac, agriculture, central-asia]
+description: "Анау — городище в Туркмении, место находки печати с возможной письменностью БМАК."
+
 ---
 
 # Анау
@@ -29,3 +25,8 @@ tags:
 - [[places/bmac|БМАК]]
 - [[concepts/edinaya-pismennost|Единая письменность]]
 - [[books/24-opasnoe-nasledie|Опасное наследие богов]]
+- [[people/komarov-v]]
+- [[people/litvinskij]]
+- [[places/tartheriya]]
+- [[people/pompelli]]
+- [[people/shmidt]]

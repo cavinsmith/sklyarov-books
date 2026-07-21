@@ -1,8 +1,10 @@
 ---
+
 slug: nidaba
 title: Нидаба
 categories: [people]
 tags: [sumer, goddess, writing, grain]
+description: "Пантеон: Шумерский"
 ---
 
 # Нидаба

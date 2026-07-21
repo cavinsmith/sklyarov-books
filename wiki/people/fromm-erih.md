@@ -1,8 +1,10 @@
 ---
+
 slug: fromm-erih
 title: "Эрих Фромм (Erich Fromm)"
 categories: [people]
 tags: [psychology, sociology]
+description: "Немецко-американский социальный психолог, философ и социальный мыслитель (1900–1980). Представитель неофрейдизма, автор «Искусства любви», «Иметь или..."
 ---
 
 # Эрих Фромм (Erich Fromm)

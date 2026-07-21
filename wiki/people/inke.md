@@ -1,8 +1,10 @@
 ---
+
 slug: inke
 title: Инке
 categories: [people]
 tags: [researcher, peru, altitlano]
+description: "Исследователь, упоминаемый в контексте изучения древних сооружений в Перу и Боливии."
 ---
 
 # Инке

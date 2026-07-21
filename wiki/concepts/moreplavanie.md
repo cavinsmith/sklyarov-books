@@ -1,8 +1,10 @@
 ---
+
 slug: moreplavanie
 title: "Мореплавание"
 categories: [concepts]
 tags: []
+description: "Другие названия: Древнее мореплавание, Океанские путешествия"
 ---
 
 # Мореплавание

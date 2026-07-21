@@ -1,8 +1,10 @@
 ---
+
 slug: jaina
 title: Остров Хайна
 categories: [places]
 tags: [maya, mexico, island, sculpture]
+description: "Место находки: Мексика, штат Кампече"
 ---
 
 # Остров Хайна
@@ -29,3 +31,6 @@ tags: [maya, mexico, island, sculpture]
 - [[places/chichen-itza]] — Чичен-Ица
 - [[places/palenque]] — Паленке
 - [[books/13-meksika-bez-krivyh-zerkal]]
+- [[guides/meksika]]
+- [[artifacts/obsidian-monkey]]
+- [[people/ruy-vl]]

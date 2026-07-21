@@ -1,8 +1,10 @@
 ---
+
 slug: ivanov-i
 title: "И. Иванов"
 categories: [people]
 tags: [varna, necropolis]
+description: "И. Иванов — совместно с М. Лазаровым вёл раскопки Варненского некрополя."
 ---
 
 # И. Иванов

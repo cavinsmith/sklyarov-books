@@ -1,8 +1,10 @@
 ---
+
 slug: theophilus
 title: Теофил
 categories: [people]
 tags: [syria, monk, alchemy, ancient]
+description: "Сирийский монах, упоминаемый в контексте древних знаний и технологий."
 ---
 
 # Теофил
@@ -23,3 +25,5 @@ tags: [syria, monk, alchemy, ancient]
 
 - [[places/siriya-palestina]]
 - [[books/24-opasnoe-nasledie]]
+
+- [[places/syria|Сирия]]

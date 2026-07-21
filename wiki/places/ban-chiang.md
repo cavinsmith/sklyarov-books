@@ -5,12 +5,9 @@ categories:
   - places
   - archaeology
   - thailand
-tags:
-  - bronze-age
-  - copper
-  - tin
-  - southeast-asia
-  - museum
+tags: [bronze-age, copper, tin, southeast-asia, museum]
+description: "Бан-Чианг (тай. บ้านเชียง) — археологический памятник в северо-восточном Таиланде, один из важнейших центров ранней металлургии в Юго-Восточной Азии."
+
 ---
 
 # Бан-Чианг

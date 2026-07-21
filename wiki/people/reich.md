@@ -1,8 +1,10 @@
 ---
+
 slug: reich
 title: "Дэвид Райх (David Reich)"
 categories: [people]
 tags: [genetics, paleogenetics]
+description: "Американский генетик, профессор Гарвардского университета, специалист в области палеогенетики."
 ---
 
 # Дэвид Райх (David Reich)

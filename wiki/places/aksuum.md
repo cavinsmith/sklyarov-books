@@ -5,16 +5,14 @@ categories:
   - places
   - cities
   - ethiopia
-tags:
-  - kovcheg
-  - stela
-  - aksumite-kingdom
-  - ark-of-covenant
+tags: [kovcheg, stela, aksumite-kingdom, ark-of-covenant]
+description: "Аксум — город в Эфиопии, столица древнего places/aksum|Аксумского царства (I–XIV вв. н.э.). Согласно эфиопской традиции, в часовне за храмом Девы..."
+
 ---
 
 # Аксум
 
-**Аксум** — город в Эфиопии, столица древнего [[places/aksum|Аксумского царства]] (I–XIV вв. н.э.). Согласно эфиопской традиции, в часовне за храмом Девы Марии Сионской хранится оригинальный [[concepts/kovcheg-zaveta|Ковчег Завета]].
+**Аксум** — город в Эфиопии, столица древнего [[places/aksum|Аксумского царства]] (I–XIV вв. н.э.). Согласно эфиопской традиции, в часовне за храмом Девы Марии Сионской хранится оригинальный [[artifacts/kovcheg-zaveta|Ковчег Завета]].
 
 ## История Аксумского царства
 
@@ -26,7 +24,7 @@ tags:
 
 ### Строительство
 
-Церковь Девы Марии Сионской построена царём Калебом в 372 г. для хранения [[concepts/kovcheg-zaveta|Ковчега Завета]].
+Церковь Девы Марии Сионской построена царём Калебом в 372 г. для хранения [[artifacts/kovcheg-zaveta|Ковчега Завета]].
 
 ### Часовенка Хайле Селассие
 
@@ -40,7 +38,7 @@ tags:
 
 ### Легенда
 
-По преданию, [[concepts/kovcheg-zaveta|Ковчег]] привезён из Иерусалима сыном царя [[people/solomon|Соломона]] и царицы [[people/tsaritsa-savskaya|Савской]] — [[people/meneliq-i|Менеликом I]].
+По преданию, [[artifacts/kovcheg-zaveta|Ковчег]] привезён из Иерусалима сыном царя [[people/solomon|Соломона]] и царицы [[people/tsaritsa-savskaya|Савской]] — [[people/meneliq-i|Менеликом I]].
 
 ### Эфиопская рукопись «Кебра Нагаст»
 
@@ -115,7 +113,7 @@ tags:
 
 ## См. также
 
-- [[concepts/kovcheg-zaveta]] — Ковчег Завета
+- [[artifacts/kovcheg-zaveta]] — Ковчег Завета
 - [[people/solomon]] — Царь Соломон
 - [[people/tsaritsa-savskaya]] — Царица Савская
 - [[people/meneliq-i]] — Менелик I

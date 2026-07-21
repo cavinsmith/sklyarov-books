@@ -1,8 +1,10 @@
 ---
+
 slug: madridskij-kodeks
 title: Мадридский кодекс
 categories: [artifacts]
 tags: [maya, codex, hieroglyphs, astronomy]
+description: "Хранение: Национальный археологический музей, Мадрид, Испания"
 ---
 
 # Мадридский кодекс
@@ -32,3 +34,9 @@ tags: [maya, codex, hieroglyphs, astronomy]
 - [[artifacts/kodeks-grolle]] — Кодекс Гролле
 - [[artifacts/parizhskij-kodeks]] — Парижский кодекс
 - [[books/13-meksika-bez-krivyh-zerkal]]
+
+## Связанные страницы
+
+- [[concepts/kalendar-52-goda|Календарь 52 года]]
+- [[places/tikal|Тикаль]]
+- [[places/jaina|Остров Хайна]]

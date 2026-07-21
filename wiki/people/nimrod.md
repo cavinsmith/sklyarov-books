@@ -1,8 +1,10 @@
 ---
+
 slug: nimrod
 title: "Нимрод"
 categories: [people]
 tags: []
+description: "Полное имя: Нимрод (נִמְרוֹד)"
 ---
 
 # Нимрод

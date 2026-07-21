@@ -5,10 +5,9 @@ categories:
   - places
   - civilization
   - mesoamerica
-tags:
-  - mexico
-  - tenochtitlan
-  - pyramids
+tags: [mexico, tenochtitlan, pyramids]
+description: "Ацтеки (на языке науатль: Мехика) — цивилизация, существовавшая в XIV–XVI веках на территории современной Мексики. Столица — Теночтитлан, один из..."
+
 ---
 
 # Ацтеки
@@ -60,5 +59,5 @@ tags:
 ## См. также
 
 - [[places/teotihuacan]] — Теотиуакан, древний город вблизи Теночтитлана
-- [[places/maya]] — Цивилизация майя
+- [[concepts/maya]] — Цивилизация майя
 - [[places/tollan]] — Толлан, столица тольтеков

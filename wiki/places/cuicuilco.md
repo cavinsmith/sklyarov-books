@@ -1,8 +1,10 @@
 ---
+
 slug: cuicuilco
 title: Куикуилько
 categories: [places]
 tags: [mexico, ancient-city, pyramid, preclassic]
+description: "Страна: Мексика"
 ---
 
 # Куикуилько
@@ -29,3 +31,10 @@ tags: [mexico, ancient-city, pyramid, preclassic]
 
 - [[places/la-vent]] — Ла-Вента
 - [[books/13-meksika-bez-krivyh-zerkal]]
+
+- [[places/mexico-city|Мехико]]
+- [[places/palenque]]
+- [[places/oaxaca]]
+- [[places/tula]]
+- [[places/tikal]]
+- [[places/chichen-itza]]

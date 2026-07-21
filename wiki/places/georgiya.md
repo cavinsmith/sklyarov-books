@@ -1,13 +1,16 @@
 ---
 slug: georgiya
 title: "Грузия"
-categories: [places]
+categories: [places, caucasus, ancient-civilizations]
 tags: [страна, Кавказ, древняя, вино]
+description: "Страна на Южном Кавказе. Древнейшая история Грузии связана с виноделием и богами."
 ---
 
 # Грузия
 
-**Описание:** Страна на Южном Кавказе. Древнейшая история Грузии связана с виноделием и [[concepts/bogi-vysokorazvitaya-civilizaciya|богами]].
+**Грузия** — страна на Южном Кавказе. Древнейшая история Грузии связана с виноделием и [[concepts/bogi-vysokorazvitaya-civilizaciya|богами]].
+
+---
 
 ## Ключевые особенности
 
@@ -16,18 +19,38 @@ tags: [страна, Кавказ, древняя, вино]
 - [[concepts/megaliths|Мегалиты]] Грузии
 - Связь с [[places/kavkaz|Кавказом]]
 
+---
+
 ## Упоминание в работах Склярова
 
 - [[books/05-rodina-bogov|Родина богов]] — обсуждение Кавказа как региона древних цивилизаций
 - [[books/22-metally|Металлы]] — металлургия Кавказа
+- [[books/04-bitva-za-urozhay|Битва за урожай]] — Наследие пьяных богов
 
-## Книги Склярова
+---
 
-- [[books/04-bitva-za-urozhay|Наследие пьяных богов (Битва за урожай)]]
+## Книги
 
-## Связанные страницы
+- [[books/05-rodina-bogov|Родина богов]]
+- [[books/22-metally|Металлы — дар небесных богов]]
+- [[books/04-bitva-za-urozhay|Битва за урожай]]
+
+---
+
+## Связанные концепции
+
+- [[concepts/megaliths|Мегалиты]]
+- [[concepts/vinodelie|Виноделие]]
+
+---
+
+## Связанные места
 
 - [[places/kavkaz|Кавказ]]
-- [[concepts/megaliths|Мегалиты]]
-- [[books/05-rodina-bogov|Родина богов]]
-- [[books/22-metally|Металлы]]
+
+---
+
+## См. также
+
+- [[places/dmanisi|Дманиси]] — археологический памятник
+- [[concepts/bogi-vysokorazvitaya-civilizaciya|Цивилизация богов]]

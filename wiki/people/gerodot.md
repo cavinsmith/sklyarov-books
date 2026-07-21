@@ -1,8 +1,10 @@
 ---
+
 slug: gerodot
 title: "Геродот"
 categories: [people]
 tags: []
+description: "Полное имя: Геродот из Галикарнаса (Herodotus)"
 ---
 
 # Геродот

@@ -1,8 +1,10 @@
 ---
+
 slug: buiteker
 title: "Буйтекер"
 categories: [people, researchers]
 tags: []
+description: "Исследователь, упоминаемый в контексте альтернативных теорий происхождения цивилизации."
 ---
 
 # Буйтекер

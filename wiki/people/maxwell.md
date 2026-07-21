@@ -1,8 +1,10 @@
 ---
+
 slug: maxwell
 title: "Джеймс Кларк Максвелл (James Clerk Maxwell)"
 categories: [people]
 tags: [physics]
+description: "Английский физик-теоретик (1831–1879), создатель классической электродинамики. Его уравнения описывают электрические и магнитные поля и являются..."
 ---
 
 # Джеймс Кларк Максвелл (James Clerk Maxwell)
@@ -25,3 +27,5 @@ tags: [physics]
 
 - [[books/28-fizika-duha|Основы физики духа]]
 - [[concepts/rezonansno-dissonansnoe-vzaimodeystvie|Резонансно-диссонансное взаимодействие]]
+
+- [[places/nan-madol|Нан-Мадол]]

@@ -1,8 +1,10 @@
 ---
+
 slug: knorozov
 title: "Юрий Кнорозов"
 categories: [people]
 tags: [лингвистика, письменность, майя]
+description: "Юрий Валентинович Кнорозов (1922–1999) — советский учёный, лингвист и этнограф, раскрывший принципы письменности майя."
 ---
 
 # Юрий Кнорозов
@@ -21,5 +23,12 @@ tags: [лингвистика, письменность, майя]
 
 ## См. также
 
-- [[13-meksika-bez-krivyh-zerkal]]
-- [[23-naska]]
+- [[books/13-meksika-bez-krivyh-zerkal|Древняя Мексика без кривых зеркал]]
+- [[books/23-naska|Наска: гигантские рисунки на полях]]
+
+- [[projects/naska-palpa|Проект Наска-Пальпа]]
+- [[concepts/additivno-pozicionnaya-sistema]]
+- [[people/knorozov-yuriy]]
+- [[places/bmak]]
+- [[places/anau]]
+- [[places/gonurvit]]

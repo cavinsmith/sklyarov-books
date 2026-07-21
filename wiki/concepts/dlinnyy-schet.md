@@ -1,8 +1,10 @@
 ---
+
 slug: dlinnyy-schet
 title: "Длинный счёт"
 categories: [concepts]
 tags: [календарь, майя, математика]
+description: "Система записи дат, использовавшаяся цивилизацией concepts/maya|майя. Представляет собой аддитивно-позиционную систему счисления, учитывающую..."
 ---
 
 # Длинный счёт
@@ -48,4 +50,4 @@ tags: [календарь, майя, математика]
 
 - [[concepts/additivno-pozicionnaya-sistema]] — аддитивно-позиционная система счисления
 - [[concepts/maya]] — цивилизация майя
-- [[concepts/teotiuakan]] — Теотиуакан
+- [[places/teotiuakan]] — Теотиуакан

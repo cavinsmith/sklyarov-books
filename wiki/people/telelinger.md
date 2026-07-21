@@ -1,8 +1,10 @@
 ---
+
 slug: telelinger
 title: "М. Теллингер"
 categories: [people]
 tags: [mines]
+description: "М. Теллингер — исследователь древних шахт в Южной Африке."
 ---
 
 # М. Теллингер

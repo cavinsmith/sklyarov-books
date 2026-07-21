@@ -5,11 +5,9 @@ categories:
   - places
   - archaeology
   - anatolia
-tags:
-  - tin
-  - mining
-  - bronze-age
-  - turkey
+tags: [tin, mining, bronze-age, turkey]
+description: "Гельтепе (тур. Geltepe) — ancient mining settlement in western Turkey, one of the important centers for tin extraction and processing in the Bronze..."
+
 ---
 
 # Гельтепе

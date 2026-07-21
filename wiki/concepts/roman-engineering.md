@@ -1,8 +1,12 @@
 ---
+
+
 slug: roman-engineering
 title: "Римское инженерное дело"
 categories: [concepts]
-tags: [инженерия, рим, архитектура, дороги]
+tags: [engineering, rome, architecture, roads]
+description: "Римское инженерное дело — система строительных и инженерных технологий Древнего Рима."
+
 ---
 
 # Римское инженерное дело

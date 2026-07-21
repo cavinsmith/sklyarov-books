@@ -5,11 +5,9 @@ categories:
   - concepts
   - geology
   - history
-tags:
-  - pleistocene
-  - catastrophe
-  - flood
-  - impact
+tags: [pleistocene, catastrophe, flood, impact]
+description: "Потопная катастрофа — глобальная катастрофа, произошедшая около 11 000–12 500 лет назад (конец плейстоцена — начало голоцена)."
+
 ---
 
 # Потопная катастрофа

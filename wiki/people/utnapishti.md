@@ -1,8 +1,12 @@
 ---
+
+
 slug: utnapishti
 title: "Утнапишти"
 categories: [people]
 tags: []
+description: "Шумерский герой, переживший Великий Потоп. Библейский аналог — people/noah|Ной. Упоминается people/andrey-sklyarov|Андреем Скляровым в контексте..."
+
 ---
 
 # Утнапишти

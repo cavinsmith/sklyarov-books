@@ -5,10 +5,9 @@ categories:
   - places
   - archaeology
   - egypt
-tags:
-  - old-kingdom
-  - stela
-  - pepi-i
+tags: [old-kingdom, stela, pepi-i]
+description: "Шинбаб — деревня в Египте, около которой в 1904 году было найдено важное археологическое сооружение с надписями эпохи Древнего царства."
+
 ---
 
 # Шинбаб

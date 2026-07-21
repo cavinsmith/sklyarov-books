@@ -1,8 +1,10 @@
 ---
+
 slug: thompson
 title: "Томпсон Ричард"
 categories: [people]
 tags: [archaeology]
+description: "Описание: Исследователь, соавтор книги «Запрещённая археология» (вместе с people/kremo|Майклом Кремо). Совместно описали находки артефактов в..."
 ---
 
 # Томпсон Ричард
@@ -23,3 +25,5 @@ tags: [archaeology]
 
 - [[books/08-istoriya-zemli-bez-kamenno|История Земли без Каменноугольного периода]]
 - [[people/kremo|Майкл Кремо]] — соавтор
+
+- [[people/maya-people|Майя]]

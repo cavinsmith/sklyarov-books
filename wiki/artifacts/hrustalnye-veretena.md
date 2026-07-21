@@ -3,6 +3,7 @@ slug: hrustalnye-veretena
 title: "Хрустальные "веретёна""
 categories: artifacts
 tags: []
+description: "Артефакты из горного хрусталя, обнаруженные в Мексике. Выполнены с высочайшей точностью и качеством обработки."
 ---
 
 # Хрустальные "веретёна"
@@ -24,3 +25,7 @@ tags: []
 **Связанные сущности:**
 - [[places/nacionalny-muzej]] -- место хранения
 - [[books/13-meksika-bez-krivyh-zerkal]] -- книга, описывающая артефакты
+
+## Связанные страницы
+
+- [[artifacts/obsidianovye-veretena|Обсидиановые "веретёна]]

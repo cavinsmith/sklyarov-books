@@ -1,8 +1,10 @@
 ---
+
 slug: okhota-i-sobiratelstvo
 title: "Охота и собирательство"
 categories: [concepts]
 tags: [антропология, земледелие, палеолит, питание]
+description: "Способ существования человечества, предшествовавший concepts/zemledelie-kak-dar-bogov|земледелию. В книге books/04-bitva-za-urozhay|«Наследие пьяных..."
 ---
 
 # Охота и собирательство

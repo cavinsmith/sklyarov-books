@@ -1,8 +1,10 @@
 ---
+
 slug: dual-prima-substance
 title: "Дуальная первосубстанция"
 categories: [concepts]
 tags: [философия, материя, дух, эволюция]
+description: "Концепция двойственной природы материи, описанная в работах people/teillard|Тейяра де Шардена и people/vernodsky|Вернадского. Материальная и духовная..."
 ---
 
 # Дуальная первосубстанция
@@ -82,6 +84,8 @@ tags: [философия, материя, дух, эволюция]
 - [[books/21-geneticheskiy-kod|Генетический код человечества]] — контекст
 
 ## См. также
+
+- [[concepts/index-concepts|Индекс концепций]]
 
 - [[concepts/noosfera]] — ноосфера
 - [[concepts/spiritual-world]] — духовно-нематериальный мир

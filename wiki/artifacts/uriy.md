@@ -5,11 +5,9 @@ categories:
   - artifacts
   - egypt
   - symbol
-tags:
-  - uraeus
-  - egypt
-  - cobra
-  - royalty
+tags: [uraeus, egypt, cobra, royalty]
+description: "Древнеегипетский символ concepts/uraeus|урея — священной змеи на лбу фараона, олицетворявшей божественную власть и защиту."
+
 ---
 
 # Урий

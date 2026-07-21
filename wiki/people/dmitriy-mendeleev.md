@@ -1,8 +1,10 @@
 ---
+
 slug: dmitriy-mendeleev
 title: "Д.И. Менделеев"
 categories: [people]
 tags: [chemistry]
+description: "Описание: Русский химик, создатель периодической таблицы химических элементов (1834–1907)."
 ---
 
 # Д.И. Менделеев
@@ -23,3 +25,5 @@ tags: [chemistry]
 
 - [[books/16-sensacionnaya-istoriya|Сенсационная история Земли]]
 - [[people/larin-viktor|Владимир Ларин]] — геолог, разработавший гипотезу изначально гидридной Земли
+
+- [[people/larin-viktor-viktor|Виктор Викторович Ларин]]

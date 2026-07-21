@@ -1,8 +1,10 @@
 ---
+
 slug: chichen-itza
 title: Чичен-Ица
 categories: [places]
 tags: [maya, mexico, pyramid, temple]
+description: "Страна: Мексика"
 ---
 
 # Чичен-Ица
@@ -31,3 +33,6 @@ tags: [maya, mexico, pyramid, temple]
 - [[places/tikal]] — Тикаль
 - [[places/palenque]] — Паленке
 - [[books/13-meksika-bez-krivyh-zerkal]]
+- [[places/cuicuilco]]
+- [[places/tula]]
+- [[guides/meksika]]

@@ -1,8 +1,10 @@
 ---
+
 slug: tirteriya
 title: "Тэртерия (Tartaria)"
 categories: [places]
 tags: [romania, neolithic, tablets, writing]
+description: "Расположение: Трансильвания, Румыния"
 ---
 
 # Тэртерия (Tartaria)

@@ -1,8 +1,10 @@
 ---
+
 slug: abel-reysler
 title: "Абель Рейслер (Abel Reysler)"
 categories: [people]
 tags: [writing, linguistics]
+description: "Исследователь, чья работа обсуждается в контексте анализа эволюции письменности и трансформации знаковых систем."
 ---
 
 # Абель Рейслер (Abel Reysler)

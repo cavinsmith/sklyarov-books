@@ -1,8 +1,10 @@
 ---
+
 slug: aryjskaya-rasvet
 title: "Арийский рассвет"
 categories: [concepts]
 status: stub
+description: "Гипотеза о происхождении индоевропейских (арийских) народов и их миграции из единого центра. Обсуждается в контексте concepts/rodina-bogov|Родины..."
 ---
 
 # Арийский рассвет

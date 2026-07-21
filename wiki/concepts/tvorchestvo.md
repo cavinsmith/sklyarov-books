@@ -1,8 +1,12 @@
 ---
+
+
 slug: tvorchestvo
 title: Творчество
 categories: [concepts]
 tags: [creativity, genetics, consciousness]
+description: "Процесс создания нового, связанный по версии people/andrey-sklyarov|Андрея Склярова с генетическим кодом человечества и воздействием «богов»."
+
 ---
 
 # Творчество

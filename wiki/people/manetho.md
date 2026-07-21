@@ -1,8 +1,10 @@
 ---
+
 slug: manetho
 title: "Манефон (Manetho)"
 categories: [people]
 tags: []
+description: "Описание: Египетский жрец из Себеннита, живший в III веке до н.э. при дворе Птолемея II Филадельфа. Автор «Египетской истории» (Aegyptiaca) -- труда,..."
 ---
 
 # Манефон (Manetho)

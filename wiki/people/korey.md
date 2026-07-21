@@ -1,8 +1,10 @@
 ---
+
 slug: korey
 title: "Корей"
 categories: [people]
 tags: [bible, genesis]
+description: "Библейский персонаж из Книги Бытия. Потомок people/avraam|Авраама через его сына Ефрема. Родоначальник одного из колен Израилевых."
 ---
 
 # Корей
@@ -25,3 +27,5 @@ tags: [bible, genesis]
 
 - [[people/avraam|Авраам]]
 - [[books/30-yahve-protiv-baala|Яхве против Баала]]
+
+- [[concepts/konflikt-yahve-i-baala|Конфликт Яхве и Баала]]

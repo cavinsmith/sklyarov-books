@@ -5,10 +5,9 @@ categories:
   - places
   - archaeology
   - africa
-tags:
-  - stone-walls
-  - gold
-  - medieval
+tags: [stone-walls, gold, medieval]
+description: "Великий Зимбабве — древний каменный город в Южной Африке, один из наиболее важных археологических объектов к югу от Сахары. Здесь обнаружены..."
+
 ---
 
 # Великий Зимбабве

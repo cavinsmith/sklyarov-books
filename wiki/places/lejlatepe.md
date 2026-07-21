@@ -5,11 +5,9 @@ categories:
   - places
   - archaeology
   - caucasus
-tags:
-  - copper
-  - bronze-age
-  - azerbaijan
-  - metallurgy
+tags: [copper, bronze-age, azerbaijan, metallurgy]
+description: "Лейлятепе (азерб. Leylatəpə) — древнее поселение в Азербайджане, одно из важнейших археологических памятников ранней металлургии на Кавказе. Здесь..."
+
 ---
 
 # Лейлятепе

@@ -1,8 +1,10 @@
 ---
+
 slug: saqqara-vase
 title: Ваза из Саккары
 categories: [artifacts]
 tags: [egypt, saqqara, stone, ancient-technology]
+description: "Место находки: Саккара, Египет"
 ---
 
 # Ваза из Саккары
@@ -47,3 +49,14 @@ tags: [egypt, saqqara, stone, ancient-technology]
 - [[concepts/utrachennye-tekhnologii|Утраченные технологии]]
 - [[books/12-tsivilizaciya-bogov-egipta|Цивилизация богов Древнего Египта]]
 - [[books/18-drevnie-bogi|Древние боги — кто они?]]
+- [[concepts/egyptian-pantheon|Египетский пантеон]]
+- [[concepts/drevnie-bogi|Древние боги]]
+- [[concepts/civilization-of-gods|Цивилизация богов]]
+- [[concepts/megalithic-architecture|Мегалитическая архитектура]]
+- [[concepts/sledy-mashinnoy-obrabotki-kamnya|Следы машинной обработки камня]]
+
+## Связанные страницы
+
+- [[people/teti|Тети]]
+- [[places/abu-roat|Абу-Роаш]]
+- [[places/kadesh|Кадеш]]

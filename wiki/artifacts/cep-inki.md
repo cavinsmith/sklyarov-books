@@ -5,10 +5,9 @@ categories:
   - artifacts
   - archaeology
   - peru
-tags:
-  - gold
-  - inca
-  - chain
+tags: [gold, inca, chain]
+description: "Золотая цепь инки Уайны Капака — золотая цепь, толщиной с руку, более 200 м длиной."
+
 ---
 
 # Золотая цепь инки Уайны Капака
@@ -29,3 +28,12 @@ tags:
 
 - [[places/kusko|Куско]]
 - [[books/22-metally|Металлы — дар небесных богов]]
+- [[artifacts/kamen-solnca]]
+- [[places/varna]]
+- [[artifacts/maski-sanshinduj]]
+- [[artifacts/pektorali-sipana]]
+- [[artifacts/kovcheg-zaveta]]
+
+## Связанные страницы
+
+- [[concepts/inca|Инки]]

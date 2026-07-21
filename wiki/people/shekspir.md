@@ -1,8 +1,10 @@
 ---
+
 slug: shekspir
 title: Шекспир
 categories: [people]
 tags: [writer, england, renaissance]
+description: "Годы жизни: 1564—1616"
 ---
 
 # Шекспир (Уильям Шекспир)
@@ -27,3 +29,5 @@ tags: [writer, england, renaissance]
 
 - [[concepts/zodiakalnaya-simvolika]] — Зодиакальная символика
 - [[books/11-dragonografiya]]
+
+- [[places/san-lorenso|Сан-Лоренсо]]

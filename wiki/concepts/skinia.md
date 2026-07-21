@@ -1,8 +1,12 @@
 ---
+
+
 slug: skinia
 title: "Скиния"
 categories: [concepts]
 tags: []
+description: "Переносной храм (шатёр), созданный евреями во время events/iskhod|Исхода из Египта. В работах people/andrey-sklyarov|Андрея Склярова Скиния..."
+
 ---
 
 # Скиния

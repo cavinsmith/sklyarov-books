@@ -5,10 +5,9 @@ categories:
   - places
   - science
   - germany
-tags:
-  - nuclear-physics
-  - decay-rates
-  - measurement
+tags: [nuclear-physics, decay-rates, measurement]
+description: "Физико-техническая федеральная лаборатория (нем. Physikalisch-Technische Bundesanstalt, PTB) — немецкая национальная метрологическая лаборатория,..."
+
 ---
 
 # Физико-техническая федеральная лаборатория

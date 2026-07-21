@@ -2,7 +2,8 @@
 slug: arnon-noam
 title: "Арнон Ноам"
 categories: [people]
-tags: []
+tags: [archaeology, israel, megalithic]
+description: "Израильский археолог, чьи исследования связаны с объектами, описываемыми Андреем Скляровым в контексте мегалитических сооружений Ханаана."
 ---
 
 # Арнон Ноам

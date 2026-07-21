@@ -1,13 +1,17 @@
 ---
+
+
 slug: megaliticheskaya-arkhitektura
 title: "Мегалитическая архитектура"
 categories: [concepts]
 tags: []
+description: "Стиль строительства с использованием крупных каменных блоков. В работах people/andrey-sklyarov|Андрея Склярова рассматривается как одно из ключевых..."
+
 ---
 
 # Мегалитическая архитектура
 
-Стиль строительства с использованием крупных каменных блоков. В работах [[people/andrey-sklyarov|Андрея Склярова]] рассматривается как одно из ключевых свидетельств [[concepts/paleokontakt|палеоконтакта]].
+Стиль строительства с использованием крупных каменных блоков. В работах [[people/andrey-sklyarov|Андрея Склярова]] рассматривается как одно из ключевых свидетельств [[guides/paleokontakt|палеоконтакта]].
 
 ## Основные положения
 
@@ -53,7 +57,7 @@ tags: []
 ## Связанные концепции
 
 - [[concepts/megaliticheskie-sooruzheniya]]
-- [[concepts/paleokontakt]]
+- [[guides/paleokontakt]]
 - [[concepts/drevnie-bogi]]
 
 ## Книги, в которых обсуждается
@@ -76,7 +80,7 @@ tags: []
 ## См. также
 
 - [[concepts/megaliticheskie-sooruzheniya]] — технические устройства в камне
-- [[concepts/paleokontakt]] — контакт с высокоразвитой цивилизацией
+- [[guides/paleokontakt]] — контакт с высокоразвитой цивилизацией
 - [[concepts/sledy-mashinnoy-obrabotki-kamnya|Следы машинной обработки]] — следымашинной обработки
 - [[concepts/utrachennye-tekhnologii]] — утраченные технологии
 - [[concepts/civilization-of-gods|Цивилизация богов]] — создатели мегалитов

@@ -1,8 +1,10 @@
 ---
+
 slug: wegener
 title: "Альфред Вегенер (Alfred Wegener)"
 categories: [people]
 tags: [geology]
+description: "Описание: Немецкий метеоролог и геофизик (1880–1930), создатель теории дрейфа континентов."
 ---
 
 # Альфред Вегенер (Alfred Wegener)
@@ -22,3 +24,5 @@ tags: [geology]
 
 - [[books/16-sensacionnaya-istoriya|Сенсационная история Земли]]
 - [[concepts/tektonika-plit|Тектоника литосферных плит]]
+
+- [[places/red-sea|Красное море]]

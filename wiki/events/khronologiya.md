@@ -1,13 +1,17 @@
 ---
+
+
 slug: khronologiya
 title: "Хронология событий"
 categories: [events]
-tags: []
+tags: [timeline, history, chronology]
+description: "Хронология ключевых событий, описанных в работах Андрея Склярова."
+
 ---
 
 # Хронология событий
 
-Хронология ключевых событий, описанных в работах [[people/andrey-sklyarov|Андрея Склярова]].
+Хронология ключевых событий, описанных в работах [[people/andrey-sklyarov|Андрея Склярова]]. Подробный анализ датировок приведён в книге[[books/09-geohronologiya|Геохронология — лженаука о прошлом]].
 
 ---
 
@@ -43,7 +47,7 @@ tags: []
 
 ### ~5000-4000 лет до н.э.
 - Расцвет [[concepts/civilization-of-gods|цивилизации богов]]
-- [[concepts/paleokontakt|Активный контакт]] «богов» с людьми
+- [[guides/paleokontakt|Активный контакт]] «богов» с людьми
 - [[concepts/metally-dar-nebesnykh-bogov]] — привнесение металлургии
 - [[concepts/neytralnye-yazyki]] — появление нейтральных языков общения
 - [[concepts/bozhestvennye-eksperimenty]] — генетические эксперименты «богов» над людьми
@@ -53,7 +57,7 @@ tags: []
 - Строительство [[places/giza-plateau|Великих пирамид в Гизе]]
 - [[events/epokha-tsivilizatsii-bogov]] — расцвет «богов» и их присутствия на Земле
 - [[concepts/megaliticheskaya-arkhitektura|Мегалитическая архитектура]] — создание каменных сооружений
-- [[concepts/paleokontakt|Контакт с «богами»]] — установление религиозных систем
+- [[guides/paleokontakt|Контакт с «богами»]] — установление религиозных систем
 
 ### ~3000-2000 лет до н.э.
 - [[events/razvedyvatelnaya-missiya-avraama]] — разведывательная миссия Авраама в Ханаан

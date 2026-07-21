@@ -1,8 +1,10 @@
 ---
+
 slug: ancient-metallurgy
 title: "Древняя металлургия"
 category: concepts
 status: stub
+description: "Древняя металлургия — комплекс технологий получения и обработки металлов, который, по мнению альтернативных историков, был передан человечеству..."
 ---
 
 # Древняя металлургия
@@ -29,7 +31,7 @@ status: stub
 
 ## См. также
 
-- [[drevnyaya-metallurgiya]]
-- [[anachronizmy]]
-- [[22-metally]]
-- [[15-peru-i-boliviya]]
+- [[concepts/drevnyaya-metallurgiya|Древняя металлургия]]
+- [[concepts/anachronizmy]]
+- [[books/22-metally|Металлы — дар небесных богов]]
+- [[books/15-peru-i-boliviya|Перу и Боливия]]

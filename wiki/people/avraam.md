@@ -1,8 +1,10 @@
 ---
+
 slug: avraam
 title: "Авраам"
 categories: [people]
 tags: []
+description: "Патриарх, один из ключевых персонажей Ветхого Завета."
 ---
 
 # Авраам

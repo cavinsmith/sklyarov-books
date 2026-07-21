@@ -1,8 +1,10 @@
 ---
+
 slug: ugarit
 title: "Угарит"
 categories: [places]
 tags: []
+description: "Другие названия: Рас-Шамра, Шапаша"
 ---
 
 # Угарит
@@ -101,4 +103,4 @@ tags: []
 - [[concepts/yamm]] — бог моря, противник Баала
 - [[artifacts/ugarit-tablets]] — клинописные тексты с мифологическими описаниями
 - [[books/19-zemlya-vaala]] — книга, использующая угаритские тексты
-- [[concepts/paleokontakt]] — гипотеза о внеземном происхождении богов
+- [[guides/paleokontakt]] — гипотеза о внеземном происхождении богов

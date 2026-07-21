@@ -5,11 +5,9 @@ categories:
   - places
   - archaeology
   - anatolia
-tags:
-  - copper
-  - chalcolithic
-  - turkey
-  - mining
+tags: [copper, chalcolithic, turkey, mining]
+description: "Чайоню-тепеси (тур. Çayönü Tepesi) — древнее поселение в восточной Турции, важный объект для изучения ранней металлургии. Здесь обнаружены одни из..."
+
 ---
 
 # Чайоню-тепеси

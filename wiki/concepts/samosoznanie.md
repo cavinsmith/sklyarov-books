@@ -1,8 +1,10 @@
 ---
+
 slug: samosoznanie
 title: "Самосознание"
 categories: [concepts]
 tags: []
+description: "Философское и психологическое понятие, обозначающее осознание человеком самого себя как отдельного субъекта, своей уникальности и своего места в мире."
 ---
 
 # Самосознание
@@ -28,3 +30,10 @@ tags: []
 - [[concepts/otkrovenie|Откровение]] — передача знаний «богами»
 - [[concepts/egregor|Эгрегор]] — коллективное информационное поле
 - [[concepts/piramida-dushi|Пирамида души]] — структура сознания
+
+## См. также
+- [[artifacts/great-pyramid|Великая пирамида Гизы]]
+- [[concepts/megalithic-architecture|Мегалитическая архитектура]]
+- [[places/giza|Гиза]]
+- [[concepts/drevnie-bogi|Древние боги]]
+- [[concepts/civilization-of-gods|Цивилизация богов]]

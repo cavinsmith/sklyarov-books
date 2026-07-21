@@ -1,8 +1,10 @@
 ---
+
 slug: okladnikov
 title: "Окладниково"
 categories: [places]
 tags: []
+description: "Тип: Палеолитическая стоянка"
 ---
 
 # Окладниково

@@ -1,8 +1,10 @@
 ---
+
 slug: tyerteriyskie-tablichki
 title: "Тэртерийские таблички"
 categories: artifacts
 tags: []
+description: "Комплекс глиняных табличек, обнаруженных на археологическом памятнике places/tirteriya|Тэртерия в Румынии. Относятся к неолитической..."
 ---
 
 # Тэртерийские таблички

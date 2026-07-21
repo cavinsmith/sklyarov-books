@@ -1,8 +1,10 @@
 ---
+
 slug: alalakh
 title: "Алалах"
 categories: [places]
 tags: []
+description: "Другие названия: Атшана, Tell Atchana"
 ---
 
 # Алалах
@@ -95,3 +97,9 @@ tags: []
 
 - [[concepts/megalithic-architecture]] — традиция строительства из гигантских камней
 - [[books/19-zemlya-vaala]] — книга, анализирующая Алалах как доказательство
+
+- [[concepts/egyptian-pantheon|Египетский пантеон]]
+- [[places/saqqara|Саккара]]
+- [[books/12-tsivilizaciya-bogov-egipta|Цивилизация богов древнего Египта]]
+- [[concepts/drevnie-bogi|Древние боги]]
+- [[concepts/civilization-of-gods|Цивилизация богов]]

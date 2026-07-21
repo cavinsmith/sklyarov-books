@@ -5,10 +5,9 @@ categories:
   - places
   - archaeology
   - armenia
-tags:
-  - bronze-age
-  - metallurgy
-  - burials
+tags: [bronze-age, metallurgy, burials]
+description: "Верин-Навер (арм. Վերին Նdelays) — археологический комплекс в Армении, важный объект для изучения древней металлургии и погребальных обрядов..."
+
 ---
 
 # Верин-Навер
@@ -56,3 +55,9 @@ tags:
 
 - [[places/kavkaz]] — Кавказ, регион с развитой металлургией
 - [[places/anatoliya]] — Анатолия, соседний регион
+
+- [[concepts/drevnie-bogi|Древние боги]]
+- [[concepts/civilization-of-gods|Цивилизация богов]]
+- [[concepts/alternativnaya-istoriya|Альтернативная история]]
+- [[guides/paleokontakt|Путеводитель: Палеоконтакт]]
+- [[concepts/potop|Потоп]]

@@ -1,8 +1,10 @@
 ---
+
 slug: charles-lyell
 title: "Чарльз Лайель (Charles Lyell)"
 categories: [people]
 tags: [geology, uniformism, catastrophism]
+description: "Описание: Шотландский геолог (1797–1875), основоположник униформизма — концепции, согласно которой геологические процессы прошлого аналогичны..."
 ---
 
 # Чарльз Лайель (Charles Lyell)

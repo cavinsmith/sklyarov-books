@@ -1,8 +1,10 @@
 ---
+
 slug: mycenae
 title: Микены
 categories: [places]
 tags: [greece, ancient-city, mycenaean, archaeology]
+description: "Страна: Греция"
 ---
 
 # Микены
@@ -30,3 +32,7 @@ tags: [greece, ancient-city, mycenaean, archaeology]
 - [[places/tiryns]] — Тиринф
 - [[places/greciya]] — Древняя Греция
 - [[books/18-drevnie-bogi]]
+- [[places/micene]]
+- [[places/sanyang]]
+- [[places/sparta]]
+- [[places/greek]]

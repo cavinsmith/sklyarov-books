@@ -1,8 +1,10 @@
 ---
+
 slug: siriyane
 title: "Сирийцы"
 categories: [people]
 tags: [syria, ancient, civilization]
+description: "Древний семитический народ, населявший территорию современной Сирии и Ливана."
 ---
 
 # Сирийцы
@@ -22,9 +24,18 @@ tags: [syria, ancient, civilization]
 ## Упоминание в работах
 
 - [[books/26-siriyskie-perekrestki|Сирийские перекрестки цивилизации]] — подробное описание истории Сирии и её значения
+- [[books/19-zemlya-vaala|Земля Ваала]] — ханаанская религия и культура
+
+## Связанные концепции
+
+- [[concepts/canaanites|Ханаанеяне]]
+- [[concepts/ugariit-tablets|Угаритские таблицы]]
+- [[concepts/baal-worship|Поклонение Баалу]]
+- [[concepts/klinoapismo|Клинопись]]
 
 ## См. также
 
 - [[places/damask|Дамаск]]
 - [[places/siriya-palestina|Сирия и Палестина]]
 - [[places/levant|Левант]]
+- [[places/palestina|Палестина]]

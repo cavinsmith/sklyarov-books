@@ -1,8 +1,10 @@
 ---
+
 slug: hawaii
 title: Гавайи
 categories: [places]
 tags: [pacific, islands, volcanoes, polynesia]
+description: "Официальное название: Гавайи (штат США)"
 ---
 
 # Гавайи
@@ -29,4 +31,7 @@ tags: [pacific, islands, volcanoes, polynesia]
 ## См. также
 
 - [[places/filippinskoe-more]] — Филиппинское море
+- [[places/tikiy-okean|Тихий океан]]
 - [[books/16-sensacionnaya-istoriya]]
+- [[concepts/pacific-ocean|Тихий океан]]
+- [[places/ostrov-paskhi|Остров Пасхи]]

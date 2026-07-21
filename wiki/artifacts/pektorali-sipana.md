@@ -1,15 +1,10 @@
 ---
 slug: pektorali-sipana
 title: "Пекторали Сипана"
-categories:
-  - artifacts
-  - archaeology
-  - peru
-tags:
-  - gold
-  - silver
-  - sipan
-  - lord-of-sipan
+categories: [artifacts]
+tags: [gold, silver, sipan, lord-of-sipan]
+description: "Пекторали Сипана — золотые украшения, обнаруженные в гробнице правителя Сипана."
+
 ---
 
 # Пекторали Сипана
@@ -26,7 +21,12 @@ tags:
 
 [[places/sipan|Сипан]] является одним из наиболее важных археологических памятников доколумбовой Америки.
 
+## Источники
+
+- [[books/22-metally|Металлы — дар небесных богов]] — анализ металлических технологий в контексте находок в Сипане.
+
 ## См. также
 
 - [[places/sipan|Сипан]]
-- [[books/22-metally|Металлы — дар небесных богов]]
+- [[places/peru|Перу]]
+- [[artifacts/zolotye-ukrasheniya|Золотые украшения]]

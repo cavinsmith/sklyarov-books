@@ -5,11 +5,9 @@ categories:
   - places
   - nazca
   - peru
-tags:
-  - nazca
-  - geoglyphs
-  - peru
-  - discovery
+tags: [nazca, geoglyphs, peru, discovery]
+description: "Местоположение: Плато Наска, Перу"
+
 ---
 
 # Пампа Сан-Хосе

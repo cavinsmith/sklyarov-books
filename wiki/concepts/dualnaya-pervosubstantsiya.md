@@ -1,8 +1,12 @@
 ---
+
+
 slug: dualnaya-pervosubstantsiya
 title: "Дуальная первосубстанция"
 categories: [concepts]
 tags: []
+description: "Концепция фундаментальной основы мироздания, описанная в работах people/andrey-sklyarov|Андрея Склярова в контексте «физики духа»."
+
 ---
 
 # Дуальная первосубстанция
@@ -45,6 +49,8 @@ tags: []
 - [[books/28-fizika-duha|Основы физики духа]]
 
 ## См. также
+
+- [[concepts/index-concepts|Индекс концепций]]
 
 - [[concepts/dukhovno-nematerialnyy-mir]]
 - [[concepts/piramida-dushi]]

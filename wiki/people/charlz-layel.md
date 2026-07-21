@@ -1,8 +1,10 @@
 ---
+
 slug: charlz-layel
 title: "Чарльз Лайель (Charles Lyell)"
 categories: [people]
 tags: []
+description: "Описание: Шотландский геолог, автор фундаментального труда «Принципы геологии» (Principles of Geology). Основоположник..."
 ---
 
 # Чарльз Лайель (Charles Lyell)

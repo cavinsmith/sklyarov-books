@@ -5,11 +5,9 @@ categories:
   - places
   - civilization
   - mesopotamia
-tags:
-  - sumer
-  - clay-tablets
-  - cuneiform
-  - civilization-of-gods
+tags: [sumer, clay-tablets, cuneiform, civilization-of-gods]
+description: "Шумер — древнейшая цивилизация Междуречья, возникшая в V–IV тысячелетиях до н.э. на территории современного Ирака."
+
 ---
 
 # Шумер

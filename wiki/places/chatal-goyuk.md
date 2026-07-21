@@ -5,11 +5,9 @@ categories:
   - places
   - archaeology
   - anatolia
-tags:
-  - neolithic
-  - copper
-  - settlement
-  - agriculture
+tags: [neolithic, copper, settlement, agriculture]
+description: "Чатал-Гёюк (тур. Çatalhöyük) — древнейшее и одно из крупнейших неолитических поселений в Малой Азии, расположенное в центральной Турции. Датируется..."
+
 ---
 
 # Чатал-Гёюк

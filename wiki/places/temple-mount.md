@@ -1,8 +1,10 @@
 ---
+
 slug: temple-mount
 title: "Храмовая гора"
 categories: [places]
 tags: []
+description: "Другие названия: Харам аш-Шариф (الحرم الشريف), гора Мориа"
 ---
 
 # Храмовая гора

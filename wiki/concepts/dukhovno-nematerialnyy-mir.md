@@ -1,8 +1,12 @@
 ---
+
+
 slug: dukhovno-nematerialnyy-mir
 title: "Духовно-нематериальный мир"
 categories: [concepts]
 tags: []
+description: "Концепция параллельного мира, описанная в работах people/andrey-sklyarov|Андрея Склярова в контексте «физики духа»."
+
 ---
 
 # Духовно-нематериальный мир

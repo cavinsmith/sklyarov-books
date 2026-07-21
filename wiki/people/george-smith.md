@@ -1,8 +1,10 @@
 ---
+
 slug: george-smith
 title: Джордж Смит
 categories: [people]
 tags: [assyriology, tablets, flood, museum]
+description: "Английский ассириолог и реставратор Британского музея, прочитавший клинопись concepts/potop|Эпоса о Гильгамеше с описанием Всемирного Потопа."
 ---
 
 # Джордж Смит (George Smith)

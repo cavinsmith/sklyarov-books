@@ -1,8 +1,10 @@
 ---
+
 slug: kollekciya-akambaro
 title: "Коллекция Акамбаро"
 categories: artifacts
 tags: []
+description: "Описание: Обширная коллекция глиняных фигурок, обнаруженная Вильгельмом Юльсрюдом в окрестностях Акамбаро (Мексика). Включает фигурки динозавров,..."
 ---
 
 # Коллекция Акамбаро
@@ -29,3 +31,8 @@ tags: []
 - [[people/yulsrud-vilgelm]] -- обнаруживший коллекцию
 - [[books/13-meksika-bez-krivyh-zerkal]] -- книга, анализирующая коллекцию
 - [[books/14-obitaemyy-ostrov]] -- смежная тема палеоконтакта
+
+## Связанные страницы
+
+- [[people/akambaro|Акамбаро]]
+- [[places/saqqara-collection|Саккарская коллекция]]

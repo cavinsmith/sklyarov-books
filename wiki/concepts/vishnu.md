@@ -1,8 +1,10 @@
 ---
+
 slug: vishnu
 title: "Вишну"
 categories: [concepts]
 tags: [индуизм, религия, мифология]
+description: "Верховное божество индуизма, одно из главных божеств тримурти (Брахма, Вишну, Шива)."
 ---
 
 # Вишну
@@ -26,3 +28,6 @@ tags: [индуизм, религия, мифология]
 
 - [[concepts/bozhestvennye-eksperimenty|Божественные эксперименты]]
 - [[people/andrey-sklyarov]]
+- [[guides/bogstvo]]
+- [[concepts/ugariit-tablets]]
+- [[concepts/shesha]]

@@ -1,8 +1,10 @@
 ---
+
 slug: abraham
-title: "Авраам (Авраам)"
+title: "Авраам"
 categories: [people]
 tags: [abraham, patriarch, yahweh, harran]
+description: "Авраам — библейский патриарх, родоначальник трёх авраамических религий."
 ---
 
 # Авраам (Авраам)

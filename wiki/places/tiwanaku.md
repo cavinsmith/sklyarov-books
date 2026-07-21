@@ -1,8 +1,10 @@
 ---
+
 slug: tiwanaku
 title: "Тиауанако"
 categories: [places]
 tags: []
+description: "Древний город в Андах (Боливия), расположенный на высоте ~4300 м над уровнем моря. Одно из важнейших археологических свидетельств..."
 ---
 
 # Тиауанако
@@ -55,3 +57,12 @@ tags: []
 - [[books/18-drevnie-bogi|Древние боги — кто они?]]
 - [[books/15-peru-i-boliviya|Перу и Боливия задолго до инков]]
 - [[places/plateau-altiplano|Плато Альтиплано]]
+
+
+## См. также
+- [[concepts/drevnie-tehnologii|Древние технологии]]
+- [[people/inkapachakuti|Инка Пачакути]]
+- [[places/puma-punku|Пума-Пунку]]
+- [[concepts/drevnie-tehnologii|Древние технологии]]
+- [[people/inkapachakuti|Инка Пачакути]]
+- [[places/puma-punku|Пума-Пунку]]

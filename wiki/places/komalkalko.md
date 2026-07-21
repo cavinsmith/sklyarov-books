@@ -1,8 +1,10 @@
 ---
+
 slug: komalkalko
 title: "Комалькалько"
 categories: [places]
 tags: []
+description: "Древнее сооружение в Мексике."
 ---
 
 # Комалькалько
@@ -20,3 +22,10 @@ tags: []
 ## См. также
 
 - [[books/01-mif-o-potope]]
+
+- [[places/meksika|Мексика]]
+- [[places/morray]]
+- [[places/huaka-las-ventanas]]
+- [[places/kenko]]
+- [[artifacts/obsidianovye-veretena]]
+- [[artifacts/nefritovaya-trubka]]

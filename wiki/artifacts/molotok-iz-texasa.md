@@ -1,8 +1,10 @@
 ---
+
 slug: molotok-iz-texasa
 title: "Молоток из Техаса"
 categories: artifacts
 tags: []
+description: "Железный инструмент, найденный внутри известняка возрастом 140 миллионов лет (меловой период) близ города Лондон, штат Техас, в 1934 году. Состав..."
 ---
 
 # Молоток из Техаса
@@ -31,7 +33,10 @@ tags: []
 ## См. также
 
 - [[books/24-opasnoe-nasledie]] — «Опасное наследие предков»
+- [[books/16-sensacionnaya-istoriya|Сенсационная история]]
 - [[places/objekt-ayud|Объект Аюд]]
-- [[concepts/boltik-v-kamne|Болтик в камне]]
-- [[concepts/sakkarskiye-sosudy|Саккарская коллекция сосудов]]
-- [[places/kamni-iki|Камни Ики]]
+- [[artifacts/boltik-v-kamne|Болтик в камне]]
+- [[artifacts/kamni-iki|Камни Ики]]
+- [[concepts/civilization-of-gods]] — цивилизация, создавшая молоток
+- [[concepts/zheleznye-meteority]] — железо могло быть метеоритного происхождения
+- [[concepts/utrachennye-tekhnologii]] — утраченная технология обработки металлов

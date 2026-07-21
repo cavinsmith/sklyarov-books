@@ -1,8 +1,10 @@
 ---
+
 slug: djemdet-nasr
 title: Джемдет-Наср
 categories: [places]
 tags: [sumer, pottery, writing, ancient]
+description: "Древний шумерский город в Месопотамии, давший название археологической культуре."
 ---
 
 # Джемдет-Наср

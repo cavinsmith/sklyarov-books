@@ -1,16 +1,10 @@
 ---
 slug: uruk
 title: "Урук"
-categories:
-  - places
-  - archaeology
-  - mesopotamia
-  - sumer
-tags:
-  - sumer
-  - cuneiform
-  - temple
-  - writing
+categories: [places]
+tags: [sumer, cuneiform, temple, writing]
+description: "Урук — один из древнейших и крупнейших городов Шумера."
+
 ---
 
 # Урук
@@ -31,3 +25,5 @@ tags:
 
 - [[places/sumer|Шумер]]
 - [[books/27-sozdanie-tsivilizaciy|Создание древних цивилизаций]]
+
+- [[places/temple-mount|Храмовая гора]]

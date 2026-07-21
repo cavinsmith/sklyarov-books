@@ -5,10 +5,9 @@ categories:
   - places
   - geography
   - egypt
-tags:
-  - bible
-  - moses
-  - ten-commandments
+tags: [bible, moses, ten-commandments]
+description: "Гора Синай (ивр. הַר סִינַי) — гора на Синайском полуострове, где, согласно Библии, Моисей получил от Бога Десять заповедей и инструкции по..."
+
 ---
 
 # Гора Синай

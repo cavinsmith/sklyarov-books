@@ -1,8 +1,10 @@
 ---
+
 slug: cina-drevniy
 title: "Древний Китай"
 categories: [places]
 tags: [цивилизация, Китай, пирамиды, технологии]
+description: "Описание: Одна из древнейших цивилизаций мира. Содержит пирамиды и артефакты concepts/bogi-vysokorazvitaya-civilizaciya|богов."
 ---
 
 # Древний Китай

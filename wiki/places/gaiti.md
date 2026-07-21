@@ -1,8 +1,10 @@
 ---
+
 slug: gaiti
 title: "Гаити"
 categories: [places]
-tags: []
+tags: [caribbean, island, voodoo]
+description: "Гаити — островное государство в Карибском море."
 ---
 
 # Гаити
@@ -40,3 +42,10 @@ tags: []
 - [[artifacts/spiralnaya-galaktika]] — Крылатый диск (египетский символ)
 - [[books/11-dragonografiya|Драконология]]
 - [[books/13-meksika-bez-krivyh-zerkal|Мексика без кривых зеркал]]
+
+## См. также
+- [[concepts/egyptian-pantheon|Египетский пантеон]]
+- [[places/saqqara|Саккара]]
+- [[books/12-tsivilizaciya-bogov-egipta|Цивилизация богов древнего Египта]]
+- [[places/teotihuacan|Теотиуакан]]
+- [[places/olmeki|Ольмеки]]

@@ -1,8 +1,10 @@
 ---
+
 slug: bimini-road
 title: Бимини-роуд
 categories: [places]
 tags: [bahamas, underwater, ancient-architecture, road]
+description: "Место находки: Бимини, Багамы"
 ---
 
 # Бимини-роуд
@@ -32,3 +34,6 @@ tags: [bahamas, underwater, ancient-architecture, road]
 - [[places/bahamas]] — Багамы
 - [[places/platforma-andros]] — Платформа Андрос
 - [[books/14-obitaemyy-ostrov]]
+- [[artifacts/yuzhnyj-kamen]]
+- [[artifacts/south-stone-baalbek]]
+- [[places/bagamskaya-banka]]

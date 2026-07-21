@@ -1,8 +1,10 @@
 ---
+
 slug: tiryns
 title: Тиринф
 categories: [places]
 tags: [greece, mycenaean, fortress, cyclopean]
+description: "Страна: Греция"
 ---
 
 # Тиринф
@@ -29,3 +31,7 @@ tags: [greece, mycenaean, fortress, cyclopean]
 - [[places/mycenae]] — Микены
 - [[places/greciya]] — Древняя Греция
 - [[books/18-drevnie-bogi]]
+- [[places/micene]]
+- [[places/greek]]
+- [[artifacts/statui-atlantov]]
+- [[places/sparta]]

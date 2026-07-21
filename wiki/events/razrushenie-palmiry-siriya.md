@@ -1,8 +1,10 @@
 ---
+
 slug: razrushenie-palmiry-siriya
 title: "Разрушение Пальмиры (2015)"
 categories: [events]
 tags: [сирия, пальмира, исил, война, разрушение]
+description: "Дата: Август 2015 — март 2017"
 ---
 
 # Разрушение Пальмиры (2015)

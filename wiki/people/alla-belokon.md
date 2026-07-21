@@ -1,8 +1,10 @@
 ---
+
 slug: alla-belokon
 title: "Алла Белоконь"
 categories: [people]
 tags: [nazca, geoglyphs]
+description: "- books/15-peru-i-boliviya|Перу и Боливия задолго до инков — Белоконь упоминается как исследователь геоглифов Наски (стр. 1049, 1109)"
 ---
 
 # Алла Белоконь

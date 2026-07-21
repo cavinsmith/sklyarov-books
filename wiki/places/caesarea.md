@@ -5,10 +5,9 @@ categories:
   - places
   - archaeology
   - israel
-tags:
-  - herod
-  - port
-  - roman-period
+tags: [herod, port, roman-period]
+description: "Кесария (лат. Caesarea Maritima) — древний город на побережье Средиземного моря, основанный Иродом Великим в честь римского императора Августа."
+
 ---
 
 # Кесария

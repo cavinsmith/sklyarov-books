@@ -1,8 +1,10 @@
 ---
+
 slug: kabrera
 title: "Хавьер Кабрера"
 categories: [people, researchers]
 tags: []
+description: "Хавьер Кабрера — перуанский доктор медицины, собравший коллекцию камней Ики — гравированных камней с изображениями динозавров и людей."
 ---
 
 # Хавьер Кабрера
@@ -25,3 +27,8 @@ tags: []
 - [[artifacts/kamni-iki|Камни Ики]]
 - [[places/ika|Город Ика]]
 - [[books/24-opasnoe-nasledie|Опасное наследие богов]]
+- [[artifacts/kamni-iki]]
+- [[people/toribio]]
+- [[people/havyer-kabrera]]
+- [[concepts/stone-of-venus]]
+- [[artifacts/indeks-artefaktov]]

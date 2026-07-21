@@ -6,10 +6,9 @@ categories:
   - archaeology
   - bulgaria
   - mining
-tags:
-  - copper
-  - mine
-  - varna
+tags: [copper, mine, varna]
+description: "Аибунар (Медвежий колодец) — древний медный рудник близ Стара-Загоры (Болгария), обнаруженный осенью 1972 года."
+
 ---
 
 # Аибунар
@@ -26,3 +25,5 @@ tags:
 
 - [[places/varna|Варна]]
 - [[books/22-metally|Металлы — дар небесных богов]]
+
+- [[concepts/copper-mining|Добыча меди]]

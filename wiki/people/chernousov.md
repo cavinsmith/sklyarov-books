@@ -3,6 +3,7 @@ slug: chernousov
 title: "Черноусов"
 categories: [people]
 tags: [archaeology, anomalies]
+description: "Исследователь, занимавшийся изучением археологических аномалий и альтернативных интерпретаций древних сооружений."
 ---
 
 # Черноусов

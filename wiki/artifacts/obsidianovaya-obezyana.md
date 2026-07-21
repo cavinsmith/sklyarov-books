@@ -1,8 +1,10 @@
 ---
+
 slug: obsidianovaya-obezyana
 title: "Обсидиановая обезьяна"
 categories: artifacts
 tags: []
+description: "Описание: Скульптура обезьяны из обсидиана, обнаруженная в Мексике. Отличается точно круглой формой тела, достигнутой без использования гончарного..."
 ---
 
 # Обсидиановая обезьяна
@@ -24,3 +26,16 @@ tags: []
 **Связанные сущности:**
 - [[places/nacionalny-muzej]] -- место хранения
 - [[books/13-meksika-bez-krivyh-zerkal]] -- книга, описывающая артефакт
+
+## Связанные страницы
+
+- [[artifacts/obsidian-monkey|Обсидиановая обезьяна]]
+
+
+## См. также
+
+- [[artifacts/obsidianovye-veretena]]
+- [[artifacts/obsidianovyj-disk]]
+- [[artifacts/bazaltovaya-gremuchaya-zmeya]]
+- [[artifacts/bazaltovyj-yaguar]]
+- [[artifacts/puteshestviya-gullivera]]

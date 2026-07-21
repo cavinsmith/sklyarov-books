@@ -1,14 +1,16 @@
 ---
+
 slug: star-child-skull
 title: "Череп Ребёнка Звезды"
 categories: artifacts
 tags: []
+description: "Тип: Аномальный череп"
 ---
 
 # Череп Ребёнка Звезды
 
 **Тип:** Аномальный череп
-**Место находки:** [[places/meksika|Мексика]]
+**Место находки:** [[guides/meksika|Мексика]]
 **Возраст:** Неопределён (в спорах)
 
 ---
@@ -27,7 +29,7 @@ tags: []
 
 ## Связанные сущности
 
-- [[places/meksika]] — Мексика, место находки
+- [[guides/meksika]] — Мексика, место находки
 - [[artifacts/deformaciya-cherepov]] — искусственная деформация черепов
 - [[artifacts/elongated-skulls-peru]] — аномальные черепа Перу
 - [[artifacts/paracas-elongated-skulls]] — удлинённые черепа Паракаса

@@ -1,8 +1,10 @@
 ---
+
 slug: rottemberg
 title: "Роттенберг"
 categories: [people, researchers]
 tags: []
+description: "Описание: Роттенберг — исследователь, связанный с изучением древних технологий обработки металлов."
 ---
 
 # Роттенберг
@@ -18,3 +20,13 @@ tags: []
 ## Упоминание в работах
 
 - [[books/22-metally|Металлы — дар небесных богов]] — исследования в контексте изучения древней металлургии
+
+## См. также
+
+- [[places/red-sea|Красное море]]
+- [[places/phippine-sea|Филиппинское море]]
+- [[people/leonardi-bartres]]
+- [[expeditions/ekspediciya-v-egipet-2004]]
+- [[people/medgers]]
+- [[concepts/sledy-mashinnoy-obrabotki-kamnya]]
+- [[artifacts/puteshestviya-gullivera]]

@@ -1,8 +1,10 @@
 ---
+
 slug: biogennoe-proishozhdenie-nefti
 title: "Биогенное происхождение нефти"
 categories: [concepts]
 tags: []
+description: "Описание: Традиционная теория происхождения нефти и угля, согласно которой они образовались из остатков древних организмов (планктона, растений)."
 ---
 
 # Биогенное происхождение нефти
@@ -26,3 +28,13 @@ tags: []
 - [[concepts/abiogennoe-proishozhdenie-nefti|Абиогенное происхождение нефти]]
 - [[concepts/kamennougolnyj-period|Каменноугольный период]]
 - [[concepts/sernyj-kolchedan|Серный колчедан]]
+
+
+## См. также
+
+- [[concepts/index-concepts|Индекс концепций]]
+- [[concepts/dracoonografiya|Драконография]]
+- [[events/evolyuciya-obraz-dracon|Эволюция образа дракона]]
+- [[concepts/alternativnaya-istoriya|Альтернативная история]]
+- [[guides/paleokontakt|Путеводитель: Палеоконтакт]]
+- [[concepts/potop|Потоп]]

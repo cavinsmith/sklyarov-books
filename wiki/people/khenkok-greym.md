@@ -1,8 +1,10 @@
 ---
+
 slug: khenkok-greym
 title: "Грейм Хэнкок (Graham Hancock)"
 categories: [people]
 tags: [flood, archaeology, sphinx]
+description: "Описание: Британский писатель и исследователь, автор книги «Следы богов» (Fingerprints of Gods). Один из наиболее часто цитируемых авторов в книге..."
 ---
 
 # Грейм Хэнкок (Graham Hancock)

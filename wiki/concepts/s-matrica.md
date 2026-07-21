@@ -1,8 +1,10 @@
 ---
+
 slug: s-matrica
 title: "S-матрица (S-matrix)"
 categories: [concepts]
 tags: []
+description: "Другие названия: S-матрица рассеяния, scattering matrix"
 ---
 
 # S-матрица (S-matrix)

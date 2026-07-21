@@ -1,8 +1,10 @@
 ---
+
 slug: teillard
-title: "Тейяр де Шарден (Пьер)"
+title: "Пьер Тейяр де Шарден"
 categories: [people]
 tags: [philosophy, paleontology, theology]
+description: "Пьер Тейяр де Шарден — французский философ и палеонтолог, автор концепции ноосферы."
 ---
 
 # Тейяр де Шарден (Пьер)

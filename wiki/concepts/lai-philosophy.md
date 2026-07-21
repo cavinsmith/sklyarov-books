@@ -1,8 +1,10 @@
 ---
+
 slug: lai-philosophy
 title: Философия ЛАЙ
 categories: [concepts]
 tags: [science, alternative, history, Sklyarov]
+description: "Концепция лаборатории альтернативной истории (ЛАЙ) — научного направления, основанного Андреем Скляровым, занимающегося поиском следов древней..."
 ---
 
 # Философия ЛАЙ

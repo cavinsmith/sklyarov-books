@@ -1,8 +1,10 @@
 ---
+
 slug: gadalogaya-doska
 title: "Гадальная доска"
 categories: [concepts]
 tags: []
+description: "Другие названия: Гадательная доска, Доска для гадания"
 ---
 
 # Гадальная доска

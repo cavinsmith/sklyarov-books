@@ -1,8 +1,10 @@
 ---
+
 slug: selevkidy
 title: "Селевкиды"
 categories: [concepts]
 tags: []
+description: "Другие названия: Селевкидская империя, Селевкидская династия"
 ---
 
 # Селевкиды

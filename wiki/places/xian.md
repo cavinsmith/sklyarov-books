@@ -1,8 +1,10 @@
 ---
+
 slug: xian
 title: Сиань
 categories: [places]
 tags: [china, ancient-city, terracotta-army]
+description: "Страна: Китай"
 ---
 
 # Сиань
@@ -27,4 +29,8 @@ tags: [china, ancient-city, terracotta-army]
 
 ## См. также
 
+- [[places/kitay|Китай]]
+- [[places/reka-huanhe|Река Хуанхэ]]
+- [[books/10-kompyuter-drevnego-kitaya|Компьютер Древнего Китая]]
 - [[books/16-sensacionnaya-istoriya]]
+- [[concepts/drevnyaya-pismennost|Древняя письменность]]

@@ -2,7 +2,8 @@
 slug: noa-pyramid-film
 title: "Фильм NOVA «Эта Древняя Пирамида»"
 categories: [events]
-tags: []
+tags: [фильм, документальный, пирамиды]
+description: "Документальный фильм телеканала NOVA о назначении и строительстве Великой пирамиды Гизы."
 ---
 
 # Фильм NOVA «Эта Древняя Пирамида»
@@ -40,10 +41,8 @@ tags: []
 
 ## См. также
 
-- [[artifacts/great-pyramid]] — Великая пирамида Гизы
-- [[people/christopher-dunn]] — автор теории «Электростанции Гизы»
-- [[people/robert-schoch]] — исследователь датирования Сфинкса
-- [[people/graham-hancock]] — альтернативный историк
-- [[concepts/pyramid-energy]] — пирамиды как источники энергии
-- [[concepts/acoustic-properties]] — акустические свойства пирамид
-- [[events/schoch-west-presentation]] — доклад Шоча и Уэста (1992) о возрасте Сфинкса
+- [[artifacts/great-pyramid|Великая пирамида Гизы]]
+- [[people/christopher-dunn|Кристофер Данн]] — автор теории «Электростанции Гизы»
+- [[people/robert-schoch|Роберт Шоч]] — исследователь датирования Сфинкса
+- [[people/graham-hancock|Грэм Хэнкок]] — альтернативный историк
+- [[people/andrey-sklyarov|Андрей Скляров]]

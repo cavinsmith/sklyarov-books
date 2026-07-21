@@ -1,8 +1,10 @@
 ---
+
 slug: palenque
 title: Паленке
 categories: [places]
 tags: [maya, mexico, pyramid, ancient-city]
+description: "Страна: Мексика"
 ---
 
 # Паленке
@@ -31,3 +33,9 @@ tags: [maya, mexico, pyramid, ancient-city]
 - [[places/chichen-itza]] — Чичен-Ица
 - [[places/tikal]] — Тикаль
 - [[books/13-meksika-bez-krivyh-zerkal]]
+- [[places/cuicuilco]]
+- [[places/tula]]
+- [[guides/meksika]]
+
+- [[concepts/drevnie-tehnologii|Древние технологии]]
+- [[people/maya-people|Майя]]

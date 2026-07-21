@@ -1,14 +1,10 @@
 ---
 slug: ahet-aton
 title: "Ахет-Атон"
-categories:
-  - places
-  - archaeology
-  - egypt
-tags:
-  - akhenaten
-  - capital
-  - egypt
+categories: [places]
+tags: [akhenaten, capital, egypt]
+description: "Ахет-Атон — новая столица Эхнатона, построенная в XIV веке до н.э."
+
 ---
 
 # Ахет-Атон

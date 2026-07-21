@@ -1,8 +1,10 @@
 ---
+
 slug: kitay
 title: "Китай"
 categories: [places]
 tags: []
+description: "Другие названия: Древний Китай, Китайская Народная Республика"
 ---
 
 # Китай

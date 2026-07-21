@@ -1,8 +1,10 @@
 ---
+
 slug: ebla
 title: "Эбла"
 categories: [places]
 tags: []
+description: "Другие названия: Тель-Мардих, Шампиль"
 ---
 
 # Эбла
@@ -103,7 +105,7 @@ tags: []
 
 ## Связанные концепции
 
-- [[concepts/paleokontakt]] — гипотеза о высокоразвитой цивилизации
+- [[guides/paleokontakt]] — гипотеза о высокоразвитой цивилизации
 - [[concepts/utrachennye-tekhnologii]] — утраченные технологии после Потопа
 
 ## См. также

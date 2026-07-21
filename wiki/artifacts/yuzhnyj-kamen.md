@@ -1,8 +1,10 @@
 ---
+
 slug: yuzhnyj-kamen
 title: Южный камень
 categories: [artifacts]
 tags: [baalbek, megalith, ancient-technology]
+description: "Место находки: places/baalbek|Баальбек, Ливан"
 ---
 
 # Южный камень
@@ -30,3 +32,9 @@ tags: [baalbek, megalith, ancient-technology]
 - [[artifacts/trilithons-baalbek]] — Трилитоны Баальбека
 - [[places/baalbek]] — комплекс Баальбека
 - [[books/19-zemlya-vaala]]
+
+## Связанные страницы
+
+- [[places/alcad-hyuyuk|Аладжахююк]]
+- [[concepts/piezoelectric-effect|Пьезоэлектрический эффект]]
+- [[concepts/acoustic-properties|Акустические свойства]]

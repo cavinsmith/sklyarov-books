@@ -1,8 +1,10 @@
 ---
+
 slug: niuserre
 title: Ниусерра
 categories: [people]
 tags: [egypt, pharaoh, dynasty-v, abusir]
+description: "Фараон V династии Древнего Египта, правивший около 2445–2421 гг. до н.э."
 ---
 
 # Ниусерра (Niuserre)
@@ -23,8 +25,16 @@ tags: [egypt, pharaoh, dynasty-v, abusir]
 
 - [[books/12-tsivilizaciya-bogov-egipta|Цивилизация богов древнего Египта]] — описание пирамиды Ниусера и следов высоких технологий.
 
+## Связанные концепции
+
+- [[concepts/machine-processing|Машинная обработка камня]]
+- [[concepts/trubchatoe-sverlenie|Трубчатое сверление]]
+- [[concepts/civilization-of-gods|Цивилизация богов]]
+- [[concepts/dva-texnologicheskih-urovnya|Два технологических уровня]]
+
 ## См. также
 
-- [[places/abusir]]
-- [[places/egipet-drevniy]]
-- [[books/12-tsivilizaciya-bogov-egipta]]
+- [[places/abusir|Абусир]]
+- [[places/egipet-drevniy|Древний Египет]]
+- [[books/12-tsivilizaciya-bogov-egipta|Цивилизация богов Египта]]
+- [[people/andrey-sklyarov|Андрей Скляров]]

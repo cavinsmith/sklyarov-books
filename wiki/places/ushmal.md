@@ -1,8 +1,10 @@
 ---
+
 slug: ushmal
 title: "Ушмаль"
 categories: [places]
 tags: []
+description: "Древний город цивилизации майя на полуострове Юкатан, Мексика. В работах А. Склярова Ушмаль упоминается как один из ключевых археологических объектов..."
 ---
 
 # Ушмаль
@@ -25,5 +27,5 @@ tags: []
 
 - [[places/chichen-itsa]] — Чичен-Ица, другой объект майя на Юкатане
 - [[places/palenke]] — Паленке
-- [[places/meksika]] — Мексика
+- [[guides/meksika]] — Мексика
 - [[concepts/dvuhcivizacionnaya-gipoteza]] — двухцивилизационная гипотеза

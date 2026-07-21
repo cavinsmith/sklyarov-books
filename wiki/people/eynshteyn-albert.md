@@ -1,8 +1,10 @@
 ---
+
 slug: eynshteyn-albert
 title: "Альберт Эйнштейн"
 categories: [people]
 tags: []
+description: "Немецкий и американский теоретический физик, создатель теории относительности."
 ---
 
 # Альберт Эйнштейн
@@ -25,3 +27,12 @@ tags: []
 ## Связанные понятия
 
 - [[concepts/dualnaya-pervosubstantsiya]] — гипотеза о единой основе материи и духа
+
+
+## См. также
+
+- [[people/einstein]]
+- [[people/christopher-dunn]]
+- [[artifacts/lucy-remains]]
+- [[artifacts/great-pyramid]]
+- [[places/lelchicy]]

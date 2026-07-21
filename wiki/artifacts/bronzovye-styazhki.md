@@ -1,15 +1,10 @@
 ---
 slug: bronzovye-styazhki
 title: "Бронзовые стяжки Пума-Пунку"
-categories:
-  - artifacts
-  - archaeology
-  - bolivia
-tags:
-  - bronze
-  - ties
-  - tiahuanaco
-  - puma-punku
+categories: [artifacts]
+tags: [bronze, ties, tiahuanaco, puma-punku]
+description: "Бронзовые стяжки Пума-Пунку — металлические стяжки, обнаруженные в Пума-Пунку."
+
 ---
 
 # Бронзовые стяжки Пума-Пунку

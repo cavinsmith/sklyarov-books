@@ -1,8 +1,10 @@
 ---
+
 slug: abu-roat
 title: "Абу-Роаш"
 categories: [places]
 tags: [egypt, pyramids, dynasty-4, mystery]
+description: "Расположение: К северу от плато Гизы, Египет"
 ---
 
 # Абу-Роаш

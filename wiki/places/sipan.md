@@ -5,11 +5,9 @@ categories:
   - places
   - archaeology
   - peru
-tags:
-  - lord-of-sipan
-  - moche
-  - gold
-  - tomb
+tags: [lord-of-sipan, moche, gold, tomb]
+description: "Сипан — гробница правителя (Перу), раскопанная в 1987 году Альвой Вальтером."
+
 ---
 
 # Сипан
@@ -26,3 +24,5 @@ tags:
 
 - [[artifacts/pektorali-sipana|Пекторали Сипана]]
 - [[books/22-metally|Металлы — дар небесных богов]]
+
+- [[places/peru|Перу]]

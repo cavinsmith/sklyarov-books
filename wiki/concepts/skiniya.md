@@ -1,8 +1,10 @@
 ---
+
 slug: skiniya
 title: "Скиния"
 categories: concepts
 tags: [религия, Библия, Иудаизм, культовые сооружения]
+description: "Описание: Переносное святилище (храм), описанное в Библии, созданное по указанию Бога для хранения Ковчега Завета до постройки Храма Соломона."
 ---
 
 # Скиния
@@ -59,8 +61,8 @@ tags: [религия, Библия, Иудаизм, культовые соор
 
 ## Связанные страницы
 
-- [[concepts/kovcheg-zaveta|Ковчег Завета]]
-- [[concepts/skrizhali-zaveta|Скрижали Завета]]
+- [[artifacts/kovcheg-zaveta|Ковчег Завета]]
+- [[artifacts/skrizhali-zaveta|Скрижали Завета]]
 - [[places/khram-solomona|Храм Соломона]]
 - [[people/moisey|Моисей]]
 - [[events/iskhod|Исход]]

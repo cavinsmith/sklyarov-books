@@ -5,10 +5,9 @@ categories:
   - places
   - archaeology
   - bulgaria
-tags:
-  - gold
-  - necropolis
-  - chalcolithic
+tags: [gold, necropolis, chalcolithic]
+description: "Варна — город на побережье Чёрного моря (Болгария), место обнаружения Варненского некрополя."
+
 ---
 
 # Варна

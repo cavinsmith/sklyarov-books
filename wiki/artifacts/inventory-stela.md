@@ -1,8 +1,10 @@
 ---
+
 slug: inventory-stela
 title: "Инвентарная стела"
-categories: artifacts
-tags: []
+categories: [artifacts]
+tags: [artifact, egypt, giza]
+description: "Полное название: Инвентарная стела (также Стела Основания)"
 ---
 
 # Инвентарная стела
@@ -51,6 +53,9 @@ tags: []
 - [[artifacts/great-pyramid]] — Великая пирамида Гизы, к которой относится стела
 - [[people/manejon]] — Хуфу, фараон, чья роль обсуждается на основании стелы
 - [[people/gerodot]] — Геродот, приписавший строительство пирамиды Хуфу
-- [[concepts/inventory-stela|zahi-hawass]] — Захи Хавасс, оспаривающий альтернативную интерпретацию
+- [[people/zahi-hawass]] — Захи Хавасс, оспаривающий альтернативную интерпретацию
 - [[concepts/civilization-of-gods]] — Цивилизация богов, возможные первоначальные строители
+- [[concepts/machine-processing]] — следы технологий, упомянутых в стеле
+- [[concepts/razgrom-mifov]] — разбор стандартных объяснений
 - [[places/giza-plateau]] — Плато Гиза, место находки стелы
+- [[books/12-tsivilizaciya-bogov-egipta|Цивилизация богов Египта]]

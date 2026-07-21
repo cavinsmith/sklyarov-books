@@ -1,8 +1,10 @@
 ---
+
 slug: epokha-tsivilizatsii-bogov
 title: Эпоха цивилизации богов
 categories: [events]
 tags: [gods, civilization, ancient-history, paleokontakt]
+description: "Период присутствия concepts/civilization-of-gods|цивилизации богов на Земле — от глубокой древности до events/voyna-bogov-iv-tysyacheletie|Войны..."
 ---
 
 # Эпоха цивилизации богов
@@ -25,7 +27,7 @@ tags: [gods, civilization, ancient-history, paleokontakt]
 1. **Строительство мегалитических сооружений:** [[places/hebron|Хеврон]], [[places/ierusalim|Иерусалим]], [[places/baalbek|Баальбек]], пирамиды Гизы
 2. **Генетические эксперименты:** создание «рабочей силы» — людей
 3. **Установление религиозных систем:** культы разных богов, жертвоприношения
-4. **Технологическое воздействие:** «божественные» устройства ([[concepts/kovcheg-zaveta|Ковчег Завета]], [[concepts/urey|урей]])
+4. **Технологическое воздействие:** «божественные» устройства ([[artifacts/kovcheg-zaveta|Ковчег Завета]], [[concepts/urey|урей]])
 
 ### Доказательства
 
@@ -77,7 +79,7 @@ tags: [gods, civilization, ancient-history, paleokontakt]
 
 ### Устройства
 
-- [[concepts/kovcheg-zaveta]] — «божественное устройство» с энергетическим воздействием
+- [[artifacts/kovcheg-zaveta]] — «божественное устройство» с энергетическим воздействием
 - [[concepts/urey]] — «божественное оружие» (змея-оружие)
 - [[concepts/menora]] — «божественный светильник»
 
@@ -95,6 +97,6 @@ tags: [gods, civilization, ancient-history, paleokontakt]
 - [[events/velikii-potop]] — Великий Потоп
 - [[events/war-of-gods]] — Война богов (концепция)
 - [[concepts/drevnie-bogi]] — древние боги
-- [[concepts/paleokontakt]] — палеоконтакт
+- [[guides/paleokontakt]] — палеоконтакт
 - [[people/avraam]] — начало операции Яхве
 - [[events/razvedyvatelnaya-missiya-avraama]] — разведывательная миссия Авраама

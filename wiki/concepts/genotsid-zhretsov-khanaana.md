@@ -1,8 +1,10 @@
 ---
+
 slug: genotsid-zhretsov-khanaana
 title: "Геноцид жрецов Ханаана"
 categories: [concepts]
 tags: []
+description: "Концепция, описывающая уничтожение жрецов Ханаана в контексте борьбы concepts/yahweh-vs-baal|Яхве с concepts/baal|Баалом. В работах..."
 ---
 
 # Геноцид жрецов Ханаана

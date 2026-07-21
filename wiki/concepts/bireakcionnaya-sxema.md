@@ -4,11 +4,9 @@ title: "Биреакционная схема"
 categories:
   - concepts
   - metallurgy
-tags:
-  - smelting
-  - two-reaction
-  - copper
-  - iron
+tags: [smelting, two-reaction, copper, iron]
+description: "Биреакционная схема — метод выплавки металлов, основанный на двух последовательных химических реакциях."
+
 ---
 
 # Биреакционная схема
@@ -25,8 +23,15 @@ tags:
 
 Упоминается в [[books/22-metally|книге «Металлы — дар небесных богов»]] как один из методов древней металлургии.
 
+## Связанные концепции
+
+- [[concepts/tigelnaya-plavka|Тигельная плавка]]
+- [[concepts/metalloobrabotka|Металлообработка]]
+- [[concepts/mednye-splavy-i-tekhnologii|Медные сплавы и технологии]]
+- [[concepts/bronzovyj-vek|Бронзовый век]]
+
 ## См. также
 
 - [[artifacts/sosudy-zakruglennym-dnom|Сосуды с закруглённым дном]]
-- [[concepts/tigelnaya-plavka|Тигельная плавка]]
 - [[books/22-metally|Металлы — дар небесных богов]]
+- [[people/andrey-sklyarov|Андрей Скляров]]

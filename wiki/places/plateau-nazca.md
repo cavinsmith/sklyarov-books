@@ -1,8 +1,10 @@
 ---
+
 slug: plateau-nazca
 title: Плато Наска
 categories: [places]
 tags: [peru, nazca, lines, geoglyphs]
+description: "Страна: Перу"
 ---
 
 # Плато Наска
@@ -30,3 +32,8 @@ tags: [peru, nazca, lines, geoglyphs]
 - [[artifacts/geoglify-naska]] — Геоглифы Наска
 - [[places/palpa]] — Пальпа
 - [[books/16-sensacionnaya-istoriya]]
+- [[concepts/nasca]]
+- [[places/pampa-san-hose]]
+- [[places/linei-naska]]
+- [[people/mariya-reyhe]]
+- [[guides/peru]]

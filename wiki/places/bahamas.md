@@ -1,8 +1,10 @@
 ---
+
 slug: bahamas
 title: Багамы
 categories: [places]
 tags: [caribbean, underwater, bimini-road, atlantis]
+description: "Официальное название: Багамское Содружество"
 ---
 
 # Багамы

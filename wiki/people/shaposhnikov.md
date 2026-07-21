@@ -1,8 +1,10 @@
 ---
+
 slug: shaposhnikov
 title: "Георгий Шапошников"
 categories: [people]
-tags: [entomology, evolution]
+tags: [entomology, evolution, russia]
+description: "Георгий Шапошников — энтомолог, исследователь скачкообразной эволюции."
 ---
 
 # Георгий Шапошников
@@ -22,3 +24,5 @@ tags: [entomology, evolution]
 
 - [[concepts/teoriya-evolyucii|Теория эволюции]]
 - [[books/21-geneticheskiy-kod|Генетический код человечества]]
+
+- [[concepts/synteticheskaya-teoriya-evolyucii|Синтетическая теория эволюции]]

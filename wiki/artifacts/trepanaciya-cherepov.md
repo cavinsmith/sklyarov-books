@@ -5,11 +5,9 @@ categories:
   - artifacts
   - medicine
   - archaeology
-tags:
-  - trepanation
-  - skull
-  - surgery
-  - peru
+tags: [trepanation, skull, surgery, peru]
+description: "Древняя медицинская (или иная) практика создания отверстий в черепной коробке. В Южной Америке, особенно в регионе places/parakas, достигала..."
+
 ---
 
 # Трепанация черепов
@@ -55,4 +53,8 @@ tags:
 - [[artifacts/deformaciya-cherepov]]
 - [[places/parakas]]
 - [[artifacts/kamni-iki]]
+- [[concepts/drevnie-tehnologii|Древние технологии]]
+- [[concepts/bogi-vysokorazvitaya-civilizaciya|Боги — высокоразвитая цивилизация]]
 - [[books/15-peru-i-boliviya|«Перу и Боливия задолго до инков»]]
+- [[books/24-opasnoe-nasledie|Опасное наследие богов]]
+- [[books/21-geneticheskiy-kod|Генетический код человечества]]

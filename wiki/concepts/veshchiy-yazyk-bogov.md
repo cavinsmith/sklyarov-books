@@ -1,8 +1,12 @@
 ---
+
+
 slug: veshchiy-yazyk-bogov
 title: "Вещий язык богов"
 categories: [concepts]
 tags: []
+description: "Понятие, обсуждаемое в книге «books/06-vavilonskaya-bashnya|Вавилонская башня» people/andrey-sklyarov|Андрея Склярова. Обозначает..."
+
 ---
 
 # Вещий язык богов
@@ -28,6 +32,8 @@ tags: []
 ---
 
 ## См. также
+
+- [[concepts/index-concepts|Индекс концепций]]
 
 - [[concepts/edinaya-pismennost|Единая письменность]]
 - [[concepts/piktografika-i-ieroglifika|Пиктографика и иероглифика]]

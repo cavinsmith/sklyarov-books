@@ -1,8 +1,10 @@
 ---
+
 slug: byeuvell-robert
 title: "Бьювелл Роберт"
 categories: [people]
 tags: []
+description: "Описание: Американский исследователь, обнаруживший связь расположения пирамид Гизы с звездами Пояса concepts/orion."
 ---
 
 # Бьювелл Роберт

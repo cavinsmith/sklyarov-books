@@ -1,8 +1,10 @@
 ---
+
 slug: bering-strait
 title: Берингов пролив
 categories: [places]
 tags: [russia, usa, strait, migration]
+description: "Соединяет: Чукотское море (Северный Ледовитый океан) и Берингово море (Тихий океан)"
 ---
 
 # Берингов пролив
@@ -29,3 +31,8 @@ tags: [russia, usa, strait, migration]
 - [[places/antarktida]] — Антарктида
 - [[places/filippinskoe-more]] — Филиппинское море
 - [[books/14-obitaemyy-ostrov]]
+- [[places/florida]]
+- [[places/kultura-hopewell]]
+- [[artifacts/grom-kamen]]
+- [[places/tihij-okean]]
+- [[places/moscow]]

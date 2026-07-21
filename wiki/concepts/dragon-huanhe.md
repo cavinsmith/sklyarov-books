@@ -1,8 +1,10 @@
 ---
+
 slug: dragon-huanhe
 title: "Дракон с Хуанхэ"
 categories: [concepts]
 tags: []
+description: "Согласно легенде, people/fu-si|Фу Си увидел дракона с письменами на берегу places/reka-huanhe|реки Хуанхэ. По этим знакам он якобы создал систему..."
 ---
 
 # Дракон с Хуанхэ

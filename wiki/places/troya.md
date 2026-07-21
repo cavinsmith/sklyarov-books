@@ -1,8 +1,10 @@
 ---
+
 slug: troya
 title: "Троя"
 categories: [places]
 tags: []
+description: "Древний город в Малой Азии (современная Турция), открытый people/shlikman-genrikh|Генрихом Шлиманом в 1870 году по описаниям Гомера, ставший символом..."
 ---
 
 # Троя
@@ -15,7 +17,7 @@ tags: []
 - Открыт [[people/shlikman-genrikh|Генрихом Шлиманом]] в 1870 году
 - Описан Гомером в «Илиаде» и «Одиссее»
 - Содержит культурные слои от III тысячелетия до н.э. до римского периода
-- Один из ключевых объектов в [[concepts/paleokontakt|палеоконтакте]] и археологии
+- Один из ключевых объектов в [[guides/paleokontakt|палеоконтакте]] и археологии
 
 ## Упоминание в работах
 
@@ -25,7 +27,14 @@ tags: []
 ## Связанные концепции
 
 - [[people/shlikman-genrikh|Генрих Шлиман]] — археолог, открывший Трою
-- [[concepts/paleokontakt|Палеоконтакт]] — интерпретация Троянской войны
+- [[guides/paleokontakt|Палеоконтакт]] — интерпретация Троянской войны
 - [[concepts/cultural-continuity|Культурная преемственность]] — связь культур
 - [[places/malaya-aziya|Малая Азия]] — регион
 - [[concepts/megalithic-architecture|Мегалитическая архитектура]] — стены Трои
+
+## См. также
+- [[concepts/potop|Потоп]]
+- [[events/velikii-potop|Великий Потоп]]
+- [[events/global-flood|Всемирный потоп]]
+- [[concepts/drevnie-bogi|Древние боги]]
+- [[concepts/civilization-of-gods|Цивилизация богов]]

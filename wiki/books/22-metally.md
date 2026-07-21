@@ -9,13 +9,8 @@ categories:
   - archaeology
   - metallurgy
   - alternative-history
-tags:
-  - metalurgy
-  - bronze-age
-  - copper
-  - gold
-  - ancient-technology
-  - paleocontact
+tags: []
+description: "Исследование древних технологий металлургии и роли металлов в развитии цивилизаций."
 ---
 
 # Металлы — дар небесных богов
@@ -414,6 +409,8 @@ tags:
 ---
 
 ## См. также
+
+- [[books/index-books|Индекс книг]]
 
 - [[places/arkaim|Аркаим]]
 - [[places/sintashta|Синташта]]

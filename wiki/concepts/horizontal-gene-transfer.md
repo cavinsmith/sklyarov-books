@@ -5,10 +5,9 @@ categories:
   - concepts
   - biology
   - genetics
-tags:
-  - genetics
-  - horizontal-transfer
-  - evolution
+tags: [genetics, horizontal-transfer, evolution]
+description: "Горизонтальный перенос генов (горизонтальная трансгензация) — передача генетического материала между организмами, не являющимися родителем и потомком."
+
 ---
 
 # Горизонтальный перенос генов
@@ -30,3 +29,5 @@ tags:
 - [[concepts/gennaya-inzheneriya|Генная инженерия]]
 - [[concepts/gibridizaciya|Гибридизация]]
 - [[books/21-geneticheskiy-kod|Генетический код человечества]]
+- [[people/denisovans]]
+- [[concepts/jenkin-nightmare]]

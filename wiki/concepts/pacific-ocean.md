@@ -1,8 +1,10 @@
 ---
+
 slug: pacific-ocean
 title: "Тихий океан"
 categories: [concepts, places]
 tags: [океан, затопление, подводные структуры]
+description: "Описание: Крупнейший и глубочайший океан Земли. Содержит множество загадочных подводных структур и следов events/potop-xi-tysyacheletiya|Потопа XI..."
 ---
 
 # Тихий океан
@@ -32,3 +34,10 @@ tags: [океан, затопление, подводные структуры]
 - [[concepts/underwater-ruins|Подводные руины]]
 - [[events/potop-xi-tysyacheletiya|Потоп XI тысячелетия до н.э.]]
 - [[concepts/cosmic-catastrophes|Космические катастрофы]]
+
+## См. также
+- [[concepts/potop|Потоп]]
+- [[events/velikii-potop|Великий Потоп]]
+- [[events/global-flood|Всемирный потоп]]
+- [[concepts/alternativnaya-istoriya|Альтернативная история]]
+- [[guides/paleokontakt|Путеводитель: Палеоконтакт]]

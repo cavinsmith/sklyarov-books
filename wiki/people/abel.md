@@ -1,8 +1,12 @@
 ---
+
+
 slug: abel
 title: "Авель"
 categories: [people]
 tags: []
+description: "Библейский персонаж, второй сын people/adam|Адама и Евы. Упоминается в контексте анализа библейской истории в работах people/andrey-sklyarov|Андрея..."
+
 ---
 
 # Авель

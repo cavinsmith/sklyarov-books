@@ -1,8 +1,10 @@
 ---
+
 slug: micene
 title: Микены
 categories: [places]
 tags: [greece, archaeology, mycenaean, agamemnon]
+description: "Древнегреческий город, центр Микенской цивилизации бронзового века."
 ---
 
 # Микены

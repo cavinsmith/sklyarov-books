@@ -1,8 +1,10 @@
 ---
+
 slug: huaka-las-ventanas
 title: "Уака Лас Вентанас"
 categories: [places]
 tags: []
+description: "Древнее сооружение в Перу."
 ---
 
 # Уака Лас Вентанас
@@ -20,3 +22,10 @@ tags: []
 ## См. также
 
 - [[books/01-mif-o-potope]]
+
+- [[places/peru|Перу]]
+- [[places/morray]]
+- [[places/kenko]]
+- [[places/komalkalko]]
+- [[artifacts/paracas-elongated-skulls]]
+- [[artifacts/elongated-skulls-peru]]

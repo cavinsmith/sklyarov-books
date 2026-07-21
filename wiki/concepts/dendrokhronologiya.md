@@ -2,32 +2,20 @@
 slug: dendrokhronologiya
 title: "Дендрохронология"
 categories: [concepts]
-tags: [датирование, деревья, наука]
+tags: []
+description: "Дендрохронология"
 ---
 
 # Дендрохронология
 
-Метод датирования по годичным кольцам деревьев. Используется для построения калибровочных кривых радиоуглеродного датирования. В работах [[people/andrey-sklyarov|Андрея Склярова]] дендрохронология критикуется как метод с серьёзными ограничениями.
-
-## Основные положения
-
-- Метод датирования по годичным кольцам деревьев
-- Используется для калибровки радиоуглеродного датирования
-- Ограничения: зависит от климатических условий
-- Связь с [[concepts/kalibrovochnye-krivye|калибровочными кривыми]]
-- Связь с [[concepts/absolyutnoe-datirovanie|абсолютным датированием]]
-
-## Критика
-
-- Непрерывная шкала не может быть построена для далёкого прошлого
-- Зависимость от климатических условий
-- Ограниченная применимость для датирования артефактов
+Смотрите [[methods/dendrokhronologiya]].
 
 ## См. также
 
-- [[concepts/absolyutnoe-datirovanie]] — абсолютное датирование
-- [[concepts/kalibrovochnye-krivye]] — калибровочные кривые
-- [[concepts/geokhronologiya]] — геохронология
-- [[methods/radiouglerodnoe-datirovanie|Радиоуглеродное датирование]]
-- [[books/07-radio-uglerodnoe-datirovanie|Радиоуглеродное датирование]]
-- [[people/andrey-sklyarov|Андрей Скляров]]
+- [[events/khronologiya|Хронология событий]]
+- [[artifacts/red-pyramid]]
+- [[places/kompyuter-drevnego-kitaya]]
+- [[places/inca]]
+- [[places/pyramids]]
+- [[places/maya]]
+- [[concepts/dating-methods|Методы датирования]]

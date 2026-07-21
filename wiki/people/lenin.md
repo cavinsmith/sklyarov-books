@@ -1,8 +1,10 @@
 ---
+
 slug: lenin
 title: "Ленин Владимир Ильич"
 categories: [people]
 tags: []
+description: "Русский революционер, политик и политический мыслитель (1870–1924). Основатель Советского государства, теоретик марксизма-ленинизма."
 ---
 
 # Ленин Владимир Ильич
@@ -22,3 +24,10 @@ tags: []
 
 - [[concepts/historical-inertia]] — закон исторической инерции
 - [[books/28-fizika-duha]] — «Физика духа»
+
+- [[places/ika-chinka|Ика-Чинка]]
+- [[places/hatussa]]
+- [[places/tula-maya]]
+- [[people/fritjof-kapra]]
+- [[people/bernar-klervosskiy]]
+- [[people/yung-karl-gustav]]

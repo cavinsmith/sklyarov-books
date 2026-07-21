@@ -1,8 +1,10 @@
 ---
+
 slug: obsidian-monkey
 title: "Обсидиановая обезьяна"
 categories: artifacts
 tags: [obsidian, mexico, sculpture, ancient-technology]
+description: "Описание: Статуэтка обезьяны из обсидиана, обнаруженная в Мезоамерике. Ритуальный предмет культуры ольмеков или ацтеков. Хранится в Национальном..."
 ---
 
 # Обсидиановая обезьяна
@@ -37,3 +39,9 @@ tags: [obsidian, mexico, sculpture, ancient-technology]
 - [[artifacts/manzheta-iz-obsidiana|Манжета из обсидиана]]
 - [[books/13-meksika-bez-krivyh-zerkal|Древняя Мексика без кривых зеркал]]
 - [[books/18-drevnie-bogi|Древние боги — кто они?]]
+
+## Связанные страницы
+
+- [[places/jaina|Остров Хайна]]
+- [[places/tula|Тула]]
+- [[places/mexico-city|Мехико]]

@@ -1,8 +1,10 @@
 ---
+
 slug: yung-karl-gustav
 title: "Карл Густав Юнг"
 categories: [people]
 tags: []
+description: "Швейцарский психиатр и psychoanalyst, основатель аналитической психологии."
 ---
 
 # Карл Густав Юнг
@@ -25,3 +27,12 @@ tags: []
 ## Связанные понятия
 
 - [[concepts/piramida-dushi]] — авторская концепция, включающая коллективное бессознательное Юнга
+
+
+## См. также
+
+- [[people/yung]]
+- [[people/frankl-viktor-emil]]
+- [[people/lenin]]
+- [[people/bernar-klervosskiy]]
+- [[people/erih-fon-daniken]]

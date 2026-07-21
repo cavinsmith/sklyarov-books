@@ -1,8 +1,10 @@
 ---
+
 slug: babilonyane
 title: Вавилоняне
 categories: [people]
 tags: [mesopotamia, babylon, civilization, ancient]
+description: "Древний семитический народ Месопотамии, создавший одну из крупнейших цивилизаций Древнего мира."
 ---
 
 # Вавилоняне

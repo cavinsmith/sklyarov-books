@@ -5,11 +5,9 @@ categories:
   - places
   - nazca
   - peru
-tags:
-  - nazca
-  - museum
-  - maria-reiche
-  - geoglyphs
+tags: [nazca, museum, maria-reiche, geoglyphs]
+description: "Местоположение: Окраина плато Наска, Перу"
+
 ---
 
 # Музей Марии Райхе

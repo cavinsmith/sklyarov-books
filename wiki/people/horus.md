@@ -1,8 +1,10 @@
 ---
+
 slug: horus
 title: "Гор"
 categories: [people]
 tags: []
+description: "Египетский бог неба, сын Осириса и Исиды. Изображается с головой сокола."
 ---
 
 # Гор

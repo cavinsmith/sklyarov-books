@@ -1,8 +1,10 @@
 ---
+
 slug: spiralnaya-galaktika
 title: "«Спиральная галактика» (керамика)"
 categories: artifacts
 tags: []
+description: "Экспонат Археологического музея places/lima — плоский диск со «утолщением» в центре и дугообразными прорезями, поразительно напоминающий структуру..."
 ---
 
 # «Спиральная галактика» (керамика)
@@ -24,6 +26,6 @@ tags: []
 - [[places/lima|Лима]]
 - [[artifacts/kamni-iki|Камни Ики]]
 - [[artifacts/deformaciya-cherepov|Деформация черепов]]
-- [[concepts/paleokontakt|Палеоконтакт]]
+- [[guides/paleokontakt|Палеоконтакт]]
 - [[concepts/drevnie-bogi|Древние боги]]
 - [[books/15-peru-i-boliviya|«Перу и Боливия задолго до инков»]]

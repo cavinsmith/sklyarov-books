@@ -5,11 +5,9 @@ categories:
   - places
   - archaeology
   - china
-tags:
-  - bronze-age
-  - china
-  - piece-molding
-  - bells
+tags: [bronze-age, china, piece-molding, bells]
+description: "Эрлитоу (Эрлитоу) — протогородское поселение в провинции Хэнань (Китай), XXIV–XV века до н.э."
+
 ---
 
 # Эрлитоу
@@ -31,3 +29,8 @@ tags:
 - [[artifacts/bronze-czu|Бронзовый сосуд цзюэ]]
 - [[artifacts/kolokolnyj-komplekt|Колокольный комплект князя И]]
 - [[books/22-metally|Металлы — дар небесных богов]]
+- [[places/sanshinduj]]
+- [[places/norsun-tepe]]
+- [[places/tepe-yahtya]]
+- [[places/arslantepe]]
+- [[artifacts/kolokolnyj-komplekt]]

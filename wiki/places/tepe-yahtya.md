@@ -5,10 +5,9 @@ categories:
   - places
   - archaeology
   - iran
-tags:
-  - metallurgy
-  - bronze-age
-  - trade
+tags: [metallurgy, bronze-age, trade]
+description: "Тепе-Яхья (перс. تپه یحیی) — древнее поселение в Иране, важный металлургический центр бронзового века. Расположен в провинции Керман, на юго-востоке..."
+
 ---
 
 # Тепе-Яхья

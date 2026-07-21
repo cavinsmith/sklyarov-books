@@ -1,8 +1,10 @@
 ---
+
 slug: furduj
 title: "Фурдуй"
 categories: [people]
 tags: []
+description: "Перуанский хронист XVII века, автор «Анналов Куско» (Annals of Cusco). Один из ключевых источников по истории инков."
 ---
 
 # Фурдуй
@@ -23,3 +25,8 @@ tags: []
 
 - [[places/kusko]] — Куско, столица инков
 - [[books/15-peru-i-boliviya]] — Перу и Боливия
+- [[people/toribio]]
+- [[books/29-sprint-po-kairu]]
+- [[people/alunni]]
+- [[people/gerodot]]
+- [[artifacts/step-pyramid]]

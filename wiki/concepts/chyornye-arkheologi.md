@@ -1,8 +1,12 @@
 ---
+
+
 slug: chyornye-arkheologi
 title: "Чёрные археологи"
 categories: [concepts]
 tags: []
+description: "Нелегальные раскопки и контрабанда археологических артефактов. В работах people/andrey-sklyarov|Андрея Склярова рассматривается как серьёзная..."
+
 ---
 
 # Чёрные археологи

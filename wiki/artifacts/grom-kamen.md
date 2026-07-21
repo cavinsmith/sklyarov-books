@@ -1,8 +1,10 @@
 ---
+
 slug: grom-kamen
 title: Камень Гром
 categories: [artifacts]
 tags: [ancient-technology, stone, russia, ural]
+description: "Место находки: Пермский край, Россия"
 ---
 
 # Камень Гром
@@ -28,3 +30,13 @@ tags: [ancient-technology, stone, russia, ural]
 
 - [[artifacts/ural-spirals]] — уральские спирали
 - [[books/18-drevnie-bogi]] — «Древние боги — кто они?»
+- [[places/uraljskij-razlom|Уральский разлом]]
+- [[concepts/machine-processing|Машинная обработка камня]]
+- [[concepts/utrachennye-tekhnologii|Утраченные технологии]]
+- [[concepts/megalithic-architecture|Мегалитическая архитектура]]
+
+## Связанные страницы
+
+- [[artifacts/ural-spirals|Уральские спирали]]
+- [[places/moscow|Москва]]
+- [[places/ural|Урал]]

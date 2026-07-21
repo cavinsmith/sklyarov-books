@@ -1,8 +1,10 @@
 ---
+
 slug: abrahams-scouting-mission
 title: "Разведывательная миссия Авраама"
 categories: [concepts]
-tags: []
+tags: [abraham, canaan, mission]
+description: "Разведывательная миссия Авраама — концепция разведки земли Ханаанской."
 ---
 
 # Разведывательная миссия Авраама

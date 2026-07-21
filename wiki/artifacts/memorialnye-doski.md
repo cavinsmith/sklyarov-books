@@ -5,10 +5,9 @@ categories:
   - artifacts
   - metallurgy
   - inscriptions
-tags:
-  - bronze
-  - inscriptions
-  - memorial
+tags: [bronze, inscriptions, memorial]
+description: "Мемориальные доски — металлические или каменные памятные плиты с рельефными или гравированными надписями, связанные с историей металлургии и..."
+
 ---
 
 # Мемориальные доски

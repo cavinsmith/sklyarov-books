@@ -1,8 +1,10 @@
 ---
+
 slug: drevnyaya-yaponiya
 title: "Путеводитель: Древняя Япония"
 categories: [guides]
 tags: [japan, yonaguni, megaliths, paleokontakt, jomon, kofun]
+description: "Все материалы wiki, связанные с Древней Японией — подводными мегалитическими сооружениями, загадками заселения островов, мегалитами асукинского..."
 ---
 
 # Путеводитель: Древняя Япония
@@ -27,7 +29,7 @@ tags: [japan, yonaguni, megaliths, paleokontakt, jomon, kofun]
 
 ### Палеоконтакт
 
-- [[concepts/paleokontakt|Палеоконтакт]] — гипотеза о контакте с «богами»
+- [[guides/paleokontakt|Палеоконтакт]] — гипотеза о контакте с «богами»
 - [[concepts/high-tech-mesoamerica|High-tech Мезоамерика]] — параллели с Японией
 
 ## Памятные места
@@ -89,3 +91,9 @@ tags: [japan, yonaguni, megaliths, paleokontakt, jomon, kofun]
 - [[guides/drevniy-egipet|Путеводитель: Древний Египет]]
 - [[guides/peru|Путеводитель: Перу]]
 - [[guides/datirovanie|Путеводитель: Методы датирования]]
+
+- [[artifacts/great-pyramid|Великая пирамида Гизы]]
+- [[places/giza|Гиза]]
+- [[concepts/egyptian-pantheon|Египетский пантеон]]
+- [[places/saqqara|Саккара]]
+- [[books/12-tsivilizaciya-bogov-egipta|Цивилизация богов древнего Египта]]

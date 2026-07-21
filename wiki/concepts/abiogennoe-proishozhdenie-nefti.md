@@ -1,8 +1,10 @@
 ---
+
 slug: abiogennoe-proishozhdenie-nefti
 title: "Абиогенное происхождение нефти"
 categories: [concepts]
 tags: []
+description: "Описание: Теория происхождения нефти и других углеводородов, согласно которой они образуются из глубинных углеводородных соединений Земли без участия..."
 ---
 
 # Абиогенное происхождение нефти
@@ -39,3 +41,8 @@ tags: []
 - [[concepts/yuvenilnyj-flyuid|Ювенильный флюид]]
 - [[people/larin-viktor|В. Ларин]]
 - [[people/digonskij-sv|С.В. Дигонский]]
+
+
+## См. также
+
+- [[concepts/index-concepts|Индекс концепций]]

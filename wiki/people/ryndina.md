@@ -1,8 +1,10 @@
 ---
+
 slug: ryndina
 title: "Нина Рындина"
 categories: [people]
 tags: [metallurgy, bronze]
+description: "Нина Рындина — д.и.н., исследователь древнерусской металлургии."
 ---
 
 # Нина Рындина

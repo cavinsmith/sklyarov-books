@@ -5,10 +5,9 @@ categories:
   - places
   - geography
   - israel
-tags:
-  - dead-sea
-  - lowest-point
-  - salt-lake
+tags: [dead-sea, lowest-point, salt-lake]
+description: "Мёртвое море (ивр. יַם הַמֶּלַח, «Море соли») — солёное озеро на границе Израиля и Иордании. Самая низкая точка на поверхности Земли (около 430 м..."
+
 ---
 
 # Мёртвое море

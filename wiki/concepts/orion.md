@@ -1,8 +1,10 @@
 ---
+
 slug: orion
 title: "Орион"
 categories: [concepts]
 tags: []
+description: "Созвездие на зимнем небе, одно из наиболее узнаваемых. В египетской мифологии ассоциируется с богом people/osiris|Осирисом. Гипотеза Роберта Бьювала..."
 ---
 
 # Орион
@@ -27,8 +29,16 @@ tags: []
 
 ## См. также
 
+- [[concepts/index-concepts|Индекс концепций]]
+
 - [[concepts/orion-belt]] — пояс Ориона
 - [[concepts/pleiades]] — Плеяды
 - [[concepts/civilization-of-gods]] — цивилизация богов
 - [[people/osiris]] — Осирис
 - [[books/17-piramidy]] — «Пирамиды: загадки строительства и назначения»
+
+- [[artifacts/great-pyramid|Великая пирамида Гизы]]
+- [[concepts/megalithic-architecture|Мегалитическая архитектура]]
+- [[places/giza|Гиза]]
+- [[concepts/egyptian-pantheon|Египетский пантеон]]
+- [[places/saqqara|Саккара]]

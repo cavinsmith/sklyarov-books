@@ -1,8 +1,10 @@
 ---
+
 slug: metallurgiya
 title: "Путеводитель: Металлургия"
 categories: [guides]
 tags: [metallurgy, copper, bronze, iron, technology]
+description: "Все материалы wiki, связанные с древней металлургией — добычей, обработкой и использованием металлов в контексте «богов» и утраченных технологий."
 ---
 
 # Путеводитель: Металлургия
@@ -39,7 +41,7 @@ tags: [metallurgy, copper, bronze, iron, technology]
 
 ### Связанные концепции
 
-- [[concepts/paleokontakt|Палеоконтакт]] — металлы как «дар богов»
+- [[guides/paleokontakt|Палеоконтакт]] — металлы как «дар богов»
 - [[concepts/bogi-skarlyarova|Боги Склярова]] — металлы как наследие «богов»
 - [[concepts/sledy-mashinnoy-obrabotki-kamnya|Следы машинной обработки]] — инструменты из металлов
 
@@ -74,7 +76,7 @@ tags: [metallurgy, copper, bronze, iron, technology]
 - [[places/aibunar|Аибунар]] — древние медные рудники
 - [[places/geltepe|Гельтепе]] — древние рудники в Турции
 - [[places/ergani-maden|Эргани-Маден]] — древний медный рудник
-- [[places/ural-spirals|Уральские спирали]] — спиральные петроглифы
+- [[artifacts/ural-spirals|Уральские спирали]] — спиральные петроглифы
 - [[places/kavkaz|Кавказ]] — регион древней металлургии
 - [[places/dzhezkazgan|Джезказган]] — медные рудники в Казахстане
 

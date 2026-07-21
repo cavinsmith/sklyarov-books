@@ -1,8 +1,10 @@
 ---
+
 slug: makfarlejn
 title: "Э. Макфарлэйн"
 categories: [people]
 tags: [metallurgy, bronze]
+description: "Э. Макфарлэйн — исследователь, совместно с people/lehtman|Х. Лехтманом проводивший анализ металлургии places/tiauankano|Тиауанако."
 ---
 
 # Э. Макфарлэйн

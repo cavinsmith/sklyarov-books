@@ -5,10 +5,9 @@ categories:
   - places
   - archaeology
   - egypt
-tags:
-  - pyramid
-  - III-dynasty
-  - haba
+tags: [pyramid, III-dynasty, haba]
+description: "Завиет-эль-Ариан (араб. الزاوية الاريان) — археологический памятник в Египте, расположенный недалеко от Гизы. Здесь расположена незавершённая..."
+
 ---
 
 # Завиет-эль-Ариан

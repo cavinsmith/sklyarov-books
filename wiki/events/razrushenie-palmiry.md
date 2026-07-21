@@ -1,8 +1,10 @@
 ---
+
 slug: razrushenie-palmiry
 title: "Разрушение Пальмиры"
 categories: [events]
 tags: []
+description: "Уничтожение памятников древнего города places/palmyra боевиками организации «ИГИЛ» (Исламское государство) в 2015--2016 годах. places/palmyra --..."
 ---
 
 # Разрушение Пальмиры

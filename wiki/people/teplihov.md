@@ -1,8 +1,10 @@
 ---
+
 slug: teplihov
 title: "С. Теплоухов"
 categories: [people]
 tags: [andronovo]
+description: "С. Теплоухов — российский археолог, выделивший андроновскую культуру."
 ---
 
 # С. Теплоухов

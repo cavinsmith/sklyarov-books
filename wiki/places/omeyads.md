@@ -1,8 +1,10 @@
 ---
+
 slug: omeyads
 title: "Омейяды"
 categories: [people]
 tags: [islam, caliphate, damascus, architecture]
+description: "Период правления: 661–750 гг."
 ---
 
 # Омейяды
@@ -30,7 +32,7 @@ tags: [islam, caliphate, damascus, architecture]
 
 ## Упоминание в работах
 
-- [[books/30-yahve-protив-baала]] — Омейяды как наследники религиозных традиций Леванта
+- [[books/30-yahve-protiv-baala]] — Омейяды как наследники религиозных традиций Леванта
 - [[places/dome-of-the-rock]] — Купол Скалы, построенный Омейядами
 
 ## Связанные концепции

@@ -1,8 +1,10 @@
 ---
+
 slug: nahodka-lucy
 title: "Находка Люси"
 categories: [events]
 tags: []
+description: "Обнаружение в 1974 году в Эфиопии скелета Australopithecus afarensis, получившего имя «Люси», ставшего одним из наиболее известных археологических..."
 ---
 
 # Находка Люси

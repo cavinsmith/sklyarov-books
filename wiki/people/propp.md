@@ -1,8 +1,10 @@
 ---
+
 slug: propp
 title: "В.Я. Пропп"
 categories: [people]
 tags: []
+description: "Описание: Владимир Яковлевич Пропп (1895–1970) — советский фольклорист, автор морфологии сказки."
 ---
 
 # В.Я. Пропп
@@ -22,3 +24,11 @@ tags: []
 ## Упоминание в работах
 
 - [[books/18-drevnie-bogi|Древние боги]] — анализ мифологических сюжетов
+
+## См. также
+
+- [[concepts/proishozhdenie-draconov|Происхождение мифов о Драконах]]
+- [[concepts/voyna-bogov|Война богов]]
+- [[concepts/drevnie-bogi|Древние боги]]
+- [[concepts/kollektivnoe-bessoznatelnoe|Коллективное бессознательное]]
+- [[people/yung|Карл Густав Юнг]]

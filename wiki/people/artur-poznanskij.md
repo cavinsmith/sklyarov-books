@@ -1,8 +1,10 @@
 ---
+
 slug: artur-poznanskij
 title: "Артур Познанский"
 categories: [people]
 tags: [археология, Тиуанако, Боливия]
+description: "Чилийский астроном и исследователь, один из первых изучателей древнего города Тиуанако в Боливии."
 ---
 
 # Арthur Познанский
@@ -21,3 +23,8 @@ tags: [археология, Тиуанако, Боливия]
 ## См. также
 
 - [[people/andrey-sklyarov]]
+- [[people/ivan-guzman-de-rohas]]
+- [[places/chankay]]
+- [[people/derewyanko]]
+- [[people/agurto-kalvo]]
+- [[people/mejson]]

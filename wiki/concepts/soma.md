@@ -1,8 +1,12 @@
 ---
+
+
 slug: soma
 title: "Сома"
 categories: [concepts]
 tags: []
+description: "Священный напиток богов в ведической традиции. В работах people/andrey-sklyarov|Андрея Склярова рассматривается как возможный напиток..."
+
 ---
 
 # Сома

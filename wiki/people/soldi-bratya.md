@@ -1,8 +1,10 @@
 ---
+
 slug: soldi-bratya
 title: "Братья Сольди (Карлос и Пабло)"
 categories: [people, collectors]
 tags: []
+description: "Карлос и Пабло Сольди — братья-виноделы, первые крупные коллекционеры artifacts/kamni-iki|камней Ики."
 ---
 
 # Братья Сольди (Карлос и Пабло)

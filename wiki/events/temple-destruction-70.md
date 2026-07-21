@@ -1,8 +1,10 @@
 ---
+
 slug: temple-destruction-70
 title: "Разрушение Второго Храма римлянами"
 categories: [events]
 tags: []
+description: "Дата: 70 г. н.э. (9 Августа по еврейскому календарю)"
 ---
 
 # Разрушение Второго Храма римлянами
@@ -81,4 +83,8 @@ tags: []
 - [[people/herod-great]] — строитель Второго Храма
 - [[people/josephus]] — историк, описавший разрушение
 - [[artifacts/megalithic-wall-temple-mount]] — мегалитический фундамент, переживший разрушение
+- [[artifacts/kovcheg-zaveta]] — Ковчег Завета, исчезнувший при разрушении
+- [[artifacts/skrizhali-zaveta]] — Скрижали Завета, исчезшие вместе с Ковчегом
+- [[artifacts/mezuzah]] — заповеди, связанные с Храмом
 - [[books/19-zemlya-vaala]] — книга, рассматривающая разрушение как «временный реванш»
+- [[books/25-kovcheg-zaveta|Ковчег Завета]]

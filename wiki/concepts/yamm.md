@@ -1,8 +1,10 @@
 ---
+
 slug: yamm
 title: "Ямм"
 categories: [concepts]
 tags: []
+description: "Другие названия: Ям, Йам"
 ---
 
 # Ямм
@@ -34,3 +36,8 @@ tags: []
 
 - [[books/19-zemlya-vaala|Земля Ваала]]
 - [[books/18-drevnie-bogi|Древние боги]]
+
+
+## См. также
+
+- [[concepts/index-concepts|Индекс концепций]]

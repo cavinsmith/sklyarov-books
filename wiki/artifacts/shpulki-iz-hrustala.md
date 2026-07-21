@@ -5,11 +5,9 @@ categories:
   - artifacts
   - archaeology
   - mexico
-tags:
-  - crystal
-  - obsidian
-  - machining
-  - ancient-technology
+tags: [crystal, obsidian, machining, ancient-technology]
+description: "Шпульки из горного хрусталя — артефакты, обнаруженные в Мексике, которые по форме напоминают шпульки современных швейных машин."
+
 ---
 
 # Шпульки из горного хрусталя

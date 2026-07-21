@@ -1,8 +1,10 @@
 ---
+
 slug: tutankhamon
 title: "Тутанхамон"
 categories: [people]
 tags: []
+description: "Тутанхамон — фараон XVIII династии Древнего Египта, преемник concepts/aton|Эхнатона."
 ---
 
 # Тутанхамон
@@ -18,3 +20,5 @@ tags: []
 ## См. также
 
 - [[concepts/aton]] — Эхнатон (предшественник)
+
+- [[projects/fond-iii-tysyacheletie|Фонд III тысячелетие]]

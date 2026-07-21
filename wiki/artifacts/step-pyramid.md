@@ -1,8 +1,10 @@
 ---
+
 slug: step-pyramid
 title: "Ступенчатая пирамида"
 categories: artifacts
 tags: []
+description: "Другие названия: Пирамида Джосера, Пирамида в Саккаре, Staircase Pyramid"
 ---
 
 # Ступенчатая пирамида
@@ -48,3 +50,7 @@ tags: []
 - [[artifacts/great-pyramid]] — Великая пирамида Гизы (следующий этап эволюции)
 - [[books/17-piramidy]] — книга о пирамидах
 - [[books/12-tsivilizaciya-bogov-egipta]] — книга о цивилизации богов Египта
+
+## Связанные страницы
+
+- [[places/red-pyramid|Красная пирамида]]

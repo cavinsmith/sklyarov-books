@@ -1,8 +1,10 @@
 ---
+
 slug: dart
 title: "Раймонд Дарт"
 categories: [people]
 tags: []
+description: "Южноафриканский антрополог, открывший «челебекский череп» (Taung Child) — первый обнаруженный австралопитек."
 ---
 
 # Раймонд Дарт
@@ -27,3 +29,10 @@ tags: []
 ## См. также
 
 - [[concepts/osteodontokeratic]] — Остеодонтокератический комплекс
+
+- [[places/dome-of-the-rock|Купол Скалы]]
+- [[artifacts/tyerteriyskie-tablichki]]
+- [[artifacts/star-child-skull]]
+- [[places/baalbek]]
+- [[places/kargalinskie-rudniki]]
+- [[places/saksayuaman]]

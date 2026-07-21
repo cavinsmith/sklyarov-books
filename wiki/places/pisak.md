@@ -1,8 +1,10 @@
 ---
+
 slug: pisak
 title: "Писак"
 categories: [places]
 tags: [peru, incas, sacred-valley, agriculture]
+description: "Тип: Древнее поселение"
 ---
 
 # Писак
@@ -38,11 +40,11 @@ tags: [peru, incas, sacred-valley, agriculture]
 - [[places/kusko]] — Куско, древняя столица инков
 - [[places/reka-urubamba]] — Река Урубамба
 - [[places/ollantaytambo]] — Ольянтайтамбо
-- [[places/inca]] — Инки
+- [[concepts/inca]] — Инки
 - [[places/machu-picchu]] — Мачу-Пикчу
 - [[books/21-geneticheskiy-kod|Генетический код человечества]]
 
 ## См. также
 
 - [[places/sacred-valley]] — Священная Долина
-- [[places/peru]] — Перу
+- [[guides/peru]] — Перу

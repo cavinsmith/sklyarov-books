@@ -1,8 +1,10 @@
 ---
+
 slug: teollinger
 title: "Микаэль Теллинger (Michael Tellinger)"
 categories: [people]
 tags: [mines]
+description: "Микаэль Теллинger — исследователь древних шахт в Южной Африке."
 ---
 
 # Микаэль Теллинger (Michael Tellinger)
@@ -23,3 +25,5 @@ tags: [mines]
 
 - [[books/22-metally|Металлы — дар небесных богов]]
 - [[concepts/metalloobrabotka|Древняя металлургия]]
+
+- [[places/tell-el-amarna|Тель-ель-Амарна]]

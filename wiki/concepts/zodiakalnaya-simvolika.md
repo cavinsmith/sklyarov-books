@@ -1,13 +1,17 @@
 ---
+
+
 slug: zodiakalnaya-simvolika
 title: "Зодиакальная символика"
 categories: [concepts]
 tags: []
+description: "Символика, связанная с созвездиями и астрономическими явлениями. В работах people/andrey-sklyarov|Андрея Склярова рассматривается как один из..."
+
 ---
 
 # Зодиакальная символика
 
-Символика, связанная с созвездиями и астрономическими явлениями. В работах [[people/andrey-sklyarov|Андрея Склярова]] рассматривается как один из аспектов [[concepts/paleokontakt|палеоконтакта]].
+Символика, связанная с созвездиями и астрономическими явлениями. В работах [[people/andrey-sklyarov|Андрея Склярова]] рассматривается как один из аспектов [[guides/paleokontakt|палеоконтакта]].
 
 ## Основные положения
 
@@ -37,11 +41,11 @@ tags: []
 
 - Показывает уровень астрономических знаний
 - Связь между культурами
-- Возможный [[concepts/paleokontakt|палеоконтакт]]
+- Возможный [[guides/paleokontakt|палеоконтакт]]
 
 ## Связанные концепции
 
-- [[concepts/paleokontakt]]
+- [[guides/paleokontakt]]
 - [[concepts/dracoonografiya]]
 - [[concepts/megaliticheskie-sooruzheniya]]
 
@@ -52,7 +56,7 @@ tags: []
 
 ## См. также
 
-- [[concepts/paleokontakt]]
+- [[guides/paleokontakt]]
 - [[concepts/dracoonografiya]]
 - [[concepts/drevnie-bogi|Древние боги]]
 - [[books/23-naska|Наска: гигантские рисунки на полях]]

@@ -1,8 +1,10 @@
 ---
+
 slug: oaxaca
 title: Оахака
 categories: [places]
 tags: [mexico, ancient-city, zapotec, monte-alban]
+description: "Страна: Мексика"
 ---
 
 # Оахака
@@ -28,3 +30,9 @@ tags: [mexico, ancient-city, zapotec, monte-alban]
 
 - [[places/tula]] — Тула
 - [[books/13-meksika-bez-krivyh-zerkal]]
+
+- [[places/mexico-city|Мехико]]
+- [[places/cuicuilco]]
+- [[places/palenque]]
+- [[places/la-vent]]
+- [[places/teotiuakan]]

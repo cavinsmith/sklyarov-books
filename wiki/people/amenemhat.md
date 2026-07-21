@@ -1,8 +1,10 @@
 ---
+
 slug: amenemhat
 title: "Аменемхат I"
 categories: [people]
-tags: []
+tags: [pharaoh, egypt, middle-kingdom]
+description: "Аменемхат I — основатель XII династии Древнего Египта."
 ---
 
 # Аменемхат I
@@ -22,3 +24,10 @@ tags: []
 
 - [[books/17-piramidy]] — «Пирамиды: загадки строительства и назначения»
 - [[concepts/civilization-of-gods]] — цивилизация богов
+
+- [[concepts/era-of-gods-civilization|Эпоха цивилизации богов]]
+- [[people/kheops]]
+- [[people/khoremkheb]]
+- [[people/snofru]]
+- [[people/tutankhamon]]
+- [[people/khafra]]

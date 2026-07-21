@@ -1,8 +1,10 @@
 ---
+
 slug: giza-plateau
 title: "Плато Гиза"
 categories: [places]
 tags: []
+description: "Полное название: Плато Гиза (араб. هرم الجيزة)"
 ---
 
 # Плато Гиза

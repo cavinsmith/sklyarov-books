@@ -1,8 +1,10 @@
 ---
+
 slug: pedro-syeza-de-leon
 title: "Педро Сьеса де Леон"
 categories: [people]
 tags: [хронист, Перу, конкиста]
+description: "Испанский хронист и конкистадор (1518–1554), автор одного из первых описаний Перу и Империи Инков."
 ---
 
 # Педро Сьеса де Леон
@@ -21,3 +23,8 @@ tags: [хронист, Перу, конкиста]
 ## См. также
 
 - [[people/andrey-sklyarov]]
+- [[places/chankay]]
+- [[places/ollantaytambo]]
+- [[expeditions/peruanskaya-ekspeditsiya]]
+- [[concepts/pre-inca]]
+- [[guides/yuzhnaya-amerika]]

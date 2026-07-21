@@ -1,8 +1,10 @@
 ---
+
 slug: pepi-i
 title: "Пепи I"
-categories: [people, pharaohs]
+categories: [people]
 tags: [фараон, VI династия, Египет, стела]
+description: "Пепи I — фараон VI династии Древнего Египта."
 ---
 
 # Пепи I

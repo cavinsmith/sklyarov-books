@@ -1,8 +1,10 @@
 ---
+
 slug: astenosfera
 title: "Астеносфера"
 categories: [concepts]
-tags: []
+tags: [geology, mantle, tectonics]
+description: "Астеносфера — верхняя часть мантии Земли, обладающая пластичностью."
 ---
 
 # Астеносфера

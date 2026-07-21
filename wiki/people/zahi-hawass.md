@@ -1,8 +1,10 @@
 ---
+
 slug: zahi-hawass
 title: "Захи Хавасс"
 categories: [people]
 tags: []
+description: "Полное имя: Захи Хавасс (Zahi Hawass)"
 ---
 
 # Захи Хавасс

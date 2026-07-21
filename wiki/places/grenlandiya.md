@@ -1,8 +1,10 @@
 ---
+
 slug: grenlandiya
 title: Гренландия
 categories: [places]
 tags: [arctic, ice, island, denmark]
+description: "Площадь: 2 166 086 км² (крупнейший остров в мире)"
 ---
 
 # Гренландия
@@ -23,9 +25,18 @@ tags: [arctic, ice, island, denmark]
 - Автономная территория Дании
 - На некоторых старинных картах Гренландия изображена безо льда
 
----
+## Упоминание в работах
+
+- [[books/14-obitaemyy-ostrov|Обитаемый остров Земля]] — Гренландия как объект исследования в контексте альтернативной хронологии
+
+## Связанные концепции
+
+- [[concepts/lednikovyj-period|Ледниковый период]]
+- [[concepts/katastrofizm|Катастрофизм]]
+- [[concepts/cosmic-catastrophes|Космические катастрофы]]
 
 ## См. также
 
-- [[places/antarktida]] — Антарктида
-- [[books/14-obitaemyy-ostrov]]
+- [[places/antarktida|Антарктида]]
+- [[places/arktida|Арктида]]
+- [[books/14-obitaemyy-ostrov|Обитаемый остров Земля]]

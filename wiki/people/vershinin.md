@@ -1,8 +1,10 @@
 ---
+
 slug: vershinin
 title: "Эдуард Вершинин"
 categories: [people]
-tags: [nazca, geoglyphs]
+tags: [nazca, geoglyphs, russia]
+description: "Эдуард Вершинин — исследователь геоглифов Наски."
 ---
 
 # Эдуард Вершинин

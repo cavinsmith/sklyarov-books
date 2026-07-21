@@ -1,8 +1,10 @@
 ---
+
 slug: anat
 title: "Анат"
 categories: [concepts]
 tags: []
+description: "Другие названия: Антит, Аттарт"
 ---
 
 # Анат
@@ -35,3 +37,10 @@ tags: []
 - [[books/19-zemlya-vaala|Земля Ваала]]
 - [[books/18-drevnie-bogi|Древние боги]]
 - [[books/30-yahve-protiv-baala|Яхве против Баала]]
+
+## См. также
+- [[concepts/drevnie-bogi|Древние боги]]
+- [[concepts/civilization-of-gods|Цивилизация богов]]
+- [[concepts/yahweh-vs-baal|Конфликт Яхве и Баала]]
+- [[events/iskhod|Исход]]
+- [[concepts/alternativnaya-istoriya|Альтернативная история]]

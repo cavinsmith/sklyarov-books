@@ -1,8 +1,10 @@
 ---
+
 slug: shinar
 title: Шинар
 categories: [places]
 tags: [mesopotamia, babel, bible, ancient]
+description: "Область Месопотамии, упоминаемая в Библии как место постройки Вавилонской башни."
 ---
 
 # Шинар

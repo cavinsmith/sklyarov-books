@@ -1,8 +1,10 @@
 ---
+
 slug: plastic-технология
 title: Пластиковая технология
 categories: [concepts]
 tags: [технология, stone, artificial, ancient]
+description: "Концепция использования «пластиковых» технологий для обработки камня в древности. Предполагает, что камень мог обрабатываться как пластик."
 ---
 
 # Пластиковая технология
@@ -22,5 +24,14 @@ tags: [технология, stone, artificial, ancient]
 
 ## См. также
 
+
+
 - [[concepts/plastilinovaya-tekhnologiya]] - Пластилиновая технология
 - [[books/24-opasnoe-nasledie]]
+
+- [[places/huaka-las-ventanas|Уака Лас Вентанас]]
+- [[concepts/disk-saw]]
+- [[concepts/turning-stone]]
+- [[concepts/magnetic-separation]]
+- [[artifacts/decorative-block-giza]]
+- [[artifacts/saqqara-vase]]

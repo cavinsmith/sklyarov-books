@@ -1,8 +1,10 @@
 ---
+
 slug: janibekov
 title: Анатолий Джанибеков
 categories: [people]
 tags: [physicist, flip-effect, earth, catastrophe]
+description: "Родился: 1927 г."
 ---
 
 # Анатолий Джанибеков
@@ -28,3 +30,9 @@ tags: [physicist, flip-effect, earth, catastrophe]
 
 - [[concepts/janibekov-effect]] — Эффект Джанибекова
 - [[books/16-sensacionnaya-istoriya]]
+
+- [[people/maya-people|Майя]]
+- [[people/pauli-volfgang]]
+- [[places/vitimskoe]]
+- [[places/pustyna-okukakhe]]
+- [[places/tsunami]]

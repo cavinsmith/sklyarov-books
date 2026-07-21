@@ -1,8 +1,10 @@
 ---
+
 slug: mid-atlantic-ridge
 title: Срединно-Атлантический хребет
 categories: [places]
 tags: [ocean, ridge, tectonics, volcanoes]
+description: "Расположение: Атлантический океан"
 ---
 
 # Срединно-Атлантический хребет
@@ -29,3 +31,10 @@ tags: [ocean, ridge, tectonics, volcanoes]
 
 - [[places/filippinskoe-more]] — Филиппинское море
 - [[books/16-sensacionnaya-istoriya]]
+
+- [[places/sredizemnoe-more|Средиземное море]]
+- [[places/tihij-okean]]
+- [[places/mariana-trench]]
+- [[places/red-sea]]
+- [[places/philippine-sea]]
+- [[places/sredizemnoe-more]]

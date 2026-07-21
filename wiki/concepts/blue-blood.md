@@ -1,13 +1,14 @@
 ---
 slug: blue-blood
-title: Голубая кровь
-categories: [concepts]
+title: "Голубая кровь"
+categories: [concepts, genetics, aristocracy]
 tags: [genetics, elite, aristocracy, mythology]
+description: "Концепция, связанная с особым происхождением правящих элит. Возможное указание на генетические особенности потомков «богов»."
 ---
 
 # Голубая кровь
 
-Концепция, связанная с особым происхождением правящих элит. В контексте работ Склярова - возможное указание на генетические особенности потомков «богов».
+**Голубая кровь** — концепция, связанная с особым происхождением правящих элит. В контексте работ Склярова — возможное указание на генетические особенности потомков «богов».
 
 ---
 
@@ -20,8 +21,21 @@ tags: [genetics, elite, aristocracy, mythology]
 
 ---
 
+## Книги
+
+- [[books/18-drevnie-bogi|Древние боги — кто они?]]
+
+---
+
+## Связанные концепции
+
+- [[concepts/drevnie-bogi|Древние боги]]
+- [[concepts/anthropomorphic-gods|Антропоморфные боги]]
+- [[concepts/geneticheskiy-kod-chelovechestva|Генетический код человечества]]
+
+---
+
 ## См. также
 
-- [[concepts/drevnie-bogi]] - Древние боги
-- [[concepts/anthropomorphic-gods]] - Антропоморфные боги
-- [[books/18-drevnie-bogi]]
+- [[concepts/golubaya-krov|Голубая кровь (биохимия)]]
+- [[concepts/gemotsianin|Гемоцианин]]

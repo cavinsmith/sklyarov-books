@@ -1,8 +1,10 @@
 ---
+
 slug: flores
 title: "Флорес"
 categories: [places]
 tags: []
+description: "Тип: Остров"
 ---
 
 # Флорес

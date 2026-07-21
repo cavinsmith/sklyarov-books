@@ -1,8 +1,12 @@
 ---
+
+
 slug: dymnikov
 title: "Дымников"
 categories: [people]
 tags: []
+description: "Учёный, чьи работы упоминаются people/andrey-sklyarov|Андреем Скляровым в контексте научного анализа альтернативных гипотез."
+
 ---
 
 # Дымников

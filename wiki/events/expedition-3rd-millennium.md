@@ -1,8 +1,10 @@
 ---
+
 slug: expedition-3rd-millennium
 title: "Экспедиции Фонда «Третье тысячелетие»"
 categories: [events]
 tags: []
+description: "Серия исследовательских экспедиций, организованных при участии people/alexandr-skyarov|Александра Склярова и Фонда «projects/3rd-millennium|Третье..."
 ---
 
 # Экспедиции Фонда «Третье тысячелетие»
@@ -32,7 +34,7 @@ tags: []
 ### Экспедиция в Эфиопию (2008)
 
 - **Год:** 2008
-- **Цель:** исследование объектов, связанных с историей [[concepts/kovcheg-zaveta|Ковчега Завета]]
+- **Цель:** исследование объектов, связанных с историей [[artifacts/kovcheg-zaveta|Ковчега Завета]]
 - **Результат:** книга «[[books/25-kovcheg-zaveta|По следам Ковчега Завета]]»
 - **Подробнее:** [[events/ekspediciya-efiopiya-2008]]
 
@@ -63,7 +65,7 @@ tags: []
 | Мексика | 2007 | [[places/teotihuacan\|Теотиуакан]], [[places/palenque\|Паленке]], [[places/cholula\|Чолула]] |
 | Перу/Боливия | 2007 | [[places/ollantaytambo\|Ольянтайтамбо]], [[places/tiwanaku\|Тиауанако]], [[places/naska\|Наска]] |
 | Эфиопия | 2008 | [[places/aksum\|Аксум]], церковь Богоматери Сионской |
-| Ливан/Сирия | 2009 | [[places/baalbek\|Баальбек]], [[places/palmyra\|Пальмира]], [[places/aleppo\|Алеппо]] |
+| Ливан/Сирия | 2009 | [[places/baalbek|Баальбек]], [[places/palmyra\|Пальмира]], [[places/aleppo\|Алеппо]] |
 
 ## См. также
 

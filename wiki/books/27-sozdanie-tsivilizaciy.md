@@ -1,4 +1,7 @@
 ---
+
+
+
 slug: 27-sozdanie-tsivilizaciy
 title: "Создание древних цивилизаций"
 book: "А. Скляров — Создание древних цивилизаций"
@@ -7,14 +10,9 @@ categories:
   - archaeology
   - paleocontact
 tags:
-  - civilization-of-gods
-  - machine-processing
-  - great-pyramid
-  - sumer
-  - indus-civilization
-  - agriculture
-  - polygonal-masonry
-  - micro-inclusions
+description: "Автор: people/andrey-sklyarov|Андрей Скляров"
+
+
 ---
 
 # Создание древних цивилизаций
@@ -273,6 +271,8 @@ tags:
 ---
 
 ## См. также
+
+- [[books/index-books|Индекс книг]]
 
 - [[books/17-piramidy|Пирамиды: загадки строительства и назначения]]
 - [[books/18-drevnie-bogi|Древние боги — кто они?]]

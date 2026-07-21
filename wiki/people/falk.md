@@ -1,8 +1,10 @@
 ---
+
 slug: falk
 title: "Дин Фолк"
 categories: [people]
 tags: [антропология, нейронаука, эволюция]
+description: "Американский антрополог, специалист по эволюции мозга человека. Профессор Университета штата Нью-Йорк в Олбани."
 ---
 
 # Дин Фолк
@@ -21,3 +23,8 @@ tags: [антропология, нейронаука, эволюция]
 
 - [[people/andrey-sklyarov]]
 - [[concepts/preryvistoe-ravnovesie|Прерывистое равновесие]]
+- [[concepts/gibridizaciya]]
+- [[concepts/human-evolution]]
+- [[people/millard]]
+- [[concepts/evolycionizm]]
+- [[people/dickerson]]

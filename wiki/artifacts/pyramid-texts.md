@@ -1,8 +1,10 @@
 ---
+
 slug: pyramid-texts
 title: Тексты пирамид
 categories: [artifacts]
 tags: [egypt, hieroglyphs, religion, pyramid, old-kingdom]
+description: "Место находки: Пирамиды V и VI династий, Саккара и Абусир"
 ---
 
 # Тексты пирамид
@@ -32,3 +34,9 @@ tags: [egypt, hieroglyphs, religion, pyramid, old-kingdom]
 - [[people/unas]] — Унас, первый фараон с Текстами пирамид
 - [[books/12-tsivilizaciya-bogov-egipta]]
 - [[books/17-piramidy]]
+
+## Связанные страницы
+
+- [[people/menkaure|Менкаур (Микерин)]]
+- [[people/snofru|Снофру]]
+- [[people/menkaur|Менкаура (Микерин)]]

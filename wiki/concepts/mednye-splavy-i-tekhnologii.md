@@ -1,8 +1,12 @@
 ---
+
+
 slug: mednye-splavy-i-tekhnologii
 title: "Медные сплавы и технологии"
 categories: [concepts]
 tags: []
+description: "Концепция развития металлургии меди и её сплавов. В работах people/andrey-sklyarov|Андрея Склярова рассматривается как один из аспектов..."
+
 ---
 
 # Медные сплавы и технологии

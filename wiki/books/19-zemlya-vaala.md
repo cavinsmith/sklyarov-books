@@ -1,4 +1,7 @@
 ---
+
+
+
 slug: 19-zemlya-vaala
 title: "Земля Ваала"
 book: "А. Скляров — Земля Ваала"
@@ -6,10 +9,9 @@ categories:
   - археология
   - мифология
 tags:
-  - ваал
-  - ханаан
-  - мегалиты
-  - библия
+description: "Автор: people/andrey-sklyarov|Андрей Скляров"
+
+
 ---
 
 # Земля Ваала
@@ -232,3 +234,8 @@ tags:
 - [[artifacts/megalithic-wall-temple-mount]] — мегалитическая стена на Храмовой горе
 - [[artifacts/baalbek-trilithon]] — три гигантских блока фундамента в Баальбеке
 - [[artifacts/ugarit-tablets]] — клинописные таблички из Угарита с мифологическими текстами
+
+
+## См. также
+
+- [[books/index-books|Индекс книг]]

@@ -5,11 +5,9 @@ categories:
   - places
   - geography
   - egypt
-tags:
-  - egypt
-  - nile
-  - agriculture
-  - civilization
+tags: [egypt, nile, agriculture, civilization]
+description: "Долина Нила — полоса плодородной земли вдоль реки Нил в places/egipet-drevniy|Древнем Египте, ставшая колыбелью египетской цивилизации."
+
 ---
 
 # Долина Нила

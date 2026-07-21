@@ -1,8 +1,10 @@
 ---
+
 slug: livan
 title: "Ливан"
 categories: [places]
 tags: []
+description: "Государство на восточном берегу Средиземного моря. В работах А. Склярова Ливан упоминается как место расположения places/baalbek|Баальбека — одного..."
 ---
 
 # Ливан
@@ -24,6 +26,12 @@ tags: []
 ## Связанные концепции
 
 - [[places/baalbek]] — Баальбек, мегалитический комплекс
-- [[places/baalbek-trilithon]] — Баальбекский трилитон
+- [[artifacts/baalbek-trilithon]] — Баальбекский трилитон
 - [[places/amurru]] — Амурру, древнее государство
 - [[places/levant]] — Левант, регион
+
+## См. также
+- [[concepts/alternativnaya-istoriya|Альтернативная история]]
+- [[guides/paleokontakt|Путеводитель: Палеоконтакт]]
+- [[artifacts/kamni-iki|Камни Ики]]
+- [[people/andrey-sklyarov|Андрей Скляров]]

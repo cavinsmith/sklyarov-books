@@ -1,8 +1,10 @@
 ---
+
 slug: nina-ryndina
 title: "Нина Рындина"
 categories: [people]
 tags: []
+description: "Советский и российский археолог, специалист по древней металлургии. Исследователь древних металлургических производств на территории России и СНГ."
 ---
 
 # Нина Рындина
@@ -31,3 +33,8 @@ tags: []
 - [[people/sergej-grigorev|Сергей Григорьев]]
 - [[concepts/eksperimentalnaya-metallurgiya|Экспериментальная металлургия]]
 - [[books/22-metally|Металлы - дар небесных богов]]
+- [[people/sergej-grigorev]]
+- [[places/syrian-desert]]
+- [[places/sibir]]
+- [[places/bagdad]]
+- [[books/22-metally]]

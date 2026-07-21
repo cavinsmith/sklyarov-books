@@ -1,8 +1,10 @@
 ---
+
 slug: fond-
 title: "Фонд"
 categories: [concepts]
 tags: [организация, наука, исследование]
+description: "Описание: projects/fond-iii-tysyacheletie|Фонд развития науки «III тысячелетие» — организация, под эгидой которой проводятся экспедиции и..."
 ---
 
 # Фонд
@@ -20,3 +22,14 @@ tags: [организация, наука, исследование]
 
 - [[projects/fond-iii-tysyacheletie|Фонд развития науки «III тысячелетие»]]
 - [[books/01-mif-o-potope|Миф о Потопе: расчёты и реальность]]
+
+- [[people/erih-fon-daniken|Эрих фон Дэникен]]
+
+
+## См. также
+
+- [[people/lomonosov]]
+- [[concepts/geologiya]]
+- [[concepts/physics]]
+- [[concepts/egyptology]]
+- [[concepts/paleoanthropology]]

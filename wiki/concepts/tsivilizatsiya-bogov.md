@@ -1,8 +1,12 @@
 ---
+
+
 slug: tsivilizatsiya-bogov
 title: "Цивилизация богов"
 categories: [concepts]
 tags: []
+description: "Концепция высокоразвитой цивилизации, существовавшей на Земле в древности. В работах people/andrey-sklyarov|Андрея Склярова является одной из..."
+
 ---
 
 # Цивилизация богов
@@ -50,6 +54,6 @@ tags: []
 
 ## См. также
 
-- [[concepts/paleokontakt]]
+- [[guides/paleokontakt]]
 - [[concepts/drevnie-bogi]]
 - [[concepts/alternativnaya-istoriya]]

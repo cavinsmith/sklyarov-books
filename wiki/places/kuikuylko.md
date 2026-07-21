@@ -1,8 +1,10 @@
 ---
+
 slug: kuikuylko
 title: "Куикуйлько"
 categories: [places]
 tags: []
+description: "Описание: Древнее круглое сооружение в Мехико, формально относимое к доклассическому периоду Мesoамерики. Представляет собой усечённый конус из..."
 ---
 
 # Куикуйлько
@@ -26,3 +28,12 @@ tags: []
 - [[places/teotihuacan]] -- другой древний комплекс вблизи Мехико
 - [[books/13-meksika-bez-krivyh-zerkal]] -- книга, анализирующая сооружение
 - [[events/vsemirnyi-potop]] -- лава, покрывшая сооружение, может быть связана с катастрофой
+
+
+## См. также
+
+- [[concepts/tektity]]
+- [[artifacts/obsidianovaya-obezyana]]
+- [[artifacts/puteshestviya-gullivera]]
+- [[artifacts/disk-saw-traces]]
+- [[artifacts/nefritovaya-spiralnaya-trubka]]

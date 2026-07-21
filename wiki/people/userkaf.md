@@ -2,12 +2,13 @@
 slug: userkaf
 title: "Усеркаф (Userkaf)"
 categories: [people]
-tags: [egypt]
+tags: [Египет, фараон]
+description: "Фараон-основатель V династии Древнего Египта."
 ---
 
 # Усеркаф (Userkaf)
 
-Фараон-основатель V династии Древнего Египта.
+**Усеркаф** — фараон-основатель V династии Древнего Египта.
 
 ## Основные сведения
 
@@ -28,3 +29,4 @@ tags: [egypt]
 - [[places/saqqara|Саккара]]
 - [[people/ra|Ра]]
 - [[books/12-tsivilizaciya-bogov-egipta|Цивилизация богов древнего Египта]]
+- [[people/andrey-sklyarov|Андрей Скляров]]

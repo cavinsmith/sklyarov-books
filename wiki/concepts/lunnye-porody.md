@@ -1,8 +1,10 @@
 ---
+
 slug: lunnye-porody
 title: "Лунные породы"
 categories: [concepts]
 tags: []
+description: "Другие названия: Лунные камни, Лунный грунт"
 ---
 
 # Лунные породы
@@ -32,3 +34,8 @@ tags: []
 ## Книги, в которых обсуждается
 
 - [[books/08-istoriya-zemli-bez-kamenno|История Земли без каменной крышки]]
+
+
+## См. также
+
+- [[concepts/index-concepts|Индекс концепций]]

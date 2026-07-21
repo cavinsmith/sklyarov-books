@@ -5,10 +5,9 @@ categories:
   - artifacts
   - metallurgy
   - tools
-tags:
-  - crucible
-  - smelting
-  - two-reaction
+tags: [crucible, smelting, two-reaction]
+description: "Сосуды с закруглённым дном — тигли для биреакционной схемы выплавки металлов."
+
 ---
 
 # Сосуды с закруглённым дном

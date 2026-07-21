@@ -1,8 +1,10 @@
 ---
+
 slug: anthropomorphic-gods
 title: Антропоморфные боги
 categories: [concepts]
 tags: [gods, humanoid, mythology, representation]
+description: "Изображение богов в человеческом облике. Распространено во многих мифологических традициях."
 ---
 
 # Антропоморфные боги
@@ -25,3 +27,6 @@ tags: [gods, humanoid, mythology, representation]
 - [[concepts/blue-blood]] - Голубая кровь
 - [[concepts/drevnie-bogi]] - Древние боги
 - [[books/18-drevnie-bogi]]
+- [[concepts/civilization-of-gods|Цивилизация богов]]
+- [[artifacts/dogu|Догу]]
+- [[concepts/mythology|Мифология]]

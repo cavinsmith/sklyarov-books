@@ -1,8 +1,10 @@
 ---
+
 slug: bronze-ankara
 title: Бронзовый диск из Анкары
 categories: [artifacts]
 tags: [turkey, bronze, disc, ancient-technology]
+description: "Место находки: Анкара, Турция"
 ---
 
 # Бронзовый диск из Анкары
@@ -29,3 +31,14 @@ tags: [turkey, bronze, disc, ancient-technology]
 
 - [[concepts/utrachennye-tekhnologii|Утраченные технологии]]
 - [[books/18-drevnie-bogi]] — «Древние боги — кто они?»
+
+## Связанные страницы
+- [[concepts/bronze-age|Бронзовый век]]
+- [[places/alcad-hyuyuk|Аладжахююк]]
+- [[places/hattusa|Хаттуса]]
+
+- [[concepts/metalloobrabotka|Древняя металлургия и металлообработка]]
+- [[artifacts/manzheta-iz-obsidiana|Манжета из обсидиана]]
+- [[artifacts/saqqara-disks|Диски из Саккары]]
+- [[artifacts/saqqara-vase|Ваза из Саккары]]
+- [[artifacts/spiralnaya-trubka-iz-nefrita|Спиральная трубка из нефрита]]

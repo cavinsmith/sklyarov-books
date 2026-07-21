@@ -1,8 +1,10 @@
 ---
+
 slug: lehtman
 title: "Х. Лехтман"
 categories: [people]
 tags: [metallurgy, bronze]
+description: "Х. Лехтман — исследователь, изучавший бронзу places/tiauankano|Тиауанако и places/san-bartolo|Сан-Педро-де-Атакама."
 ---
 
 # Х. Лехтман

@@ -1,8 +1,10 @@
 ---
+
 slug: yahweh-vs-baal
 title: "Конфликт Яхве и Баала"
 categories: [concepts]
 tags: []
+description: "Другие названия: Война Яхве и Баала, борьба монотеизма и политеизма"
 ---
 
 # Конфликт Яхве и Баала
@@ -88,8 +90,10 @@ tags: []
 
 ## См. также
 
-- [[people/baal]] — бог, проигравший конфликт
+- [[concepts/baal]] — бог, проигравший конфликт
 - [[books/19-zemlya-vaala]] — книга, исследующая конфликт
+- [[books/30-yahve-protiv-baala|Яхве против Баала]]
+- [[books/18-drevnie-bogi|Древние боги]]
 - [[events/conquest-promised-land]] — военная фаза конфликта
 - [[concepts/divine-genocide]] — итог конфликта
 - [[concepts/megalithic-architecture]] — технология, уничтоженная в ходе конфликта

@@ -1,8 +1,12 @@
 ---
+
+
 slug: radiouglerodnoe-datirovanie
 title: "Радиоуглеродное датирование"
 categories: [methods]
 tags: [dating, radiocarbon, 14C, chronology]
+description: "Радиоуглеродное датирование — метод определения возраста органических объектов."
+
 ---
 
 # Радиоуглеродное датирование
@@ -62,3 +66,15 @@ tags: [dating, radiocarbon, 14C, chronology]
 - [[methods/dendrokhronologiya]] — метод, используемый для калибровки
 - [[concepts/geokhronologiya]] — геохронология
 - [[concepts/kalibrovochnye-krivye]] — калибровочные кривые
+
+## Связанные страницы
+
+- [[guides/datirovanie|Путеводитель: Методы датирования]]
+- [[people/ussher|Джеймс Ашер]]
+- [[people/levchenko-v|В. Левченко]]
+
+## См. также
+- [[concepts/potop|Потоп]]
+- [[events/velikii-potop|Великий Потоп]]
+- [[artifacts/kamni-iki|Камни Ики]]
+- [[books/09-geohronologiya|Немного о текущей ситуации вокруг геохронологии]]

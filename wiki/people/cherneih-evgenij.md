@@ -1,8 +1,10 @@
 ---
+
 slug: cherneih-evgenij
 title: "Е. Черных"
 categories: [people]
 tags: [metallurgy, circumpontine]
+description: "Е. Черных — исследователь древней металлургии, один из создателей концепции Циркумпонтийской металлургической провинции."
 ---
 
 # Е. Черных
@@ -23,3 +25,10 @@ tags: [metallurgy, circumpontine]
 
 - [[concepts/copper-technologies|Циркумпонтийская металлургическая провинция]]
 - [[books/22-metally|Металлы — дар небесных богов]]
+
+- [[people/maya-people|Майя]]
+- [[people/makfarlejn]]
+- [[people/avilova-l]]
+- [[people/ivanov-yu]]
+- [[people/nechitajlo]]
+- [[places/kazakhstan]]

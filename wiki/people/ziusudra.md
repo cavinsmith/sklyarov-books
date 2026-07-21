@@ -1,8 +1,10 @@
 ---
+
 slug: ziusudra
 title: "Зиусудра"
 categories: [people]
 tags: [shumer, flood, immortality]
+description: "Шумерский царь, переживший Великий Потоп. Один из «потопников» месопотамской традиции наряду с people/utnapishti|Утнапишти. Упоминается..."
 ---
 
 # Зиусудра

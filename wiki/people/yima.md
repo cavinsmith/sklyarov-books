@@ -1,8 +1,10 @@
 ---
+
 slug: yima
 title: "Йима"
 categories: [people]
-tags: [zoroastrianism]
+tags: [zoroastrianism, myth]
+description: "Йима — первый человек в зороастрийской мифологии."
 ---
 
 # Йима

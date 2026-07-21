@@ -6,16 +6,14 @@ categories:
   - archaeology
   - china
   - bronze-age
-tags:
-  - bronze
-  - bells
-  - erlitou
-  - inscription
+tags: [bronze, bells, erlitou, inscription]
+description: "Колокольный комплект князя И — набор бронзовых колоколов из культуры places/erlitou|Эрлитоу (Китай)."
+
 ---
 
 # Колокольный комплект князя И
 
-**Колокольный комплект князя И** — уникальный набор бронзовых колоколов из культуры [[places/erlitou|Эрлитоу]] (Китай).
+**Колокольный комплект князя И** — набор бронзовых колоколов из культуры [[places/erlitou|Эрлитоу]] (Китай).
 
 ## Источники
 

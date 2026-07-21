@@ -1,8 +1,10 @@
 ---
+
 slug: yung
 title: "Юнг Карл Густав"
 categories: [people]
 tags: []
+description: "Швейцарский психиатр и основатель аналитической психологии (1875–1961). Разработал концепции коллективного бессознательного, архетипов и..."
 ---
 
 # Юнг Карл Густав
@@ -23,3 +25,8 @@ tags: []
 - [[concepts/egregor]] — эгрегор
 - [[concepts/noosfera]] — ноосфера
 - [[books/28-fizika-duha]] — «Физика духа»
+- [[people/yung-karl-gustav]]
+- [[people/frankl-viktor-emil]]
+- [[people/lenin]]
+- [[people/bernar-klervosskiy]]
+- [[people/erih-fon-daniken]]

@@ -1,8 +1,12 @@
 ---
+
+
 slug: dva-civilizacii
 title: "Два типа людей на камнях Ики"
 categories: [concepts]
 tags: []
+description: "Классификация изображений «людей» на artifacts/kamni-iki|камнях Ики на две группы, предложенная people/andrey-sklyarov|Андреем Скляровым и основанная..."
+
 ---
 
 # Два типа людей на камнях Ики
@@ -34,8 +38,10 @@ tags: []
 2. **Скляров**: две разные цивилизации — примитивные индейцы и высокоразвитые «боги».
 
 ## Связанные страницы
+
+- [[concepts/index-concepts|Индекс концепций]]
 - [[artifacts/kamni-iki]]
 - [[people/havyer-kabrera]]
 - [[concepts/bozhestvennye-eksperimenty]]
-- [[concepts/paleokontakt]]
+- [[guides/paleokontakt]]
 - [[books/15-peru-i-boliviya|«Перу и Боливия задолго до инков»]]

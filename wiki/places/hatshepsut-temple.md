@@ -5,11 +5,9 @@ categories:
   - places
   - archaeology
   - egypt
-tags:
-  - hatshepsut
-  - temple
-  - thebes
-  - mortuary
+tags: [hatshepsut, temple, thebes, mortuary]
+description: "Храм Хатшепсут (араб. معبد حتشبسوت) — древнеегипетский погребальный храм, посвящённый фараону people/hatshepsut|Хатшепсут, расположен в..."
+
 ---
 
 # Храм Хатшепсут (Дейр-эль-Бахри)

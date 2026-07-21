@@ -1,8 +1,12 @@
 ---
+
+
 slug: zodiakalnaya-symbolika
 title: "Зодиакальная символика"
 categories: [concepts]
 tags: []
+description: "Древняя символика, связанная с прецессией равноденствий и сменой зодиакальных эпох. В работах people/andrey-sklyarov|Андрея Склярова используется для..."
+
 ---
 
 # Зодиакальная символика
@@ -22,7 +26,7 @@ tags: []
 - [[concepts/lion-constellation]] — созвездие Льва в мифологии и архитектуре
 - Созвездия как календарные и навигационные ориентиры
 - [[concepts/drevnie-bogi]] — астрономические знания как дар «богов»
-- Связь с [[concepts/paleokontakt|палеоконтактом]] — знания извне
+- Связь с [[guides/paleokontakt|палеоконтактом]] — знания извне
 - Зодиакальные системы в разных культурах сходны
 
 ## Ключевые зодиакальные эпохи
@@ -67,7 +71,7 @@ tags: []
 
 - [[concepts/lion-constellation]] — созвездие Льва
 - [[concepts/orion-belt]] — пояс Ориона
-- [[concepts/paleokontakt]]
+- [[guides/paleokontakt]]
 - [[concepts/bogi-skarlyarova]]
 - [[concepts/drevnie-bogi]] — древние боги
 - [[concepts/proskalzyvanie-kory]]

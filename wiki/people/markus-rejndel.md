@@ -1,8 +1,10 @@
 ---
+
 slug: markus-rejndel
 title: "Маркус Рейндель"
 categories: [people]
 tags: []
+description: "Немецкий археолог, один из руководителей проекта «Наска-Пальпа», исследующего геоглифы на places/plato-naska|плато Наска и places/palpa|Пальпы с 1997..."
 ---
 
 # Маркус Рейндель

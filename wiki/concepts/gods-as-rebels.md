@@ -1,8 +1,10 @@
 ---
+
 slug: gods-as-rebels
 title: Боги как мятежники
 categories: [concepts]
 tags: [gods, rebellion, mythology, conflict]
+description: "Концепция, согласно которой «боги» были мятежниками, восставшими против высшей власти. Содержится во многих мифологических традициях."
 ---
 
 # Боги как мятежники
@@ -20,8 +22,13 @@ tags: [gods, rebellion, mythology, conflict]
 
 ---
 
+## Источники
+
+- [[books/18-drevnie-bogi|Древние боги — кто они?]] — анализ концепции богов как мятежников.
+
 ## См. также
 
-- [[concepts/voyna-bogov]] - Война богов
-- [[concepts/drevnie-bogi]] - Древние боги
-- [[books/18-drevnie-bogi]]
+- [[concepts/voyna-bogov|Война богов]]
+- [[concepts/drevnie-bogi|Древние боги]]
+- [[concepts/civilization-of-gods|Цивилизация богов]]
+- [[concepts/period-haosa|Период хаоса]]

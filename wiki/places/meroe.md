@@ -1,8 +1,10 @@
 ---
+
 slug: meroe
 title: Мероэ
 categories: [places]
 tags: [sudan, ancient-city, pyramids, nubia]
+description: "Страна: Судан"
 ---
 
 # Мероэ
@@ -30,3 +32,7 @@ tags: [sudan, ancient-city, pyramids, nubia]
 - [[places/napata]] — Напата
 - [[places/kush]] — Куш
 - [[books/17-piramidy]]
+- [[places/teotiuakan]]
+- [[places/thebes]]
+- [[places/dahran]]
+- [[places/xian]]

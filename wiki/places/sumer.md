@@ -1,8 +1,10 @@
 ---
+
 slug: sumer
 title: "Шумер"
 categories: [places]
-tags: []
+tags: [sumer, mesopotamia, cuneiform]
+description: "Шумер — древнейшая цивилизация Месопотамии."
 ---
 
 # Шумер

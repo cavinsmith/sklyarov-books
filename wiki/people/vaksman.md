@@ -1,8 +1,10 @@
 ---
+
 slug: vaksman
 title: "Зигфрид Ваксман"
 categories: [people]
 tags: [nazca]
+description: "Зигфрид Ваксман — исследователь, предложивший теорию культурного атласа для геоглифов places/plato-naska|Наски."
 ---
 
 # Зигфрид Ваксман

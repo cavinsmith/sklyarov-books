@@ -1,11 +1,15 @@
 ---
+
 slug: blizhniy-vostok
 title: "Путеводитель: Ближний Восток"
-categories: [guides]
-tags: [near-east, mesopotamia, levant, canaan, bible]
+categories: [guides, places]
+tags: [near-east, mesopotamia, levant, canaan, bible, middle-east, ancient-civilizations]
+description: "Все материалы wiki, связанные с Древним Ближним Востоком — Месопотамией, Ханааном, Левантом, Сирией, Финикией и религиозными конфликтами этого региона."
 ---
 
 # Путеводитель: Ближний Восток
+
+Ближний Восток — историко-географический регион, включающий [[places/ur|Междуречье]], Левант и Аравийский полуостров. Колыбель первых городских цивилизаций и письменности. Родина трёх авраамических религий.
 
 Все материалы wiki, связанные с Древним Ближним Востоком — Месопотамией, Ханааном, Левантом, Сирией, Финикией и религиозными конфликтами этого региона.
 
@@ -20,7 +24,7 @@ tags: [near-east, mesopotamia, levant, canaan, bible]
 - [[concepts/divine-genocide|Геноцид жрецов Ханаана]] — уничтожение жрецов
 - [[concepts/genotsid-zhretsov-khanaana|Геноцид жрецов Ханаана]] — альтернативное название
 - [[concepts/canaanites|Ханаанеяне]] — семитские народы Леванта
-- [[concepts/kovcheg-zaveta|Ковчег Завета]] — мифический артефакт
+- [[artifacts/kovcheg-zaveta|Ковчег Завета]] — мифический артефакт
 - [[concepts/tetragrammaton|Тетраграмматон]] — четырёхбуквенное имя Бога
 - [[concepts/shalim|Шалим]] — древнесемитское божество
 - [[concepts/poklonenie-baalu|Поклонение Баалу]] — ритуальная практика
@@ -36,7 +40,7 @@ tags: [near-east, mesopotamia, levant, canaan, bible]
 
 ### Геология и катастрофы
 
-- [[concepts/paleokontakt|Палеоконтакт]] — гипотеза о контакте с «богами»
+- [[guides/paleokontakt|Палеоконтакт]] — гипотеза о контакте с «богами»
 - [[concepts/potop|Великий Потоп]] — глобальная катастрофа
 - [[concepts/sodom-i-gomorra|Содом и Гоморра]] — уничтоженные города
 

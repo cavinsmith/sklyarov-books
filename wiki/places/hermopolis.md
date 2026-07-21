@@ -1,8 +1,10 @@
 ---
+
 slug: hermopolis
 title: "Гермополис"
 categories: [places]
 tags: []
+description: "Древний египетский город, центр культа people/tot|Тота."
 ---
 
 # Гермополис
@@ -21,3 +23,5 @@ tags: []
 ## См. также
 
 - [[people/tot]]
+
+- [[places/rodnaya-planeta-bogov|rodnaya-planeta-bogov]]

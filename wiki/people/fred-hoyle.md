@@ -1,8 +1,10 @@
 ---
+
 slug: fred-hoyle
 title: "Фред Хойл (Fred Hoyle)"
 categories: [people]
 tags: [astrophysics, nucleosynthesis]
+description: "Британский астрофизик, известный своими теориями звёздного нуклеосинтеза и космогоническими гипотезами. Его работы по формированию элементов в..."
 ---
 
 # Фред Хойл (Fred Hoyle)

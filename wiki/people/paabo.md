@@ -1,8 +1,10 @@
 ---
+
 slug: paabo
 title: "Сванте Пääбо"
 categories: [people]
 tags: [генетика, палеогенетика, Нобелевская премия]
+description: "Шведский генетик, лауреат Нобелевской премии по физиологии или медицине (2022 г.) за открытия в области палеогеномики."
 ---
 
 # Сванте Пääбо
@@ -21,3 +23,8 @@ tags: [генетика, палеогенетика, Нобелевская пр
 
 - [[people/andrey-sklyarov]]
 - [[concepts/gorizontalnyj-perenos-genov|Горизонтальный перенос генов]]
+- [[people/pauling]]
+- [[concepts/mtdna]]
+- [[people/lambert]]
+- [[people/kimura]]
+- [[concepts/gibridizaciya]]

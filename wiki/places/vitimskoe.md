@@ -5,10 +5,9 @@ categories:
   - places
   - geography
   - russia
-tags:
-  - siberia
-  - meteorite
-  - catastrophe
+tags: [siberia, meteorite, catastrophe]
+description: "Витимское космическое тело — гипотетический объект, предположительно упавший в Сибири около 1000 лет назад. Место его падения исследовано экспедицией..."
+
 ---
 
 # Витимское космическое тело
@@ -56,3 +55,9 @@ tags:
 
 - [[places/filippinskoe-more]] — Филиппинское море, предполагаемое место падения более крупного объекта
 - [[places/ural]] — Урал, регион с аномальными явлениями
+
+- [[events/ekspediciya-sklyarova-v-egipet-2004|Экспедиция Склярова в Египет 2004]]
+- [[events/puteshestviya|Путешествия]]
+- [[concepts/potop|Потоп]]
+- [[events/velikii-potop|Великий Потоп]]
+- [[events/troyanskaya-voyna|Троянская война]]

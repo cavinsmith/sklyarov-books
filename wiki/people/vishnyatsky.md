@@ -1,8 +1,10 @@
 ---
+
 slug: vishnyatsky
 title: "Лев Вишняцкий"
 categories: [people]
 tags: [paleoanthropology, neanderthals, evolution]
+description: "Палеоантрополог, исследователь неандертальцев и эволюции человека."
 ---
 
 # Лев Вишняцкий

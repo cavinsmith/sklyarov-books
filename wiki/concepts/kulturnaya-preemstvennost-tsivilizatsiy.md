@@ -1,8 +1,12 @@
 ---
+
+
 slug: kulturnaya-preemstvennost-tsivilizatsiy
 title: "Культурная преемственность цивилизаций"
 categories: [concepts]
-tags: []
+tags: [civilization, knowledge, technology]
+description: "Концепция передачи знаний и технологий между цивилизациями."
+
 ---
 
 # Культурная преемственность цивилизаций

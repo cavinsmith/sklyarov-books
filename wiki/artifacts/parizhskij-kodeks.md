@@ -1,8 +1,10 @@
 ---
+
 slug: parizhskij-kodeks
-title: Парижский кодекс
+title: "Парижский кодекс"
 categories: [artifacts]
 tags: [maya, codex, hieroglyphs, astronomy]
+description: "Наиболее повреждённый из четырёх кодексов майя. Содержит астрономические таблицы и гороскопы. Хранится в Национальной библиотеке Франции."
 ---
 
 # Парижский кодекс
@@ -32,3 +34,9 @@ tags: [maya, codex, hieroglyphs, astronomy]
 - [[artifacts/madridskij-kodeks]] — Мадридский кодекс
 - [[artifacts/kodeks-grolle]] — Кодекс Гролле
 - [[books/13-meksika-bez-krivyh-zerkal]]
+
+## Связанные страницы
+
+- [[concepts/kalendar-52-goda|Календарь 52 года]]
+- [[places/tikal|Тикаль]]
+- [[places/jaina|Остров Хайна]]

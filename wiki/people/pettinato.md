@@ -1,8 +1,10 @@
 ---
+
 slug: pettinato
 title: Петтинато
 categories: [people]
 tags: [assyriology, tablets, ugarit]
+description: "Ассириолог, специалист по древним клинописным текстам."
 ---
 
 # Петтинато
@@ -25,3 +27,5 @@ tags: [assyriology, tablets, ugarit]
 - [[concepts/shumerskaya-klinopis]]
 - [[places/ugarit]]
 - [[books/26-siriyskie-perekrestki]]
+- [[people/george-smith]]
+- [[people/kifishin]]

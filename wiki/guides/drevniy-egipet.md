@@ -1,8 +1,10 @@
 ---
+
 slug: drevniy-egipet
 title: "Путеводитель: Древний Египет"
 categories: [guides]
 tags: [egypt, pyramids, pharaohs, archaeology]
+description: "Все материалы wiki, связанные с Древним Египтом — его цивилизацией, монументальными сооружениями, религией, правителями и артефактами."
 ---
 
 # Путеводитель: Древний Египет
@@ -33,7 +35,7 @@ tags: [egypt, pyramids, pharaohs, archaeology]
 
 - [[concepts/egyptian-pantheon|Египетский пантеон]] — система божеств
 - [[concepts/kultovye-sooruzheniya|Культовые сооружения]] — критика официальной интерпретации
-- [[concepts/ben-ben|Бен-Бен]] — священный камень из Абидоса
+- [[artifacts/ben-ben|Бен-Бен]] — священный камень из Абидоса
 
 ### Энергетика
 
@@ -49,7 +51,7 @@ tags: [egypt, pyramids, pharaohs, archaeology]
 ### Плато Гизы
 
 - [[places/giza-plateau|Плато Гизы]] — комплекс пирамид и Сфинкса
-- [[places/sfinks|Сфинкс]] — монументальная скульптура
+- [[artifacts/sfinks|Сфинкс]] — монументальная скульптура
 
 ### Нижний Египет
 
@@ -99,11 +101,11 @@ tags: [egypt, pyramids, pharaohs, archaeology]
 - [[artifacts/decorative-block-giza|Декоративный блок Гизы]] — образец обработки
 - [[artifacts/great-pyramid|Великая пирамида]] — основное сооружение Гизы
 - [[artifacts/bent-pyramid|Изогнутая пирамида]] — экспериментальная пирамида
-- [[artifacts/red-pyramid|Красная пирамида]] — первая успешная пирамида
+- [[places/red-pyramid|Красная пирамида]] — первая успешная пирамида
 - [[artifacts/step-pyramid|Ступенчатая пирамида]] — пирамида Джосера
 - [[artifacts/teti-sarcophagi|Саркофаги Тети]] — гранитные саркофаги
 - [[artifacts/kern-pitri-n7|Керн Питри №7]] — образец обработки камня
-- [[artifacts/cairo-museum|Каирский музей]] — коллекция древностей
+- [[places/cairo-museum|Каирский музей]] — коллекция древностей
 - [[artifacts/grobnica-tutanhamona|Гробница Тутанхамона]] — нетронутое погребение
 - [[artifacts/korona-atefa|Корона Атефа]] — ритуальный головной убор
 - [[artifacts/corona-atefa|Корона Атефа]] — альтернативное написание

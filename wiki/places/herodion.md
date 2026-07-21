@@ -5,10 +5,9 @@ categories:
   - places
   - archaeology
   - israel
-tags:
-  - herod
-  - fortress
-  - roman-period
+tags: [herod, fortress, roman-period]
+description: "Иродион (араб. الجозة, ивр. הרודיון) — крепость и дворцовый комплекс Ирода Великого, расположенный в Иудейской пустыне к юго-востоку от Иерусалима."
+
 ---
 
 # Иродион

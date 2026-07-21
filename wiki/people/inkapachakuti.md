@@ -1,8 +1,10 @@
 ---
+
 slug: inkapachakuti
 title: "Инка Пачакути"
 categories: [people]
 tags: []
+description: "Описание: Правитель Инкской империи XV века, наиболее успешный и энергичный правитель, при котором был основан places/olyantaytambo."
 ---
 
 # Инка Пачакути

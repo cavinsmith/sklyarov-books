@@ -1,8 +1,10 @@
 ---
+
 slug: armeniya
 title: "Армения"
 categories: [places]
 tags: [страна, Кавказ, древняя история]
+description: "Описание: Государство на Южном Кавказе. Древняя история Армении связана с библейскими преданиями и concepts/bogi-vysokorazvitaya-civilizaciya|богами."
 ---
 
 # Армения

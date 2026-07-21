@@ -1,8 +1,10 @@
 ---
+
 slug: kollekciya-djulsruda
 title: "Коллекция Джульсруда (Акамбаро)"
 categories: artifacts
 tags: []
+description: "Коллекция из более чем 30 000 глиняных фигурок, обнаруженная в Акамбаро (Мексика), из которой около 2 500 представляют динозавров, причём многие..."
 ---
 
 # Коллекция Джульсруда (Акамбаро)
@@ -32,7 +34,12 @@ tags: []
 ## См. также
 
 - [[books/24-opasnoe-nasledie]] — «Опасное наследие предков»
-- [[places/kamni-iki|Камни Ики]]
-- [[concepts/sakkarskiye-sosudy|Саккарская коллекция сосудов]]
-- [[concepts/molotok-iz-texasa|Молоток из Техаса]]
+- [[books/16-sensacionnaya-istoriya|Сенсационная история]]
+- [[artifacts/kamni-iki|Камни Ики]]
+- [[artifacts/sakkarskiye-sosudy|Саккарская коллекция сосудов]]
+- [[artifacts/molotok-iz-texasa|Молоток из Техаса]]
 - [[places/objekt-ayud|Объект Аюд]]
+- [[places/saqqara-collection|Саккарская коллекция]]
+- [[concepts/civilization-of-gods]] — находки как свидетельства древней цивилизации
+- [[concepts/utrachennye-tekhnologii]] — утраченные технологии, отражённые в находках
+- [[concepts/predpotopnaya-civilizaciya]] — допотопная цивилизация как объяснение находок

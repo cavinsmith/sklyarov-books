@@ -1,8 +1,10 @@
 ---
+
 slug: montesinos
 title: "Монтесинос (Фернандо де)"
 categories: [people]
 tags: [chronicle, peru, inca]
+description: "Описание: Фернандо де Монтесинос — испанский хронист XVI века, автор альтернативной версии истории инков."
 ---
 
 # Монтесинос (Фернандо де)
@@ -36,4 +38,8 @@ tags: [chronicle, peru, inca]
 ## Связанные страницы
 
 - [[books/15-peru-i-boliviya|Перу и Боливия задолго до инков]]
-- [[people/inca|Инки]]
+- [[concepts/inca|Инки]]
+- [[people/inkapachakuti|Инка Пачакути]]
+- [[people/manko-inka|Манко Инка]]
+- [[places/kusco|Куско]]
+- [[guides/peru|Перу]]

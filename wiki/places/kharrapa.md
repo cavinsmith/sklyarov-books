@@ -1,8 +1,10 @@
 ---
+
 slug: kharrapa
 title: Хараппа
 categories: [places]
 tags: [india, indus, civilization, ancient]
+description: "Древний город долины Инда, центр одноимённой цивилизации."
 ---
 
 # Хараппа

@@ -1,8 +1,10 @@
 ---
+
 slug: maya-people
 title: Майя
 categories: [people]
 tags: [civilization, mexico, pyramids, calendar]
+description: "Древняя цивилизация Мезоамерики, создавшая развитую систему письменности, календарь и крупные архитектурные сооружения."
 ---
 
 # Майя
@@ -27,4 +29,4 @@ tags: [civilization, mexico, pyramids, calendar]
 
 - [[places/teotihuacan]]
 - [[places/chichen-itza]]
-- [[places/meksika]]
+- [[guides/meksika]]

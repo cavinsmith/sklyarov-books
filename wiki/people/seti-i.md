@@ -1,8 +1,10 @@
 ---
+
 slug: seti-i
 title: "Сети I"
 categories: [people]
 tags: [egypt]
+description: "Фараон XIX династии Древнего Египта, отец people/ramesses-ii|Рамзеса II."
 ---
 
 # Сети I

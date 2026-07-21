@@ -1,8 +1,10 @@
 ---
+
 slug: christopher-dunn
-title: "Кристофер Данн (Christopher Dunn)"
-categories: [people, researchers]
-tags: []
+title: "Кристофер Данн"
+categories: [people]
+tags: [engineering, pyramid, research]
+description: "Кристофер Данн — американский инженер-механик, исследователь пирамид."
 ---
 
 # Кристофер Данн (Christopher Dunn)

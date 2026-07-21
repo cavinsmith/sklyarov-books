@@ -5,11 +5,9 @@ categories:
   - artifacts
   - metallurgy
   - tools
-tags:
-  - copper
-  - axe
-  - comparison
-  - efficiency
+tags: [copper, axe, comparison, efficiency]
+description: "Медный топор — артефакт, использованный в сравнительных экспериментах по определению эффективности медных орудий труда."
+
 ---
 
 # Медный топор
@@ -33,4 +31,8 @@ tags:
 
 - [[artifacts/mednye-topory|Медные топоры]]
 - [[concepts/eksperimentalnaya-metallurgiya|Экспериментальная металлургия]]
+- [[concepts/mednyy-vek|Медный век]]
+- [[concepts/copper-age|Медный век (энеолит)]]
+- [[concepts/copper-technologies|Медные сплавы и технологии]]
+- [[concepts/drevnyaya-metallurgiya|Древняя металлургия]]
 - [[books/22-metally|Металлы — дар небесных богов]]

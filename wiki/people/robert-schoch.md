@@ -1,8 +1,10 @@
 ---
+
 slug: robert-schoch
 title: "Роберт Шоч"
 categories: [people]
 tags: []
+description: "Полное имя: Роберт М. Шоч (Robert M. Schoch)"
 ---
 
 # Роберт Шоч

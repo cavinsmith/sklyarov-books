@@ -1,8 +1,12 @@
 ---
+
+
 slug: bogi-skarlyarova
 title: "Цивилизация «богов»"
 categories: [concepts]
 tags: [цивилизация, боги, палеоконтакт, мифология]
+description: "Центральная концепция в работах people/andrey-sklyarov|Андрея Склярова — гипотеза о существовании высокоразвитой цивилизации, упоминаемой в древних..."
+
 ---
 
 # Цивилизация «богов»
@@ -86,7 +90,7 @@ tags: [цивилизация, боги, палеоконтакт, мифоло�
 
 ## Связанные концепции
 
-- [[concepts/paleokontakt]] — контакт между людьми и «богами»
+- [[guides/paleokontakt]] — контакт между людьми и «богами»
 - [[concepts/monoteizm]] — замена «богов» единым Богом
 - [[concepts/zodiakalnaya-simvolika]] — зодиакальная символика эпох «богов»
 - [[concepts/megalithic-architecture]] — сооружения, построенные «богами»
@@ -99,6 +103,6 @@ tags: [цивилизация, боги, палеоконтакт, мифоло�
 ## См. также
 
 - [[concepts/drevnie-bogi]] — древние боги
-- [[concepts/paleokontakt]] — палеоконтакт
+- [[guides/paleokontakt]] — палеоконтакт
 - [[concepts/potop]] — Потоп
 - [[concepts/civilization-of-gods]] — цивилизация богов

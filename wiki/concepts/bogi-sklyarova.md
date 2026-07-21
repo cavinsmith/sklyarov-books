@@ -1,8 +1,12 @@
 ---
+
+
 slug: bogi-sklyarova
 title: "Боги Склярова"
 categories: [concepts]
 tags: []
+description: "Концепция «богов» как представителей высокоразвитой цивилизации, разработанная people/andrey-sklyarov|Андреем Скляровым."
+
 ---
 
 # Боги Склярова
@@ -50,7 +54,7 @@ tags: []
 
 ## См. также
 
-- [[concepts/paleokontakt]]
+- [[guides/paleokontakt]]
 - [[concepts/drevnie-bogi]]
 - [[concepts/tsivilizatsiya-bogov]]
 - [[concepts/zodiakalnaya-simvolika|Зодиакальная символика]]

@@ -1,8 +1,10 @@
 ---
+
 slug: crucifixion
 title: "Распятие"
 categories: [concepts]
 tags: [религия, казнь, крест, христианство]
+description: "Описание: Способ казни, при котором осуждённый пригвождается к кресту или иному вертикальному столбу. В контексте работ Склярова..."
 ---
 
 # Распятие
@@ -21,3 +23,10 @@ tags: [религия, казнь, крест, христианство]
 - [[concepts/christianity|Христианство]]
 - [[concepts/bogi-vysokorazvitaya-civilizaciya|Боги — высокоразвитая цивилизация]]
 - [[books/30-yahve-protiv-baala|Яхве против Баала — хроника переворота]]
+
+## См. также
+- [[concepts/drevnie-bogi|Древние боги]]
+- [[concepts/civilization-of-gods|Цивилизация богов]]
+- [[concepts/yahweh-vs-baal|Конфликт Яхве и Баала]]
+- [[events/iskhod|Исход]]
+- [[concepts/alternativnaya-istoriya|Альтернативная история]]

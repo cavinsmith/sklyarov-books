@@ -1,8 +1,10 @@
 ---
+
 slug: aratake
 title: "Кихачиро Аракатаке (Kihachiro Aratake)"
 categories: [people]
 tags: [japan, yonaguni, underwater]
+description: "Японский дайвер-любитель, обнаруживший в 1985 году подводный монумент у берегов острова places/yonaguni|Йонагуни."
 ---
 
 # Кихачиро Аракатаке (Kihachiro Aratake)

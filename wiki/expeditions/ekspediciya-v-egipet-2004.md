@@ -1,8 +1,10 @@
 ---
+
 slug: ekspediciya-v-egipet-2004
 title: "Экспедиция в Египет 2004"
 categories: [expeditions]
 tags: []
+description: "Экспедиция в Египет для исследования древних мегалитических сооружений и технологий обработки камня."
 year: 2004
 region: "Египет"
 organizer: "Фонд развития науки «III тысячелетие»"

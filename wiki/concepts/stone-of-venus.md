@@ -1,8 +1,10 @@
 ---
+
 slug: stone-of-venus
 title: "Камень Венеры"
 categories: [concepts]
-tags: []
+tags: [venus, meteorite, origin]
+description: "Камень Венеры — гипотеза о внеземном происхождении некоторых камней."
 ---
 
 # Камень Венеры
@@ -32,3 +34,8 @@ tags: []
 ## Книги, в которых обсуждается
 
 - [[books/17-piramidy|Пирамиды]]
+
+
+## См. также
+
+- [[concepts/index-concepts|Индекс концепций]]

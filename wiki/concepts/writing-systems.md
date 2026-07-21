@@ -1,8 +1,10 @@
 ---
+
 slug: writing-systems
 title: "Системы письма"
 categories: [concepts]
 tags: [письменность, иероглифы, клинопись, таблички]
+description: "Описание: Способы фиксации речи с помощью графических знаков. Древнейшие системы письма связаны с concepts/bogi-vysokorazvitaya-civilizaciya|богами."
 ---
 
 # Системы письма

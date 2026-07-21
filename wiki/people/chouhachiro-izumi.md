@@ -1,8 +1,10 @@
 ---
+
 slug: chouhachiro-izumi
 title: "Шимада Идзуми"
 category: people
 status: stub
+description: "Шимада Идзуми — японский археолог, руководивший раскопками металлургического комплекса Батан Гранде на севере Перу."
 ---
 
 # Шимада Идзуми
@@ -25,5 +27,10 @@ status: stub
 
 ## См. также
 
-- [[22-metally]]
-- [[15-peru-i-boliviya]]
+- [[books/22-metally|Металлы — дар небесных богов]]
+- [[books/15-peru-i-boliviya|Перу и Боливия]]
+
+- [[places/peru|Перу]]
+- [[people/gamio]]
+- [[people/woolly]]
+- [[people/shimada]]

@@ -1,8 +1,10 @@
 ---
+
 slug: stone-walls
 title: "Каменные стены"
 categories: [concepts]
 tags: [кладка, камень, мегалиты, стены]
+description: "Описание: Стены, построенные из крупных каменных блоков. Характерны для сооружений concepts/bogi-vysokorazvitaya-civilizaciya|богов и их наследников."
 ---
 
 # Каменные стены

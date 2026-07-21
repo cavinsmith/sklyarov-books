@@ -5,10 +5,9 @@ categories:
   - places
   - science
   - usa
-tags:
-  - nuclear-physics
-  - decay-rates
-  - solar-distance
+tags: [nuclear-physics, decay-rates, solar-distance]
+description: "Брукхевенская национальная лаборатория (англ. Brookhaven National Laboratory, BNL) — одна из крупнейших лабораторий ядерных исследований в США,..."
+
 ---
 
 # Брукхевенская национальная лаборатория

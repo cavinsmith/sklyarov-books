@@ -1,8 +1,10 @@
 ---
+
 slug: tom-ren
 title: "Том Рен"
 categories: [people]
 tags: [consciousness, parapsychology]
+description: "Описание: Том Рен — исследователь, связанный с изучением сознания и его влияния на материю."
 ---
 
 # Том Рен
@@ -23,3 +25,5 @@ tags: [consciousness, parapsychology]
 
 - [[books/28-fizika-duha|Основы физики духа]]
 - [[concepts/spiritual-world|Духовно-нематериальный мир]]
+
+- [[artifacts/kamni-iki|Камни Ики]]

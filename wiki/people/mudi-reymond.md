@@ -1,8 +1,10 @@
 ---
+
 slug: mudi-reymond
 title: "Реймонд Муди"
 categories: [people]
 tags: []
+description: "Американский исследователь, врач и писатель, известный своими работами о феномене «посмертного опыта»."
 ---
 
 # Реймонд Муди
@@ -24,3 +26,5 @@ tags: []
 
 - [[books/28-fizika-duha|Основы физики духа]]
 - [[concepts/zhizn-posle-smerti|Посмертный опыт]]
+
+- [[artifacts/zhizn-posle-smerti|Жизнь после смерти]]

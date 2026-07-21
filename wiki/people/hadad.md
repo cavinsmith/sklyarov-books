@@ -1,8 +1,10 @@
 ---
+
 slug: hadad
 title: "Хадад (Адад, Рамман)"
 categories: [people]
 tags: []
+description: "Статья о хадад (адад, рамман)"
 ---
 
 ## Хадад (Адад, Рамман)

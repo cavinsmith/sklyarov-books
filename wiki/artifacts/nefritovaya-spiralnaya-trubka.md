@@ -1,8 +1,10 @@
 ---
+
 slug: nefritovaya-spiralnaya-trubka
 title: "Нефритовая спиральная трубка"
 categories: artifacts
 tags: []
+description: "Описание: Артефакт из нефрита, обнаруженный в Мексике. Представляет собой спирально закрученную трубку с высочайшей точностью обработки."
 ---
 
 # Нефритовая спиральная трубка
@@ -25,3 +27,10 @@ tags: []
 **Связанные сущности:**
 - [[places/nacionalny-muzej]] -- место хранения
 - [[books/13-meksika-bez-krivyh-zerkal]] -- книга, описывающая артефакт
+
+## Связанные страницы
+
+- [[artifacts/nefritovaya-trubka|Нефритовая трубка с полостью]]
+- [[artifacts/spiralnaya-trubka-iz-nefrita|Спиральная трубка из нефрита]]
+- [[concepts/nefritovaya-trubka|Нефритовая трубка]]
+- [[artifacts/bazaltovyj-yaguar|Базальтовая скульптура ягуара]]

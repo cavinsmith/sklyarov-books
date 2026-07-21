@@ -1,8 +1,10 @@
 ---
+
 slug: khoremkheb
 title: "Хоремхеб"
 categories: [people]
 tags: []
+description: "Последний фараон XVIII династии Древнего Египта."
 ---
 
 # Хоремхеб

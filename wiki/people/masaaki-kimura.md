@@ -1,8 +1,10 @@
 ---
+
 slug: masaaki-kimura
 title: "Масааки Кимура (Masaaki Kimura)"
 categories: [people]
 tags: [geology, yonaguni, underwater]
+description: "Описание: Японский геолог и профессор Рюкюнского университета, провёл более 10 лет подводных исследований мегалитической структуры вблизи острова..."
 ---
 
 # Масааки Кимура (Masaaki Kimura)

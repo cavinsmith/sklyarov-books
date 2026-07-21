@@ -1,8 +1,10 @@
 ---
+
 slug: alexandr-skyarov
 title: "Александр Скляров"
 categories: [people]
 tags: []
+description: "Физик по образованию, исследователь, руководитель экспедиций events/expedition-3rd-millennium|Фонда «III тысячелетие». Автор серии книг «Тайны..."
 ---
 
 # Александр Скляров
@@ -19,7 +21,7 @@ tags: []
 
 ## Основные направления исследований
 
-- [[concepts/civilization-of-gods|Цивилизация богов]] и [[concepts/paleokontakt|палеоконтакт]]
+- [[concepts/civilization-of-gods|Цивилизация богов]] и [[guides/paleokontakt|палеоконтакт]]
 - [[concepts/megaculture-traces|Мегалиты как следы присутствия «богов»]]
 - [[concepts/utrachennye-tekhnologii|Утраченные технологии]]
 - [[concepts/cultural-continuity|Культурная преемственность цивилизаций]]

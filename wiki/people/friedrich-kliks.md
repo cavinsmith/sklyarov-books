@@ -1,8 +1,10 @@
 ---
+
 slug: friedrich-kliks
-title: "Фридрих Кликс (Friedrich Kliegl / Friedrich Klitsch)"
+title: "Фридрих Кликс"
 categories: [people]
-tags: []
+tags: [writing, evolution, research]
+description: "Фридрих Кликс — немецкий исследователь, изучавший эволюцию письменности."
 ---
 
 # Фридрих Кликс (Friedrich Kliegl / Friedrich Klitsch)

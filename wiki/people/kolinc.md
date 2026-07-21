@@ -1,8 +1,10 @@
 ---
+
 slug: kolinc
 title: Колинц
 categories: [people]
 tags: [researcher, dragonography]
+description: "Исследователь, работы которого анализируются в контексте concepts/dracoonografiya|драконографии."
 ---
 
 # Колинц
@@ -23,3 +25,6 @@ tags: [researcher, dragonography]
 
 - [[concepts/dracoonografiya]]
 - [[books/11-dragonografiya]]
+- [[concepts/mythology|Мифология]]
+- [[concepts/ancient-technologies|Древние технологии]]
+- [[places/babilon|Вавилон]]

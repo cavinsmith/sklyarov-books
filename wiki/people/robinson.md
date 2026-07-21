@@ -1,8 +1,10 @@
 ---
+
 slug: robinson
 title: "Джонатан Робинсон"
 categories: [people]
 tags: [палеоантропология, анатомия]
+description: "Палеоантрополог, специалист по изучению черепов гоминид."
 ---
 
 # Джонатан Робинсон
@@ -21,3 +23,7 @@ tags: [палеоантропология, анатомия]
 
 - [[people/andrey-sklyarov]]
 - [[concepts/preryvistoe-ravnovesie|Прерывистое равновесие]]
+- [[people/richard-leakey]]
+- [[people/derewyanko]]
+- [[people/lambert]]
+- [[people/falk]]

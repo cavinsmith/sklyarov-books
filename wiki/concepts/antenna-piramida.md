@@ -1,8 +1,12 @@
 ---
+
+
 slug: antenna-piramida
 title: "Гипотеза «пирамида-антенна»"
 categories: [concepts]
 tags: []
+description: "Гипотеза people/ivanov-a|А. Иванова о том, что пирамиды являются гигантскими диэлектрическими антеннами. В работах people/andrey-sklyarov|Андрея..."
+
 ---
 
 # Гипотеза «пирамида-антенна»

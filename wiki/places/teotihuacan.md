@@ -1,8 +1,10 @@
 ---
+
 slug: teotihuacan
 title: "Теотиуакан"
 categories: [places]
 tags: []
+description: "Полное название: Теотиуакан (науатль: Teōtīhuacān — «Место, где рождены боги»)"
 ---
 
 # Теотиуакан
@@ -45,3 +47,9 @@ tags: []
 - [[concepts/civilization-of-gods]] — Цивилизация богов, предполагаемый создатель Теотиуакана
 - [[people/graham-hancock]] — Грэм Хэнкок, связывающий Теотиуакан с глобальной цивилизацией
 - [[artifacts/great-pyramid]] — Великая пирамида, архитектурный параллелизм
+
+
+## См. также
+- [[concepts/drevnie-tehnologii|Древние технологии]]
+- [[places/teotiuakan|Теотиуакан]]
+- [[books/13-meksika-bez-krivyh-zerkal|Мексика без кривых зеркал]]

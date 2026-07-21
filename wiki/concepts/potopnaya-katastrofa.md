@@ -4,12 +4,9 @@ title: "Потопная катастрофа"
 categories:
   - concepts
   - catastrophes
-tags:
-  - potop
-  - meteorite
-  - sliding-crust
-  - XI-millennium-bce
-  - mass-extinction
+tags: [potop, meteorite, sliding-crust, XI-millennium-bce, mass-extinction]
+description: "Потопная катастрофа — гипотеза глобальной катастрофы concepts/potop|XI тысячелетия до н.э. (~10 500 г. до н.э.), изложенная..."
+
 ---
 
 # Потопная катастрофа
@@ -89,7 +86,7 @@ tags:
 
 ## Связь с астрономическими ориентирами
 
-- [[concepts/zodiacal-symbolism|Зодиакальная связь]] с Потопом: [[places/sfinks|Сфинкс]] (тело льва) связан с эрой Льва (XI тыс. до н.э.)
+- [[concepts/zodiacal-symbolism|Зодиакальная связь]] с Потопом: [[artifacts/sfinks|Сфинкс]] (тело льва) связан с эрой Льва (XI тыс. до н.э.)
 - Вавилонский ритуал: «Созвездие Льва измеряет глубину вод»
 - Клинописная табличка: Потоп произошёл, когда Нибиру (Солнце) находилась в созвездии Льва
 

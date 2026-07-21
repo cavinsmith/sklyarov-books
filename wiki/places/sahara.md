@@ -1,8 +1,10 @@
 ---
+
 slug: sahara
 title: Сахара
 categories: [places]
 tags: [africa, desert, climate, ancient-lakes]
+description: "Площадь: около 9 млн км² (крупнейшая жаркая пустыня мира)"
 ---
 
 # Сахара
@@ -27,3 +29,7 @@ tags: [africa, desert, climate, ancient-lakes]
 ## См. также
 
 - [[books/14-obitaemyy-ostrov]]
+- [[places/africa|Африка]]
+- [[concepts/potopnaya-katastrofa|Потопная катастрофа]]
+- [[concepts/katastrofizm|Катастрофизм]]
+- [[concepts/princip-aktualizma|Принцип актуализма]]

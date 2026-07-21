@@ -1,14 +1,10 @@
 ---
 slug: shpulki-iz-obsidiana
 title: "Шпульки из обсидиана"
-categories:
-  - artifacts
-  - archaeology
-  - mexico
-tags:
-  - obsidian
-  - machining
-  - ancient-technology
+categories: [artifacts]
+tags: [obsidian, machining, ancient-technology]
+description: "Шпульки из обсидиана — артефакты, обнаруженные в Мексике."
+
 ---
 
 # Шпульки из обсидиана

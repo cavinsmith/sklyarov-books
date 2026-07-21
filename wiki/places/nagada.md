@@ -1,8 +1,10 @@
 ---
+
 slug: nagada
 title: Нагада
 categories: [places]
 tags: [egypt, predynastic, archaeology, culture]
+description: "Страна: Египет"
 ---
 
 # Нагада

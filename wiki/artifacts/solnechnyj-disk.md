@@ -6,11 +6,9 @@ categories:
   - archaeology
   - bronze-age
   - turkey
-tags:
-  - bronze
-  - disc
-  - anatolia
-  - metallurgy
+tags: [bronze, disc, anatolia, metallurgy]
+description: "Солнечный диск из Аладжа-хююка — бронзовый артефакт раннего бронзового века, обнаруженный в places/aladza-huyuk|Аладжа-хююке (Турция)."
+
 ---
 
 # Солнечный диск из Аладжа-хююка

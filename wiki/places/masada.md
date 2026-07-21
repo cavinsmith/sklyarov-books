@@ -5,11 +5,9 @@ categories:
   - places
   - archaeology
   - israel
-tags:
-  - fortress
-  - herod
-  - jewish-war
-  - roman-period
+tags: [fortress, herod, jewish-war, roman-period]
+description: "Масада (ивр. מְצָדָה) — древняя крепость в Иудейской пустыне, Израиль. Место последнего сопротивления евреев римлянам во время Иудейской войны (66–73..."
+
 ---
 
 # Масада

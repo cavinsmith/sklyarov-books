@@ -1,8 +1,10 @@
 ---
+
 slug: plodorodnyi-polumesyac
 title: "Плодородный полумесяц"
 categories: [places]
 tags: []
+description: "Регион Ближнего Востока."
 ---
 
 # Плодородный полумесяц
@@ -20,3 +22,9 @@ tags: []
 ## См. также
 
 - [[books/01-mif-o-potope]]
+- [[places/mezopotamiya|Месопотамия]]
+- [[places/sumer|Шумер]]
+- [[places/babilon|Вавилон]]
+- [[places/levant|Левант]]
+- [[concepts/zemledelie-kak-dar-bogov|Земледелие как дар богов]]
+- [[concepts/neolithic|Неолит]]

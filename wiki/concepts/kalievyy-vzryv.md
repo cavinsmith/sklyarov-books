@@ -1,8 +1,10 @@
 ---
+
 slug: kalievyy-vzryv
 title: "Калиевый взрыв"
 categories: [concepts]
 tags: []
+description: "Другие названия: Калиевая катастрофа, Калиевый выброс"
 ---
 
 # Калиевый взрыв

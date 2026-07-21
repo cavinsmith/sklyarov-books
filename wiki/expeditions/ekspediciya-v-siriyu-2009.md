@@ -1,8 +1,10 @@
 ---
+
 slug: ekspediciya-v-siriyu-2009
 title: "Экспедиция в Сирию 2009"
 categories: [expeditions]
 tags: []
+description: "Экспедиция Лаборатории альтернативной истории (ЛАИ) в январе 2009 года, охватывавшая Сирию и Ливан. Ливан был «первичным» объектом (Баальбек), Сирия..."
 year: 2009
 month: "Январь"
 region: "Сирия и Ливан"
@@ -87,3 +89,8 @@ related:
 - [[people/andrey-sklyarov]] — Андрей Скляров
 - [[places/baalbek]] — Баальбек
 - [[places/palmyra]] — Пальмира
+- [[events/ekspediciya-sklyarova-v-egipet-2004|Экспедиция Склярова в Египет 2004]]
+- [[events/puteshestviya|Путешествия]]
+- [[concepts/yahweh-vs-baal|Конфликт Яхве и Баала]]
+- [[events/iskhod|Исход]]
+- [[guides/paleokontakt|Путеводитель: Палеоконтакт]]

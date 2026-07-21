@@ -1,8 +1,10 @@
 ---
+
 slug: babalin
 title: "Владимир Бабанин"
 categories: [people]
 tags: [nazca]
+description: "Владимир Бабанин — исследователь, предложивший теорию карты древних цивилизаций для геоглифов places/plato-naska|Наски."
 ---
 
 # Владимир Бабанин

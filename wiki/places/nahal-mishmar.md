@@ -5,11 +5,9 @@ categories:
   - places
   - archaeology
   - israel
-tags:
-  - copper
-  - chalcolithic
-  - hoard
-  - judean-desert
+tags: [copper, chalcolithic, hoard, judean-desert]
+description: "Нахаль-МишMAR (ивр. נחל מישמר) — пещера в Иудейской пустыне, где была обнаружена одна из наиболее важных коллекций древних медных изделий. Датируется..."
+
 ---
 
 # Нахаль-Мишмар

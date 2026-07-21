@@ -1,8 +1,10 @@
 ---
+
 slug: arbutnot
 title: "Арбутнот"
 categories: [people]
 status: stub
+description: "Имя «Арбутнот» встречается в контексте исследований древних текстов и переводов религиозных документов. Родовое имя ассоциируется с английскими и..."
 ---
 
 # Арбутнот
@@ -19,3 +21,5 @@ status: stub
 
 - [[concepts/edinaya-pismennost]] — единая письменность
 - [[people/george-smith]] — Джордж Смит (ассириолог)
+- [[concepts/klinoapismo]]
+- [[books/23-naska]]

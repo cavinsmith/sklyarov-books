@@ -1,8 +1,10 @@
 ---
+
 slug: ekspediciya-lai-2009
 title: "Экспедиция ЛАИ 2009"
 categories: [events]
 tags: []
+description: "Экспедиция places/lab-alternativnoy-istorii|Лаборатории альтернативной истории (ЛАИ) в places/livan и places/syria|Сирию, проведённая в январе 2009..."
 ---
 
 # Экспедиция ЛАИ 2009

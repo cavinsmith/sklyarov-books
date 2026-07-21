@@ -5,11 +5,9 @@ categories:
   - artifacts
   - archaeology
   - metallurgy
-tags:
-  - bronze
-  - armenia
-  - drilling
-  - ancient-technology
+tags: [bronze, armenia, drilling, ancient-technology]
+description: "Бронзовая птичка из Еревана — XV век до н.э., артефакт, обнаруженный в Армении. Представляет собой небольшую бронзовую фигурку птицы с отверстием,..."
+
 ---
 
 # Бронзовая птичка из Еревана

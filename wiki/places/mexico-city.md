@@ -1,8 +1,10 @@
 ---
+
 slug: mexico-city
 title: Мехико
 categories: [places]
 tags: [mexico, capital, aztec, tenochtitlan]
+description: "Официальное название: Мехико (Ciudad de Mexico)"
 ---
 
 # Мехико
@@ -30,3 +32,14 @@ tags: [mexico, capital, aztec, tenochtitlan]
 - [[places/aztec]] — Ацтекская империя
 - [[artifacts/olmeckie-golovy]] — Ольмекские головы
 - [[books/13-meksika-bez-krivyh-zerkal]]
+- [[places/teotihuacan|Теотиуакан]]
+- [[places/olmeki|Ольмеки]]
+- [[concepts/alternativnaya-istoriya|Альтернативная история]]
+- [[guides/paleokontakt|Путеводитель: Палеоконтакт]]
+- [[events/troyanskaya-voyna|Троянская война]]
+
+## Связанные страницы
+
+- [[artifacts/obsidian-monkey|Обсидиановая обезьяна]]
+- [[artifacts/spiralnaya-trubka-iz-nefrita|Спиральная трубка из нефрита]]
+- [[artifacts/obsidian-shuttles|Обсидиановые челноки]]

@@ -1,8 +1,10 @@
 ---
+
 slug: serapeum-sarcophagi
 title: Саркофаги Серапеума
 categories: [artifacts]
 tags: [egypt, sarcophagus, granite, ancient-technology]
+description: "Место находки: Серапеум, Саккара, Египет"
 ---
 
 # Саркофаги Серапеума
@@ -31,5 +33,16 @@ tags: [egypt, sarcophagus, granite, ancient-technology]
 
 - [[places/serapeum]] — Серапеум, некрополь быков-писов
 - [[places/saqqara]] — Саккара
+- [[artifacts/sarcophagus-king-chamber|Саркофаг в Камере Царя]]
+- [[artifacts/great-pyramid|Великая пирамида Гизы]]
+- [[concepts/machine-processing|Машинная обработка камня]]
+- [[concepts/utrachennye-tekhnologii|Утраченные технологии]]
+- [[concepts/megalithic-architecture|Мегалитическая архитектура]]
 - [[books/12-tsivilizaciya-bogov-egipta]]
 - [[books/24-opasnoe-nasledie]]
+
+## Связанные страницы
+
+- [[places/abu-roat|Абу-Роаш]]
+- [[places/kadesh|Кадеш]]
+- [[places/pyramids|Пирамиды]]

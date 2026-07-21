@@ -1,8 +1,10 @@
 ---
+
 slug: chernoe-more
 title: "Чёрное море"
 categories: [places]
 tags: [black-sea, flood, underwater, archaeology]
+description: "Местоположение: Между Европой и Азией"
 ---
 
 # Чёрное море

@@ -1,8 +1,10 @@
 ---
+
 slug: denisova-cave
 title: "Денисова пещера"
 categories: [places]
 tags: []
+description: "Тип: Пещера"
 ---
 
 # Денисова пещера

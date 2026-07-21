@@ -5,11 +5,9 @@ categories:
   - places
   - archaeology
   - anatolia
-tags:
-  - copper
-  - bronze-age
-  - trade
-  - turkey
+tags: [copper, bronze-age, trade, turkey]
+description: "Норшун-тепе (тур. Norşuntepe) — древнее поселение на востоке Турции, расположенное на берегу Эвфрата в провинции Элязыг. Важный археологический..."
+
 ---
 
 # Норшун-тепе

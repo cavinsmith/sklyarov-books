@@ -5,11 +5,9 @@ categories:
   - places
   - archaeology
   - peru
-tags:
-  - metallurgy
-  - sicán
-  - gold
-  - copper
+tags: [metallurgy, sicán, gold, copper]
+description: "Батан-Гранде (исп. Batán Grande) — археологический комплекс в Перу, древний центр металлического производства культуры Сикан (Ламбаеке). Один из..."
+
 ---
 
 # Батан-Гранде
@@ -49,7 +47,7 @@ tags:
 
 ## Связанные концепции
 
-- [[places/peru]] — Перу, современное расположение комплекса
+- [[guides/peru]] — Перу, современное расположение комплекса
 - [[places/sican]] — Культура Сикан
 - [[concepts/metalloobrabotka]] — Металлургия доколумбовой Америки
 

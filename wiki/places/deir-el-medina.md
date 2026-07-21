@@ -1,8 +1,10 @@
 ---
+
 slug: deir-el-medina
-title: Дейр-эль-Медина
+title: "Дейр-эль-Медина"
 categories: [places]
 tags: [egypt, village, workers, new-kingdom]
+description: "Дейр-эль-Медина — древняя деревня строителей гробниц в Египте."
 ---
 
 # Дейр-эль-Медина
@@ -29,4 +31,8 @@ tags: [egypt, village, workers, new-kingdom]
 ## См. также
 
 - [[places/luxor]] — Луксор
+- [[places/valley-of-kings|Долина Царей]]
+- [[places/dolina-carey|Долина Царей]]
 - [[books/12-tsivilizaciya-bogov-egipta]]
+- [[people/tutankhamon|Тутанхамон]]
+- [[concepts/tombs|Гробницы]]

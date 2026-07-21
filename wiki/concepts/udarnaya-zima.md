@@ -1,8 +1,10 @@
 ---
+
 slug: udarnaya-zima
 title: "Ударная зима"
 categories: [concepts]
 tags: []
+description: "Климатические последствия крупного метеоритного удара — внезапное и резкое похолодание, вызванное выбросом пыли и частиц в атмосферу. В работах..."
 ---
 
 # Ударная зима
@@ -81,7 +83,7 @@ tags: []
 
 - [[concepts/potop]] — следствие ударной зимы
 - [[concepts/proskalzyvanie-kory]] — геологические последствия катастрофы
-- [[concepts/paleokontakt]] — «боги» как свидетели катастрофы
+- [[guides/paleokontakt]] — «боги» как свидетели катастрофы
 - [[concepts/geokhronologiya]] — датировка катастрофы
 - [[concepts/katastrofizm|Катастрофизм]] — геологическая теория
 - [[books/24-opasnoe-nasledie|Опасное наследие]]

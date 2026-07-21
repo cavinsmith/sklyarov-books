@@ -1,8 +1,10 @@
 ---
+
 slug: templo-mayor
 title: "Тепло Майор"
 categories: artifacts
 tags: []
+description: "Ацтекская пирамида в Теночтитлане."
 ---
 
 # Тепло Майор
@@ -19,4 +21,12 @@ tags: []
 
 ## См. также
 
+
+- [[places/mexico-city|Мехико]]
+
 - [[books/01-mif-o-potope]]
+- [[artifacts/indeks-artefaktov]]
+- [[artifacts/step-pyramid]]
+- [[artifacts/great-pyramid]]
+- [[artifacts/inventory-stela]]
+- [[places/saqqara]]

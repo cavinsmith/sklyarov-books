@@ -5,10 +5,9 @@ categories:
   - concepts
   - biology
   - evolution
-tags:
-  - evolution
-  - precocity
-  - paleontology
+tags: [evolution, precocity, paleontology]
+description: "Предварение признаков — появление органов или их зачатков, для которых в эволюции «ещё не наступило время»."
+
 ---
 
 # Предварение признаков
@@ -28,3 +27,8 @@ tags:
 - [[concepts/preryvistoe-ravnovesie|Прерывистое равновесие]]
 - [[concepts/evolycionizm|Эволюционизм]]
 - [[books/21-geneticheskiy-kod|Генетический код человечества]]
+- [[people/teilhard]]
+- [[people/gould]]
+- [[people/eldridge]]
+- [[people/berg]]
+- [[people/meien]]

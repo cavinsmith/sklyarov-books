@@ -1,8 +1,10 @@
 ---
+
 slug: ekspediciya-sklyarova-v-meksiku-2007
 title: "Экспедиция Склярова в Мексику 2007"
 categories: [events]
 tags: [expedition, mexico, sklyarov]
+description: "Съёмочно-исследовательская экспедиция в Мексику, организованная Фондом развития науки «projects/3rd-millennium|Третье тысячелетие» для телевизионного..."
 ---
 
 # Экспедиция Склярова в Мексику 2007

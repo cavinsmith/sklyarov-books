@@ -1,8 +1,10 @@
 ---
+
 slug: bernshtejn
 title: "Сергей Натанович Бернштейн"
 categories: [people]
-tags: [mathematics]
+tags: [mathematics, russia]
+description: "Сергей Натанович Бернштейн — российский математик, создатель многочленов Бернштейна."
 ---
 
 # Сергей Натанович Бернштейн

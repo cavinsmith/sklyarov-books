@@ -1,8 +1,10 @@
 ---
+
 slug: fond-3-tysyacheletiya
 title: "Фонд 3000-летия"
 categories: [concepts]
 tags: []
+description: "Другие названия: Фонд Трёхтысячелетия"
 ---
 
 # Фонд 3000-летия

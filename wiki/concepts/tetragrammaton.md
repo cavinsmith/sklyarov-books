@@ -1,8 +1,10 @@
 ---
+
 slug: tetragrammaton
 title: "Тетраграмматон"
 categories: [concepts]
 tags: []
+description: "Другие названия: YHWH, Имя Божье, Четырёхбуквенное имя"
 ---
 
 # Тетраграмматон
@@ -25,8 +27,8 @@ tags: []
 
 ## Связанные концепции
 
-- [[concepts/kovcheg-zaveta]] — имя Бога связано с Ковчегом
-- [[concepts/skrizhali-zaveta]] — имя Бога начертано на Скрижалях
+- [[artifacts/kovcheg-zaveta]] — имя Бога связано с Ковчегом
+- [[artifacts/skrizhali-zaveta]] — имя Бога начертано на Скрижалях
 - [[concepts/baal-worship]] — Яхве как конкурент Баала
 - [[concepts/tefillin]] — имя Бога в тефиллин
 

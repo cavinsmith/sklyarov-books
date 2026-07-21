@@ -1,8 +1,10 @@
 ---
+
 slug: pyramid-as-power-plant
-title: Пирамида как электростанция
+title: "Пирамида как электростанция"
 categories: [concepts]
 tags: [pyramid, energy, power-plant, technology]
+description: "Пирамида как электростанция — концепция энергетического использования пирамид."
 ---
 
 # Пирамида как электростанция
@@ -21,6 +23,8 @@ tags: [pyramid, energy, power-plant, technology]
 ---
 
 ## См. также
+
+- [[concepts/index-concepts|Индекс концепций]]
 
 - [[people/christopher-dunn]] - Кристофер Данн
 - [[concepts/pyramid-as-antenna]] - Пирамида как антенна

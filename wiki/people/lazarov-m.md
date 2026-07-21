@@ -1,8 +1,10 @@
 ---
+
 slug: lazarov-m
 title: "М. Лазаров"
 categories: [people]
 tags: [varna, necropolis]
+description: "М. Лазаров — совместно с И. Ивановым вёл раскопки Варненского некрополя."
 ---
 
 # М. Лазаров

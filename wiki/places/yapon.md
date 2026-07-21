@@ -5,11 +5,9 @@ categories:
   - places
   - geography
   - japan
-tags:
-  - islands
-  - ancient-civilization
-  - asuka
-  - megaliths
+tags: [islands, ancient-civilization, asuka, megaliths]
+description: "Япония (яп. Нихон/Ниппон) — островное государство на востоке Азии, состоящее из ~7000 островов. Древняя цивилизация с уникальными археологическими..."
+
 ---
 
 # Япония

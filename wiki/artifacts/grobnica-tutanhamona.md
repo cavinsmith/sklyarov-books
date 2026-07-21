@@ -5,16 +5,19 @@ categories:
   - artifacts
   - archaeology
   - egypt
-tags:
-  - tutankhamon
-  - valley-of-kings
-  - gold-mask
-  - sarcophagus
+tags: [tutankhamon, valley-of-kings, gold-mask, sarcophagus]
+description: "Гробница Тутанхамона (KV62) — одна из наиболее известных гробниц в places/dolina-carej|Долине Царей (Египет), открытая в 1922 году Говардом Картером..."
+
 ---
 
 # Гробница Тутанхамона
 
 **Гробница Тутанхамона** (KV62) — одна из наиболее известных гробниц в [[places/dolina-carej|Долине Царей]] (Египет), открытая в 1922 году Говардом Картером при финансировании лорда Карнарвона.
+
+
+## Связанные страницы
+
+- [[places/tutanhamon|Гробница Тутанхамона]]
 
 ## Источники
 

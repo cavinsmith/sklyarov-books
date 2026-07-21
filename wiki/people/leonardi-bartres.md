@@ -1,8 +1,10 @@
 ---
+
 slug: leonardi-bartres
 title: "Леонарди Бартрес"
 categories: [people]
 tags: []
+description: "Описание: Леонарди Бартрес — исследователь, связанный с изучением пирамид и мегалитических сооружений."
 ---
 
 # Леонарди Бартрес
@@ -18,3 +20,13 @@ tags: []
 ## Упоминание в работах
 
 - [[books/17-piramidy|Пирамиды]] — исследования в контексте изучения пирамид
+
+## См. также
+
+- [[places/tres-zapotes|Трес-Сапотес]]
+- [[places/piramidy|Пирамиды]]
+- [[people/rottemberg]]
+- [[people/medgers]]
+- [[people/maxim-yakovenko]]
+- [[expeditions/ekspediciya-v-egipet-2004]]
+- [[people/makarevich]]

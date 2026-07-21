@@ -1,8 +1,10 @@
 ---
+
 slug: voyna-bogov-iv-tysyacheletie
 title: "Война богов IV тысячелетия до н.э."
 categories: [events]
 tags: []
+description: "Масштабный глобальный конфликт, происходивший около 3500–3100 до н.э., описанный в книге «books/06-vavilonskaya-bashnya|Вавилонская башня»..."
 ---
 
 # Война богов IV тысячелетия до н.э.

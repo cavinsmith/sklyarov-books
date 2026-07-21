@@ -5,10 +5,9 @@ categories:
   - places
   - geography
   - africa
-tags:
-  - gold
-  - egypt
-  - kush
+tags: [gold, egypt, kush]
+description: "Нубия — историческая область вдоль реки Нил от первых порогов (близ places/asuan|Асуана) до шестого порога (около Омдурмана)."
+
 ---
 
 # Нубия

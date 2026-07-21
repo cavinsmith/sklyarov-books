@@ -1,8 +1,10 @@
 ---
+
 slug: sinanthropus-skull
 title: "Череп синантропа"
 categories: artifacts
 tags: []
+description: "Тип: Окаменелости Homo erectus pekinensis"
 ---
 
 # Череп синантропа

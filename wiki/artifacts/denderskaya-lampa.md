@@ -1,8 +1,10 @@
 ---
+
 slug: denderskaya-lampa
 title: "Дендерская лампа"
 categories: [artifacts]
 tags: [египет, электричество, аномалии, храмы]
+description: "Место обнаружения: Храм Хатхор в places/denderskiy-hram|Дендерском храме, Египет"
 ---
 
 # Дендерская лампа
@@ -88,3 +90,9 @@ tags: [египет, электричество, аномалии, храмы]
 - [[concepts/utrachennye-tekhnologii]] — Утраченные технологии
 - [[concepts/dva-texnologicheskih-urovnya]] — Два технологических уровня
 - [[books/12-tsivilizaciya-bogov-egipta|Цивилизация древних богов Египта]]
+
+## Связанные страницы
+
+- [[places/hram-bela-palmyra|Храм Бэла в Пальмире]]
+- [[places/asanskaya-kamenolomnya|Асуанская каменоломня]]
+- [[places/asuka|Асука]]

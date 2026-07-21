@@ -1,8 +1,10 @@
 ---
+
 slug: litinovskij
 title: "Б. Литвинский"
 categories: [people]
 tags: [bmac]
+description: "Б. Литвинский — д.и.н., специалист по Средней Азии."
 ---
 
 # Б. Литвинский

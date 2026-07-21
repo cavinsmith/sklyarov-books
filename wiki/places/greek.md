@@ -1,8 +1,10 @@
 ---
+
 slug: greek
 title: "Греция"
 categories: [places]
 tags: [greece, hellas, ancient-civilization]
+description: "Официальное название: Греческая Республика"
 ---
 
 # Греция

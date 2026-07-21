@@ -5,12 +5,9 @@ categories:
   - places
   - temples
   - syria
-tags:
-  - hittite
-  - aramean
-  - basalt
-  - machine-processing
-  - solomon-temple
+tags: [hittite, aramean, basalt, machine-processing, solomon-temple]
+description: "Айн-Дара (также Айн Дара, Эйн-Дара) — древний храмовый комплекс в places/aram|Сирии, расположенный на северо-западе страны вблизи турецкой границы."
+
 ---
 
 # Айн-Дара

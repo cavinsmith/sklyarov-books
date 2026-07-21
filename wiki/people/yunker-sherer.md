@@ -1,8 +1,10 @@
 ---
+
 slug: yunker-sherer
 title: "Юнкер Р. и Шерер З."
 categories: [people]
 tags: []
+description: "Описание: Авторы, чьи работы упоминаются в дискуссии о биогенном происхождении угля и нефти."
 ---
 
 # Юнкер Р. и Шерер З.
@@ -18,3 +20,7 @@ tags: []
 **Связанные страницы:**
 - [[books/08-istoriya-zemli-bez-kamenno|История Земли без Каменноугольного периода]]
 - [[concepts/biogennoe-proishozhdenie-nefti|Биогенное происхождение нефти]]
+
+## См. также
+
+- [[concepts/abiogennoe-proishozhdenie-nefti|Абиогенное происхождение нефти]]

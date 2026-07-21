@@ -5,10 +5,9 @@ categories:
   - places
   - geography
   - russia
-tags:
-  - oil
-  - tatarstan
-  - petroleum
+tags: [oil, tatarstan, petroleum]
+description: "Ромашкинское месторождение — одно из крупнейших нефтяных месторождений в России, расположено в Татарстане. Запасы нефти превысили первоначальные..."
+
 ---
 
 # Ромашкинское месторождение

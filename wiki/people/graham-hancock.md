@@ -1,8 +1,10 @@
 ---
+
 slug: graham-hancock
 title: "Грэм Хэнкок"
 categories: [people]
 tags: []
+description: "Полное имя: Грэм Хэнкок (Graham Hancock)"
 ---
 
 # Грэм Хэнкок

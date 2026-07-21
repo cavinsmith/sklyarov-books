@@ -5,10 +5,9 @@ categories:
   - places
   - geography
   - israel
-tags:
-  - hebron
-  - bible
-  - patriarchs
+tags: [hebron, bible, patriarchs]
+description: "Дубрава Мамре (ивр. אֵלֹנֵי מַמְרֵא) — священная роща у Хеврона, связанная с библейским патриархом people/avraam|Авраамом. Место, где, согласно..."
+
 ---
 
 # Дубрава Мамре

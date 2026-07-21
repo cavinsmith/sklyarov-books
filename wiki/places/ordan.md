@@ -5,10 +5,9 @@ categories:
   - places
   - geography
   - israel
-tags:
-  - bible
-  - jordan-river
-  - crossing
+tags: [bible, jordan-river, crossing]
+description: "Ордан (ивр. יַרְדֵּן) — библейское название реки Иордан, где, согласно Библии, израильяне перешли через реку при завоевании Ханаана под руководством..."
+
 ---
 
 # Ордан

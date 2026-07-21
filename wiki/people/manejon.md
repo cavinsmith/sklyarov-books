@@ -1,8 +1,10 @@
 ---
+
 slug: manejon
 title: "Манефон"
 categories: [people]
 tags: []
+description: "Полное имя: Манефон из Себеннита (Manetho)"
 ---
 
 # Манефон

@@ -1,8 +1,10 @@
 ---
+
 slug: agriculture-as-gift
 title: Земледелие как дар богов
 categories: [concepts]
 tags: [agriculture, mythology, gods, civilization]
+description: "Концепция, согласно которой земледелие было передано человечеству высокоразвитыми существами (богами). Содержится во многих мифологических традициях."
 ---
 
 # Земледелие как дар богов
@@ -25,3 +27,10 @@ tags: [agriculture, mythology, gods, civilization]
 
 - [[concepts/drevnie-bogi]] - Древние боги
 - [[books/06-vavilonskaya-bashnya]]
+
+- [[concepts/era-of-gods-civilization|Эпоха цивилизации богов]]
+- [[concepts/gods-as-rebels]]
+- [[concepts/planet-of-gods]]
+- [[events/creation-of-man]]
+- [[places/nile]]
+- [[people/bel]]

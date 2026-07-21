@@ -1,8 +1,12 @@
 ---
+
+
 slug: zernovoe-zemledelie
 title: "Зерновое земледелие"
 categories: [concepts]
 tags: [земледелие, злаки, сельское-хозяйство, цивилизация]
+description: "Один из ключевых аспектов concepts/zemledelie-kak-dar-bogov|зарождения земледелия, который в работах people/andrey-sklyarov|Андрея Склярова..."
+
 ---
 
 # Зерновое земледелие

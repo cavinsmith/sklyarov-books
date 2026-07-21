@@ -1,8 +1,12 @@
 ---
+
+
 slug: cain
 title: "Каин"
 categories: [people]
 tags: []
+description: "Библейский персонаж, старший сын people/adam|Адама и Евы, убийца своего брата people/abel|Авеля. Упоминается в работах people/andrey-sklyarov|Андрея..."
+
 ---
 
 # Каин

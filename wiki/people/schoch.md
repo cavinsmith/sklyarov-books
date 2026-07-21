@@ -1,8 +1,10 @@
 ---
+
 slug: schoch
 title: Роберт Шоч
 categories: [people]
 tags: [geologist, sphinx, dating, alternative-history]
+description: "Родился: 1949 г."
 ---
 
 # Роберт Шоч
@@ -27,6 +29,9 @@ tags: [geologist, sphinx, dating, alternative-history]
 
 ## См. также
 
-- [[places/sfinks]] — Сфинкс
+- [[artifacts/sfinks]] — Сфинкс
 - [[places/giza-plateau]] — Плато Гиза
 - [[books/17-piramidy]]
+- [[concepts/geology|Геология]]
+- [[concepts/archaeology|Археология]]
+- [[people/havass-zahi|Захи Хавасс]]

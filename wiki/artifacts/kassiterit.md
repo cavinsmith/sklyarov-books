@@ -1,8 +1,10 @@
 ---
+
 slug: kassiterit
 title: "Кассерит"
 categories: artifacts
 tags: []
+description: "Основная оловянная руда, минерал, игравший ключевую роль в развитии concepts/bronzovyj-vek|бронзового века и формировании ранних металлургических..."
 ---
 
 # Кассерит

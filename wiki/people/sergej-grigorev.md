@@ -1,8 +1,10 @@
 ---
+
 slug: sergej-grigorev
 title: "Сергей Григорьев"
 categories: [people]
 tags: []
+description: "Исследователь древней металлургии, специалист по археометаллургическим исследованиям. Занимался изучением древних металлургических производств и..."
 ---
 
 # Сергей Григорьев
@@ -29,4 +31,7 @@ tags: []
 
 - [[people/nina-ryndina|Нина Рындина]]
 - [[concepts/eksperimentalnaya-metallurgiya|Экспериментальная металлургия]]
+- [[concepts/metallurgy|Металлургия]]
+- [[concepts/metalloobrabotka|Металлообработка]]
+- [[concepts/drevnyaya-metallurgiya|Древняя металлургия]]
 - [[books/22-metally|Металлы - дар небесных богов]]

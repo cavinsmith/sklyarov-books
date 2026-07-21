@@ -1,8 +1,10 @@
 ---
+
 slug: drevnyaya-pismennost
 title: "Древняя письменность"
 categories: [concepts]
 tags: []
+description: "Другие названия: Пра-письменность, Прото-письменность"
 ---
 
 # Древняя письменность
@@ -33,3 +35,10 @@ tags: []
 
 - [[books/27-sozdanie-tsivilizaciy|Создание цивилизаций]]
 - [[books/12-tsivilizaciya-bogov-egipta|Цивилизация богов Египта]]
+
+## См. также
+- [[concepts/egyptian-pantheon|Египетский пантеон]]
+- [[places/saqqara|Саккара]]
+- [[concepts/drevnie-bogi|Древние боги]]
+- [[concepts/alternativnaya-istoriya|Альтернативная история]]
+- [[guides/paleokontakt|Путеводитель: Палеоконтакт]]

@@ -1,8 +1,10 @@
 ---
+
 slug: philippine-sea
 title: "Филиппинское море"
 categories: [places]
 tags: [pacific, ocean, meteorite-impact]
+description: "Расположение: Западная часть Тихого океана, между Филиппинами, Японией и Марианскими островами."
 ---
 
 # Филиппинское море

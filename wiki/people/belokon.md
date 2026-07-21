@@ -1,8 +1,10 @@
 ---
+
 slug: belokon
 title: "Алла Белоконь"
 categories: [people]
 tags: [nazca]
+description: "Алла Белоконь — российская исследовательница геоглифов places/plato-naska|Наски."
 ---
 
 # Алла Белоконь

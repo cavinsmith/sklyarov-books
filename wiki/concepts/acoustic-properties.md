@@ -1,8 +1,12 @@
 ---
+
+
 slug: acoustic-properties
-title: Акустические свойства
+title: "Акустические свойства"
 categories: [concepts]
 tags: [acoustics, architecture, pyramids, resonance, ancient-technology]
+description: "Свойства сооружений и объектов, связанные с резонансом, усилением или модификацией звука. В контексте работ А. Склярова — акустические свойства мегалитических сооружений."
+
 ---
 
 # Акустические свойства

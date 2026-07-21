@@ -1,8 +1,10 @@
 ---
+
 slug: shumerskiy-spisok-koroley
 title: "Шумерский список царей"
 categories: [concepts]
 tags: [шумер, хронология, цари, клинопись]
+description: "Другие названия: Список шумерских царей, Царский список"
 ---
 
 # Шумерский список царей
@@ -81,6 +83,8 @@ tags: [шумер, хронология, цари, клинопись]
 ---
 
 ## См. также
+
+- [[concepts/index-concepts|Индекс концепций]]
 
 - [[events/vsemirnyi-potop]] — Всемирный потоп
 - [[events/velikii-potop]] — Великий Потоп

@@ -1,8 +1,10 @@
 ---
+
 slug: reka-urubamba
 title: "Река Урубамба"
 categories: [places]
-tags: []
+tags: [peru, river, andes]
+description: "Река Урубамба — река в горном районе Перу, текущая по Священной Долине Инков."
 ---
 
 # Река Урубамба

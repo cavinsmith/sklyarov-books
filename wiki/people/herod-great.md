@@ -1,8 +1,10 @@
 ---
+
 slug: herod-great
 title: "Ирод Великий"
 categories: [people]
 tags: []
+description: "Полное имя: Ирод I Великий"
 ---
 
 # Ирод Великий

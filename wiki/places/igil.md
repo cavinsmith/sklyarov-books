@@ -1,8 +1,10 @@
 ---
+
 slug: igil
 title: "ИГИЛ"
 categories: [places]
 tags: []
+description: "Исламское государство Ирака и Леванта (ИГИЛ/ISIS/ISIL) — террористическая организация, действовавшая на территории Ирака и Сирии в 2014–2019 гг."
 ---
 
 # ИГИЛ
@@ -22,3 +24,10 @@ tags: []
 
 - [[places/palmyra]] — Пальмира
 - [[books/24-opasnoe-nasledie]] — «Опасное наследие предков»
+
+- [[places/hram-bela-palmyra|Храм Бэла в Пальмире]]
+- [[places/syrian-desert]]
+- [[people/zenobia]]
+- [[places/megaliticheskie-sooruzheniya]]
+- [[places/la-brea]]
+- [[concepts/microinclusions]]

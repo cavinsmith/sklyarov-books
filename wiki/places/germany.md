@@ -1,8 +1,10 @@
 ---
+
 slug: germany
 title: "Германия"
 categories: [places]
 tags: [страна, Европа, промышленность, археология]
+description: "Описание: Государство в Центральной Европе. Содержит геологические аномалии и археологические находки, описанные Скляровым."
 ---
 
 # Германия
@@ -21,3 +23,7 @@ tags: [страна, Европа, промышленность, археоло�
 - [[concepts/geologiya|Геология]]
 - [[concepts/abiogennoe-proishozhdenie-nefti|Абиогенное происхождение угля]]
 - [[books/08-istoriya-zemli-bez-kamenno|История Земли без Каменноугольного периода]]
+
+## См. также
+- [[people/andrey-sklyarov|Андрей Скляров]]
+- [[people/christopher-dunn|Кристофер Данн (Christopher Dunn)]]

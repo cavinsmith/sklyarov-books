@@ -1,8 +1,10 @@
 ---
+
 slug: raicho-marinov
 title: "Райчо Маринов"
 categories: [people]
 tags: [varna]
+description: "Райчо Маринов — экскаваторщик, обнаруживший Варненский некрополь в 1972 году."
 ---
 
 # Райчо Маринов
@@ -18,3 +20,8 @@ tags: [varna]
 
 - [[places/varna|Варна]]
 - [[books/22-metally|Металлы — дар небесных богов]]
+
+- [[places/mari-gorod|Мари (город)]]
+- [[people/ivanov-i]]
+- [[people/lazarov-m]]
+- [[places/aibunar]]

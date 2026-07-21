@@ -6,16 +6,21 @@ categories:
   - archaeology
   - egypt
   - pyramid
-tags:
-  - giza
-  - temple
-  - granite
-  - ancient-technology
+tags: [giza, temple, granite, ancient-technology]
+description: "Долинный храм Гизы — один из храмов, входящих в комплекс пирамид places/giza-plateau|Гизы."
+
 ---
 
 # Долинный храм Гизы
 
 **Долинный храм Гизы** — один из храмов, входящих в комплекс пирамид [[places/giza-plateau|Гизы]].
+
+
+## Связанные страницы
+
+- [[places/hram-bela-palmyra|Храм Бэла в Пальмире]]
+- [[places/denderskiy-hram|Дендерский храм]]
+- [[places/hatshepsut-temple|Храм Хатшепсут (Дейр-эль-Бахри)]]
 
 ## Источники
 

@@ -1,8 +1,10 @@
 ---
+
 slug: tibet
 title: "Тибет"
 categories: [places]
 tags: []
+description: "Нагорье в Центральной Азии, на территории современного Китая. Древняя цивилизация с отдельной духовной и философской традицией (буддизм, ламаизм)."
 ---
 
 # Тибет
@@ -22,3 +24,10 @@ tags: []
 
 - [[books/24-opasnoe-nasledie]] — «Опасное наследие предков»
 - [[concepts/spiritual-world]] — духовно-нематериальный мир
+
+- [[people/noe|Ной]]
+- [[artifacts/statuetka-materi]]
+- [[places/sibir]]
+- [[places/kush]]
+- [[places/amurru]]
+- [[places/jarmo]]

@@ -1,8 +1,10 @@
 ---
+
 slug: nicolae-vlassa
 title: "Николае Власса (Nicolae Vlassa)"
 categories: [people]
 tags: [archaeology, writing]
+description: "Описание: Румынский археолог, обнаруживший в 1961 году artifacts/tyerteriyskie-tablichki|Тартарийские (Тэртерийские) таблички на раскопках в..."
 ---
 
 # Николае Власса (Nicolae Vlassa)

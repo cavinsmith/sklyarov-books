@@ -1,8 +1,10 @@
 ---
+
 slug: spreading-subduction
 title: "Спрединг-субдукция"
 categories: [concepts]
 tags: []
+description: "Другие названия: Механизм спрединга-субдукции, Теория тектоники плит"
 ---
 
 # Спрединг-субдукция

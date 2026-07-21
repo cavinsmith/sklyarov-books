@@ -5,10 +5,9 @@ categories:
   - places
   - geography
   - central-asia
-tags:
-  - mining
-  - tungsten
-  - scheelite
+tags: [mining, tungsten, scheelite]
+description: "Памир — горная система в Центральной Азии."
+
 ---
 
 # Памир
@@ -24,3 +23,10 @@ tags:
 
 - [[concepts/bireakcionnaya-sxema|Биреакционная схема]]
 - [[books/22-metally|Металлы — дар небесных богов]]
+
+- [[concepts/central-asia|Центральная Азия]]
+- [[places/ramaditas]]
+- [[places/ergani-maden]]
+- [[places/vorovskaya-jama]]
+- [[places/chayonyu-tepesi]]
+- [[places/maxd-al-dzhahab]]

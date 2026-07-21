@@ -5,10 +5,9 @@ categories:
   - places
   - archaeology
   - iraq
-tags:
-  - neolithic
-  - agriculture
-  - settlement
+tags: [neolithic, agriculture, settlement]
+description: "Джармо — наиболее древнее из известных земледельческих поселений на территории Ирака, датируемое 9290 годом до н.э."
+
 ---
 
 # Джармо
@@ -28,4 +27,8 @@ tags:
 ## См. также
 
 - [[concepts/zemledelie-kak-dar-bogov|Земледелие как дар богов]]
+- [[concepts/neolithic|Неолит]]
+- [[concepts/okhota-i-sobiratelstvo|Охота и собирательство]]
+- [[places/mergar|Мергарх]]
+- [[places/chatal-goyuk|Чатал-Хююк]]
 - [[books/24-opasnoe-nasledie|Опасное наследие богов]]

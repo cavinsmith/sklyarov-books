@@ -1,8 +1,10 @@
 ---
+
 slug: medum-hidden-chambers
 title: "Скрытые камеры Медума"
 categories: [events]
 tags: []
+description: "Обнаружение скрытых камер в пирамиде Медума (также известной как пирамида-ступенька) в 2000 году. Одно из важных археологических открытий,..."
 ---
 
 # Скрытые камеры Медума
@@ -52,7 +54,7 @@ tags: []
 
 - [[places/medum]] — пирамида Медума
 - [[artifacts/bent-pyramid]] — Ломаная пирамида (того же строителя)
-- [[artifacts/red-pyramid]] — Красная пирамида
+- [[places/red-pyramid]] — Красная пирамида
 - [[people/snofru]] — фараон IV династии
 - [[concepts/pyramid-energy]] — пирамиды как энергетические устройства
 - [[concepts/acoustic-properties]] — акустические свойства пирамид

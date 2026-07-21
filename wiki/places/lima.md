@@ -1,8 +1,10 @@
 ---
+
 slug: lima
 title: "Лима"
 categories: [places]
 tags: [peru, capital, archaeology, coast]
+description: "Официальное название: Город Лима"
 ---
 
 # Лима
@@ -36,11 +38,11 @@ tags: [peru, capital, archaeology, coast]
 
 ## Связанные концепции
 
-- [[places/peru]] — Перу
+- [[guides/peru]] — Перу
 - [[places/parakas]] — Паракас, археологический регион
 - [[places/naska]] — Наска, геоглифы
 - [[places/pachacamac]] — Пачакамак, святилище
-- [[places/inca]] — Инкская империя
+- [[concepts/inca]] — Инкская империя
 - [[places/kusko]] — Куско, древняя столица
 
 ## См. также

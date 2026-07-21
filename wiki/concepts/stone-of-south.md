@@ -1,8 +1,10 @@
 ---
+
 slug: stone-of-south
 title: "Камень Юга"
 categories: [concepts]
 tags: []
+description: "Другие названия: Южный камень, Камень из Южного полюса"
 ---
 
 # Камень Юга
@@ -33,3 +35,8 @@ tags: []
 
 - [[books/17-piramidy|Пирамиды]]
 - [[books/12-tsivilizaciya-bogov-egipta|Цивилизация богов Египта]]
+
+
+## См. также
+
+- [[concepts/index-concepts|Индекс концепций]]

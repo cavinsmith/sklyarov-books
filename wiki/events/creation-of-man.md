@@ -1,8 +1,10 @@
 ---
+
 slug: creation-of-man
 title: Создание человека
 categories: [events]
 tags: [creation, mythology, gods, genetics, paleokontakt]
+description: "Миф о создании человека богами. Содержится во многих мифологических традициях и интерпретируется как..."
 ---
 
 # Создание человека

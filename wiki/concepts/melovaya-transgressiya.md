@@ -1,8 +1,10 @@
 ---
+
 slug: melovaya-transgressiya
 title: "Меловая трансгрессия"
 categories: [concepts]
 tags: []
+description: "Другие названия: Меловое море, Трансгрессия мела"
 ---
 
 # Меловая трансгрессия

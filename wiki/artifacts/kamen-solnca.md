@@ -1,8 +1,10 @@
 ---
+
 slug: kamen-solnca
 title: Камень Солнца
 categories: [artifacts]
 tags: [inca, peru, stone, ancient-technology]
+description: "Место находки: Перу"
 ---
 
 # Камень Солнца
@@ -26,6 +28,12 @@ tags: [inca, peru, stone, ancient-technology]
 
 ## См. также
 
-- [[places/inca]] — Империя инков
+- [[concepts/inca]] — Империя инков
 - [[people/pachacuti]] — Пачакути, император инков
 - [[books/15-peru-i-boliviya]]
+
+## Связанные страницы
+
+- [[places/kusco|Куско]]
+- [[places/sacred-valley|Священная Долина]]
+- [[guides/peru|Путеводитель: Перу]]

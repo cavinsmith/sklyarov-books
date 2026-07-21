@@ -1,8 +1,10 @@
 ---
+
 slug: meyson
 title: "Олдон Мейсон"
 categories: [people]
 tags: [nazca, geoglyphs]
+description: "Олдон Мейсон — исследователь, предложивший теорию «знаков для богов» геоглифов places/plato-naska|Наски."
 ---
 
 # Олдон Мейсон

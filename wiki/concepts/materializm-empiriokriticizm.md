@@ -2,25 +2,21 @@
 slug: materializm-empiriokriticizm
 title: "Материализм и эмпириокритицизм"
 categories: [concepts]
-tags: [философия, ленин, материализм]
+tags: []
+description: "Материализм и эмпириокритицизм"
 ---
 
 # Материализм и эмпириокритицизм
 
-**«Материализм и эмпириокритицизм»** — философское сочинение В.И. Ленина (1909), посвящённое критике идеалистических воззрений в естествознании.
-
-## Связь с работами Склярова
-
-Андрей Скляров использует это сочинение как ироничную отсылку в подзаголовке своей книги «Основы физики духа» (том 28): «Нелепая попытка примиренческого шарлатанства».
-
-## Связанные концепции
-
-- [[concepts/dukhovno-nematerialnyy-mir]] — духовно-нематериальный мир
-- [[concepts/noosfera]] — ноосфера
-- [[concepts/egregor]] — эгрегор
+Смотрите [[artifacts/materializm-empiriokriticizm]].
 
 ## См. также
 
-- [[books/28-fizika-duha|Основы физики духа]]
-- [[people/lenin|Ленин]]
-- [[people/andrey-sklyarov|Андрей Скляров]]
+- [[concepts/philosophy|Философия]]
+- [[concepts/science|Наука]]
+- [[artifacts/red-pyramid]]
+- [[places/megaliticheskie-sooruzheniya]]
+- [[places/kompyuter-drevnego-kitaya]]
+- [[places/inca]]
+- [[places/pyramids]]
+- [[books/28-fizika-duha|Физика духа]]

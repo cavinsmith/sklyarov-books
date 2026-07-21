@@ -1,8 +1,10 @@
 ---
+
 slug: lucy-remains
 title: "Останки Люси"
 categories: artifacts
 tags: []
+description: "Скелет Australopithecus afarensis, обнаруженный в 1974 году в Эфиопии, ставший одним из наиболее известных археологических открытий в изучении..."
 ---
 
 # Останки Люси
@@ -28,3 +30,8 @@ tags: []
 - [[people/ernst-muldashev|Эрнст Мульдашев]] — альтернативные интерпретации
 - [[artifacts/homo-erectus-java|Homo erectus Java]] — параллельная находка
 - [[places/java|Ява]] — местонахождение других древних останков
+
+## См. также
+- [[concepts/alternativnaya-istoriya|Альтернативная история]]
+- [[guides/paleokontakt|Путеводитель: Палеоконтакт]]
+- [[artifacts/kamni-iki|Камни Ики]]

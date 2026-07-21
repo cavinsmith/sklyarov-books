@@ -1,8 +1,10 @@
 ---
+
 slug: jeffrey-schwartz
 title: "Джеффри Шварц"
 categories: [people]
 tags: [anthropology, evolution]
+description: "Полное имя: Джеффри Х. Шварц (Jeffrey H. Schwartz)"
 ---
 
 # Джеффри Шварц

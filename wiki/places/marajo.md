@@ -5,10 +5,9 @@ categories:
   - places
   - archaeology
   - brazil
-tags:
-  - amazon
-  - pre-columbian
-  - pottery
+tags: [amazon, pre-columbian, pottery]
+description: "Марахо (порт. Ilha de Marajó) — остров в устье Амазонки (Бразилия), известный археологическими находками доколумбовой цивилизации. Здесь обнаружены..."
+
 ---
 
 # Марахо
@@ -55,4 +54,4 @@ tags:
 ## См. также
 
 - [[places/amazon]] — Амазонка, крупнейшая река мира
-- [[places/peru]] — Перу, другой важный регион доколумбовой цивилизации
+- [[guides/peru]] — Перу, другой важный регион доколумбовой цивилизации

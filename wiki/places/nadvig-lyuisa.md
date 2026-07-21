@@ -1,8 +1,10 @@
 ---
+
 slug: nadvig-lyuisa
 title: "Надвиг Льюиса"
 categories: [places]
-tags: []
+tags: [geology, montana, overthrust]
+description: "Надвиг Льюиса — горный массив в Скалистых горах (Монтана, США)."
 ---
 
 # Надвиг Льюиса

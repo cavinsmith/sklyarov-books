@@ -1,8 +1,10 @@
 ---
+
 slug: paracas-elongated-skulls
 title: "Удлинённые черепа Паракаса"
 categories: artifacts
 tags: []
+description: "Тип: Аномальные черепа"
 ---
 
 # Удлинённые черепа Паракаса
@@ -41,3 +43,7 @@ tags: []
 - [[artifacts/elongated-skulls-peru]] — аномальные черепа Перу
 - [[artifacts/olmeckie-golovy]] — гигантские ольмекские головы
 - [[books/21-geneticheskiy-kod|Генетический код человечества]]
+
+## Связанные страницы
+
+- [[concepts/elongated-skulls|Удлинённые черепа]]

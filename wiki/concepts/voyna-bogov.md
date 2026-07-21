@@ -1,8 +1,12 @@
 ---
+
+
 slug: voyna-bogov
 title: "Война богов"
 categories: [concepts]
 tags: []
+description: "Центральная концепция книги «books/06-vavilonskaya-bashnya|Вавилонская башня» people/andrey-sklyarov|Андрея Склярова. Масштабный конфликт между..."
+
 ---
 
 # Война богов
@@ -43,6 +47,8 @@ tags: []
 ---
 
 ## См. также
+
+- [[concepts/index-concepts|Индекс концепций]]
 
 - [[events/voyna-bogov-iv-tysyacheletie|Война богов IV тысячелетия до н.э.]]
 - [[concepts/period-haosa|Период хаоса]]

@@ -1,8 +1,12 @@
 ---
+
+
 slug: piramidy-kak-istochniki-energii
 title: "Пирамиды как источники энергии"
 categories: [concepts]
 tags: []
+description: "Гипотеза о том, что пирамиды использовались как генераторы энергии. В работах people/andrey-sklyarov|Андрея Склярова рассматривается как один из..."
+
 ---
 
 # Пирамиды как источники энергии
@@ -13,7 +17,7 @@ tags: []
 
 - Пирамиды могли быть не гробницами, а энергетическими установками
 - Их форма и расположение могли генерировать энергию
-- Связь с [[concepts/paleokontakt|технологиями «богов»]]
+- Связь с [[guides/paleokontakt|технологиями «богов»]]
 - Возможное использование пьезоэлектрического эффекта
 
 ## Механизм
@@ -37,7 +41,7 @@ tags: []
 ## Связанные концепции
 
 - [[concepts/megaliticheskie-sooruzheniya]]
-- [[concepts/paleokontakt]]
+- [[guides/paleokontakt]]
 - [[concepts/utrachennye-tekhnologii]]
 
 ## Книги, в которых обсуждается
@@ -47,4 +51,4 @@ tags: []
 ## См. также
 
 - [[concepts/megaliticheskie-sooruzheniya]]
-- [[concepts/paleokontakt]]
+- [[guides/paleokontakt]]

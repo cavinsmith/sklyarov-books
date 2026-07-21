@@ -1,8 +1,12 @@
 ---
+
+
 slug: zakhoronenie
 title: "Захоронение"
 categories: [concepts]
-tags: []
+tags: [burial, ritual, religion]
+description: "Захоронение — ритуал погребения умерших."
+
 ---
 
 # Захоронение

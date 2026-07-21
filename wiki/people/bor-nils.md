@@ -1,8 +1,10 @@
 ---
+
 slug: bor-nils
 title: "Нильс Бор (Niels Bohr)"
 categories: [people]
 tags: [physics]
+description: "Датский физик-теоретик (1885–1962), один из основоположников квантовой механики. Нобелевская премия по физике (1922)."
 ---
 
 # Нильс Бор (Niels Bohr)

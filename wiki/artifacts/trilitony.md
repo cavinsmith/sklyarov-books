@@ -1,8 +1,10 @@
 ---
+
 slug: trilitony
 title: Трилитоны
 categories: [artifacts]
 tags: [megalith, baalbek, ancient-technology]
+description: "Мегалитические конструкции из трёх каменных блоков, используемые в строительстве древних сооружений. Наиболее известный пример —"
 ---
 
 # Трилитоны
@@ -29,3 +31,9 @@ tags: [megalith, baalbek, ancient-technology]
 - [[artifacts/south-stone-baalbek]] — Южный камень
 - [[places/baalbek]] — комплекс Баальбека
 - [[books/19-zemlya-vaala]] — книга «Земля Ваала»
+
+## Связанные страницы
+
+- [[places/alcad-hyuyuk|Аладжахююк]]
+- [[concepts/piezoelectric-effect|Пьезоэлектрический эффект]]
+- [[concepts/acoustic-properties|Акустические свойства]]

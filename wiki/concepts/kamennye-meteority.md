@@ -1,8 +1,10 @@
 ---
+
 slug: kamennye-meteority
 title: "Каменные метеориты"
 categories: [concepts]
 tags: []
+description: "Другие названия: Каменно-железные метеориты, Литолиты"
 ---
 
 # Каменные метеориты

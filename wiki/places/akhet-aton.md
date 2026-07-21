@@ -5,11 +5,9 @@ categories:
   - places
   - archaeology
   - egypt
-tags:
-  - akhenaten
-  - amarna
-  - capital
-  - atenism
+tags: [akhenaten, amarna, capital, atenism]
+description: "Ахет-Атон (егип. ꜣḫt-ỉtn, «Горизонт Атона») — новая столица фараона people/akhenaton|Эхнатона, построенная им в середине XIV века до н.э. на..."
+
 ---
 
 # Ахет-Атон

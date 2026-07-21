@@ -1,8 +1,10 @@
 ---
+
 slug: marduk
 title: Мардук
 categories: [people]
 tags: [sumer, babylon, god, supreme]
+description: "Шумерско-вавилонский бог, верховный бог Вавилона, царь богов."
 ---
 
 # Мардук (Marduk)

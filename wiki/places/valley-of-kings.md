@@ -5,11 +5,9 @@ categories:
   - places
   - archaeology
   - egypt
-tags:
-  - pharaohs
-  - tombs
-  - thebes
-  - luxury
+tags: [pharaohs, tombs, thebes, luxury]
+description: "Долина Царей (араб. وادي الملوك) — долина на западном берегу Нила в Египте, где расположены гробницы фараонов Нового царства (XVIII–XX династии)."
+
 ---
 
 # Долина Царей
@@ -58,3 +56,9 @@ tags:
 
 - [[places/luxor]] — Луксор, современный город
 - [[places/karnak]] — Карнак, храмовый комплекс
+
+- [[places/saqqara|Саккара]]
+- [[concepts/drevnie-bogi|Древние боги]]
+- [[concepts/civilization-of-gods|Цивилизация богов]]
+- [[concepts/kultovye-sooruzheniya|Культовые сооружения]]
+- [[places/temple-mount|Храмовая гора]]

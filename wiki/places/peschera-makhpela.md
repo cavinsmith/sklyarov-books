@@ -1,8 +1,10 @@
 ---
+
 slug: peschera-makhpela
 title: "Пещера Махпела"
 categories: [places]
 tags: []
+description: "Мегалитическое сооружение в places/hebron|Хевроне, одно из ключевых объектов книги."
 ---
 
 # Пещера Махпела

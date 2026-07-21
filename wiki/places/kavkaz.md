@@ -1,8 +1,10 @@
 ---
+
 slug: kavkaz
 title: "Кавказ"
 categories: [places]
 tags: [mountains, georgia, dmanisi, hominids]
+description: "Тип: Горный регион"
 ---
 
 # Кавказ

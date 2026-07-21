@@ -1,8 +1,12 @@
 ---
+
+
 slug: antibakterialnye-svoystva-medi
 title: "Антибактериальные свойства меди"
 categories: [concepts]
 tags: []
+description: "Способность меди и её соединений подавлять рост бактерий, вирусов и грибков. Используется people/andrey-sklyarov|Андреем Скляровым в..."
+
 ---
 
 # Антибактериальные свойства меди

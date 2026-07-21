@@ -1,8 +1,10 @@
 ---
+
 slug: saqqara
 title: "Саккара"
 categories: [places]
 tags: []
+description: "Полное название: Некрополь Саккара (араб. سقارة)"
 ---
 
 # Саккара

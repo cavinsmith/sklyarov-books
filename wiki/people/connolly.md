@@ -1,8 +1,10 @@
 ---
+
 slug: connolly
-title: "Коннолли (Роберт)"
+title: "Роберт Коннолли"
 categories: [people]
 tags: [archaeology, skulls]
+description: "Роберт Коннолли — исследователь удлинённых черепов в Южной Америке."
 ---
 
 # Коннолли (Роберт)

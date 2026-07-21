@@ -1,8 +1,10 @@
 ---
+
 slug: ekhnaton
 title: "Эхнатон"
 categories: [people]
 tags: []
+description: "Фараон-реформатор XVIII династии, введший поклонение concepts/aton|Атону."
 ---
 
 # Эхнатон

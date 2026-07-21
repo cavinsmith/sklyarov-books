@@ -5,10 +5,9 @@ categories:
   - places
   - geography
   - russia
-tags:
-  - science
-  - physics
-  - fluctuation
+tags: [science, physics, fluctuation]
+description: "Пущино — город в Московской области, Россия, важный центр научных исследований. Здесь расположены научные лаборатории, где обнаружен феномен..."
+
 ---
 
 # Пущино

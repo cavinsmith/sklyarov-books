@@ -5,11 +5,9 @@ categories:
   - artifacts
   - archaeology
   - vietnam
-tags:
-  - bronze
-  - drum
-  - vietnam
-  - ritual
+tags: [bronze, drum, vietnam, ritual]
+description: "Ритуальный барабан из бронзы — бронзовый барабан, обнаруженный во Вьетнаме."
+
 ---
 
 # Ритуальный барабан из бронзы
@@ -25,3 +23,7 @@ tags:
 ## См. также
 
 - [[books/22-metally|Металлы — дар небесных богов]]
+- [[concepts/bronzovyj-vek|Бронзовый век]]
+- [[concepts/metallurgy|Металлургия]]
+- [[concepts/ancient-metallurgy|Древняя металлургия]]
+- [[concepts/copper-technologies|Медные сплавы и технологии]]

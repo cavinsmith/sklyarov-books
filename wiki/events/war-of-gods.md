@@ -1,8 +1,10 @@
 ---
+
 slug: war-of-gods
 title: "Война богов"
 categories: [events]
 tags: []
+description: "Концепция глобального вооружённого конфликта внутри concepts/civilization-of-gods|цивилизации богов, описанная в мифологиях народов мира и..."
 ---
 
 # Война богов
@@ -76,9 +78,11 @@ tags: []
 
 - [[concepts/voyna-bogov]] — концепция Войны богов
 - [[concepts/civilization-of-gods]] — цивилизация богов
+- [[concepts/dva-civilizacii]] — две цивилизации
 - [[concepts/period-haosa]] — Период хаоса
 - [[events/velikii-potop]] — Великий Потоп (следствие Войны богов)
 - [[events/vsemirnyi-potop]] — Всемирный потоп
 - [[events/padenie-meteorita]] — падение метеорита как причина Потопа
 - [[events/voyna-bogov-iv-tysyacheletie]] — Война богов IV тысячелетия до н.э.
 - [[events/izgnanie-drakona]] — изгнание дракона как следствие конфликта
+- [[books/06-vavilonskaya-bashnya|Вавилонская башня]]

@@ -5,11 +5,9 @@ categories:
   - places
   - archaeology
   - turkey
-tags:
-  - megalithic
-  - pre-pottery
-  - neolithic
-  - temples
+tags: [megalithic, pre-pottery, neolithic, temples]
+description: "Гёбекли-тепе (тур. Göbekli Tepe) — мегалитический комплекс в Юго-Восточной Анатолии (Турция), X–IХ тысячелетия до н.э."
+
 ---
 
 # Гёбекли-тепе
@@ -30,3 +28,12 @@ tags:
 
 - [[books/22-metally|Металлы — дар небесных богов]]
 - [[books/27-sozdanie-tsivilizaciy|Создание древних цивилизаций]]
+- [[places/gobekli-tepe]]
+- [[places/rakchi]]
+- [[places/tiauanako]]
+- [[places/eflatunpinar]]
+- [[places/mergar]]
+
+## Связанные страницы
+
+- [[places/gobekli-tepe|Гёбекли-тепе]]

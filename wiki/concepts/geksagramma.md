@@ -1,8 +1,10 @@
 ---
+
 slug: geksagramma
 title: "Гексаграмма"
 categories: [concepts]
 tags: []
+description: "Другие названия: Гуа (Гуа), шестилитейник"
 ---
 
 # Гексаграмма

@@ -1,8 +1,10 @@
 ---
+
 slug: shlikman-genrikh
 title: "Шлиман Генрих"
 categories: [people]
 tags: []
+description: "Описание: Немецкий предприниматель и археолог-любитель, открывший древнюю Трою. Упоминается как пример серьезного отношения к мифологии как источнику..."
 ---
 
 # Шлиман Генрих
@@ -21,3 +23,12 @@ tags: []
 
 **Связанные сущности:**
 - [[people/andrey-sklyarov]] -- использует пример Шлимана для обоснования серьезного отношения к мифологии
+
+## См. также
+
+- [[people/rishar-andre|Ришар Андре]]
+- [[artifacts/obsidianovaya-obezyana]]
+- [[artifacts/puteshestviya-gullivera]]
+- [[artifacts/nefritovaya-spiralnaya-trubka]]
+- [[artifacts/obsidianovye-veretena]]
+- [[artifacts/oblicovochnye-bloki-gizy]]

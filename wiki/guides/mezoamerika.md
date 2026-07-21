@@ -1,8 +1,10 @@
 ---
+
 slug: mezoamerika
 title: "Путеводитель: Мезоамерика"
 categories: [guides]
 tags: [mesoamerica, maya, aztec, olmec, pyramids]
+description: "Все материалы wiki, связанные с цивилизациями Мезоамерики — ольмеками, майя, ацтеками, теотиуаканцами и их мегалитическими сооружениями."
 ---
 
 # Путеводитель: Мезоамерика
@@ -13,12 +15,12 @@ tags: [mesoamerica, maya, aztec, olmec, pyramids]
 
 - [[concepts/sledy-mashinnoy-obrabotki-kamnya|Следы машинной обработки]] — фрезерование, дисковые пилы
 - [[concepts/megalithic-architecture|Мегалитическая архитектура]] — гигантские каменные блоки
-- [[concepts/paleokontakt|Палеоконтакт]] — гипотеза о влиянии «богов»
+- [[guides/paleokontakt|Палеоконтакт]] — гипотеза о влиянии «богов»
 - [[concepts/high-tech-mesoamerica|High-tech Мезоамерика]] — высокие технологии в древности
 - [[concepts/dlinnyj-schet|Длинный счёт]] — система счисления майя
 - [[concepts/kalendar-52-goda|Календарь 52 года]] — календарный цикл майя
 - [[concepts/additivno-pozicionnaya-sistema|Аддитивно-позиционная система]] — система счисления
-- [[concepts/olmeki|Ольмеки]] — древнейшая цивилизация Мезоамерики
+- [[places/olmeki|Ольмеки]] — древнейшая цивилизация Мезоамерики
 - [[concepts/dopootopniy-severniy-polyus|Допотопный Северный полюс]] — ориентация Теотиуакана
 - [[concepts/kollekciya-djulsruda|Коллекция Дьюлсерда]] — фигурки с динозаврами из Акамбаро
 - [[concepts/megaliticheskie-sooruzheniya|Мегалитические сооружения]] — общая характеристика

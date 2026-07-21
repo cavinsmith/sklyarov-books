@@ -5,11 +5,9 @@ categories:
   - places
   - archaeology
   - romania
-tags:
-  - tablets
-  - writing
-  - transylvania
-  - bmac
+tags: [tablets, writing, transylvania, bmac]
+description: "Тэртерия (Трансильвания, Румыния) — место находки глиняных табличек с пиктографическими знаками в 1961 году."
+
 ---
 
 # Тэртерия
@@ -34,3 +32,5 @@ tags:
 
 - [[concepts/edinaya-pismennost|Единая письменность]]
 - [[books/24-opasnoe-nasledie|Опасное наследие богов]]
+
+- [[places/dome-of-the-rock|Купол Скалы]]

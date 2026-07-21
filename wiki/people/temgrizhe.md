@@ -1,8 +1,10 @@
 ---
+
 slug: temgrizhe
 title: Темгриже
 categories: [people]
 tags: [researcher, dragonography]
+description: "Исследователь, работы которого анализируются в контексте concepts/dracoonografiya|драконографии."
 ---
 
 # Темгриже
@@ -23,3 +25,5 @@ tags: [researcher, dragonography]
 
 - [[concepts/dracoonografiya]]
 - [[books/11-dragonografiya]]
+
+- [[places/red-sea|Красное море]]

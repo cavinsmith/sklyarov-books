@@ -1,8 +1,10 @@
 ---
+
 slug: henri-breuil
 title: "Анри Брейль"
 categories: [people]
 tags: []
+description: "Французский археолог и антрополог, специалист по палеолитической эпохе."
 ---
 
 # Анри Брейль
@@ -22,3 +24,6 @@ tags: []
 ## См. также
 
 - [[books/21-geneticheskiy-kod|Генетический код человечества]]
+
+- [[concepts/geneticheskiy-kod-chelovechestva|Генетический код человечества]]
+- [[people/maya-people|Майя]]

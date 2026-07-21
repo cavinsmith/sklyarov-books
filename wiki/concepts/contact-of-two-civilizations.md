@@ -1,8 +1,10 @@
 ---
+
 slug: contact-of-two-civilizations
 title: Контакт двух цивилизаций
 categories: [concepts]
 tags: [civilization, contact, ancient, history]
+description: "Концепция столкновения или взаимодействия двух высокоразвитых цивилизаций в древности. Центральная тема многих работ Склярова."
 ---
 
 # Контакт двух цивилизаций
@@ -20,8 +22,13 @@ tags: [civilization, contact, ancient, history]
 
 ---
 
+## Источники
+
+- [[books/06-vavilonskaya-bashnya|Вавилонская башня]] — анализ контакта двух цивилизаций как причины катастрофы.
+
 ## См. также
 
-- [[concepts/voyna-bogov]] - Война богов
-- [[concepts/period-haosa]] - Период хаоса
-- [[books/06-vavilonskaya-bashnya]]
+- [[concepts/voyna-bogov|Война богов]]
+- [[concepts/period-haosa|Период хаоса]]
+- [[concepts/bronze-age|Бронзовый век]]
+- [[concepts/disk-saw|Дисковая пила]]

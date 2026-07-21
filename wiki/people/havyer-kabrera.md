@@ -1,8 +1,10 @@
 ---
+
 slug: havyer-kabrera
 title: "Хавьер Кабрера"
 categories: [people]
-tags: []
+tags: [peru, Ica, collection]
+description: "Хавьер Кабрера — перуанский хирург, коллекционер камней Ики."
 ---
 
 # Хавьер Кабрера
@@ -39,5 +41,5 @@ tags: []
 - [[places/ika]]
 - [[people/don-patton]]
 - [[people/soldi-bratya|Братья Сольди]]
-- [[concepts/paleokontakt]]
+- [[guides/paleokontakt]]
 - [[books/15-peru-i-boliviya|«Перу и Боливия задолго до инков»]]

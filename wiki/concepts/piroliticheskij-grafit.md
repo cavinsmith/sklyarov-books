@@ -1,8 +1,10 @@
 ---
+
 slug: piroliticheskij-grafit
 title: "Пиролитический графит"
 categories: [concepts]
 tags: []
+description: "Графит, полученный в результате concepts/piroliz-metana|пиролиза метана и других углеводородов в лабораторных условиях. Его existence является..."
 ---
 
 # Пиролитический графит

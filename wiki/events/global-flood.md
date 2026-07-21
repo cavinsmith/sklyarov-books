@@ -1,8 +1,10 @@
 ---
+
 slug: global-flood
 title: Всемирный потоп
 categories: [events]
 tags: [flood, catastrophe, biblical, mythology, cataclysm]
+description: "Миф о всемирном потопе, присутствующий во многих культурах мира. Связан с concepts/potop|глобальной катастрофой XI тысячелетия до н.э., описанной в..."
 ---
 
 # Всемирный потоп

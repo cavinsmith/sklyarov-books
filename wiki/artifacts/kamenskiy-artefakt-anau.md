@@ -1,8 +1,10 @@
 ---
+
 slug: kamenskiy-artefakt-anau
 title: "Каменный артефакт из Анау"
 categories: artifacts
 tags: []
+description: "Каменная стела с нанесёнными символами, обнаруженная в районе places/jarmo|Анау в Туркменистане. Символы на артефакте проявляют сходство как с..."
 ---
 
 # Каменный артефакт из Анау
@@ -37,3 +39,8 @@ tags: []
 - [[concepts/drevneevropeyskaya-civilizaciya|Древнеевропейская цивилизация]]
 - [[books/06-vavilonskaya-bashnya|Вавилонская башня — рекордсмен долгостроя]]
 - [[books/24-opasnoe-nasledie|Опасное наследие предков]]
+
+## Связанные страницы
+
+- [[places/anau|Анау]]
+- [[places/anaue|Анау]]

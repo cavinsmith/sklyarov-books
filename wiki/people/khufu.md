@@ -1,8 +1,10 @@
 ---
+
 slug: khufu
 title: Хуфу (Хеопс)
 categories: [people]
 tags: [egypt, pharaoh, pyramid, dynasty-iv]
+description: "Годы правления: ок. 2589—2566 гг. до н.э. (по традиционной хронологии)"
 ---
 
 # Хуфу (Хеопс)

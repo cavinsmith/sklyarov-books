@@ -1,8 +1,10 @@
 ---
+
 slug: solnechnaya-sistema
 title: "Солнечная система"
 categories: [concepts]
 tags: []
+description: "Другие названия: Система Солнца, Гелиосистема"
 ---
 
 # Солнечная система
@@ -34,3 +36,7 @@ tags: []
 
 - [[books/03-sudba-faetona|Судьба Фаэтона]]
 - [[books/08-istoriya-zemli-bez-kamenno|История Земли без каменной крышки]]
+
+## См. также
+- [[events/troyanskaya-voyna|Троянская война]]
+- [[artifacts/kamni-iki|Камни Ики]]

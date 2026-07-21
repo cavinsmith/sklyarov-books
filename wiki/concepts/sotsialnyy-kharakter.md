@@ -1,8 +1,12 @@
 ---
+
+
 slug: sotsialnyy-kharakter
 title: "Социальный характер"
 categories: [concepts]
 tags: []
+description: "Концепция духовно-нематериальных качеств социальной группы, описанная в работах people/andrey-sklyarov|Андрея Склярова в контексте «физики духа»."
+
 ---
 
 # Социальный характер

@@ -1,8 +1,10 @@
 ---
+
 slug: akhenaton
 title: "Эхнатон (Аменхотеп IV)"
 categories: [people]
 tags: [egypt, monotheism, aton]
+description: "Фараон XVIII династии Древнего Египта (правил около 1353–1336 гг. до н.э.). Провёл религиозную реформу, введя культ Атона как единственного бога —"
 ---
 
 # Эхнатон (Аменхотеп IV)
@@ -26,3 +28,5 @@ tags: [egypt, monotheism, aton]
 
 - [[people/tutankhamon|Тутанхамон]] — сын Эхнатона
 - [[books/12-tsivilizaciya-bogov-egipta|Цивилизация богов древнего Египта]]
+
+- [[projects/fond-iii-tysyacheletie|Фонд III тысячелетие]]

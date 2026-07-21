@@ -1,8 +1,10 @@
 ---
+
 slug: serapeum
 title: Серапеум
 categories: [places]
 tags: [egypt, necropolis, bulls, sarcophagi]
+description: "Место находки: Саккара, Египет"
 ---
 
 # Серапеум
@@ -29,3 +31,7 @@ tags: [egypt, necropolis, bulls, sarcophagi]
 - [[artifacts/serapeum-sarcophagi]] — Саркофаги Серапеума
 - [[places/saqqara]] — Саккара
 - [[books/12-tsivilizaciya-bogov-egipta]]
+- [[artifacts/asuanskij-obelisk]]
+- [[artifacts/sarcophagus-king-chamber]]
+- [[places/kolossy-memnona]]
+- [[artifacts/pyramid-texts]]

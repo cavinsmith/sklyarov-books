@@ -5,10 +5,9 @@ categories:
   - places
   - archaeology
   - peru
-tags:
-  - moche
-  - ceramics
-  - pyramids
+tags: [moche, ceramics, pyramids]
+description: "Трухильо (исп. Trujillo) — город на северном побережье Перу, важный центр археологических исследований культуры Моче. Здесь расположены знаменитые..."
+
 ---
 
 # Трухильо
@@ -48,8 +47,8 @@ tags:
 
 ## Связанные концепции
 
-- [[places/peru]] — Перу, современное расположение города
-- [[concepts/moche]] — Культура Моче
+- [[guides/peru]] — Перу, современное расположение города
+- [[places/moche]] — Культура Моче
 - [[concepts/pyramids]] — Пирамиды Перу
 
 ## См. также

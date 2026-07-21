@@ -1,8 +1,10 @@
 ---
+
 slug: raskol-faetona
 title: "Раскол Фаэтона"
 categories: [concepts]
 tags: []
+description: "Другие названия: Разрушение Фаэтона, Катастрофа Фаэтона"
 ---
 
 # Раскол Фаэтона

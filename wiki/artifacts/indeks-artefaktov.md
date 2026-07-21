@@ -1,13 +1,21 @@
 ---
-slug: indeks-artefaktov
+
+
+slug: Индекс артефактов
 title: "Индекс артефактов"
-categories: [artifacts]
+categories: artifacts
 tags: []
+description: "Все артефакты, упоминаемые в работах people/andrey-sklyarov|Андрея Склярова и в вики."
+
 ---
 
 # Индекс артефактов
 
-Все артефакты, упоминаемые в работах [[people/andrey-sklyarov|Андрея Склярова]], описанные в книгах серии [[books/01-mif-o-potope|«Миф о Потопе»]], [[books/02-olyantaytambo|«Ольянтайтамбо»]], [[books/05-rodina-bogov|«Родина богов»]] и других изданиях.
+Все артефакты, упоминаемые в работах [[people/andrey-sklyarov|Андрея Склярова]] и в вики.
+
+## Связанные книги
+
+- [[books/05-rodina-bogov|Какова ты, родина богов]] — каталог древних артефактов
 
 ---
 
@@ -16,25 +24,31 @@ tags: []
 - [[places/giza-piramidy]] — комплекс пирамид в Египте
 - [[artifacts/sfinks]] — монолитная скульптура
 - [[artifacts/great-pyramid]] — Великая пирамида Гизы
-- [[artifacts/red-pyramid]] — пирамида в Дашуре
+- [[places/red-pyramid]] — пирамида в Дашуре
 - [[artifacts/step-pyramid]] — пирамида Джосера в Саккаре
 - [[artifacts/mikerin-piramida]] — Пирамида Микерина
 - [[artifacts/nezavershennyj-obelisk]] — Незаконченный обелиск
 - [[artifacts/oblicovochnye-bloki-gizy]] — Облицовочные блоки Гизы
+- [[artifacts/decorative-block-giza]] — Декоративный блок из Гизы
+- [[artifacts/bent-pyramid]] — Изогнутая пирамида
+- [[artifacts/asuanskij-obelisk]] — Асуанский обелиск
+- [[artifacts/valley-temple]] — Долинный храм Гизы
 
 ## Артефакты Ближнего Востока
 
-- [[concepts/kovcheg-zaveta]] — священный предмет иудаизма
-- [[concepts/skrizhali-zaveta]] — каменные таблицы с законами
+- [[artifacts/kovcheg-zaveta]] — священный предмет иудаизма
+- [[artifacts/skrizhali-zaveta]] — каменные таблицы с законами
 - [[artifacts/posokh-moiseya]] — посох пророка
 - [[artifacts/posokh-aarona]] — посох первосвященника
 - [[artifacts/tefillin]] — филактерии
 - [[artifacts/ugarit-tablets]] — клинописные документы
 - [[artifacts/mezuzah]] — свиток с молитвой
 - [[artifacts/baalbek-trilithon]] — три гигантских блока
+- [[artifacts/trilithons-baalbek]] — Трилитоны Баальбека
+- [[artifacts/trilitony]] — Трилитоны
+- [[artifacts/south-stone-baalbek]] — Южный камень Баальбека
+- [[artifacts/yuzhnyj-kamen]] — Южный камень
 - [[artifacts/megalithic-wall-temple-mount]] — стена с блоками до 628 тонн
-- [[artifacts/kovcheg-zaveta]] — Ковчег Завета
-- [[artifacts/skrizhali-zaveta]] — Скрижали Завета
 - [[artifacts/sumer-clay-tablets]] — Шумерские глиняные таблички
 - [[artifacts/tyerteriyskie-tablichki]] — Тэртерийские таблички
 - [[artifacts/vavilonskaya-bashnya]] — Вавилонская башня (артефакт)
@@ -42,8 +56,7 @@ tags: []
 ## Артефакты Южной Америки
 
 - [[artifacts/kamni-iki]] — камни с изображениями динозавров
-- [[concepts/geoglify]] — гигантские рисунки на полях
-- [[artifacts/geoglify-naska]] — Геоглифы Наска
+- [[artifacts/geoglify-naska]] — гигантские рисунки на полях
 - [[artifacts/trepanaciya-cherepov]] — древняя операция на черепе
 - [[artifacts/deformaciya-cherepov]] — искусственное изменение формы черепа
 - [[artifacts/elongated-skulls-peru]] — Аномальные черепа Перу
@@ -51,6 +64,10 @@ tags: []
 - [[artifacts/olmeckie-golovy]] — Гигантские ольмекские головы
 - [[artifacts/kollekciya-akambaro]] — Коллекция Акамбаро
 - [[artifacts/kamenskiy-artefakt-anau]] — Каменный артефакт из Анау
+- [[artifacts/kamen-solnca]] — Камень Солнца
+- [[artifacts/cep-inki]] — Золотая цепь инки Уайны Капака
+- [[artifacts/pektorali-sipana]] — Пекторали Сипана
+- [[artifacts/bronzovye-styazhki]] — Бронзовые стяжки Пума-Пунку
 
 ## Артефакты Египта
 
@@ -59,9 +76,18 @@ tags: []
 - [[places/saqqara-collection]] — 35 000 каменных сосудов
 - [[artifacts/sakkarskiye-sosudy]] — Саккарская коллекция сосудов
 - [[artifacts/stone-vessels-saqqara]] — Каменные сосуды Саккарской коллекции
+- [[artifacts/saqqara-vase]] — Ваза из Саккары
+- [[artifacts/saqqara-disks]] — Диски из Саккары
+- [[artifacts/serapeum-sarcophagi]] — Саркофаги Серапеума
+- [[artifacts/teti-sarcophagi]] — Саркофаги Тети
+- [[artifacts/pepi-ii-block]] — Плита Пепи II
+- [[artifacts/pyramid-texts]] — Тексты пирамид
+- [[artifacts/hieroglyphs-temple-inscriptions]] — Иероглифы и храмовые надписи
 - [[artifacts/korona-atefa]] — Корона Атефа
 - [[artifacts/tutankhamon-cache]] — Сокровищница Тутанхамона
-- [[artifacts/cairo-museum]] — Каирский музей (Египетский музей в Каире)
+- [[places/cairo-museum]] — Каирский музей (Египетский музей в Каире)
+- [[artifacts/grobnica-tutanhamona]] — Гробница Тутанхамона
+- [[artifacts/karta-zolotyh-rudnikov]] — Египетская «Карта золотых рудников»
 
 ## Артефакты Мезоамерики
 
@@ -69,6 +95,14 @@ tags: []
 - [[artifacts/dogu]] — Догу
 - [[artifacts/templo-mayor]] — Тепло Майор
 - [[artifacts/sledy-obrabotki-v-teotiuakane]] — Следы обработки в Теотиуакане
+- [[artifacts/bazaltovaya-gremuchaya-zmeya]] — Базальтовая гремучая змея
+- [[artifacts/bazaltovyj-yaguar]] — Базальтовая скульптура ягуара
+- [[artifacts/manzheta-iz-obsidiana]] — Манжета из обсидиана
+- [[artifacts/spiralnaya-trubka-iz-nefrita]] — Спиральная трубка из нефрита
+- [[artifacts/shpulki-iz-obsidiana]] — Шпульки из обсидиана
+- [[artifacts/maski-sanshinduj]] — Маски Саньсиндуя
+- [[artifacts/zolotoj-zhel]] — Золотой жезл Саньсиндуя
+- [[artifacts/ritualnyj-baraban]] — Ритуальный барабан из бронзы
 
 ## Артефакты Восточной Азии
 
@@ -79,9 +113,13 @@ tags: []
 - [[artifacts/zmei-izobrazheniya]] — Изображения змей
 - [[artifacts/golova-yonaguni]] — «Голова» Яёнурагуни
 - [[artifacts/monument-yonaguni]] — Памятник Яёнурагуни
+- [[artifacts/shpulki-iz-hrustala]] — Шпульки из хрусталя
+- [[artifacts/kolokolnyj-komplekt]] — Колокольный комплект князя И
+- [[artifacts/bronze-czu]] — Бронзовый сосуд цзюэ
 
 ## Артефакты других культур
 
+- [[artifacts/bagdadskaya-batareika]] — Багдадская батарейка
 - [[artifacts/boltik-v-kamne]] — металлический предмет в породе
 - [[artifacts/molotok-iz-texasa]] — молоток в каменной породе
 - [[artifacts/objekt-ayud]] — артефакт в Румынии
@@ -89,11 +127,26 @@ tags: []
 - [[artifacts/ustavshie-kamni]] — Уставшие камни
 - [[artifacts/nadpisi-vaiza]] — Надписи Ваиза
 - [[artifacts/uriy]] — Урий
+- [[artifacts/plita-skota]] — Плита Скота
+- [[artifacts/varu-vaaru]] — Вару-Ваару
+- [[artifacts/zolotye-maski-miken]] — Золотые маски Микен
+- [[artifacts/statui-atlantov]] — Статуи атлантов
+- [[artifacts/grom-kamen]] — Камень Гром
+- [[artifacts/kamennaya-forma]] — Каменная форма для отливки топоров
+- [[artifacts/sosudy-zakruglennym-dnom]] — Сосуды с закруглённым дном
+- [[artifacts/solnechnyj-disk]] — Солнечный диск из Аладжа-хююка
+- [[artifacts/puteshestviya-gullivera]] — Путешествия Гулливера
+- [[artifacts/statuetka-materi]] — Статуэтка матери
+- [[artifacts/rounded-mill]] — Круглая мельница
 
 ## Коллекции
 
 - [[artifacts/kollekciya-djulsruda]] — коллекция каменных предметов
 - [[artifacts/ural-spirals]] — спиральные украшения
+- [[artifacts/drezdenskij-kodeks]] — Дрезденский кодекс
+- [[artifacts/madridskij-kodeks]] — Мадридский кодекс
+- [[artifacts/parizhskij-kodeks]] — Парижский кодекс
+- [[artifacts/kodeks-grolle]] — Кодекс Гролле
 
 ## Металлы и минералы
 
@@ -103,6 +156,15 @@ tags: []
 - [[artifacts/malahit]] — Малахит
 - [[artifacts/bronzovye-statuetki]] — Бронзовые статуэтки
 - [[artifacts/mednye-topory]] — Медные топоры
+- [[artifacts/bronze-ankara]] — Бронза Анкара
+- [[artifacts/kuprit]] — Куприт
+- [[artifacts/mednyj-topor]] — Медный топор
+- [[artifacts/bronzovaya-ptichejka]] — Бронзовая птичка
+- [[artifacts/bornit]] — Борнит
+- [[artifacts/metalloobrabotka]] — Древняя металлургия
+- [[artifacts/magnetit]] — Магнетит
+- [[artifacts/gematit]] — Гематит
+- [[artifacts/azurit]] — Азурит
 
 ## Следы обработки
 
@@ -122,5 +184,49 @@ tags: []
 - [[artifacts/nefritovaya-trubka]] — Нефритовая трубка с полостью
 - [[artifacts/nefritovaya-spiralnaya-trubka]] — Нефритовая спиральная трубка
 
+## Ядерные артефакты
 
-## Дубли
+- [[artifacts/kern-pitri-n7]] — Керн Питри N.7
+
+## Дополнительно
+
+- [[artifacts/antikitera-mekhanizm]] — Антикитерский механизм
+- [[artifacts/arkaim]] — Аркаим
+- [[artifacts/australian-boomerangs]] — Австралийские бумеранги
+- [[artifacts/avstraliyskie-ieroglify]] — Австралийские иероглифы
+- [[artifacts/cairo-museum]] — Каирский музей
+- [[artifacts/kamni]] — Камни
+- [[artifacts/bolty]] — Болты
+- [[artifacts/drevnie-instrumenty]] — Древние инструменты
+- [[artifacts/idoly]] — Идолы
+- [[artifacts/mechi]] — Мечи
+- [[artifacts/moai]] — Моаи
+- [[artifacts/monolity]] — Монолиты
+- [[artifacts/obeliski]] — Обелиски
+- [[artifacts/ritualnye-predmety]] — Ритуальные предметы
+- [[artifacts/red-pyramid]] — Красная пирамида
+- [[artifacts/rongorongo]] — Ронгоронго
+- [[artifacts/strukturnoe-oruzhie]] — Структурное оружие
+- [[artifacts/zolotye-ukrasheniya]] — Золотые украшения
+- [[artifacts/corona-atefa]] — Корона Атефа
+- [[artifacts/denderskaya-lampa]] — Дендерская лампа
+- [[artifacts/dolomit]] — Доломит
+- [[artifacts/galenit]] — Галенит
+- [[artifacts/halcopyrite]] — Халькопирит (англ.)
+- [[artifacts/homo-floresiensis]] — Homo floresiensis
+- [[artifacts/keramika-naska]] — Керамика Наска
+- [[artifacts/kern-pitri-n]] — Керн Питри N
+- [[artifacts/krovlatiy-disk]] — Крылатый диск
+- [[artifacts/levaya-ruka-tmy]] — Левая рука тьмы
+- [[artifacts/materializm-empiriokriticizm]] — Материализм и эмпириокритицизм
+- [[artifacts/memorialnye-doski]] — Мемориальные доски
+- [[artifacts/obsidian-disk]] — Обсидиановый диск
+- [[artifacts/obsidian-monkey]] — Обсидиановая обезьяна
+- [[artifacts/obsidian-shuttles]] — Обсидиановые челноки
+- [[artifacts/saqqara-collection]] — Саккарская коллекция
+- [[artifacts/tube-drill-traces]] — Следы трубчатого бурения
+- [[artifacts/zhizn-posle-smerti]] — Жизнь после смерти
+
+## Связанные страницы
+
+- [[places/indeks-mest|Индекс географических объектов]]

@@ -1,8 +1,12 @@
 ---
+
+
 slug: kont-ogyst
 title: "Огюст Конт"
 categories: [people]
 tags: []
+description: "Французский философ, основатель позитивизма. Его работы упоминаются people/andrey-sklyarov|Андреем Скляровым в философском контексте."
+
 ---
 
 # Огюст Конт

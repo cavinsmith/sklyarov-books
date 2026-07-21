@@ -5,11 +5,9 @@ categories:
   - places
   - geography
   - israel
-tags:
-  - samaria
-  - bible
-  - mount-eval
-  - samaritans
+tags: [samaria, bible, mount-eval, samaritans]
+description: "Гора Гаризим (ивр. הַר גְּרִזִים) — гора в Самарии, священная для самаритян. Напротив неё расположена Гора Гевал, где, согласно Библии, были..."
+
 ---
 
 # Гора Гаризим

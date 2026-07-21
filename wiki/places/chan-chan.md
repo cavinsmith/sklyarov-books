@@ -1,8 +1,10 @@
 ---
+
 slug: chan-chan
 title: "Чан-Чан"
 categories: [places]
 tags: []
+description: "Столица империи places/chimu на тихоокеанском побережье Перу. Население — около 36 000 жителей."
 ---
 
 # Чан-Чан
@@ -23,5 +25,5 @@ tags: []
 
 ## Связанные страницы
 - [[places/chimu]]
-- [[places/inca]]
+- [[concepts/inca]]
 - [[books/15-peru-i-boliviya|«Перу и Боливия задолго до инков»]]

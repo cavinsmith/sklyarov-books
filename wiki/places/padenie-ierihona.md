@@ -1,10 +1,21 @@
 ---
 slug: padenie-ierihona
 title: "Падение Иерихона"
-category: places
-status: stub
+categories: [places]
+tags: []
+description: "Падение Иерихона"
 ---
 
 # Падение Иерихона
 
-Заглушка статьи. Требуется наполнение содержимым.
+Смотрите [[events/padenie-ierihona]].
+
+## См. также
+
+- [[people/fromm-erih|Эрих Фромм (Erich Fromm)]]
+- [[artifacts/red-pyramid]]
+- [[places/megaliticheskie-sooruzheniya]]
+- [[places/kompyuter-drevnego-kitaya]]
+- [[places/inca]]
+- [[places/pyramids]]
+- [[people/erih-fon-daniken|Эрих фон Дэникен]]

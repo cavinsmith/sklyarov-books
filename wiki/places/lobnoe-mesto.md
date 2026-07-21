@@ -5,10 +5,9 @@ categories:
   - places
   - geography
   - israel
-tags:
-  - jerusalem
-  - crucifixion
-  - golgotha
+tags: [jerusalem, crucifixion, golgotha]
+description: "Лобное место (ивр. גֻּלְגֹּלֶת, Голгофа) — место в Иерусалиме, где, согласно христианской традиции, был распят Иисус Христос. Расположено на Храмовой..."
+
 ---
 
 # Лобное место

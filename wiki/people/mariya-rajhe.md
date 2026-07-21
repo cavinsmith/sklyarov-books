@@ -1,8 +1,10 @@
 ---
+
 slug: mariya-rajhe
 title: "Мария Райхе (Maria Reiche)"
 categories: [people]
 tags: [nazca, geoglyphs, archaeology]
+description: "Немецкая исследовательница, посвятившая более 50 лет изучению геоглифов places/plato-naska|плато Наска. Прозвана «Матерью линий»."
 ---
 
 # Мария Райхе (Maria Reiche)

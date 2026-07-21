@@ -1,8 +1,11 @@
 ---
 slug: yuliya-gorlova
 title: "Юлия Горлова"
-category: people
-status: stub
+categories: [people, scientists]
+description: "Юлия Горлова — геолог, участница экспедиций по исследованию артефактов «богов»."
+tags:
+  - человек
+  - геолог
 ---
 
 # Юлия Горлова
@@ -13,7 +16,7 @@ status: stub
 
 - Проводит анализы образцов растровым электронным микроскопом
 - Исследует микровкрапления в артефактах
-- Участвовала в экспедиции на [[masud-ivafun|Масуд-ивафун]]
+- Участвовала в экспедиции на 
 
 ## Вклад
 
@@ -21,5 +24,8 @@ status: stub
 
 ## См. также
 
-- [[22-metally]]
-- [[24-opasnoe-nasledie]]
+- [[books/22-metally|Металлы — дар небесных богов]]
+- [[books/24-opasnoe-nasledie|Опасное наследие]]
+- [[people/noe|Ной]]
+- [[artifacts/metalloobrabotka]]
+- [[concepts/metallurgiya-drevnosti]]

@@ -5,11 +5,9 @@ categories:
   - places
   - archaeology
   - egypt
-tags:
-  - tutankhamon
-  - valley-of-kings
-  - gold
-  - cache
+tags: [tutankhamon, valley-of-kings, gold, cache]
+description: "Гробница Тутанхамона (KV62) — одна из наиболее известных гробниц в places/dolina-carej|Долине Царей (Египет)."
+
 ---
 
 # Гробница Тутанхамона
@@ -27,6 +25,11 @@ tags:
 
 - [[places/dolina-carej|Долина Царей]]
 - [[people/tutankhamon|Тутанхамон]]
+- [[concepts/egyptian-pantheon|Египетский пантеон]]
+- [[places/saqqara|Саккара]]
+- [[concepts/drevnie-bogi|Древние боги]]
+- [[concepts/civilization-of-gods|Цивилизация богов]]
+- [[concepts/alternativnaya-istoriya|Альтернативная история]]
 
 ## Источники
 

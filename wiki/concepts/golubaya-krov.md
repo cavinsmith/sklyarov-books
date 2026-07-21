@@ -1,8 +1,10 @@
 ---
+
 slug: golubaya-krov
 title: "Голубая кровь"
 categories: [concepts]
 tags: []
+description: "Термин, обозначающий наличие у организмов concepts/gemotsianin|гемоцианина — медесодержащего дыхательного пигмента — вместо..."
 ---
 
 # Голубая кровь
@@ -21,7 +23,7 @@ tags: []
 В [[books/05-rodina-bogov|«Какова ты, Родина Богов?]] [[people/andrey-sklyarov|Андрей Скляров]] выдвигает гипотезу:
 
 - Боги обладали голубой кровью на основе [[concepts/gemotsianin|гемоцианина]]
-- Это указывает на то, что на [[places/rodnaya-planeta-bogov|родной планете богов]] медь была значительно более распространённым элементом
+- Это указывает на то, что на [[concepts/rodnaya-planeta-bogov|родной планете богов]] медь была значительно более распространённым элементом
 - Голубоватый оттенок кожи богов объясняется присутствием меди в крови
 - Слабая буферная ёмкость [[concepts/gemotsianin|гемоцианина]] требовала компенсации через [[concepts/soma-napitok-bogov|алкогольные напитки]] для нейтрализации CO₂
 
@@ -36,6 +38,6 @@ tags: []
 - [[concepts/gemotsianin|Гемоцианин]]
 - [[concepts/gemoglobin|Гемоглобин]]
 - [[books/05-rodina-bogov|Какова ты, Родина Богов?]]
-- [[places/rodnaya-planeta-bogov|Родная планета богов]]
+- [[concepts/rodnaya-planeta-bogov|Родная планета богов]]
 - [[concepts/med-i-zhelezo|Медь и железо]]
 - [[concepts/soma-napitok-bogov|Сома — напиток богов]]

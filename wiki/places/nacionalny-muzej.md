@@ -1,8 +1,10 @@
 ---
+
 slug: nacionalny-muzej
 title: "Национальный музей"
 categories: [places]
 tags: []
+description: "Крупнейший музей, хранящий археологические и культурные артефакты. В работах А. Склярова Национальный музей упоминается как место хранения важнейших..."
 ---
 
 # Национальный музей
@@ -18,11 +20,18 @@ tags: []
 
 ## Упоминание в работах
 
-- [[books/29-sprint-po-kairu]] — Национальный музей в Каире как место хранения египетских артефактов
-- [[books/12-tsivilizaciya-bogov-egipta]] — музейные коллекции как источник данных
+- [[books/29-sprint-po-kairu|Спринт по Каиру]] — Национальный музей в Каире как место хранения египетских артефактов
+- [[books/12-tsivilizaciya-bogov-egipta|Цивилизация богов Египта]] — музейные коллекции как источник данных
 
 ## Связанные концепции
 
-- [[places/egipet-drevniy]] — Древний Египет
-- [[places/babilon]] — Вавилон
-- [[concepts/civilization-of-gods]] — цивилизация богов
+- [[places/egipet-drevniy|Древний Египет]]
+- [[places/babilon|Вавилон]]
+- [[concepts/civilization-of-gods|Цивилизация богов]]
+- [[concepts/museums|Музеи]]
+
+## См. также
+
+- [[artifacts/great-pyramid|Великая пирамида]]
+- [[artifacts/ben-ben|Камень Бен-Бен]]
+- [[people/zahi-hawass|Захи Хавасс]]

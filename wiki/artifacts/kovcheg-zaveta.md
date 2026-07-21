@@ -5,11 +5,9 @@ categories:
   - artifacts
   - religion
   - technology
-tags:
-  - ark
-  - bible
-  - gold
-  - energy
+tags: [ark, bible, gold, energy]
+description: "Центральный артефакт Ветхого Завета — деревянный ящик, покрытый золотом, с херувимами на крышке. Обладал рядом свойств, необъяснимых для простого..."
+
 ---
 
 # Ковчег Завета
@@ -41,6 +39,13 @@ tags:
 
 ---
 
+
+## Места поиска
+
+- Храмовая гора в [[places/ierusalim|Иерусалиме]]
+- Эфиопия (церковь Дэбрэ-Дамо)
+- Разные храмы и подземелья
+
 ## См. также
 
 - [[books/25-kovcheg-zaveta]] — «Ковчег Завета — Атомная бомба для варваров»
@@ -50,3 +55,8 @@ tags:
 - [[artifacts/posokh-aarona|Посох Аарона]]
 - [[artifacts/tefillin|Тфиллин]]
 - [[artifacts/ben-ben|Камень Бен-Бен]]
+- [[guides/paleokontakt|Палеоконтакт]]
+
+## Связанные страницы
+
+- [[books/25-kovcheg-zaveta]]Ковчег Завета]

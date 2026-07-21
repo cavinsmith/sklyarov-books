@@ -1,8 +1,10 @@
 ---
+
 slug: manefon
 title: Манефон
 categories: [people]
 tags: [egypt, priest, history, chronology]
+description: "Древнеегипетский жрец из Гелиополя, составивший хронологию правителей Египта."
 ---
 
 # Манефон (Manetho)

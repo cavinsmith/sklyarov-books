@@ -1,8 +1,10 @@
 ---
+
 slug: feneleos
 title: "Фенелеос"
 categories: [people]
 tags: []
+description: "Описание: Х.-Л. Фенельос — исследователь древней металлургии Ближнего Востока, автор работ о развитии металлургических технологий."
 ---
 
 # Фенелеос
@@ -41,4 +43,13 @@ tags: []
 
 - [[books/22-metally|Металлы]]
 - [[concepts/metalloobrabotka|Древняя металлургия]]
-- [[places/blizhniy-vostok|Ближний Восток]]
+- [[guides/blizhniy-vostok|Ближний Восток]]
+
+
+## См. также
+
+- [[concepts/mednye-splavy-i-tekhnologii]]
+- [[books/22-metally]]
+- [[people/nina-ryndina]]
+- [[people/rottemberg]]
+- [[concepts/sledy-mashinnoy-obrabotki-kamnya]]

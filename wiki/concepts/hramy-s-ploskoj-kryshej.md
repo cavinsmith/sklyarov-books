@@ -1,8 +1,10 @@
 ---
+
 slug: hramy-s-ploskoj-kryshej
 title: Храмы с плоской крышей
 categories: [concepts]
 tags: [architecture, ancient, temple, flat-roof]
+description: "Архитектурный стиль древних храмов с плоскими крышами. Распространён в Древнем Египте и других цивилизациях."
 ---
 
 # Храмы с плоской крышей
@@ -22,6 +24,12 @@ tags: [architecture, ancient, temple, flat-roof]
 
 ## См. также
 
+- [[concepts/index-concepts|Индекс концепций]]
+
 - [[places/karnak]] - Карнакский храмовый комплекс
 - [[places/luxor]] - Луксорский храм
 - [[books/12-tsivilizaciya-bogov-egipta]]
+- [[artifacts/valley-temple]]
+- [[people/theophilus]]
+- [[concepts/menehon]]
+- [[artifacts/bronzovye-statuetki]]

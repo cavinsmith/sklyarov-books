@@ -1,8 +1,10 @@
 ---
+
 slug: atlantida
 title: "Атлантида"
 categories: [concepts]
-tags: []
+tags: [atlantida, mythology, paleokontakt]
+description: "Атлантида — легендарный затонувший остров или материк."
 ---
 
 # Атлантида

@@ -1,8 +1,12 @@
 ---
+
+
 slug: konflikt-yakhve-i-baala
 title: "Конфликт Яхве и Баала"
 categories: [concepts]
 tags: []
+description: "Центральная тема книги books/30-yahve-protiv-baala|Яхве против Баала — хроника переворота. В работах people/andrey-sklyarov|Андрея Склярова..."
+
 ---
 
 # Конфликт Яхве и Баала

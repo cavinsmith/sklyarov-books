@@ -1,8 +1,10 @@
 ---
+
 slug: toribio
 title: "Торибио Ксесспе"
 categories: [people]
 tags: []
+description: "Перуанский хронист и священник XVII века. Оставил описание артефактов и руин доколумбовой эпохи, включая упоминания о «рассеянных камнях с..."
 ---
 
 # Торибио Ксесспе
@@ -22,3 +24,10 @@ tags: []
 
 - [[artifacts/kamni-iki]] — камни Ики
 - [[books/15-peru-i-boliviya]] — «Перу и Боливия задолго до инков»
+
+- [[places/kamni-iki|kamni-iki]]
+- [[people/furduj]]
+- [[places/ika-chinka]]
+- [[people/kabrera]]
+- [[people/lipe-yulius]]
+- [[people/havyer-kabrera]]

@@ -1,8 +1,10 @@
 ---
+
 slug: platforma-andros
 title: Платформа Андрос
 categories: [places]
 tags: [bahamas, underwater, ancient-structures]
+description: "Место находки: Остров Андрос, Багамы"
 ---
 
 # Платформа Андрос
@@ -29,3 +31,6 @@ tags: [bahamas, underwater, ancient-structures]
 - [[places/bimini-road]] — Бимини-роуд
 - [[places/bahamas]] — Багамы
 - [[books/14-obitaemyy-ostrov]]
+- [[concepts/atlantida|Атлантида]]
+- [[concepts/underwater-ruins|Подводная археология]]
+- [[concepts/ancient-technologies|Древние технологии]]

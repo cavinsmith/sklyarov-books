@@ -1,8 +1,10 @@
 ---
+
 slug: huxley
 title: "Джулиан Хаксли (Julian Huxley)"
 categories: [people]
 tags: [biology, evolution]
+description: "Английский биолог (1887–1975), один из основателей нео-дарвинизма и первый генеральный директор ЮНЕСКО."
 ---
 
 # Джулиан Сорелл Хаксли (Julian Huxley)

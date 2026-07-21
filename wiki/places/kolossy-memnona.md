@@ -1,8 +1,10 @@
 ---
+
 slug: kolossy-memnona
 title: "Колонны Мемнона"
 categories: [places]
 tags: [egypt, statues, quartzite, temple]
+description: "Другое название: Колоссы Мемнона"
 ---
 
 # Колонны Мемнона

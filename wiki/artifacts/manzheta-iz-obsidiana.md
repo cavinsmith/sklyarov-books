@@ -1,8 +1,9 @@
 ---
 slug: manzheta-iz-obsidiana
-title: Манжета из обсидиана
-categories: [artifacts]
+title: "Манжета из обсидиана"
+categories: [artifacts, obsidian, mexico]
 tags: [mexico, obsidian, ancient-technology, machining]
+description: "Артефакт из обсидиана, обнаруженный в Туле, Мексика. Имеет форму манжеты с точно обработанной поверхностью."
 ---
 
 # Манжета из обсидиана
@@ -36,11 +37,18 @@ tags: [mexico, obsidian, ancient-technology, machining]
 
 ---
 
+## Книги
+
+- [[books/13-meksika-bez-krivyh-zerkal|Древняя Мексика без кривых зеркал]]
+- [[books/18-drevnie-bogi|Древние боги — кто они?]]
+
+---
+
 ## См. также
 
 - [[artifacts/obsidianovyj-disk|Обсидиановый диск]]
 - [[artifacts/obsidianovaya-obezyana|Обсидиановая обезьяна]]
 - [[artifacts/shpulki-iz-obsidiana|Шпульки из обсидиана]]
 - [[concepts/utrachennye-tekhnologii|Утраченные технологии]]
-- [[books/13-meksika-bez-krivyh-zerkal|Древняя Мексика без кривых зеркал]]
-- [[books/18-drevnie-bogi|Древние боги — кто они?]]
+- [[places/tula|Тула]]
+- [[places/mexico-city|Мехико]]

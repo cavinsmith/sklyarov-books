@@ -1,8 +1,12 @@
 ---
+
+
 slug: shalim
 title: "Шалим"
 categories: [concepts]
 tags: [боги, религия, ханаан, семиты]
+description: "Западно-семитский бог вечерней зари и плодородия, предполагаемая личность concepts/yahweh-vs-baal|Яхве. В работах people/andrey-sklyarov|Андрея..."
+
 ---
 
 # Шалим
@@ -45,6 +49,8 @@ tags: [боги, религия, ханаан, семиты]
 - Политические последствия: установление монотеизма
 
 ## См. также
+
+- [[concepts/index-concepts|Индекс концепций]]
 
 - [[concepts/yahweh-vs-baal]] — Яхве против Баала
 - [[concepts/konflikt-yahve-i-baala]] — конфликт Яхве и Баала

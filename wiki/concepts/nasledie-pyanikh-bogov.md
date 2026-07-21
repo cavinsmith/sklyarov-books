@@ -1,8 +1,12 @@
 ---
+
+
 slug: nasledie-pyanikh-bogov
 title: "Наследие пьяных богов"
 categories: [concepts]
 tags: []
+description: "Подзаголовок и центральная тема книги books/04-bitva-za-urozhay|«Наследие пьяных богов (Битва за урожай)» people/andrey-sklyarov|Андрея Склярова."
+
 ---
 
 # Наследие пьяных богов

@@ -1,13 +1,15 @@
 ---
+
 slug: meneliq-i
 title: "Менелик I"
 categories: [people]
 tags: [Эфиопия, царь, Соломон, Ковчег]
+description: "Описание: Легендарный первый император Эфиопии, сын царя people/solomon|Соломона и царицы Савской. По преданию, увёз concepts/kovcheg-zaveta|Ковчег..."
 ---
 
 # Менелик I
 
-**Описание:** Легендарный первый император Эфиопии, сын царя [[people/solomon|Соломона]] и царицы Савской. По преданию, увёз [[concepts/kovcheg-zaveta|Ковчег Завета]] из [[places/jerusalem|Иерусалима]] в Эфиопию.
+**Описание:** Легендарный первый император Эфиопии, сын царя [[people/solomon|Соломона]] и царицы Савской. По преданию, увёз [[artifacts/kovcheg-zaveta|Ковчег Завета]] из [[places/jerusalem|Иерусалима]] в Эфиопию.
 
 ## Легенда
 
@@ -18,7 +20,7 @@ tags: [Эфиопия, царь, Соломон, Ковчег]
 
 ## Связь со Скляровым
 
-- [[concepts/kovcheg-zaveta|Ковчег Завета]] — объект [[concepts/bogi-vysokorazvitaya-civilizaciya|богов]]
+- [[artifacts/kovcheg-zaveta|Ковчег Завета]] — объект [[concepts/bogi-vysokorazvitaya-civilizaciya|богов]]
 - Перенос Ковчега — перенос «божественной» технологии
 - Эфиопия хранит один из важнейших артефактов
 
@@ -30,5 +32,5 @@ tags: [Эфиопия, царь, Соломон, Ковчег]
 
 - [[people/solomon|Соломон]]
 - [[people/tsaritsa-savskaya|Царица Савская]]
-- [[concepts/kovcheg-zaveta|Ковчег Завета]]
+- [[artifacts/kovcheg-zaveta|Ковчег Завета]]
 - [[places/axum|Аксум]]

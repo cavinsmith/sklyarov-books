@@ -1,8 +1,10 @@
 ---
+
 slug: asuka-period
 title: "Период Асука"
 categories: [concepts]
 tags: []
+description: "Другие названия: Асука-дзидай, Эпоха Асука"
 ---
 
 # Период Асука

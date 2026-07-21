@@ -1,8 +1,10 @@
 ---
+
 slug: muh
 title: "Мух"
 categories: [people]
 tags: []
+description: "Египтолог, исследовавший places/osirion|Осирон при храме Сети I в places/abidos|Абидосе, описавший аномальные особенности конструкции."
 ---
 
 # Мух

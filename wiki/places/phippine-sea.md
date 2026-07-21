@@ -1,8 +1,10 @@
 ---
+
 slug: phippine-sea
 title: "Филиппинское море"
 categories: [places]
 tags: [pacific, meteorite, flood, tectonics]
+description: "Местоположение: Западная часть Тихого океана"
 ---
 
 # Филиппинское море
@@ -32,13 +34,13 @@ tags: [pacific, meteorite, flood, tectonics]
 ## Упоминание в работах
 
 - [[books/01-mif-o-potope]] — предполагаемое место падения метеорита
-- [[books/24-opasnoe-nasledие]] — анализ аномалий
+- [[books/24-opasnoe-nasledie]] — анализ аномалий
 
 ## Связанные сущности
 
 - [[events/vsemirnyi-potop]] — глобальная катастрофа
 - [[concepts/proskalzyvanie-kory]] — проскальзывание коры
-- [[concepts/poyas-asteroidов]] — источник возможных космических тел
+- [[concepts/poyas-asteroid]] — источник возможных космических тел
 - [[places/filippinskaya-plita]] — Филиппинская плита
 
 ## См. также

@@ -1,8 +1,10 @@
 ---
+
 slug: kolchin-boris
 title: "Борис Колчин"
 categories: [people]
 tags: [dendrochronology, archaeology]
+description: "Описание: Советский и российский археолог, соавтор «Дендрохронологии Восточной Европы» (вместе с Н.А. Черных). Специалист по древним металлургическим..."
 ---
 
 # Борис Колчин
@@ -22,5 +24,5 @@ tags: [dendrochronology, archaeology]
 ## Связанные сущности
 
 - [[people/chernyh-nikolay|Николай Черных]] — соавтор
-- [[concepts/dendrokhronologiya|Дендрохронология]] — метод датирования
+- [[methods/dendrokhronologiya|Дендрохронология]] — метод датирования
 - [[books/07-radio-uglerodnoe-datirovanie|Вавилонская башня — рекордсмен долгостроя]]

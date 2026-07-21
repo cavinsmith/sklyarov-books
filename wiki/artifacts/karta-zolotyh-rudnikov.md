@@ -6,11 +6,9 @@ categories:
   - archaeology
   - egypt
   - mining
-tags:
-  - gold
-  - map
-  - mines
-  - ancient-cartography
+tags: [gold, map, mines, ancient-cartography]
+description: "Египетская «Карта золотых рудников» — самая древняя карта рудных месторождений, возраст которой составляет около 3300 лет."
+
 ---
 
 # Египетская «Карта золотых рудников»

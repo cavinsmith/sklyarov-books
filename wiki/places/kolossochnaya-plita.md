@@ -5,10 +5,9 @@ categories:
   - places
   - geography
   - pacific
-tags:
-  - tectonics
-  - pacific-plate
-  - geology
+tags: [tectonics, pacific-plate, geology]
+description: "Колоссальная плита — крупнейшая океаническая плита Земли, расположенная под Тихим океаном. Её движение и взаимодействие с другими плитами определяет..."
+
 ---
 
 # Колоссальная плита

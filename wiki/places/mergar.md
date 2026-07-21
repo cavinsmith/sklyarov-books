@@ -5,10 +5,9 @@ categories:
   - places
   - archaeology
   - pakistan
-tags:
-  - neolithic
-  - indus-valley
-  - crafts
+tags: [neolithic, indus-valley, crafts]
+description: "Мергар (англ. Mehrgarh) — древнее поселение в Пакистане, одно из старейших известных центров ремесленного производства в Южной Азии. Расположено в..."
+
 ---
 
 # Мергар

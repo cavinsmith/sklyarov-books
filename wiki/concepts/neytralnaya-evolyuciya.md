@@ -1,8 +1,10 @@
 ---
+
 slug: neytralnaya-evolyuciya
 title: "Нейтральная эволюция"
 categories: [concepts]
 tags: [генетика, эволюция, молекулярная биология]
+description: "Теория Мотоо Кимуры (1968 г.), согласно которой подавляющее число мутаций на молекулярном уровне нейтрально по отношению к естественному отбору."
 ---
 
 # Нейтральная эволюция
@@ -28,3 +30,8 @@ tags: [генетика, эволюция, молекулярная биолог
 - [[people/masaaki-kimura|Мотоо Кимура]]
 - [[concepts/synteticheskaya-teoriya-evolyucii|Синтететическая теория эволюции]]
 - [[people/andrey-sklyarov]]
+- [[people/dickerson]]
+- [[people/margoliash]]
+- [[people/lambert]]
+- [[people/kimura]]
+- [[concepts/human-evolution]]

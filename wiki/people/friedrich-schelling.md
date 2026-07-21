@@ -1,8 +1,10 @@
 ---
+
 slug: friedrich-schelling
 title: "Фридрих Шеллинг (Friedrich Schelling)"
 categories: [people]
 tags: [philosophy, idealism]
+description: "Описание: Немецкий философ (1775–1854), один из крупнейших представителей немецкого идеализма. Разрабатывал концепцию «абсолютного тождества» и..."
 ---
 
 # Фридрих Шеллинг (Friedrich Schelling)

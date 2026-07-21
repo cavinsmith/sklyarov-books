@@ -1,8 +1,10 @@
 ---
+
 slug: vernodsky
 title: "Владимир Вернадский (1863–1945)"
 categories: [people]
 tags: [noosphere, biogeochemistry]
+description: "Русский учёный, создатель учения о concepts/noosfera|ноосфере. Основоположник биогеохимии."
 ---
 
 # Владимир Вернадский (1863–1945)

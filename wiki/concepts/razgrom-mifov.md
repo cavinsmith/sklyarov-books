@@ -1,8 +1,12 @@
 ---
+
+
 slug: razgrom-mifov
 title: "Разгром мифов"
 categories: [concepts]
 tags: []
+description: "«Разгром мифов» — направление исследований, представленное в работах people/andrey-sklyarov|Андрея Склярова, основанное на критическом анализе..."
+
 ---
 
 # Разгром мифов
@@ -17,7 +21,7 @@ tags: []
 - «Боги» из мифов — реальные существа — [[concepts/drevnie-bogi]]
 - Летательные аппараты богов — технологическое описание
 - Мифы о Потопе — отражение реальной катастрофы — [[concepts/potop]]
-- [[concepts/paleokontakt]] — палеоконтакт как основа мифов о «богах»
+- [[guides/paleokontakt]] — палеоконтакт как основа мифов о «богах»
 - [[concepts/dracoonografiya]] — драконы как реальные существа
 - Универсальность мифов у несвязанных культур — следствие общего опыта
 
@@ -37,7 +41,13 @@ tags: []
 ## См. также
 
 - [[concepts/drevnie-bogi]] — боги как реальные существа
-- [[concepts/paleokontakt]] — гипотеза палеоконтакта
+- [[guides/paleokontakt]] — гипотеза палеоконтакта
 - [[concepts/utrachennye-tekhnologii]] — утраченные технологии
 - [[books/18-drevnie-bogi|Древние боги]]
 - [[people/andrey-sklyarov|Андрей Скляров]]
+
+- [[events/velikii-potop|Великий Потоп]]
+- [[events/global-flood|Всемирный потоп]]
+- [[concepts/civilization-of-gods|Цивилизация богов]]
+- [[concepts/alternativnaya-istoriya|Альтернативная история]]
+- [[events/troyanskaya-voyna|Троянская война]]

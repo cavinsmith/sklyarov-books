@@ -1,8 +1,10 @@
 ---
+
 slug: unas
 title: "Унас"
 categories: [people]
-tags: [egypt, pyramid]
+tags: [egypt, pyramid, pharaoh]
+description: "Унас — последний фараон V династии Древнего Египта."
 ---
 
 # Унас

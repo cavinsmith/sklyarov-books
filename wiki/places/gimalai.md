@@ -2,7 +2,8 @@
 slug: gimalai
 title: "Гималаи"
 categories: [places]
-tags: []
+tags: [mountains, asia, spirituality]
+description: "Крупнейшая горная система мира, расположенная в Центральной и Южной Азии. В контексте книги «Наследие пьяных богов» Гималаи упоминаются как один из возможных регионов."
 ---
 
 # Гималаи
@@ -32,3 +33,9 @@ tags: []
 - [[people/nikolay-vavilov|Н. И. Вавилов]]
 - [[places/mezopotamiya|Месопотамия]]
 - [[places/egipet-drevniy|Древний Египет]]
+
+- [[concepts/egyptian-pantheon|Египетский пантеон]]
+- [[places/saqqara|Саккара]]
+- [[books/12-tsivilizaciya-bogov-egipta|Цивилизация богов древнего Египта]]
+- [[concepts/drevnie-bogi|Древние боги]]
+- [[concepts/civilization-of-gods|Цивилизация богов]]

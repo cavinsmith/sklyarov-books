@@ -1,8 +1,10 @@
 ---
+
 slug: statuetka-materi
 title: "Статуэтка матери"
-categories: artifacts
-tags: []
+categories: [artifacts]
+tags: [artifact, fertility, paleolit]
+description: "Статуэтка матери — древняя статуэтка, связанная с культом плодородия."
 ---
 
 # Статуэтка матери
@@ -30,6 +32,6 @@ tags: []
 ## См. также
 
 - [[concepts/drevnie-bogi|Древние боги]]
-- [[concepts/paleokontakt|Палеоконтакт]]
+- [[guides/paleokontakt|Палеоконтакт]]
 - [[books/22-metally|Металлы — дар небесных богов]]
 - [[books/18-drevnie-bogi|Древние боги — кто они?]]

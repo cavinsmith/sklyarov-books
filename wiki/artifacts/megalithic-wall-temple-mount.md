@@ -1,8 +1,10 @@
 ---
+
 slug: megalithic-wall-temple-mount
 title: "Мегалитическая стена Храмовой горы"
 categories: artifacts
 tags: []
+description: "Местоположение: places/temple-mount|Храмовая гора, Иерусалим"
 ---
 
 # Мегалитическая стена Храмовой горы
@@ -78,7 +80,7 @@ tags: []
 | Объект | Максимальный вес блока |
 |--------|----------------------|
 | [[concepts/megalithic-wall-temple-mount]] | ~628 тонн |
-| [[places/baalbek-trilithon]] | ~1000 тонн |
+| [[artifacts/baalbek-trilithon]] | ~1000 тонн |
 | [[places/nimrod-fortress]] | ~30—50 тонн |
 | Пирамида Хеопса (каждый блок) | ~2,5 тонны |
 
@@ -89,7 +91,16 @@ tags: []
 - [[people/solomon]] — царь Соломон
 - [[concepts/megalithic-architecture]] — общая традиция мегалитического строительства
 - [[concepts/baal-worship|Поклонение Баалу]]
-- [[places/baalbek-trilithon|Трилитоны Баальбека]]
+- [[concepts/temple-destruction-70]] — разрушение Храма в 70 г.
+- [[concepts/civilization-of-gods]] — высокие технологии в строительстве
+- [[concepts/machine-processing]] — следы машинной обработки камня
+- [[artifacts/baalbek-trilithon|Трилитоны Баальбека]]
+- [[artifacts/boltik-v-kamne]] — металлические элементы в камне
 - [[artifacts/screw-traces|«Шурупные» следы обработки]]
 - [[books/19-zemlya-vaala]] — книга, детально исследующая стену
 - [[books/25-kovcheg-zaveta|Ковчег Завета]]
+- [[books/17-piramidy|Пирамиды]]
+
+## Связанные страницы
+
+- [[places/gory-titikaka|Горы Титикака]]

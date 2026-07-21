@@ -1,8 +1,10 @@
 ---
+
 slug: menkaure
 title: "Менкаур (Микерин)"
 categories: [people]
 tags: [egypt, giza, pyramid]
+description: "Пятый фараон IV династии Древнего Египта. Построил третью (наименьшую) пирамиду на плато places/giza-plateau|Гизы."
 ---
 
 # Менкаур (Микерин)
@@ -32,3 +34,9 @@ tags: [egypt, giza, pyramid]
 - [[people/khafra|Хафра]] — отец Менкаура
 - [[places/giza-plateau|Плато Гизы]]
 - [[books/12-tsivilizaciya-bogov-egipta|Цивилизация богов древнего Египта]]
+
+- [[artifacts/great-pyramid|Великая пирамида Гизы]]
+- [[concepts/megalithic-architecture|Мегалитическая архитектура]]
+- [[places/giza|Гиза]]
+- [[concepts/egyptian-pantheon|Египетский пантеон]]
+- [[places/saqqara|Саккара]]

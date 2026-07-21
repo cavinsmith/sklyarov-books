@@ -1,8 +1,10 @@
 ---
+
 slug: sezhat
 title: "Седжат (Сешат)"
 categories: [people]
 tags: [egypt, goddess, writing, wisdom]
+description: "Египетская богиня письма, знаний, мудрости и измерений."
 ---
 
 # Седжат (Сешат)

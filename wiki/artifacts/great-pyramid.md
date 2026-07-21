@@ -1,8 +1,10 @@
 ---
+
 slug: great-pyramid
 title: "Великая пирамида Гизы"
 categories: artifacts
 tags: []
+description: "Полное название: Пирамида Хуфу (Хеопса), также Большая пирамида (аrab. الهرم الأكبر)"
 ---
 
 # Великая пирамида Гизы
@@ -72,3 +74,8 @@ tags: []
 - [[concepts/machine-processing]] — Следы машинной обработки камня
 - [[people/zahi-hawass]] — Захи Хавасс, représentantофициальной египтологии
 - [[people/dmitriy-pavlov]] — Дмитрий Павлов, проводивший эксперименты с моделями пирамид
+
+## Связанные страницы
+
+- [[places/giza-piramidy|Пирамиды Гизы]]
+- [[places/red-pyramid|Красная пирамида]]

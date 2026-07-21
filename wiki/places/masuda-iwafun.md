@@ -1,15 +1,10 @@
 ---
 slug: masuda-iwafun
 title: "Масуда-Ивафун"
-categories:
-  - places
-  - archaeology
-  - japan
-tags:
-  - megalith
-  - asuka
-  - granite
-  - ancient-japan
+categories: [places]
+tags: [megalith, asuka, granite, ancient-japan]
+description: "Масуда-Ивафун — гигантский мегалит в парке Асука, Япония."
+
 ---
 
 # Масуда-Ивафун

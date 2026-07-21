@@ -5,11 +5,9 @@ categories:
   - places
   - geography
   - australia
-tags:
-  - geology
-  - zircon
-  - dating
-  - ancient-earth
+tags: [geology, zircon, dating, ancient-earth]
+description: "Джек-Хиллз (англ. Jack Hills) — пустынное местечко в Западной Австралии, где были извлечены цирконы, датированные в 4,4 млрд лет. Это одни из..."
+
 ---
 
 # Джек-Хиллз

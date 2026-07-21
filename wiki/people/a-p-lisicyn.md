@@ -1,8 +1,10 @@
 ---
+
 slug: a-p-lisicyn
 title: "А.П. Лисицын"
 categories: [people]
 tags: []
+description: "Описание: Советский и российский океанолог, исследователь осадконакопления в Мировом океане. Разработал концепцию «лавинной седиментации» -- быстрого..."
 ---
 
 # А.П. Лисицын
@@ -26,3 +28,9 @@ tags: []
 - [[concepts/lavinaya-sedimentaciya|Лавинная седиментация]] -- концепция, разработанная Лисицыным
 - [[concepts/polistratnye-otlozheniya|Полистратные отложения]] -- объясняются лавинной седиментацией
 - [[concepts/katastrofizm|Катастрофизм]] -- его работа подтверждает катастрофическую модель
+
+## См. также
+- [[events/troyanskaya-voyna|Троянская война]]
+- [[people/andrey-sklyarov|Андрей Скляров]]
+- [[people/christopher-dunn|Кристофер Данн (Christopher Dunn)]]
+- [[concepts/geokhronologiya|Геохронология]]

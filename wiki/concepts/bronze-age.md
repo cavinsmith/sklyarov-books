@@ -1,8 +1,10 @@
 ---
+
 slug: bronze-age
 title: "Бронзовый век"
 categories: [concepts]
 tags: [bronze, metallurgy, history, civilization]
+description: "Бронзовый век — период в развитии человеческой цивилизации, характеризующийся массовым использованием бронзы. В вики Склярова основная статья:..."
 ---
 
 # Бронзовый век

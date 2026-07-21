@@ -1,8 +1,10 @@
 ---
+
 slug: aton
 title: "Атон"
 categories: [concepts]
 tags: []
+description: "Атон (Атон) — бог Солнца в Древнем Египте, культ которого был введён фараоном people/akhenaton|Эхнатоном (Аменхотепом IV) в XIV веке до н.э. Атон..."
 ---
 
 # Атон

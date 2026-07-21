@@ -1,8 +1,10 @@
 ---
+
 slug: bernar-klervosskiy
 title: "Бернар Клервосский"
 categories: [people]
 tags: []
+description: "Страница-ссылка на people/bernard-clairvaux|Бернара Клервосского — составителя устава Ордена тамплиеров."
 ---
 
 # Бернар Клервосский
