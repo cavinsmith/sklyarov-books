@@ -1,12 +1,8 @@
 ---
 slug: raicho-marinov
 title: "Райчо Маринов"
-categories:
-  - people
-  - archaeologists
-tags:
-  - varna
-  - discovery
+categories: [people]
+tags: [varna]
 ---
 
 # Райчо Маринов

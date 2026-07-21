@@ -21,7 +21,9 @@ tags: []
 - Вывод: индейцы должны были иметь совершенные оптические приборы и развитое астрономическое знание — или получили это знание извне.
 
 ## Связанные страницы
-- [[places/lima]]
-- [[artifacts/kamni-iki]]
-- [[concepts/paleokontakt]]
+- [[places/lima|Лима]]
+- [[artifacts/kamni-iki|Камни Ики]]
+- [[artifacts/deformaciya-cherepov|Деформация черепов]]
+- [[concepts/paleokontakt|Палеоконтакт]]
+- [[concepts/drevnie-bogi|Древние боги]]
 - [[books/15-peru-i-boliviya|«Перу и Боливия задолго до инков»]]

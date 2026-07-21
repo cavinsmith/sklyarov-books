@@ -1,8 +1,7 @@
 ---
 slug: kihachiro-aratake
 title: "Кихатиро Аракатэ"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

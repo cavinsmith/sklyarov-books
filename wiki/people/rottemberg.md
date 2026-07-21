@@ -1,11 +1,8 @@
 ---
 slug: rottemberg
 title: "Роттенберг"
-categories:
-  - people
-  - researchers
-tags:
-  - archaeology
+categories: [people, researchers]
+tags: []
 ---
 
 # Роттенберг

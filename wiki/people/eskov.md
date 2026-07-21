@@ -1,8 +1,7 @@
 ---
 slug: eskov
 title: "Эсков"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

@@ -1,8 +1,7 @@
 ---
 slug: vurmbrend
 title: "Вурмбренд"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

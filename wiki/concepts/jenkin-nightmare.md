@@ -22,7 +22,7 @@ tags:
 
 ## Значение
 
-Этот аргумент长期以来 considered one of the most serious objections to Darwinism until the development of population genetics in the early 20th century.
+Этот аргументдолгое время considered one of the most serious objections to Darwinism until the development of population genetics in the early 20th century.
 
 ## См. также
 

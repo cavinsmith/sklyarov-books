@@ -1,8 +1,7 @@
 ---
 slug: don-patton
 title: "Дон Паттон"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

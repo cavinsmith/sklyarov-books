@@ -1,8 +1,7 @@
 ---
 slug: lomonosov
 title: "М.В. Ломоносов"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

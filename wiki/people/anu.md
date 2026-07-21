@@ -1,8 +1,7 @@
 ---
 slug: anu
 title: "Ану"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

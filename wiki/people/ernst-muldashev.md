@@ -1,8 +1,7 @@
 ---
 slug: ernst-muldashev
 title: "Эрнст Мульдашев"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

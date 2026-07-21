@@ -1,13 +1,8 @@
 ---
 slug: wolff-galicki
 title: "Вольф-Галики"
-categories:
-  - people
-  - researchers
-tags:
-  - nazca
-  - extraterrestrial
-  - geoglyphs
+categories: [people]
+tags: [nazca, extraterrestrial]
 ---
 
 # Вольф-Галики

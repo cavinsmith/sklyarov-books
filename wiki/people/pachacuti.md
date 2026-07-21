@@ -1,8 +1,7 @@
 ---
 slug: pachacuti
 title: "Пачакути"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

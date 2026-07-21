@@ -1,8 +1,7 @@
 ---
 slug: villi-munyes
 title: "Вилли Муньес"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

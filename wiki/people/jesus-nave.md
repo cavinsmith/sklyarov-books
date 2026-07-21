@@ -1,9 +1,8 @@
 ---
 slug: jesus-nave
 title: "Иисус Навин"
-categories:
-  - people
-tags: []
+categories: [people]
+tags: [bible, jericho]
 ---
 
 # Иисус Навин
@@ -12,6 +11,10 @@ tags: []
 
 ---
 
+## Упоминание в работах
+
+- [[books/30-yahve-protiv-baala|Яхве против Баала — хроника переворота]] — Иисус Навин упоминается как преемник Моисея
+
 ## Ключевые факты
 
 - Преемник [[people/moisey|Моисея]]
@@ -19,12 +22,7 @@ tags: []
 - Приписывается разрушение стен Иерихона
 - Автор Книги Иисуса Навина
 
-## Источники
-
-- [[books/30-yahve-protiv-baala|Яхве против Баала — хроника переворота]]
-
 ## См. также
 
-- [[concepts/fall-of-jericho]] — падение Иерихона
-- [[places/canaan]] — Ханаан
-- [[places/ierusalim]] — Иерусалим
+- [[books/30-yahve-protiv-baala|Яхве против Баала]]
+- [[people/moisey|Моисей]]

@@ -1,8 +1,7 @@
 ---
 slug: hatshepsut
 title: "Хатшепсут"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

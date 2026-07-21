@@ -1,8 +1,7 @@
 ---
 slug: lamark
 title: "Жан Батист де Ламарк (Jean-Baptiste Lamarck)"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

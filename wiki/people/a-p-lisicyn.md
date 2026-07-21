@@ -1,8 +1,7 @@
 ---
 slug: a-p-lisicyn
 title: "А.П. Лисицын"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

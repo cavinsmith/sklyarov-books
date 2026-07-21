@@ -1,8 +1,7 @@
 ---
 slug: riche-andre
 title: "Ришер Андре"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

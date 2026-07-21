@@ -1,8 +1,7 @@
 ---
 slug: cortes
 title: "Эрнан Кортес"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

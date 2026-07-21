@@ -32,6 +32,5 @@ tags:
 
 ## См. также
 
-- [[places/tartheriya|Тэртерия]]
 - [[concepts/edinaya-pismennost|Единая письменность]]
 - [[books/24-opasnoe-nasledie|Опасное наследие богов]]

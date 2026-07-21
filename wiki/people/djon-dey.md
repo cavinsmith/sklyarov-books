@@ -1,8 +1,7 @@
 ---
 slug: djon-dey
 title: "Джон Дей"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

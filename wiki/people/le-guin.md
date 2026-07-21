@@ -1,13 +1,8 @@
 ---
 slug: le-guin
 title: "Урсула Ле Гуин"
-categories:
-  - people
-  - writers
-tags:
-  - literature
-  - science-fiction
-  - usa
+categories: [people]
+tags: [literature]
 ---
 
 # Урсула Ле Гуин

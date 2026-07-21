@@ -1,8 +1,7 @@
 ---
 slug: ivanova-s
 title: "Иванова С."
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

@@ -1,8 +1,7 @@
 ---
 slug: alexander-gumbold
 title: "Александр фон Гумбольдт"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

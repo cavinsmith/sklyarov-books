@@ -58,5 +58,5 @@ tags: [экспедиция, Эфиопия, Ковчег Завета, Аксу
 
 - [[concepts/kovcheg-zaveta|Ковчег Завета]]
 - [[places/aksum|Аксум]]
-- [[people/menelik|Менелик I]]
+- [[people/meneliq-i|Менелик I]]
 - [[events/iskhod|Исход]]

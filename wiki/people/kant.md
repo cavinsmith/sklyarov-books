@@ -1,8 +1,7 @@
 ---
 slug: kant
 title: "Иммануил Кант"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

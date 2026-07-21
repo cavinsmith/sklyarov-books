@@ -1,9 +1,8 @@
 ---
 slug: poznanski
 title: "Познански"
-categories:
-  - people
-tags: [исследователь, археоастрономия, Тиауанако]
+categories: [people]
+tags: []
 ---
 
 # Познански

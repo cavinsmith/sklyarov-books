@@ -1,9 +1,8 @@
 ---
 slug: seti-i
 title: "Сети I"
-categories:
-  - people
-tags: []
+categories: [people]
+tags: [egypt]
 ---
 
 # Сети I
@@ -14,15 +13,15 @@ tags: []
 
 - Правил около 1290–1279 гг. до н.э.
 - Основатель XIX династии
-- Отец и предшественник Рамзеса II
+- Отец и предшественник [[people/ramesses-ii|Рамзеса II]]
 - Построил грандиозный храм в Абидосе
 
 ## Упоминание в работах
 
-- [[books/12-tsivilizaciya-bogov-egipta|Цивилизация богов древнего Египта]] — Сети I упоминается в контексте истории XIX династии
+- [[books/12-tsivilizaciya-bogov-egipta|Цивилизация богов древнего Египта]] — Сети I упоминается в контексте истории XIX династии; храм в Абидосе содержит важные иероглифические надписи
 
 ## См. также
 
 - [[people/ramesses-ii]] — Рамзес II, сын Сети I
-- [[places/egipet-drevniy]] — Древний Египет
-- [[books/12-tsivilizaciya-bogov-egipta]]
+- [[places/egipet-drevniy|Древний Египет]]
+- [[books/12-tsivilizaciya-bogov-egipta|Цивилизация богов древнего Египта]]

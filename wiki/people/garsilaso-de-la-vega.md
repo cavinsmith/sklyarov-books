@@ -1,8 +1,7 @@
 ---
 slug: garsilaso-de-la-vega
 title: "Гарсиласо де Ла Вега"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

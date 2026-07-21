@@ -1,8 +1,8 @@
 ---
 slug: siriyane
-title: Сирийцы
+title: "Сирийцы"
 categories: [people]
-tags: [syria, ancient, civilization, crossroads]
+tags: [syria, ancient, civilization]
 ---
 
 # Сирийцы
@@ -21,10 +21,10 @@ tags: [syria, ancient, civilization, crossroads]
 
 ## Упоминание в работах
 
-- [[books/26-siriyskie-perekrestki|Сирийские перекрестки цивилизации]] — подробное описание истории Сирии и её значения.
+- [[books/26-siriyskie-perekrestki|Сирийские перекрестки цивилизации]] — подробное описание истории Сирии и её значения
 
 ## См. также
 
-- [[places/damask]]
-- [[places/siriya-palestina]]
-- [[places/levant]]
+- [[places/damask|Дамаск]]
+- [[places/siriya-palestina|Сирия и Палестина]]
+- [[places/levant|Левант]]

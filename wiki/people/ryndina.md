@@ -1,13 +1,8 @@
 ---
 slug: ryndina
 title: "Нина Рындина"
-categories:
-  - people
-  - researchers
-tags:
-  - metallurgy
-  - bronze
-  - comparison
+categories: [people]
+tags: [metallurgy, bronze]
 ---
 
 # Нина Рындина

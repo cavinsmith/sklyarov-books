@@ -1,8 +1,7 @@
 ---
 slug: amenhotep-iii
 title: "Аменхотеп III"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

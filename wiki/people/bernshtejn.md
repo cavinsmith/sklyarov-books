@@ -1,13 +1,8 @@
 ---
 slug: bernshtejn
 title: "Сергей Натанович Бернштейн"
-categories:
-  - people
-  - mathematics
-tags:
-  - mathematics
-  - bezier-curves
-  - nazca
+categories: [people]
+tags: [mathematics]
 ---
 
 # Сергей Натанович Бернштейн

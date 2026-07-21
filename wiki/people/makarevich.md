@@ -1,8 +1,7 @@
 ---
 slug: makarevich
 title: "Макаревич"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

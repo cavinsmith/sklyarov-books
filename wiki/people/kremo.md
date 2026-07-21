@@ -1,8 +1,7 @@
 ---
 slug: kremo
 title: "Кремо Майкл"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

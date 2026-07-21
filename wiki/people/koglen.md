@@ -1,8 +1,7 @@
 ---
 slug: koglen
 title: "Коглен"
-categories:
-  - people
+categories: [people, researchers]
 tags: []
 ---
 
@@ -10,18 +9,18 @@ tags: []
 
 Исследователь, занимавшийся изучением аномальных артефактов и археологических находок в контексте альтернативной истории.
 
+## Упоминание в работах
+
+- [[books/16-sensacionnaya-istoriya|Сенсационная история Земли]] — Коглен упоминается в контексте альтернативных теорий
+
 ## Основные сведения
 
 - Изучал аномальные артефакты в различных регионах
 - Интерпретировал находки через призму [[concepts/civilization-of-gods|цивилизации богов]]
 - Работал в области [[concepts/utrachennye-tekhnologii|утраченных технологий]]
 
-## Упоминание в работах
-
-- [[books/16-sensacionnaya-istoriya|Сенсационная история]] — упоминание в контексте альтернативных теорий
-
 ## Связанные концепции
 
-- [[concepts/civilization-of-gods|Цивилизация богов]] — интерпретация находок
-- [[concepts/utrachennye-tekhnologii|Утраченные технологии]] — неизвестные методы
-- [[concepts/paleokontakt|Палеоконтакт]] — внеземное влияние
+- [[concepts/civilization-of-gods|Цивилизация богов]]
+- [[concepts/utrachennye-tekhnologii|Утраченные технологии]]
+- [[concepts/paleokontakt|Палеоконтакт]]

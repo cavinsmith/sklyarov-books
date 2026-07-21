@@ -1,8 +1,7 @@
 ---
 slug: balabanova-svetlana
 title: "Балабанова Светлана"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

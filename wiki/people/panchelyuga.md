@@ -1,8 +1,7 @@
 ---
 slug: panchelyuga
 title: "Виктор Панчелюга"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

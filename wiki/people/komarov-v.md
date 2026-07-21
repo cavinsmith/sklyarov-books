@@ -1,13 +1,8 @@
 ---
 slug: komarov-v
 title: "В. Комаров"
-categories:
-  - people
-  - archaeologists
-tags:
-  - bmac
-  - central-asia
-  - archaeology
+categories: [people]
+tags: [bmac]
 ---
 
 # В. Комаров

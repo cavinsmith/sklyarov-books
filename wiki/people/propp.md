@@ -1,8 +1,7 @@
 ---
 slug: propp
 title: "В.Я. Пропп"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

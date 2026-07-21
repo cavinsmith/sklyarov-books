@@ -1,8 +1,7 @@
 ---
 slug: iezekiel
 title: "Иезекииль"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

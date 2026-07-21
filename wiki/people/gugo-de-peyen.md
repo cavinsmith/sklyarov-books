@@ -1,14 +1,13 @@
 ---
 slug: gugo-de-peyen
 title: "Гуго де Пейен"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 
 # Гуго де Пейен
 
-Страница-ссылка на [[people/gugo-de-peyen|Гуго де Пейена]] — основателя Ордена тамплиеров.
+Гуго де Пейен — основатель Ордена тамплиеров.
 
 ---
 
@@ -18,6 +17,5 @@ tags: []
 
 ## См. также
 
-- [[people/gugo-de-peyen]] — основная страница
 - [[people/bernard-clairvaux]] — Бернар Клервосский
 - [[places/temple-mount|Храмовая гора]]

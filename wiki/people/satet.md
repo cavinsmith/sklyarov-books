@@ -1,8 +1,7 @@
 ---
 slug: satet
 title: "Сатет"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

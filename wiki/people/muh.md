@@ -1,8 +1,7 @@
 ---
 slug: muh
 title: "Мух"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

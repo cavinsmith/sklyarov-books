@@ -1,13 +1,8 @@
 ---
 slug: wik
 title: "Томас Вик"
-categories:
-  - people
-  - researchers
-tags:
-  - nazca
-  - cathedral
-  - geoglyphs
+categories: [people]
+tags: [nazca, cathedral]
 ---
 
 # Томас Вик

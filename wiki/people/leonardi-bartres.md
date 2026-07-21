@@ -1,8 +1,7 @@
 ---
 slug: leonardi-bartres
 title: "Леонарди Бартрес"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

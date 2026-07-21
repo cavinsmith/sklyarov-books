@@ -1,8 +1,7 @@
 ---
 slug: dzherald-houkins
 title: "Джеральд Хоукинс"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

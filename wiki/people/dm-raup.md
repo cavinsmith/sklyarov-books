@@ -1,8 +1,7 @@
 ---
 slug: dm-raup
 title: "Д.М. Рауп (David M. Raup)"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

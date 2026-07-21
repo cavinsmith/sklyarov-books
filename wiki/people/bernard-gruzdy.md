@@ -1,8 +1,7 @@
 ---
 slug: bernard-gruzdy
 title: "Бернард Грузди"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

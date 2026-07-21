@@ -1,8 +1,7 @@
 ---
 slug: lucreciy-kar
 title: "Лукреций Кар"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

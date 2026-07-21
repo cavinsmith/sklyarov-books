@@ -1,8 +1,7 @@
 ---
 slug: bernard-clairvaux
 title: "Бернар Клервосский (Бернард Клервосский)"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

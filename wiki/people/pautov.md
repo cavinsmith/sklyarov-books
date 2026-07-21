@@ -1,8 +1,7 @@
 ---
 slug: pautov
 title: "Леонид Паутов"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

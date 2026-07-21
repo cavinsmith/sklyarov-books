@@ -1,8 +1,7 @@
 ---
 slug: vavilov
 title: "Николай Вавилов"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

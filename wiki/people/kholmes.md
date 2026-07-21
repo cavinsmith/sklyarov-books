@@ -1,9 +1,8 @@
 ---
 slug: kholmes
 title: "Артур Холмс"
-categories:
-  - people
-tags: [geology, geochronology, drift-theory]
+categories: [people]
+tags: []
 ---
 
 # Артур Холмс

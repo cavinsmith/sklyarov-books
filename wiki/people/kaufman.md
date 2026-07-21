@@ -1,13 +1,8 @@
 ---
 slug: kaufman
 title: "Фредерико Кафман-Доиг"
-categories:
-  - people
-  - researchers
-tags:
-  - nazca
-  - magic-lines
-  - geoglyphs
+categories: [people]
+tags: [nazca]
 ---
 
 # Фредерико Кафман-Доиг

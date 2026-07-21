@@ -1,12 +1,8 @@
 ---
 slug: marija-rajhe
 title: "Мария Райхе"
-categories:
-  - people
-  - researchers
-tags:
-  - nazca
-  - geoglyphs
+categories: [people]
+tags: [nazca]
 ---
 
 # Мария Райхе
@@ -17,12 +13,12 @@ tags:
 
 Валидация выявила дублирование: `marija-rajhe` и `mariya-rajhe`. Основная статья: [[people/mariya-rajhe|Мария Райхе]].
 
-## Источники
+## Упоминание в работах
 
-- [[books/23-naska|Наска: гигантские рисунки на полях]]
+- [[books/23-naska|Наска: гигантские рисунки на полях]] — Райхе упоминается как ключевая фигура в истории исследования геоглифов
 
 ## См. также
 
 - [[people/mariya-rajhe|Мария Райхе]]
 - [[places/plato-naska|Плато Наска]]
-- [[concepts/chyornye-arkheologi|Чёрные археологи]]
+- [[concepts/geoglify|Геоглифы]]

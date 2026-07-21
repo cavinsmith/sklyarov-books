@@ -1,8 +1,7 @@
 ---
 slug: uilyam-bukland
 title: "Уильям Букланд (William Buckland)"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

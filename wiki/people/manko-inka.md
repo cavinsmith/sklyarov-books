@@ -1,8 +1,7 @@
 ---
 slug: manko-inka
 title: "Манко Инка"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

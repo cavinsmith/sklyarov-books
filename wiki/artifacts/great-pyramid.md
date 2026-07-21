@@ -70,5 +70,5 @@ tags: []
 - [[concepts/pyramid-energy]] — Концепция энергетических свойств пирамид
 - [[concepts/piezoelectric-effect]] — Пьезоэлектрический эффект в граните
 - [[concepts/machine-processing]] — Следы машинной обработки камня
-- [[people/zahi-hawass]] — Захи Хавасс, représentant官方ной египтологии
+- [[people/zahi-hawass]] — Захи Хавасс, représentantофициальной египтологии
 - [[people/dmitriy-pavlov]] — Дмитрий Павлов, проводивший эксперименты с моделями пирамид

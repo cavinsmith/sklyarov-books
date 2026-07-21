@@ -1,12 +1,8 @@
 ---
 slug: belokon
 title: "Алла Белоконь"
-categories:
-  - people
-  - researchers
-tags:
-  - nazca
-  - geoglyphs
+categories: [people]
+tags: [nazca]
 ---
 
 # Алла Белоконь

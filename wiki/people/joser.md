@@ -1,14 +1,8 @@
 ---
 slug: joser
 title: "Джосер"
-categories:
-  - people
-  - pharaohs
-  - egypt
-tags:
-  - egypt
-  - third-dynasty
-  - step-pyramid
+categories: [people]
+tags: [egypt]
 ---
 
 # Джосер

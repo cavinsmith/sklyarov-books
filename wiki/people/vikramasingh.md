@@ -1,8 +1,7 @@
 ---
 slug: vikramasingh
 title: "Викрамасингх Чандра"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

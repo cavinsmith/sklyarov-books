@@ -1,8 +1,7 @@
 ---
 slug: charles-darwin
 title: "Чарльз Дарвин (Charles Darwin)"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

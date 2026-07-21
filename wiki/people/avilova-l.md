@@ -1,8 +1,7 @@
 ---
 slug: avilova-l
 title: "Л. Авилова"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

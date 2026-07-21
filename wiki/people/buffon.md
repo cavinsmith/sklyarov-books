@@ -1,8 +1,7 @@
 ---
 slug: buffon
 title: "Жорж-Луи Леклерк де Бюффон (Georges-Louis Leclerc, Comte de Buffon)"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

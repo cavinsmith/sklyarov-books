@@ -1,12 +1,8 @@
 ---
 slug: alekseev
 title: "И. Алексеев"
-categories:
-  - people
-  - researchers
-tags:
-  - nazca
-  - geoglyphs
+categories: [people]
+tags: [nazca]
 ---
 
 # И. Алексеев

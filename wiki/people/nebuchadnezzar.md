@@ -1,8 +1,7 @@
 ---
 slug: nebuchadnezzar
 title: "Навуходоносор II"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

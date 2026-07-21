@@ -1,8 +1,7 @@
 ---
 slug: knorozov-yuriy
 title: "Кнорозов Юрий Валентинович"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

@@ -1,8 +1,7 @@
 ---
 slug: kecalcoatl
 title: "Кецалькоатль"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

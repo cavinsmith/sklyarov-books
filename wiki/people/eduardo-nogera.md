@@ -1,8 +1,7 @@
 ---
 slug: eduardo-nogera
 title: "Эдуардо Ногера"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

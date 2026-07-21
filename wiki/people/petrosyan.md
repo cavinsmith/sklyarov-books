@@ -1,13 +1,8 @@
 ---
 slug: petrosyan
 title: "Армен Петросян"
-categories:
-  - people
-  - researchers
-tags:
-  - armenia
-  - bronze
-  - statue
+categories: [people]
+tags: [armenia, bronze]
 ---
 
 # Армен Петросян

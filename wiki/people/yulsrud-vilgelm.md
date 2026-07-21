@@ -1,8 +1,7 @@
 ---
 slug: yulsrud-vilgelm
 title: "Юльсрюд Вильгельм"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

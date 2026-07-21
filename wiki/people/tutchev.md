@@ -1,13 +1,8 @@
 ---
 slug: tutchev
 title: "Фёдор Тютчев"
-categories:
-  - people
-  - poets
-tags:
-  - literature
-  - russia
-  - poetry
+categories: [people]
+tags: [literature, russia]
 ---
 
 # Фёдор Тютчев

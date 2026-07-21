@@ -1,8 +1,7 @@
 ---
 slug: lipe-yulius
 title: "Юлиус Липе"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

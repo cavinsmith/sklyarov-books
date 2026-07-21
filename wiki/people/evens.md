@@ -1,13 +1,8 @@
 ---
 slug: evens
 title: "Энтони Эвени"
-categories:
-  - people
-  - researchers
-tags:
-  - nazca
-  - astronomy
-  - geoglyphs
+categories: [people]
+tags: [nazca, astronomy]
 ---
 
 # Энтони Эвени

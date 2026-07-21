@@ -1,8 +1,7 @@
 ---
 slug: yung-karl-gustav
 title: "Карл Густав Юнг"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

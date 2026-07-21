@@ -1,14 +1,8 @@
 ---
 slug: napoleon
 title: "Наполеон Бонапарт"
-categories:
-  - people
-  - rulers
-  - france
-tags:
-  - france
-  - emperor
-  - egypt
+categories: [people]
+tags: [france, emperor]
 ---
 
 # Наполеон Бонапарт

@@ -1,11 +1,8 @@
 ---
 slug: grigorieva-t
 title: "Т. Григорьева"
-categories:
-  - people
-  - researchers
-tags:
-  - archaeology
+categories: [people, researchers]
+tags: []
 ---
 
 # Т. Григорьева

@@ -1,8 +1,7 @@
 ---
 slug: vikramasinghe
 title: "Викрамасингхе"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

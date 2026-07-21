@@ -1,8 +1,7 @@
 ---
 slug: siparov-sergey
 title: "Сергей Сипаров"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

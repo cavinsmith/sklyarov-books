@@ -1,14 +1,8 @@
 ---
 slug: mayakovsky
 title: "Владимир Маяковский"
-categories:
-  - people
-  - poets
-tags:
-  - literature
-  - russia
-  - poetry
-  - futurism
+categories: [people]
+tags: [literature, russia, poetry]
 ---
 
 # Владимир Маяковский

@@ -1,8 +1,7 @@
 ---
 slug: dart
 title: "Раймонд Дарт"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

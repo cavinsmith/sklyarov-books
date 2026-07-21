@@ -1,15 +1,8 @@
 ---
 slug: petri
 title: "Флиндерс Петри"
-categories:
-  - people
-  - researchers
-  - egyptology
-tags:
-  - egypt
-  - archaeology
-  - pyramid
-  - measurements
+categories: [people]
+tags: [egypt, archaeology, pyramid]
 ---
 
 # Флиндерс Петри

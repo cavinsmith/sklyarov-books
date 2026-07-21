@@ -1,8 +1,7 @@
 ---
 slug: isi
 title: "Иси (Исида)"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

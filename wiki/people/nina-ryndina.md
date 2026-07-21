@@ -1,8 +1,7 @@
 ---
 slug: nina-ryndina
 title: "Нина Рындина"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

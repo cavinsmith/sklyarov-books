@@ -1,8 +1,7 @@
 ---
 slug: ten-v
 title: "Тен В."
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

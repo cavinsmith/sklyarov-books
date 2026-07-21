@@ -1,13 +1,8 @@
 ---
 slug: shevchuk
 title: "Юрий Шевчук"
-categories:
-  - people
-  - musicians
-tags:
-  - music
-  - russia
-  - ddt
+categories: [people]
+tags: [music, russia]
 ---
 
 # Юрий Шевчук

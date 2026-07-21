@@ -1,8 +1,7 @@
 ---
 slug: erih-fon-daniken
 title: "Эрих фон Дэникен"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

@@ -1,12 +1,8 @@
 ---
-slug: kholmes
+slug: holmes
 title: "Холмс"
-categories:
-  - people
-  - researchers
-tags:
-  - geology
-  - geophysics
+categories: [people]
+tags: [geology]
 ---
 
 # Холмс

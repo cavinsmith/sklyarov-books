@@ -1,9 +1,8 @@
 ---
 slug: teillard
 title: "Тейяр де Шарден (Пьер)"
-categories:
-  - people
-tags: []
+categories: [people]
+tags: [philosophy, paleontology, theology]
 ---
 
 # Тейяр де Шарден (Пьер)
@@ -19,9 +18,12 @@ tags: []
 - Развитие концепции ноосферы
 - Синтез науки и религии
 
+## Упоминание в работах
+
+- [[books/28-fizika-duha|Основы физики духа]] — Тейяр де Шарден упоминается в контексте концепции ноосферы и синтеза науки и религии
+
 ## См. также
 
-- [[concepts/noosfera]] — ноосфера
-- [[concepts/sintez-lyubov]] — синтез и любовь
-- [[concepts/spiritual-world]] — духовно-нематериальный мир
-- [[books/28-fizika-duha]] — «Физика духа»
+- [[concepts/noosfera|Ноосфера]]
+- [[concepts/spiritual-world|Духовно-нематериальный мир]]
+- [[books/28-fizika-duha|Основы физики духа]]

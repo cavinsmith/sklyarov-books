@@ -1,8 +1,7 @@
 ---
 slug: larin-viktor-viktor
 title: "Виктор Викторович Ларин"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

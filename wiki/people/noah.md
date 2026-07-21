@@ -1,8 +1,7 @@
 ---
 slug: noah
 title: "Ной"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

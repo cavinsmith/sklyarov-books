@@ -1,8 +1,7 @@
 ---
 slug: khafra
 title: "Хафра"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

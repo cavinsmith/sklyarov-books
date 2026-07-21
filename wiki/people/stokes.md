@@ -1,8 +1,7 @@
 ---
 slug: stokes
 title: "Стокс"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

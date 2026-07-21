@@ -32,4 +32,7 @@ tags: []
 - [[artifacts/elongated-skulls-peru]] — аномальные черепа Перу
 - [[artifacts/paracas-elongated-skulls]] — удлинённые черепа Паракаса
 - [[artifacts/olmeckie-golovy]] — ольмекские головы
+- [[artifacts/kamni-iki]] — Камни Ики
+- [[concepts/drevnie-bogi|Древние боги]]
 - [[books/21-geneticheskiy-kod|Генетический код человечества]]
+- [[books/15-peru-i-boliviya|«Перу и Боливия задолго до инков»]]

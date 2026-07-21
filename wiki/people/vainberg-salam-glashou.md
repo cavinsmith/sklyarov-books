@@ -1,8 +1,7 @@
 ---
 slug: vainberg-salam-glashou
 title: "Вайнберг-Салам-Глошоу"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

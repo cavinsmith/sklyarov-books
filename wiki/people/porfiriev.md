@@ -1,9 +1,8 @@
 ---
 slug: porfiriev
 title: "В. Порфирьев"
-categories:
-  - people
-tags: [geology, petroleum, abiogenic]
+categories: [people]
+tags: []
 ---
 
 # В. Порфирьев

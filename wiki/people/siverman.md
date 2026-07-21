@@ -1,13 +1,8 @@
 ---
 slug: siverman
 title: "Гелан Сиверман"
-categories:
-  - people
-  - researchers
-tags:
-  - nazca
-  - tribal-signs
-  - geoglyphs
+categories: [people]
+tags: [nazca]
 ---
 
 # Гелан Сиверман

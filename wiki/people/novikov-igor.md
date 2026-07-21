@@ -1,13 +1,8 @@
 ---
 slug: novikov-igor
 title: "Игорь Новиков"
-categories:
-  - people
-  - physicists
-tags:
-  - physics
-  - cosmology
-  - russia
+categories: [people]
+tags: [physics, cosmology]
 ---
 
 # Игорь Новиков

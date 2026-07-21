@@ -1,8 +1,7 @@
 ---
 slug: mantovani
 title: "Мантовани"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

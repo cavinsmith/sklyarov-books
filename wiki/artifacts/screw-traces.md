@@ -42,9 +42,13 @@ tags: []
 ## Связанные сущности
 
 - [[artifacts/disk-saw-traces|Следы дисковых пил]] — аналогичные следы другой технологии
+- [[artifacts/nezavershennyj-obelisk|Незаконченный обелиск]] — следы трубчатого сверления
+- [[artifacts/kern-pitri-n7|Керн Питри N.7]] — следы сверления
 - [[places/hatussa|Хатусса]]
 - [[places/ollantaytambo|Ольянтайтамбо]]
 - [[places/tiwanaku|Тиауанако]]
 - [[concepts/utrachennye-tekhnologii|Утраченные технологии]]
 - [[concepts/megaculture-traces|Мегалиты как следы присутствия «богов»]]
+- [[concepts/machine-processing|Машинная обработка камня]]
 - [[books/18-drevnie-bogi|Древние боги — кто они?]]
+- [[books/24-opasnoe-nasledie|Опасное наследие предков]]

@@ -1,13 +1,8 @@
 ---
 slug: isbell
 title: "Уильям Х. Исбелл"
-categories:
-  - people
-  - researchers
-tags:
-  - nazca
-  - demography
-  - geoglyphs
+categories: [people]
+tags: [nazca, demography]
 ---
 
 # Уильям Х. Исбелл

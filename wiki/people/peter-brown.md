@@ -1,8 +1,7 @@
 ---
 slug: peter-brown
 title: "Питер Браун"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

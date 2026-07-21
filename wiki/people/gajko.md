@@ -1,12 +1,8 @@
 ---
 slug: gajko
 title: "Г. Гайко"
-categories:
-  - people
-  - researchers
-tags:
-  - metallurgy
-  - kargaly
+categories: [people]
+tags: [metallurgy]
 ---
 
 # Г. Гайко

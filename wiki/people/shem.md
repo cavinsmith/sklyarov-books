@@ -1,13 +1,8 @@
 ---
 slug: shem
 title: "Сим (Шем)"
-categories:
-  - people
-  - biblical
-tags:
-  - noah
-  - biblical
-  - patriarch
+categories: [people]
+tags: [noah, biblical]
 ---
 
 # Сим (Шем)

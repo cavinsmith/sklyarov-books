@@ -1,8 +1,7 @@
 ---
 slug: raushenbakh-boris
 title: "Раушенбах Борис Викторович"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

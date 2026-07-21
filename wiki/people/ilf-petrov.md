@@ -1,13 +1,8 @@
 ---
 slug: ilf-petrov
 title: "Ильф и Петров"
-categories:
-  - people
-  - writers
-tags:
-  - literature
-  - russia
-  - twelve-chairs
+categories: [people]
+tags: [literature, russia]
 ---
 
 # Ильф и Петров

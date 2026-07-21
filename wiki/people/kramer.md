@@ -1,8 +1,7 @@
 ---
 slug: kramer
 title: "Крамер"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

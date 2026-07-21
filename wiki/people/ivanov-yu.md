@@ -1,11 +1,8 @@
 ---
 slug: ivanov-yu
 title: "Ю. Иванов"
-categories:
-  - people
-  - researchers
-tags:
-  - metallurgy
+categories: [people, researchers]
+tags: []
 ---
 
 # Ю. Иванов

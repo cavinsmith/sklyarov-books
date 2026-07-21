@@ -1,13 +1,8 @@
 ---
 slug: shmidt
 title: "Шмидт"
-categories:
-  - people
-  - archaeologists
-tags:
-  - bmac
-  - turkmenistan
-  - archaeology
+categories: [people]
+tags: [bmac, turkmenistan]
 ---
 
 # Шмидт

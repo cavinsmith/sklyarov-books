@@ -1,8 +1,7 @@
 ---
 slug: baklend
 title: "Уильям Баклэнд"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

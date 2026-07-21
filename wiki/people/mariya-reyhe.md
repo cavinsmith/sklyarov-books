@@ -1,14 +1,8 @@
 ---
 slug: mariya-reyhe
 title: "Мария Рейхе"
-categories:
-  - people
-  - researchers
-tags:
-  - nazca
-  - geoglyphs
-  - germany
-  - peru
+categories: [people]
+tags: [nazca, geoglyphs, germany]
 ---
 
 # Мария Рейхе

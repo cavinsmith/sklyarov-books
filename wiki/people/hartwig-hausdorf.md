@@ -1,8 +1,7 @@
 ---
 slug: hartwig-hausdorf
 title: "Хартвиг Хаусдорф"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

@@ -26,5 +26,4 @@ tags: [africa, desert, climate, ancient-lakes]
 
 ## См. также
 
-- [[places/sahara]] — Пустыня Сахара
 - [[books/14-obitaemyy-ostrov]]

@@ -1,12 +1,8 @@
 ---
 slug: vershinin
 title: "Эдуард Вершинин"
-categories:
-  - people
-  - researchers
-tags:
-  - nazca
-  - navigation
+categories: [people]
+tags: [nazca, geoglyphs]
 ---
 
 # Эдуард Вершинин
@@ -17,12 +13,12 @@ tags:
 
 Валидация выявила дублирование: `vershinin` и `veresnin`. Основная статья: [[people/veresnin|Эдуард Вершинин]].
 
-## Источники
+## Упоминание в работах
 
-- [[books/23-naska|Наска: гигантские рисунки на полях]]
+- [[books/23-naska|Наска: гигантские рисунки на полях]] — Вершинин упоминается как один из исследователей геоглифов
 
 ## См. также
 
 - [[people/veresnin|Эдуард Вершинин]]
 - [[places/plato-naska|Плато Наска]]
-- [[concepts/chyornye-arkheologi|Чёрные археологи]]
+- [[concepts/geoglify|Геоглифы]]

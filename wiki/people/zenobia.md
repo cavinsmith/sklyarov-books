@@ -1,8 +1,7 @@
 ---
 slug: zenobia
 title: "Зенобия"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

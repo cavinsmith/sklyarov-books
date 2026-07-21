@@ -33,5 +33,9 @@ tags:
 - [[places/boliviya]] — Боливия, регион распространения вару-ваару
 - [[places/plateau-altiplano]] — Плато Альтиплано, где расположены поднятые поля
 - [[places/titikaka]] — озеро Титикака на Плато Альтиплано
+- [[places/tiwanaku|Тиауанако]] — древний центр на Плато Альтиплано
 - [[concepts/zemledelie-kak-dar-bogov]] — земледелие как дар богов
+- [[concepts/drevnie-bogi|Древние боги]]
 - [[people/virakocha]] — бог Виракоча, связанный с земледелием в Андах
+- [[books/04-bitva-za-urozhay]] — книга о земледелии как «даре богов»
+- [[books/15-peru-i-boliviya|«Перу и Боливия задолго до инков»]]

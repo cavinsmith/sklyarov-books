@@ -1,8 +1,7 @@
 ---
 slug: teilhard
 title: "Пьер Тейяр де Шарден"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

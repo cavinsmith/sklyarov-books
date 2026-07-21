@@ -1,8 +1,7 @@
 ---
 slug: pissarro
 title: "Писарро"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

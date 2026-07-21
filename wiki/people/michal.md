@@ -1,13 +1,8 @@
 ---
 slug: michal
 title: "Михаль"
-categories:
-  - people
-  - biblical
-tags:
-  - maqhpela
-  - cave
-  - discovery
+categories: [people]
+tags: [maqhpela, cave]
 ---
 
 # Михаль

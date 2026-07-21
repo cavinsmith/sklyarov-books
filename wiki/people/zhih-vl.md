@@ -1,8 +1,7 @@
 ---
 slug: zhih-vl
 title: "Жих Вл."
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

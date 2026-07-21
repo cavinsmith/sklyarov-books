@@ -1,8 +1,7 @@
 ---
 slug: lobachevskij
 title: "Н.И. Лобачевский"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

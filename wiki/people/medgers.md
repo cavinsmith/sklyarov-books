@@ -1,9 +1,8 @@
 ---
 slug: medgers
 title: "Медджерс"
-categories:
-  - people
-tags: [physics, parapsychology]
+categories: [people]
+tags: []
 ---
 
 # Медджерс

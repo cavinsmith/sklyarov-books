@@ -36,5 +36,5 @@ tags: [минерал, железная руда, флюс]
 - [[books/22-metally|Металлы]]
 - [[artifacts/dolomit|Доломит]]
 - [[artifacts/magnetit|Магнетит]]
-- [[concepts/drevnyaya-metallurgiya|Древняя металлургия]]
+- [[concepts/metalloobrabotka|Древняя металлургия]]
 - [[places/uraljskij-razlom|Уральский разлом]] — крупнейшие месторождения железных руд

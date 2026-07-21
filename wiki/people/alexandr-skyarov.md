@@ -1,8 +1,7 @@
 ---
 slug: alexandr-skyarov
 title: "Александр Скляров"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

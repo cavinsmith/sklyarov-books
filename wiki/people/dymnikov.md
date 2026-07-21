@@ -1,8 +1,7 @@
 ---
 slug: dymnikov
 title: "Дымников"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

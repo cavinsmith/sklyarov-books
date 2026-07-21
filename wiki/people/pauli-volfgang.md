@@ -1,8 +1,7 @@
 ---
 slug: pauli-volfgang
 title: "Вольфганг Паули"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

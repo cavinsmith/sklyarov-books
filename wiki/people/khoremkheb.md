@@ -1,8 +1,7 @@
 ---
 slug: khoremkheb
 title: "Хоремхеб"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

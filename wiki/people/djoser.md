@@ -1,8 +1,7 @@
 ---
 slug: djoser
 title: "Джосер"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

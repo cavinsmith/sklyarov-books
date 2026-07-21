@@ -1,13 +1,8 @@
 ---
 slug: de-yong
 title: "Гилберт де Йонг"
-categories:
-  - people
-  - researchers
-tags:
-  - nazca
-  - zodiac
-  - geoglyphs
+categories: [people]
+tags: [nazca, zodiac]
 ---
 
 # Гилберт де Йонг

@@ -1,13 +1,8 @@
 ---
 slug: dzhoanni-isla
 title: "Джонни Исла"
-categories:
-  - people
-  - researchers
-tags:
-  - nazca
-  - palpa
-  - archaeology
+categories: [people]
+tags: [nazca, palpa]
 ---
 
 # Джонни Исла

@@ -26,7 +26,6 @@ tags: []
 
 - [[concepts/solnechnaya-sistema]] — Юпитер как часть Солнечной системы
 - [[concepts/faeton]] — Юпитер мог повлиять на судьбу Фаэтона
-- [[concepts/jupiter]] — Юпитер как «保护神» Земли от астероидов
 - [[concepts/zheleznye-meteority]] — метеориты, миновавшие Юпитер
 
 ## Книги, в которых обсуждается

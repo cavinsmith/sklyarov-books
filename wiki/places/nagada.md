@@ -2,7 +2,7 @@
 slug: nagada
 title: Нагада
 categories: [places]
-tags: [egypt, predynastic, archaeology]
+tags: [egypt, predynastic, archaeology, culture]
 ---
 
 # Нагада
@@ -21,10 +21,20 @@ tags: [egypt, predynastic, archaeology]
 - Додинастический период (4400-3000 гг. до н.э.)
 - Ранние свидетельства египетской цивилизации
 - Гончарные изделия и украшения
+- Стандартизированные кирпичи (соотношение 1:2:4)
+
+---
+
+## Упоминание в работах
+
+- [[books/12-tsivilizaciya-bogov-egipta|Цивилизация богов Египта]] — Нагада как один из центров додинастического Египта
 
 ---
 
 ## См. также
 
-- [[places/saqqara]] — Саккара
-- [[books/12-tsivilizaciya-bogov-egipta]]
+- [[places/saqqara]] — Саккара, древний некрополь
+- [[places/egipet-drevniy]] — Древний Египет
+- [[places/abidos]] — Абидос, центр культа Осириса
+- [[concepts/old-kingdom]] — Древнее царство
+- [[concepts/pharaohs]] — Фараоны

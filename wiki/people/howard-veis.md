@@ -1,8 +1,7 @@
 ---
 slug: howard-veis
 title: "Говард Вайс"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

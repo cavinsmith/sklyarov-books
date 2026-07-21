@@ -1,14 +1,8 @@
 ---
 slug: menes
 title: "Менес (Хор-Аха)"
-categories:
-  - people
-  - pharaohs
-  - egypt
-tags:
-  - egypt
-  - first-dynasty
-  - unification
+categories: [people]
+tags: [egypt]
 ---
 
 # Менес (Хор-Аха)

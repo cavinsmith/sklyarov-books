@@ -1,8 +1,7 @@
 ---
 slug: eynshteyn-albert
 title: "Альберт Эйнштейн"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

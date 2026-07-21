@@ -1,9 +1,8 @@
 ---
 slug: lambert-karlovski
 title: "Ламберт-Карловски"
-categories:
-  - people
-tags: [archaeology, bmac, central-asia]
+categories: [people]
+tags: []
 ---
 
 # Ламберт-Карловски

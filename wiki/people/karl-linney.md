@@ -1,8 +1,7 @@
 ---
 slug: karl-linney
 title: "Карл Линней (Carl Linnaeus)"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

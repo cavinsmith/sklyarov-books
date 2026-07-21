@@ -1,8 +1,7 @@
 ---
 slug: alunni
 title: "Алуни"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

@@ -1,8 +1,7 @@
 ---
 slug: levin-kurt
 title: "Курт Левин"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

@@ -1,8 +1,7 @@
 ---
 slug: mudi-reymond
 title: "Реймонд Муди"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

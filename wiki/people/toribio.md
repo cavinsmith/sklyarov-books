@@ -1,8 +1,7 @@
 ---
 slug: toribio
 title: "Торибио Ксесспе"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

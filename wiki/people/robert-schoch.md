@@ -1,8 +1,7 @@
 ---
 slug: robert-schoch
 title: "Роберт Шоч"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

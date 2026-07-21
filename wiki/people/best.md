@@ -1,13 +1,8 @@
 ---
 slug: best
 title: "Роберт Бэст"
-categories:
-  - people
-  - researchers
-tags:
-  - nazca
-  - flood
-  - geoglyphs
+categories: [people]
+tags: [nazca, flood]
 ---
 
 # Роберт Бэст

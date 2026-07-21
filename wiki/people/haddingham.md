@@ -1,13 +1,8 @@
 ---
 slug: haddingham
 title: "Эван Хадингем"
-categories:
-  - people
-  - researchers
-tags:
-  - nazca
-  - psychedelics
-  - shamanism
+categories: [people]
+tags: [nazca, psychedelics]
 ---
 
 # Эван Хадингем

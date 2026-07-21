@@ -1,12 +1,8 @@
 ---
 slug: shmelev-i
 title: "Иван Шмелёв"
-categories:
-  - people
-  - writers
-tags:
-  - literature
-  - russia
+categories: [people]
+tags: [literature]
 ---
 
 # Иван Шмелёв

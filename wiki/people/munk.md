@@ -1,13 +1,8 @@
 ---
 slug: munk
 title: "Карл Мунк"
-categories:
-  - people
-  - researchers
-tags:
-  - nazca
-  - geoglyphs
-  - mathematics
+categories: [people]
+tags: [nazca, geoglyphs]
 ---
 
 # Карл Мунк

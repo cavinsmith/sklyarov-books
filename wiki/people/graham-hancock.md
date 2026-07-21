@@ -1,8 +1,7 @@
 ---
 slug: graham-hancock
 title: "Грэм Хэнкок"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

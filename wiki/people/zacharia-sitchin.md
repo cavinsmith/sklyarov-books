@@ -1,8 +1,7 @@
 ---
 slug: zacharia-sitchin
 title: "Захария Ситчин"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

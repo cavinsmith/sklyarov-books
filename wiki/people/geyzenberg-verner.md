@@ -1,8 +1,7 @@
 ---
 slug: geyzenberg-verner
 title: "Вернер Гейзенберг"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

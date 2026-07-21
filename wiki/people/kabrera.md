@@ -1,14 +1,8 @@
 ---
 slug: kabrera
 title: "Хавьер Кабрера"
-categories:
-  - people
-  - researchers
-tags:
-  - ika-stones
-  - peru
-  - dinosaurs
-  - alternative-history
+categories: [people, researchers]
+tags: []
 ---
 
 # Хавьер Кабрера

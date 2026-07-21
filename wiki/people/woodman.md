@@ -1,13 +1,8 @@
 ---
 slug: woodman
 title: "Джим Вудманн"
-categories:
-  - people
-  - researchers
-tags:
-  - nazca
-  - balloon
-  - experiment
+categories: [people]
+tags: [nazca, balloon]
 ---
 
 # Джим Вудманн

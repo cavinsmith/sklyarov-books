@@ -37,7 +37,7 @@ tags: [dating, chronology, radiocarbon, dendrochronology]
 - [[concepts/udarnaya-zima|Ударная зима]] — альтернативные временные рамки
 - [[concepts/lednikovyj-period|Ледниковый период]] — критика датировки
 - [[concepts/kamennougolnyj-period|Каменноугольный период]] — критика периодизации
-- [[concepts/permso-triasovoe-poboische|Пермско-триасовое вымирание]] — вопросы датировки
+- [[concepts/permsko-triasovoe-poboische|Пермско-триасовое вымирание]] — вопросы датировки
 - [[concepts/preryvistoe-ravnovesie|Прерывистое равновесие]] — теория эволюции
 - [[concepts/intermittent-equilibrium|Прерывистое равновесие]] — альтернативное название
 - [[concepts/jenkin-nightmare|Кошмар Дженкина]] — проблема генетического дрейфа

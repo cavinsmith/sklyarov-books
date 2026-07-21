@@ -1,12 +1,8 @@
 ---
 slug: teplihov
 title: "С. Теплоухов"
-categories:
-  - people
-  - researchers
-tags:
-  - andronovo
-  - archaeology
+categories: [people]
+tags: [andronovo]
 ---
 
 # С. Теплоухов

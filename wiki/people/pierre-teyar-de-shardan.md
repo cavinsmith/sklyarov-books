@@ -1,8 +1,7 @@
 ---
 slug: pierre-teyar-de-shardan
 title: "Пьер Тейяр де Шарден"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

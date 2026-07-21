@@ -1,13 +1,8 @@
 ---
 slug: cherneih-evgenij
 title: "Е. Черных"
-categories:
-  - people
-  - researchers
-tags:
-  - metallurgy
-  - circumpontine
-  - archaeology
+categories: [people]
+tags: [metallurgy, circumpontine]
 ---
 
 # Е. Черных

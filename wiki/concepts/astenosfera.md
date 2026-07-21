@@ -27,7 +27,7 @@ tags: []
 - [[concepts/tectonic-plates]] — тектонические плиты плавают на астеносфере
 - [[concepts/spreading-subduction]] — движение плит обусловлено течением астеносферы
 - [[concepts/gondvanskoe-oledenenie]] — движение плит повлияло на оледенение
-- [[concepts/astenosfera]] — астеносфера как часть модели «растущей Земли»
+
 
 ## Книги, в которых обсуждается
 

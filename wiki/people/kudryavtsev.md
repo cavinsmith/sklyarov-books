@@ -1,8 +1,7 @@
 ---
 slug: kudryavtsev
 title: "Н. Кудрявцев"
-categories:
-  - people
+categories: [people]
 tags: [geology, petroleum, abiogenic]
 ---
 
@@ -32,10 +31,14 @@ tags: [geology, petroleum, abiogenic]
 
 Кудрявцев считал, что нефть образуется из углерода и водорода магмы — абиогенным путём.
 
-**Книги:**
-- [[books/16-sensacionnaya-istoriya|Сенсационная история]]
-- [[books/09-geohronologiya|Немного о текущей ситуации вокруг геохронологии]]
+## Упоминание в работах
 
-**Связанные страницы:**
-- [[people/porfiriev]]
-- [[concepts/geokhronologiya]]
+- [[books/16-sensacionnaya-istoriya|Сенсационная история Земли]] — данные Кудрявцева о галогенном метасоматозе и абиогенном происхождении солей
+- [[books/09-geohronologiya|Немного о текущей ситуации вокруг геохронологии]] — критика официальной геохронологии
+
+## Связанные страницы
+
+- [[people/ten-v|В. Тен]] — соавтор монографии «Неизвестный водород»
+- [[people/digonskij-sv|С.В. Дигонский]] — соавтор монографии
+- [[concepts/abiogennoe-proishozhdenie-nefti|Абиогенное происхождение нефти]]
+- [[concepts/piroliz-metana|Пиролиз метана]]

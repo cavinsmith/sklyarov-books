@@ -1,9 +1,8 @@
 ---
 slug: akambaro
 title: "Акамбаро"
-categories:
-  - places
-tags: [mexico, archaeology, figurines]
+categories: [places]
+tags: []
 ---
 
 Страница-ссылка на [[places/akambaro|Акамбаро]] — археологический сайт в Мексике.

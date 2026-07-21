@@ -1,8 +1,7 @@
 ---
 slug: lenin-vladimir-ilich
 title: "Владимир Ильич Ленин"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

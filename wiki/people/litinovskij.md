@@ -1,12 +1,8 @@
 ---
 slug: litinovskij
 title: "Б. Литвинский"
-categories:
-  - people
-  - researchers
-tags:
-  - bmac
-  - central-asia
+categories: [people]
+tags: [bmac]
 ---
 
 # Б. Литвинский

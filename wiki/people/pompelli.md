@@ -1,13 +1,8 @@
 ---
 slug: pompelli
 title: "Помпелли"
-categories:
-  - people
-  - archaeologists
-tags:
-  - bmac
-  - turkmenistan
-  - archaeology
+categories: [people]
+tags: [bmac, turkmenistan]
 ---
 
 # Помпелли

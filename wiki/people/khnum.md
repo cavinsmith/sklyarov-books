@@ -1,8 +1,7 @@
 ---
 slug: khnum
 title: "Хнум"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

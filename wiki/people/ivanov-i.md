@@ -1,13 +1,8 @@
 ---
 slug: ivanov-i
 title: "И. Иванов"
-categories:
-  - people
-  - archaeologists
-tags:
-  - varna
-  - necropolis
-  - gold
+categories: [people]
+tags: [varna, necropolis]
 ---
 
 # И. Иванов

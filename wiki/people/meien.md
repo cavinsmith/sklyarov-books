@@ -1,14 +1,17 @@
 ---
 slug: meien
 title: "С. В. Мейен"
-categories:
-  - people
-tags: [paleobotany, evolution, geology]
+categories: [people]
+tags: [paleobotany, evolution]
 ---
 
 # С. В. Мейен
 
 **Роль:** Выдающийся российский палеоботаник, критик догматизма в эволюционной теории.
+
+## Упоминание в работах
+
+- [[books/09-geohronologiya|Немного о текущей ситуации вокруг геохронологии]] — Мейен упоминается как критик догматизма в стратиграфии
 
 ## Позиция по эволюции
 
@@ -22,11 +25,8 @@ tags: [paleobotany, evolution, geology]
 
 > «При перенесении в область стратиграфии дискуссионные положения биологии обычно преобразовывались в догматы»
 
-**Книги:**
-- [[books/16-sensacionnaya-istoriya|Сенсационная история]]
-- [[books/09-geohronologiya|Немного о текущей ситуации вокруг геохронологии]]
+## Связанные страницы
 
-**Связанные страницы:**
-- [[concepts/teoriya-evolyucii]]
-- [[concepts/geokhronologiya]]
-- [[people/kudryavtsev]]
+- [[concepts/teoriya-evolyucii|Теория эволюции]]
+- [[concepts/geokhronologiya|Геохронология]]
+- [[books/09-geohronologiya|Немного о текущей ситуации вокруг геохронологии]]

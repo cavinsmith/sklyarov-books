@@ -1,8 +1,7 @@
 ---
 slug: nil
 title: "Нил"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

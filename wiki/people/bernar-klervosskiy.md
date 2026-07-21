@@ -1,8 +1,7 @@
 ---
 slug: bernar-klervosskiy
 title: "Бернар Клервосский"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

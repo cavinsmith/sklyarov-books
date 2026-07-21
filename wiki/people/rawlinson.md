@@ -1,8 +1,7 @@
 ---
 slug: rawlinson
 title: "Генри Роулинсон"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

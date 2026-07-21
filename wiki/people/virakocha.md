@@ -1,8 +1,7 @@
 ---
 slug: virakocha
 title: "Виракоча"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

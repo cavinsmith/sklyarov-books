@@ -1,8 +1,7 @@
 ---
 slug: ramesses-ii
 title: "Рамсес II (Великий)"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

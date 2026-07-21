@@ -1,8 +1,7 @@
 ---
 slug: grozny
 title: "Грозный"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

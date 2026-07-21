@@ -1,8 +1,7 @@
 ---
 slug: manejon
 title: "Манефон"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

@@ -1,8 +1,7 @@
 ---
 slug: agurto-kalvo
 title: "Агурто Калво"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

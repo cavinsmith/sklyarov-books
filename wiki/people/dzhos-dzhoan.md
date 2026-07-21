@@ -1,8 +1,7 @@
 ---
 slug: dzhos-dzhoan
 title: "Флетчер Джоан (Джоан)"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

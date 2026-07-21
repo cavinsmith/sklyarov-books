@@ -95,7 +95,9 @@ tags: [ирак, электричество, аномалии, технолог�
 
 ## См. также
 
-- [[concepts/machine-processing]] — Следы машинной обработки
+- [[artifacts/denderskaya-lampa]] — Дендерская лампа
+- [[artifacts/boltik-v-kamne]] — Болтик в камне
 - [[concepts/utrachennye-tekhnologii]] — Утраченные технологии
+- [[concepts/civilization-of-gods]] — Цивилизация богов
 - [[places/babilon]] — Вавилон (регион находки)
 - [[books/12-tsivilizaciya-bogov-egipta|Цивилизация древних богов Египта]]

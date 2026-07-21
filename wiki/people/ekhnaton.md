@@ -1,8 +1,7 @@
 ---
 slug: ekhnaton
 title: "Эхнатон"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

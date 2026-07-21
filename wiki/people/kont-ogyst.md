@@ -1,8 +1,7 @@
 ---
 slug: kont-ogyst
 title: "Огюст Конт"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

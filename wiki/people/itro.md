@@ -1,8 +1,7 @@
 ---
 slug: itro
 title: "Итро (Рагуэль)"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

@@ -1,8 +1,7 @@
 ---
 slug: masaki-kimura
 title: "Масаки Кимура"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

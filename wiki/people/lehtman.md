@@ -1,13 +1,8 @@
 ---
 slug: lehtman
 title: "Х. Лехтман"
-categories:
-  - people
-  - researchers
-tags:
-  - metallurgy
-  - bronze
-  - tiahuanaco
+categories: [people]
+tags: [metallurgy, bronze]
 ---
 
 # Х. Лехтман

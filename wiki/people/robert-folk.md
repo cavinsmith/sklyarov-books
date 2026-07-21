@@ -1,8 +1,7 @@
 ---
 slug: robert-folk
 title: "Роберт Фолк"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

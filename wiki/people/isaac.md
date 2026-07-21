@@ -1,8 +1,7 @@
 ---
 slug: isaac
 title: "Исаак"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

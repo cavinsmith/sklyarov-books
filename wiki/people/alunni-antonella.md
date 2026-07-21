@@ -1,8 +1,7 @@
 ---
 slug: alunni-antonella
 title: "Антонелла Алунни"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

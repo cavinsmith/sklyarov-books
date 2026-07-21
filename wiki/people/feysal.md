@@ -1,8 +1,7 @@
 ---
 slug: feysal
 title: "Фейсал I"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

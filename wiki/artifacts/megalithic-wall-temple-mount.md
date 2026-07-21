@@ -86,5 +86,10 @@ tags: []
 
 - [[places/temple-mount]] — место расположения стены
 - [[people/herod-great]] — царь, традиционно считаемый строителем
+- [[people/solomon]] — царь Соломон
 - [[concepts/megalithic-architecture]] — общая традиция мегалитического строительства
+- [[concepts/baal-worship|Поклонение Баалу]]
+- [[places/baalbek-trilithon|Трилитоны Баальбека]]
+- [[artifacts/screw-traces|«Шурупные» следы обработки]]
 - [[books/19-zemlya-vaala]] — книга, детально исследующая стену
+- [[books/25-kovcheg-zaveta|Ковчег Завета]]

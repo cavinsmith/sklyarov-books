@@ -1,8 +1,7 @@
 ---
 slug: le-vi-brjul
 title: "Люсьен Леви-Брюль"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

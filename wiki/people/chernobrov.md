@@ -1,13 +1,8 @@
 ---
 slug: chernobrov
 title: "Вадим Чернобров"
-categories:
-  - people
-  - researchers
-tags:
-  - crop-circles
-  - ufos
-  - kospoisk
+categories: [people, researchers]
+tags: []
 ---
 
 # Вадим Чернобров

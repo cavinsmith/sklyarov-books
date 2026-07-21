@@ -1,8 +1,7 @@
 ---
 slug: yunker-sherer
 title: "Юнкер Р. и Шерер З."
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

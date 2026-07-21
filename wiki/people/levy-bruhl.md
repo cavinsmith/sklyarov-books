@@ -1,8 +1,7 @@
 ---
 slug: levy-bruhl
 title: "Леви-Брюль"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

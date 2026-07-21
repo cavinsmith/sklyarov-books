@@ -1,8 +1,7 @@
 ---
 slug: karason
 title: "Карасон"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

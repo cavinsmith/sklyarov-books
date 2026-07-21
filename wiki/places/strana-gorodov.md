@@ -61,5 +61,5 @@ tags: [археология, бронзовый век, металлургия, 
 
 - [[books/22-metally|Металлы]]
 - [[artifacts/arkaim|Аркаим]]
-- [[people/zdanovich|Зданович Г.]]
+- [[people/zdanovich-g|Зданович Г.]]
 - [[events/arkaim-third-discovery|Третье открытие Аркаима]]

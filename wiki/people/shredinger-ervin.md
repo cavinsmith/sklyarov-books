@@ -1,8 +1,7 @@
 ---
 slug: shredinger-ervin
 title: "Эрвин Шрёдингер"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

@@ -1,13 +1,8 @@
 ---
 slug: stirlin
 title: "Генри Стирлин"
-categories:
-  - people
-  - researchers
-tags:
-  - nazca
-  - weaving
-  - geoglyphs
+categories: [people]
+tags: [nazca, weaving]
 ---
 
 # Генри Стирлин

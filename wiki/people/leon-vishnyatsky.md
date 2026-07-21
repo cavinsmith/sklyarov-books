@@ -1,8 +1,7 @@
 ---
 slug: leon-vishnyatsky
 title: "Леон Александрович Вишняцкий"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

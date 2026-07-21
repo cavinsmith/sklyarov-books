@@ -1,8 +1,7 @@
 ---
 slug: devidson-bezil
 title: "Девидсон Безил"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

@@ -1,13 +1,8 @@
 ---
 slug: pushkin
 title: "Александр Пушкин"
-categories:
-  - people
-  - poets
-tags:
-  - literature
-  - russia
-  - poetry
+categories: [people]
+tags: [literature, russia]
 ---
 
 # Александр Пушкин

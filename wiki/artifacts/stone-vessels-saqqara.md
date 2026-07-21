@@ -47,11 +47,16 @@ tags: []
 
 ## Связанные сущности
 
-- [[artifacts/sakkarskiye-sosudy|Саккарская коллекция сосудов]] — более ранняя статья об этом артефакте
-- [[places/saqqara-collection|Саккарская коллекция]] — обзор коллекции
-- [[places/saqqara|Саккара]] — археологический комплекс
-- [[places/giza-plateau|Гиза]] — соседний комплекс с аналогичными свидетельствами
+- [[artifacts/sakkarskiye-sosudy|Саккарская коллекция сосудов]]
+- [[artifacts/saqqara-collection|Саккарская коллекция]]
+- [[artifacts/saqqara-vase|Ваза из Саккары]]
+- [[artifacts/saqqara-disks|Диски из Саккары]]
+- [[places/saqqara|Саккара]]
+- [[places/giza-plateau|Гиза]]
+- [[artifacts/serapeum-sarcophagi|Саркофаги Серапеума]]
 - [[concepts/utrachennye-tekhnologii|Утраченные технологии]]
 - [[concepts/drevnie-bogi|Древние боги]]
+- [[concepts/machine-processing|Машинная обработка камня]]
 - [[books/18-drevnie-bogi|Древние боги — кто они?]]
-- [[books/24-opasnoe-nasledie|Опасное наследие богов]]
+- [[books/24-opasnoe-nasledie|Опасное наследие предков]]
+- [[books/12-tsivilizaciya-bogov-egipta|Цивилизация богов Древнего Египта]]

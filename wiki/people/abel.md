@@ -1,8 +1,7 @@
 ---
 slug: abel
 title: "Авель"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

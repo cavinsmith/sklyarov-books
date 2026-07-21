@@ -1,9 +1,8 @@
 ---
 slug: akhenaton
 title: "Эхнатон (Аменхотеп IV)"
-categories:
-  - people
-tags: []
+categories: [people]
+tags: [egypt, monotheism, aton]
 ---
 
 # Эхнатон (Аменхотеп IV)
@@ -11,6 +10,10 @@ tags: []
 Фараон XVIII династии Древнего Египта (правил около 1353–1336 гг. до н.э.). Провёл религиозную реформу, введя культ Атона как единственного бога — один из ранних примеров монотеизма.
 
 ---
+
+## Упоминание в работах
+
+- [[books/12-tsivilizaciya-bogov-egipta|Цивилизация богов древнего Египта]] — Эхнатон упоминается в контексте религиозных реформ
 
 ## Ключевые факты
 
@@ -21,7 +24,5 @@ tags: []
 
 ## См. также
 
-- [[concepts/akhenaten-reform]] — религиозная реформа Эхнатона
-- [[concepts/aton]] — Атон
-- [[people/tutankhamon]] — Тутанхамон
-- [[books/12-tsivilizaciya-bogov-egipta]] — «Цивилизация богов Египта»
+- [[people/tutankhamon|Тутанхамон]] — сын Эхнатона
+- [[books/12-tsivilizaciya-bogov-egipta|Цивилизация богов древнего Египта]]

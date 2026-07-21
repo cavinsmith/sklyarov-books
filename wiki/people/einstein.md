@@ -1,9 +1,8 @@
 ---
 slug: einstein
 title: "Эйнштейн Альберт"
-categories:
-  - people
-tags: []
+categories: [people]
+tags: [physics, relativity]
 ---
 
 # Эйнштейн Альберт
@@ -19,7 +18,13 @@ tags: []
 - Нобелевская премия по физике (1921)
 - E=mc² — соотношение массы и энергии
 
+## Упоминание в работах
+
+- [[books/28-fizika-duha|Основы физики духа]] — Эйнштейн упоминается в контексте квантовой теории и её связи с духовными концепциями
+
 ## См. также
 
 - [[concepts/teoriya-otnositelnosti]] — теория относительности
-- [[books/28-fizika-duha]] — «Физика духа»
+- [[concepts/kvantovaya-teoriya|Квантовая теория]]
+- [[books/28-fizika-duha|Основы физики духа]]
+- [[people/fritjof-kapra|Фритйоф Капра]] — автор «Дао физики»

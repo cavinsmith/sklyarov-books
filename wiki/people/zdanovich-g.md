@@ -1,8 +1,7 @@
 ---
 slug: zdanovich-g
 title: "Зданович Г."
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

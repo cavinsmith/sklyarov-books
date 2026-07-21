@@ -1,8 +1,7 @@
 ---
 slug: marks-karl
 title: "Карл Маркс"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

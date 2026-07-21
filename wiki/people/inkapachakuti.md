@@ -1,8 +1,7 @@
 ---
 slug: inkapachakuti
 title: "Инка Пачакути"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

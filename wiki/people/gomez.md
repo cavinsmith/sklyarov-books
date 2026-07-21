@@ -1,12 +1,8 @@
 ---
 slug: gomez
 title: "Эдуардо Гомес"
-categories:
-  - people
-  - researchers
-tags:
-  - nazca
-  - geoglyphs
+categories: [people]
+tags: [nazca]
 ---
 
 # Эдуардо Гомес

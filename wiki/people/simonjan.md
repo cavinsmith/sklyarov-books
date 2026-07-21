@@ -1,13 +1,8 @@
 ---
 slug: simonjan
 title: "Акоп Симонян"
-categories:
-  - people
-  - researchers
-tags:
-  - armenia
-  - bronze
-  - archaeology
+categories: [people]
+tags: [armenia, bronze]
 ---
 
 # Акоп Симонян

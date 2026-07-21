@@ -1,8 +1,7 @@
 ---
 slug: berdyaev-nikolay-aleksandrovich
 title: "Бердяев Николай Александрович"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

@@ -1,8 +1,7 @@
 ---
 slug: visente-valverde
 title: "Висенте Вальверде"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

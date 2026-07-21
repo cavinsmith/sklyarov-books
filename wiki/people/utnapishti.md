@@ -1,8 +1,7 @@
 ---
 slug: utnapishti
 title: "Утнапишти"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

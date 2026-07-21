@@ -1,8 +1,7 @@
 ---
 slug: wadjet
 title: "Уаджет"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

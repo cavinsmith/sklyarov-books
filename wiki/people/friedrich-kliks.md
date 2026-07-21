@@ -1,8 +1,7 @@
 ---
 slug: friedrich-kliks
 title: "Фридрих Кликс (Friedrich Kliegl / Friedrich Klitsch)"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

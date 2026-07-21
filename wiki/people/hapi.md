@@ -1,24 +1,24 @@
 ---
 slug: hapi
 title: "Хапи"
-categories:
-  - people
-tags: []
+categories: [people]
+tags: [egypt, nile]
 ---
 
 # Хапи
 
 Египетский бог разлива Нила. Олицетворение плодородия.
 
+## Упоминание в работах
+
+- [[books/12-tsivilizaciya-bogov-egipta|Цивилизация богов древнего Египта]] — Хапи упоминается как бог Нила
+
 ## Основные сведения
 
 - Бог Нила и его разлива
 - Символ плодородия Египта
 
-## Упоминание в работах
-
-- [[books/12-tsivilizaciya-bogov-egipta|Цивилизация богов Египта]]
-
 ## См. также
 
-- [[concepts/egyptian-pantheon]]
+- [[concepts/egyptian-pantheon|Египетский пантеон]]
+- [[books/12-tsivilizaciya-bogov-egipta|Цивилизация богов древнего Египта]]

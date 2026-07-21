@@ -1,8 +1,7 @@
 ---
 slug: horus
 title: "Гор"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

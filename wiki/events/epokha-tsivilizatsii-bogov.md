@@ -20,7 +20,7 @@ tags: [gods, civilization, ancient-history, paleokontakt]
 
 ### Характер деятельности «богов»
 
-Согласно [[books/30-yahve-protiv-baala|А. Склярову]], [[concepts/era-of-gods-civilizaciya|Эпоха цивилизации богов]] характеризуется:
+Согласно [[books/30-yahve-protiv-baala|А. Склярову]], [[concepts/era-of-gods-civilization|Эпоха цивилизации богов]] характеризуется:
 
 1. **Строительство мегалитических сооружений:** [[places/hebron|Хеврон]], [[places/ierusalim|Иерусалим]], [[places/baalbek|Баальбек]], пирамиды Гизы
 2. **Генетические эксперименты:** создание «рабочей силы» — людей

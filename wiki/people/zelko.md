@@ -1,13 +1,8 @@
 ---
 slug: zelko
 title: "Золтан Зелко"
-categories:
-  - people
-  - researchers
-tags:
-  - nazca
-  - map
-  - geoglyphs
+categories: [people]
+tags: [nazca, map]
 ---
 
 # Золтан Зелко

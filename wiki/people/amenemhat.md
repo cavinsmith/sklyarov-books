@@ -1,8 +1,7 @@
 ---
 slug: amenemhat
 title: "Аменемхат I"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

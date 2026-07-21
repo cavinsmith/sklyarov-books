@@ -1,8 +1,7 @@
 ---
 slug: frankl-viktor-emil
 title: "Виктор Эмиль Франкл"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

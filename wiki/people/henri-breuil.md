@@ -1,8 +1,7 @@
 ---
 slug: henri-breuil
 title: "Анри Брейль"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

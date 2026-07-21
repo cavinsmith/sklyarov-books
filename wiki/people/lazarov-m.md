@@ -1,13 +1,8 @@
 ---
 slug: lazarov-m
 title: "М. Лазаров"
-categories:
-  - people
-  - archaeologists
-tags:
-  - varna
-  - necropolis
-  - gold
+categories: [people]
+tags: [varna, necropolis]
 ---
 
 # М. Лазаров

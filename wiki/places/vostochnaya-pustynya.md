@@ -65,5 +65,5 @@ tags: [Египет, золото, рудники, древняя металлу
 
 - [[artifacts/karta-zolotyh-rudnikov|Карта золотых рудников]]
 - [[books/22-metally|Металлы]]
-- [[concepts/ancient-metallurgy|Древняя металлургия]]
+- [[concepts/metalloobrabotka|Древняя металлургия]]
 - [[places/nubia|Нубия]]

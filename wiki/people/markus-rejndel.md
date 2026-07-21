@@ -1,8 +1,7 @@
 ---
 slug: markus-rejndel
 title: "Маркус Рейндель"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

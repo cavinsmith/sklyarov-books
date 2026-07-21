@@ -1,8 +1,7 @@
 ---
 slug: indeks-personaliy
 title: "Индекс персоналий"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 
@@ -304,7 +303,7 @@ tags: []
 - [[people/siriyane]] — Сирийцы
 - [[people/maya-people]] — Майя
 - [[people/alunni]] — Алуни
-- [[people/fu-si]] — Фу Си (伏羲, Fu Xi)
+- [[people/fu-si]] — Фу Си (Фу Си, Fu Xi)
 - [[people/ten-v]] — Тен В.
 - [[people/indiyce]] — Индице
 - [[people/djon-dey]] — Джон Дэй

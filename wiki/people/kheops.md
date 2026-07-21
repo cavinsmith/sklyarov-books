@@ -1,8 +1,7 @@
 ---
 slug: kheops
 title: "Хеопс (Хуфу)"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

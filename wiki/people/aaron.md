@@ -1,8 +1,7 @@
 ---
 slug: aaron
 title: "Аарон (Харун)"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

@@ -2,12 +2,12 @@
 slug: acoustic-properties
 title: Акустические свойства
 categories: [concepts]
-tags: [acoustics, architecture, pyramids, resonance]
+tags: [acoustics, architecture, pyramids, resonance, ancient-technology]
 ---
 
 # Акустические свойства
 
-Свойства сооружений и объектов, связанные с резонансом, усилением или модификацией звука. В контексте работ Склярова - акустические свойства мегалитических сооружений.
+Свойства сооружений и объектов, связанные с резонансом, усилением или модификацией звука. В контексте работ [[people/andrey-sklyarov|Андрея Склярова]] — акустические свойства мегалитических сооружений как свидетельство высоких технологий.
 
 ---
 
@@ -17,11 +17,37 @@ tags: [acoustics, architecture, pyramids, resonance]
 - Использование в храмовых комплексах
 - Связь с акустическими экспериментами
 - Возможное применение для воздействия на сознание
+- Большая Галерея Великой пирамиды как акустический резонатор
+
+---
+
+## Примеры акустических сооружений
+
+- [[artifacts/great-pyramid|Великая пирамида Гизы]] — Большая Галерея как резонатор
+- [[places/baalbek|Баальбек]] — мегалитический комплекс
+- [[places/teotihuacan|Теотиуакан]] — акустические эффекты в пирамиде Солнца
+
+---
+
+## Связанные концепции
+
+- [[concepts/pyramid-effect]] — Эффект пирамид
+- [[concepts/pyramid-as-antenna]] — Пирамида как антенна
+- [[concepts/pyramid-as-power-plant]] — Пирамида как электростанция
+- [[concepts/machine-processing]] — Машинная обработка камня
+- [[concepts/megalithic-architecture]] — Мегалитическая архитектура
+
+---
+
+## Книги
+
+- [[books/17-piramidy|Пирамиды]] — акустические свойства пирамид
+- [[books/18-drevnie-bogi|Древние боги]] — технология «богов»
 
 ---
 
 ## См. также
 
-- [[concepts/pyramid-effect]] - Эффект пирамид
-- [[concepts/pyramid-as-antenna]] - Пирамида как антенна
-- [[books/17-piramidy]]
+- [[concepts/pyramid-energy]] — Пирамидальная энергетика
+- [[concepts/utrachennye-tekhnologii]] — Утраченные технологии
+- [[concepts/drevnie-tehnologii]] — Древние технологии

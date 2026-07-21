@@ -1,8 +1,7 @@
 ---
 slug: grigorev-sergej
 title: "Григорьев Сергей"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

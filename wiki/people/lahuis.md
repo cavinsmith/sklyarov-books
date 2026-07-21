@@ -1,8 +1,7 @@
 ---
 slug: lahuis
 title: "Лауис Фред"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

@@ -1,8 +1,7 @@
 ---
 slug: piya
 title: "Пиа Ю."
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

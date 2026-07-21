@@ -1,8 +1,7 @@
 ---
 slug: havyer-kabrera
 title: "Хавьер Кабрера"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

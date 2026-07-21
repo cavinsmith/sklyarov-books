@@ -1,8 +1,7 @@
 ---
 slug: manetho
 title: "Манефон (Manetho)"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

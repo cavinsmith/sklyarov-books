@@ -1,8 +1,7 @@
 ---
 slug: bel
 title: "Бел"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

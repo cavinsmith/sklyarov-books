@@ -1,8 +1,7 @@
 ---
 slug: william-smith
 title: "Уильям Смит"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

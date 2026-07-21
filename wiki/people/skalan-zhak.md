@@ -1,8 +1,7 @@
 ---
 slug: skalan-zhak
 title: "Жак Скалан"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

@@ -1,8 +1,7 @@
 ---
 slug: shlikman-genrikh
 title: "Шлиман Генрих"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

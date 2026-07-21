@@ -1,12 +1,8 @@
 ---
 slug: kuk-k
 title: "К. Кук"
-categories:
-  - people
-  - researchers
-tags:
-  - metallurgy
-  - south-america
+categories: [people]
+tags: [metallurgy]
 ---
 
 # К. Кук

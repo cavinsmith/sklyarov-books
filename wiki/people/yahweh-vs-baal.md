@@ -1,8 +1,7 @@
 ---
 slug: yahweh-vs-baal
 title: "Конфликт Яхве и Баала"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

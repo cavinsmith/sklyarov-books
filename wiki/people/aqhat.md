@@ -1,8 +1,7 @@
 ---
 slug: aqhat
 title: "Акхат"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

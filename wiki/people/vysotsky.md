@@ -1,15 +1,8 @@
 ---
 slug: vysotsky
 title: "Владимир Высоцкий"
-categories:
-  - people
-  - poets
-  - singers
-tags:
-  - literature
-  - russia
-  - bard
-  - songs
+categories: [people]
+tags: [literature, russia, bard]
 ---
 
 # Владимир Высоцкий

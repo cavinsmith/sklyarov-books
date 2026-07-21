@@ -1,13 +1,8 @@
 ---
 slug: tolstoy
 title: "Лев Толстой"
-categories:
-  - people
-  - writers
-tags:
-  - literature
-  - russia
-  - war-and-peace
+categories: [people]
+tags: [literature, russia]
 ---
 
 # Лев Толстой

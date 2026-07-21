@@ -45,6 +45,10 @@ tags:
 
 ## Связанные сущности
 
+- [[artifacts/nadpisi-vaiza|Надписи Ваиза]]
+- [[artifacts/uriy|Урий]]
 - [[concepts/ural-spirals]] — спиральные мотивы как универсальный символ
-- [[books/24-opasnoe-nasledie]] — книга с упоминанием плиты
 - [[concepts/paleokontakt]] — возможные трансконтинентальные контакты
+- [[concepts/edinaya-pismennost|Единая письменность]]
+- [[books/24-opasnoe-nasledie]] — книга с упоминанием плиты
+- [[books/06-vavilonskaya-bashnya|Вавилонская башня — рекордсмен долгостроя]]

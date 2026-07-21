@@ -1,8 +1,7 @@
 ---
 slug: enlil
 title: "Энлиль"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

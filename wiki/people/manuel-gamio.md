@@ -1,8 +1,7 @@
 ---
 slug: manuel-gamio
 title: "Мануэль Гамио"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

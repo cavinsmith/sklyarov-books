@@ -1,8 +1,7 @@
 ---
 slug: hadad
 title: "Хадад (Адад, Рамман)"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

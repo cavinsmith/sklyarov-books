@@ -1,8 +1,7 @@
 ---
 slug: eye
 title: "Эйе (Eye)"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

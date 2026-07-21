@@ -1,8 +1,7 @@
 ---
 slug: sehmet
 title: "Сехмет"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

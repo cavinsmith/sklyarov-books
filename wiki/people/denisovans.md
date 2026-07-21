@@ -1,8 +1,7 @@
 ---
 slug: denisovans
 title: "Денисовцы"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

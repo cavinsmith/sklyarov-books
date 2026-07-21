@@ -1,8 +1,7 @@
 ---
 slug: byrd
 title: "Бэрд (Byrd)"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

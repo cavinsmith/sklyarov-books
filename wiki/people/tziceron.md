@@ -1,8 +1,7 @@
 ---
 slug: tziceron
 title: "Цицерон"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

@@ -1,8 +1,7 @@
 ---
 slug: mariette
 title: "Огюст Мариетт"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

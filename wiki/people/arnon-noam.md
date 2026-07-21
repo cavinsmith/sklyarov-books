@@ -1,8 +1,7 @@
 ---
 slug: arnon-noam
 title: "Арнон Ноам"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

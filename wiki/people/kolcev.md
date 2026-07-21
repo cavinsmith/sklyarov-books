@@ -1,13 +1,8 @@
 ---
 slug: kolcev
 title: "Иван Кольцов"
-categories:
-  - people
-  - researchers
-tags:
-  - nazca
-  - burials
-  - geoglyphs
+categories: [people]
+tags: [nazca, burials]
 ---
 
 # Иван Кольцов

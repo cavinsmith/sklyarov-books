@@ -1,8 +1,7 @@
 ---
 slug: lenin
 title: "Ленин Владимир Ильич"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

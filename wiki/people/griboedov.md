@@ -1,13 +1,8 @@
 ---
 slug: griboedov
 title: "Александр Грибоедов"
-categories:
-  - people
-  - writers
-tags:
-  - literature
-  - russia
-  - wit
+categories: [people]
+tags: [literature, russia]
 ---
 
 # Александр Грибоедов

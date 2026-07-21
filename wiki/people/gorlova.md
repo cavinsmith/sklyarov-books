@@ -1,9 +1,8 @@
 ---
 slug: gorlova
 title: "Горлова"
-categories:
-  - people
-tags: [геолог, исследователь, металлургия, Япония]
+categories: [people]
+tags: []
 ---
 
 # Горлова

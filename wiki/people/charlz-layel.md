@@ -1,8 +1,7 @@
 ---
 slug: charlz-layel
 title: "Чарльз Лайель (Charles Lyell)"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

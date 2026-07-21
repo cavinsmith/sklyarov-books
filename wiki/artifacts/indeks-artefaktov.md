@@ -1,13 +1,13 @@
 ---
 slug: indeks-artefaktov
 title: "Индекс артефактов"
-categories: artifacts
+categories: [artifacts]
 tags: []
 ---
 
 # Индекс артефактов
 
-Все артефакты, упоминаемые в работах [[people/andrey-sklyarov|Андрея Склярова]] и в вики.
+Все артефакты, упоминаемые в работах [[people/andrey-sklyarov|Андрея Склярова]], описанные в книгах серии [[books/01-mif-o-potope|«Миф о Потопе»]], [[books/02-olyantaytambo|«Ольянтайтамбо»]], [[books/05-rodina-bogov|«Родина богов»]] и других изданиях.
 
 ---
 
@@ -124,5 +124,3 @@ tags: []
 
 
 ## Дубли
-
-- [[artifacts/indeks-artefaktov]] — Индекс артефактов (дубль)

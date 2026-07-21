@@ -1,8 +1,7 @@
 ---
 slug: dmitriy-pavlov
 title: "Дмитрий Павлов"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

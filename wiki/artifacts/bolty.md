@@ -46,9 +46,15 @@ tags: [артефакт, аномалия, металлические издел
 - Возможности длительного сохранения металлических изделий
 - Соотношении между археологической и геологической хронологиями
 
+---
+
 ## Связанные страницы
 
+- [[artifacts/boltik-v-kamne]] — Болтик в камне
+- [[artifacts/molotok-iz-texasa]] — Техасский молоток
+- [[artifacts/objekt-ayud]] — Объект из Аюда
 - [[books/22-metally|Металлы]]
 - [[books/09-geohronologiya|Геохронология]]
 - [[books/24-opasnoe-nasledie|Опасное наследие]]
 - [[concepts/anachronizmy|Анахронизмы]]
+- [[concepts/utrachennye-tekhnologii|Утраченные технологии]]

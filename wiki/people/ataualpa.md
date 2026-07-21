@@ -1,8 +1,7 @@
 ---
 slug: ataualpa
 title: "Атауальпа"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

@@ -1,8 +1,7 @@
 ---
 slug: byeuvell-robert
 title: "Бьювелл Роберт"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

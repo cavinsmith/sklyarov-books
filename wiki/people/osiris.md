@@ -1,8 +1,7 @@
 ---
 slug: osiris
 title: "Осирис"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

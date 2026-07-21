@@ -1,13 +1,8 @@
 ---
 slug: telelinger
 title: "М. Теллингер"
-categories:
-  - people
-  - researchers
-tags:
-  - mines
-  - south-africa
-  - ancient-technology
+categories: [people]
+tags: [mines]
 ---
 
 # М. Теллингер

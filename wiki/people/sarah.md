@@ -1,8 +1,7 @@
 ---
 slug: sarah
 title: "Сара"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

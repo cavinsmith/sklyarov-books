@@ -1,17 +1,17 @@
 ---
 slug: menkaure
-title: Менкаур (Микерин)
+title: "Менкаур (Микерин)"
 categories: [people]
-tags: [egypt, pharaoh, pyramid, dynasty-iv]
+tags: [egypt, giza, pyramid]
 ---
 
 # Менкаур (Микерин)
 
-**Годы правления:** ок. 2533—2505 гг. до н.э. (по традиционной хронологии)
-**Династия:** IV династия
-**Памятник:** [[artifacts/mikerin-piramida|Пирамида Менкаура]]
+Пятый фараон IV династии Древнего Египта. Построил третью (наименьшую) пирамиду на плато [[places/giza-plateau|Гизы]].
 
-Пятый фараон IV династии Древнего Египта. Построил третью (наименьшую) пирамиду на плато Гизы.
+## Упоминание в работах
+
+- [[books/12-tsivilizaciya-bogov-egipta|Цивилизация богов древнего Египта]] — Менкаур упоминается в контексте пирамид Гизы
 
 ## Основные сведения
 
@@ -27,13 +27,8 @@ tags: [egypt, pharaoh, pyramid, dynasty-iv]
 - Наклон граней: ~51°
 - Облицовка из известняка и гранита
 
-## Упоминание в работах
-
-- [[books/12-tsivilizaciya-bogov-egipta]]
-
 ## См. также
 
-- [[artifacts/mikerin-piramida]] — Пирамида Менкаура
-- [[people/khafra]] — Хафра, отец Менкаура
-- [[places/giza-plateau]] — Плато Гизы
-- [[books/12-tsivilizaciya-bogov-egipta]]
+- [[people/khafra|Хафра]] — отец Менкаура
+- [[places/giza-plateau|Плато Гизы]]
+- [[books/12-tsivilizaciya-bogov-egipta|Цивилизация богов древнего Египта]]

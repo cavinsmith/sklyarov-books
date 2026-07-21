@@ -1,13 +1,8 @@
 ---
 slug: edgar
 title: "Робин Эдгар"
-categories:
-  - people
-  - researchers
-tags:
-  - nazca
-  - eye-of-god
-  - eclipses
+categories: [people]
+tags: [nazca]
 ---
 
 # Робин Эдгар

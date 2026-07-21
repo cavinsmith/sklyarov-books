@@ -1,8 +1,7 @@
 ---
 slug: a-v-lalomov
 title: "А.В. Лаломов"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

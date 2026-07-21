@@ -1,13 +1,8 @@
 ---
 slug: sitchin
 title: "Захария Ситчин"
-categories:
-  - people
-  - researchers
-tags:
-  - anunnaki
-  - sumer
-  - paleocontact
+categories: [people]
+tags: [anunnaki, sumer]
 ---
 
 # Захария Ситчин

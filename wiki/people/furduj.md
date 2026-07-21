@@ -1,8 +1,7 @@
 ---
 slug: furduj
 title: "Фурдуй"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

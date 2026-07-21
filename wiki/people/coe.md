@@ -1,13 +1,8 @@
 ---
 slug: coe
 title: "Майкл Ко"
-categories:
-  - people
-  - researchers
-tags:
-  - nazca
-  - ceremonial
-  - geoglyphs
+categories: [people]
+tags: [nazca, ceremonial]
 ---
 
 # Майкл Ко

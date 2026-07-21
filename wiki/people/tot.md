@@ -1,8 +1,7 @@
 ---
 slug: tot
 title: "Тот"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

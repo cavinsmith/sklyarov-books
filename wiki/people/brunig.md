@@ -1,13 +1,8 @@
 ---
 slug: brunig
 title: "Георг А. фон Брюниг"
-categories:
-  - people
-  - researchers
-tags:
-  - nazca
-  - sports
-  - geoglyphs
+categories: [people]
+tags: [nazca, sports]
 ---
 
 # Георг А. фон Брюниг

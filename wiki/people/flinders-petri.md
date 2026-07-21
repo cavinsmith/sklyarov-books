@@ -1,8 +1,7 @@
 ---
 slug: flinders-petri
 title: "Флиндерс Петри"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

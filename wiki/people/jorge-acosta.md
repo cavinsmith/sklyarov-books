@@ -1,9 +1,8 @@
 ---
 slug: jorge-acosta
 title: "Хорхе Акоста"
-categories:
-  - people
-tags: [archaeology, mexico, teotihuacan]
+categories: [people]
+tags: []
 ---
 
 # Хорхе Акоста

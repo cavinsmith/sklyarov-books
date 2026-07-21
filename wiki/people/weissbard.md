@@ -1,13 +1,8 @@
 ---
 slug: weissbard
 title: "Симона Вайсбард"
-categories:
-  - people
-  - researchers
-tags:
-  - nazca
-  - calendar
-  - geoglyphs
+categories: [people]
+tags: [nazca, calendar]
 ---
 
 # Симона Вайсбард

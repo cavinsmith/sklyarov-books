@@ -1,8 +1,7 @@
 ---
 slug: paul-kosok
 title: "Поль Косок"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

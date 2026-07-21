@@ -1,8 +1,7 @@
 ---
 slug: enki
 title: "Энки"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

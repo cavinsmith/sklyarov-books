@@ -1,8 +1,7 @@
 ---
 slug: maxim-yakovenko
 title: "Максим Яковенко"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

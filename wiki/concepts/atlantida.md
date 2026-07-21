@@ -25,7 +25,6 @@ tags: []
 ## Связанные концепции
 
 - [[concepts/predpotopnaya-civilizaciya]] — допотопная цивилизация как возможный прототип Атлантиды
-- [[concepts/atlantida]] — Атлантида в контексте катастрофизма
 - [[concepts/civilization-of-gods]] — цивилизация богов как наследие Атлантиды
 - [[concepts/podvodnaya-arkheologiya]] — подводные поиски руин Атлантиды
 

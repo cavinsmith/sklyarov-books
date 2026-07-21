@@ -1,8 +1,7 @@
 ---
 slug: khammurapi
 title: "Хаммурапи"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

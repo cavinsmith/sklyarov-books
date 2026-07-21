@@ -1,8 +1,7 @@
 ---
 slug: erazm-darvin
 title: "Иразм Дарвин (Erasmus Darwin)"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

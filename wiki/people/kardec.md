@@ -1,8 +1,7 @@
 ---
 slug: kardec
 title: "Карде-Аллан (Аллан Карде)"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

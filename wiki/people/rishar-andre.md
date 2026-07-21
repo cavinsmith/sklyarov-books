@@ -1,8 +1,7 @@
 ---
 slug: rishar-andre
 title: "Ришар Андре"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

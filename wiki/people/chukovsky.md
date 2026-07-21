@@ -1,13 +1,8 @@
 ---
 slug: chukovsky
 title: "Корней Чуковский"
-categories:
-  - people
-  - writers
-tags:
-  - literature
-  - russia
-  - children
+categories: [people]
+tags: [literature, russia]
 ---
 
 # Корней Чуковский

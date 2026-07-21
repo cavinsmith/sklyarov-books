@@ -1,8 +1,7 @@
 ---
 slug: cain
 title: "Каин"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

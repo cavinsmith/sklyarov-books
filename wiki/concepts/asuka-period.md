@@ -26,7 +26,7 @@ tags: []
 ## Связанные концепции
 
 - [[concepts/drevnyaya-pismennost]] — появление письменности в Японии
-- [[concepts/moreplavanie]] — мореплавание как условие文化传播а
+- [[concepts/moreplavanie]] — мореплавание как условиекультурного влияния
 - [[concepts/predpotopnaya-civilizaciya]] — связь с допотопными цивилизациями
 
 ## Книги, в которых обсуждается

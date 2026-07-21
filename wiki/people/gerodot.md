@@ -1,8 +1,7 @@
 ---
 slug: gerodot
 title: "Геродот"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

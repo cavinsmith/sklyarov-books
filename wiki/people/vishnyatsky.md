@@ -1,19 +1,33 @@
 ---
 slug: vishnyatsky
 title: "Лев Вишняцкий"
-categories:
-  - people
-tags: []
+categories: [people]
+tags: [paleoanthropology, neanderthals, evolution]
 ---
 
 # Лев Вишняцкий
 
-Палеоантрополог, исследование неандертальцев.
+Палеоантрополог, исследователь неандертальцев и эволюции человека.
 
 ## Упоминание в работах
 
-- [[books/21-geneticheskiy-kod|Генетический код человечества]]
+- [[books/21-geneticheskiy-kod|Генетический код человечества]] — Вишняцкий упоминается в контексте изучения эволюции человека
 
-## См. также
+## Ключевые исследования
 
-- [[people/andrey-sklyarov]]
+- Изучение неандертальцев
+- Проблемы антропогенеза
+- Соотношение археологических и генетических данных
+
+## Связанные концепции
+
+- [[concepts/human-evolution]] — Эволюция человека
+- [[concepts/paleoanthropology]] — Палеоантропология
+- [[concepts/evolycionizm]] — Эволюционизм
+- [[concepts/teoriya-evolyucii]] — Теория эволюции
+
+## Связанные персоналии
+
+- [[people/andrey-sklyarov]] — Андрей Скляров
+- [[people/richard-leakey]] — Ричард Лики, палеоантрополог
+- [[people/jeffrey-schwartz]] — Джеффри Шварц, антрополог

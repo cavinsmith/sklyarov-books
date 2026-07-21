@@ -1,9 +1,8 @@
 ---
 slug: feneleos
 title: "Фенелеос"
-categories:
-  - people
-tags: [археолог, металлургия, Ближний Восток]
+categories: [people]
+tags: []
 ---
 
 # Фенелеос
@@ -41,5 +40,5 @@ tags: [археолог, металлургия, Ближний Восток]
 ## Связанные страницы
 
 - [[books/22-metally|Металлы]]
-- [[concepts/ancient-metallurgy|Древняя металлургия]]
+- [[concepts/metalloobrabotka|Древняя металлургия]]
 - [[places/blizhniy-vostok|Ближний Восток]]

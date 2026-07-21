@@ -1,8 +1,7 @@
 ---
 slug: kothar-wa-khasis
 title: "Котар-ва-Хасис"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

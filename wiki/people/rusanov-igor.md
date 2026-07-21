@@ -1,8 +1,7 @@
 ---
 slug: rusanov-igor
 title: "Русанов Игорь"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

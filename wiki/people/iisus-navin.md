@@ -1,8 +1,7 @@
 ---
 slug: iisus-navin
 title: "Иисус Навин"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

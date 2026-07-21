@@ -1,8 +1,7 @@
 ---
 slug: ivanov-a
 title: "Иванов А."
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

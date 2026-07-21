@@ -1,13 +1,8 @@
 ---
-slug: oza
+slug: ozar
 title: "Оза"
-categories:
-  - people
-  - biblical
-tags:
-  - ark-of-covenant
-  - death
-  - biblical
+categories: [people, biblical]
+tags: []
 ---
 
 # Оза

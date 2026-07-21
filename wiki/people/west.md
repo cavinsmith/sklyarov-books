@@ -1,8 +1,7 @@
 ---
 slug: west
 title: "Грэм Уэст"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

@@ -1,8 +1,7 @@
 ---
 slug: yung
 title: "Юнг Карл Густав"
-categories:
-  - people
+categories: [people]
 tags: []
 ---
 

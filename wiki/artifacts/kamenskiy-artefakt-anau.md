@@ -30,7 +30,10 @@ tags: []
 ## См. также
 
 - [[places/jarmo|Анау / Джармо]]
+- [[artifacts/tyerteriyskie-tablichki|Тэртерийские таблички]]
 - [[concepts/edinaya-pismennost|Единая письменность]]
 - [[concepts/piktografika-i-ieroglifika|Пиктографика и иероглифика]]
 - [[concepts/veshchiy-yazyk-bogov|Вещий язык богов]]
+- [[concepts/drevneevropeyskaya-civilizaciya|Древнеевропейская цивилизация]]
 - [[books/06-vavilonskaya-bashnya|Вавилонская башня — рекордсмен долгостроя]]
+- [[books/24-opasnoe-nasledie|Опасное наследие предков]]
