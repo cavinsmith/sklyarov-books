@@ -1,3 +1,10 @@
+---
+slug: okukakhe
+title: "Окукахе"
+categories: [places]
+tags: []
+---
+
 # Окукахе
 
 ## Описание

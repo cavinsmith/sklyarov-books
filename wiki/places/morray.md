@@ -1,3 +1,10 @@
+---
+slug: morray
+title: "Морray"
+categories: [places]
+tags: []
+---
+
 # Морray
 
 ## Описание

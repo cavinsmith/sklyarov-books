@@ -1,3 +1,10 @@
+---
+slug: veshchiy-yazyk-bogov
+title: "Вещий язык богов"
+categories: [concepts]
+tags: []
+---
+
 # Вещий язык богов
 
 Понятие, обсуждаемое в книге «[[books/06-vavilonskaya-bashnya|Вавилонская башня]]» [[people/andrey-sklyarov|Андрея Склярова]]. Обозначает [[concepts/edinaya-pismennost|единую письменную систему]], данные «богами» (высокоразвитыми существами) человечеству как инструмент знания и координации.

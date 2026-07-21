@@ -1,3 +1,10 @@
+---
+slug: kvantovaya-teoriya
+title: "Квантовая теория"
+categories: [concepts]
+tags: []
+---
+
 # Квантовая теория
 
 **Другие названия:** Квантовая механика, Quantum mechanics

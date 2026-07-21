@@ -1,3 +1,11 @@
+---
+slug: christopher-dunn
+title: "Кристофер Данн"
+categories:
+  - people
+tags: []
+---
+
 # Кристофер Данн
 
 **Полное имя:** Кристофер Данн (Christopher Dunn)

@@ -1,3 +1,11 @@
+---
+slug: nimrod
+title: "Нимрод"
+categories:
+  - people
+tags: []
+---
+
 # Нимрод
 
 **Полное имя:** Нимрод (נִמְרוֹד)  

@@ -1,3 +1,11 @@
+---
+slug: friedrich-kliks
+title: "Фридрих Кликс (Friedrich Kliegl / Friedrich Klitsch)"
+categories:
+  - people
+tags: []
+---
+
 # Фридрих Кликс (Friedrich Kliegl / Friedrich Klitsch)
 
 Немецкий исследователь, автор работы «Awakening Mind» («Пробуждение разума»), в которой описана эволюция письменности от примитивных знаков до развитых систем письма.

@@ -1,3 +1,11 @@
+---
+slug: herod-great
+title: "Ирод Великий"
+categories:
+  - people
+tags: []
+---
+
 # Ирод Великий
 
 **Полное имя:** Ирод I Великий  

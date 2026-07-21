@@ -1,3 +1,10 @@
+---
+slug: okukeros
+title: "Уакерос"
+categories: [concepts]
+tags: []
+---
+
 # Уакерос
 
 ## Описание

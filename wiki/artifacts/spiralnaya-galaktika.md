@@ -1,3 +1,10 @@
+---
+slug: spiralnaya-galaktika
+title: "«Спиральная галактика» (керамика)"
+categories: artifacts
+tags: []
+---
+
 # «Спиральная галактика» (керамика)
 
 ## Описание
@@ -16,5 +23,5 @@
 ## Связанные страницы
 - [[places/lima]]
 - [[artifacts/kamni-iki]]
-- [[concepts/Палеоконтакт]]
+- [[concepts/paleokontakt]]
 - [[books/15-peru-i-boliviya|«Перу и Боливия задолго до инков»]]

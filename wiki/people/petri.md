@@ -1,0 +1,31 @@
+---
+slug: petri
+title: "Флиндерс Петри"
+categories:
+  - people
+  - researchers
+  - egyptology
+tags:
+  - egypt
+  - archaeology
+  - pyramid
+  - measurements
+---
+
+# Флиндерс Петри
+
+**Флиндерс Петри** (сэр Уильям Мэтью Флиндерс Петри, 1853–1942) — британский египтолог и археолог, один из основателей научной египтологии.
+
+## Контекст
+
+Валидация выявила дублирование: `petri` и `flinders-petri`. Основная статья: [[people/flinders-petri|Флиндерс Петри]].
+
+## Источники
+
+- [[books/17-piramidy|Пирамиды: загадки строительства и назначения]]
+
+## См. также
+
+- [[people/flinders-petri|Флиндерс Петри]]
+- [[places/giza-plateau|Гиза]]
+- [[concepts/geopolimery|Геополимеры]]

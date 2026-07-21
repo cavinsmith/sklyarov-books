@@ -1,3 +1,11 @@
+---
+slug: robert-schoch
+title: "Роберт Шоч"
+categories:
+  - people
+tags: []
+---
+
 # Роберт Шоч
 
 **Полное имя:** Роберт М. Шоч (Robert M. Schoch)

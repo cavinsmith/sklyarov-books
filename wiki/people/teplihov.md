@@ -1,0 +1,27 @@
+---
+slug: teplihov
+title: "С. Теплоухов"
+categories:
+  - people
+  - researchers
+tags:
+  - andronovo
+  - archaeology
+---
+
+# С. Теплоухов
+
+**С. Теплоухов** — российский археолог, выделивший андроновскую культуру.
+
+## Примечание
+
+Валидация выявила дублирование: `teplihov` и `teplohov`. Основная статья: [[people/teplohov|С. Теплоухов]].
+
+## Источники
+
+- [[books/05-rodina-bogov|Какова ты, Родина Богов?]]
+
+## См. также
+
+- [[people/teplohov|С. Теплоухов]]
+- [[concepts/kurgannaya-kultura|Курганная культура]]

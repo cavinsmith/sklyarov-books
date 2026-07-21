@@ -1,3 +1,11 @@
+---
+slug: alla-belokon
+title: "Алла Белоконь"
+categories:
+  - people
+tags: []
+---
+
 # Алла Белоконь
 
 ## Описание

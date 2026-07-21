@@ -1,3 +1,11 @@
+---
+slug: manejon
+title: "Манефон"
+categories:
+  - people
+tags: []
+---
+
 # Манефон
 
 **Полное имя:** Манефон из Себеннита (Manetho)

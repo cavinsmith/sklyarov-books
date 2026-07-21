@@ -1,3 +1,11 @@
+---
+slug: havyer-kabrera
+title: "Хавьер Кабрера"
+categories:
+  - people
+tags: []
+---
+
 # Хавьер Кабрера
 
 ## Описание
@@ -32,5 +40,5 @@
 - [[places/ika]]
 - [[people/don-patton]]
 - [[people/soldi-bratya|Братья Сольди]]
-- [[concepts/Палеоконтакт]]
+- [[concepts/paleokontakt]]
 - [[books/15-peru-i-boliviya|«Перу и Боливия задолго до инков»]]

@@ -1,3 +1,10 @@
+---
+slug: java
+title: "Ява"
+categories: [places]
+tags: []
+---
+
 # Ява
 
 Остров в составе Индонезии, один из крупнейших в мире, известный археологическими находками и[[artifacts/homo-erectus-java|останками Homo erectus]].
@@ -19,5 +26,5 @@
 
 - [[artifacts/homo-erectus-java|Homo erectus Java]] — останки древних людей
 - [[events/nahodka-java|Находка в Яве]] — история открытия
-- [[concepts/evolyucionizm|Эволюционизм]] — теория, для которой Ява является ключевым местом
+- [[concepts/evolycionizm|Эволюционизм]] — теория, для которой Ява является ключевым местом
 - [[events/nahodka-lucy|Находка Люси]] — параллельная находка в Африке

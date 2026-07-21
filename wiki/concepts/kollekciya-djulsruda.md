@@ -1,3 +1,10 @@
+---
+slug: kollekciya-djulsruda
+title: "Коллекция Дьюлсерда"
+categories: [concepts]
+tags: []
+---
+
 # Коллекция Дьюлсерда
 
 **Другие названия:** Коллекция Дьюлс-Руда  
@@ -19,7 +26,7 @@
 ## Связанные концепции
 
 - [[concepts/civilization-of-gods]] — находки как свидетельства древней цивилизации
-- [[concepts/lost-technology]] — утраченные технологии, отражённые в находках
+- [[concepts/utrachennye-tekhnologii]] — утраченные технологии, отражённые в находках
 - [[concepts/predpotopnaya-civilizaciya]] — допотопная цивилизация как объяснение находок
 - [[concepts/razgrom-mifov]] — разбор стандартных объяснений
 

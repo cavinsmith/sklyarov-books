@@ -1,3 +1,10 @@
+---
+slug: high-tech-mesoamerica
+title: "High-tech Мезоамерика"
+categories: [concepts]
+tags: []
+---
+
 # High-tech Мезоамерика
 
 **Другие названия:** Высокие технологии Мезоамерики, Технологии ольмеков  

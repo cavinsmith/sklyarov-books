@@ -1,3 +1,10 @@
+---
+slug: ika
+title: "Ика"
+categories: [places]
+tags: []
+---
+
 # Ика
 
 ## Описание

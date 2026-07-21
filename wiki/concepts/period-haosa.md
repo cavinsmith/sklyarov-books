@@ -1,3 +1,10 @@
+---
+slug: period-haosa
+title: "Период хаоса"
+categories: [concepts]
+tags: []
+---
+
 # Период хаоса
 
 Эпоха глубокого кризиса и разрушения цивилизаций, наступившая после [[events/voyna-bogov-iv-tysyacheletie|Войны богов]] (~3500-3100 до н.э.). Описывается в книге «[[books/06-vavilonskaya-bashnya|Вавилонская башня]]» [[people/andrey-sklyarov|Андрея Склярова]] как прямое следствие утраты [[concepts/edinaya-pismennost|единой письменности]] и перехода к [[concepts/foneticheskoe-pismo|фонетическому письму]].
@@ -6,7 +13,7 @@
 
 ## Географический охват
 
-- **Европа** — уничтожение [[concepts/drevneevropeyskaya-civilizaciya|Древнеевропейской цивилизации]] курганщиками (по [[people/mariya-gimbutas|Гимбутас]])
+- **Европа** — уничтожение [[concepts/drevneevropeyskaya-civilizaciya|Древнеевропейской цивилизации]] курганщиками (по [[people/gimbutas|Гимбутас]])
 - **Индия** — разрушение цивилизации Хараппы / Мохенджо-Даро
 - **Месопотамия** — разрушение шумерских городов
 - **Центральная Азия** — исчезновение [[concepts/edinaya-pismennost|БМАК]] (Бактрийско-Маргианского комплекса)
@@ -31,9 +38,11 @@
 
 ## См. также
 
-- [[events/voyna-bogov-iv-tysyacheletie|Война богов IV тысячелетия до н.э.]]
+- [[concepts/voyna-bogov|Война богов]]
 - [[concepts/edinaya-pismennost|Единая письменность]]
 - [[concepts/drevneevropeyskaya-civilizaciya|Древнеевропейская цивилизация]]
+- [[concepts/kurgannaya-kultura|Курганная культура]]
+- [[concepts/zolotoy-vek|Золотой век]]
 - [[concepts/voyna-bogov|Война богов]]
 - [[books/06-vavilonskaya-bashnya|Вавилонская башня — рекордсмен долгостроя]]
 - [[books/07-radio-uglerodnoe-datirovanie|Вавилонская башня -- рекордсмен долгостроя (подробный анализ)]]

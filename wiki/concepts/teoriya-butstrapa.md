@@ -1,3 +1,10 @@
+---
+slug: teoriya-butstrapa
+title: "Теория бутстрапа"
+categories: [concepts]
+tags: []
+---
+
 # Теория бутстрапа
 
 **Другие названия:** Bootstrap theory

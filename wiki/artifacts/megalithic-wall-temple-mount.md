@@ -1,3 +1,10 @@
+---
+slug: megalithic-wall-temple-mount
+title: "Мегалитическая стена Храмовой горы"
+categories: artifacts
+tags: []
+---
+
 # Мегалитическая стена Храмовой горы
 
 **Местоположение:** [[places/temple-mount|Храмовая гора]], Иерусалим  

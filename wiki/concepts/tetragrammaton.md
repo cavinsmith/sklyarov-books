@@ -1,3 +1,10 @@
+---
+slug: tetragrammaton
+title: "Тетраграмматон"
+categories: [concepts]
+tags: []
+---
+
 # Тетраграмматон
 
 **Другие названия:** YHWH, Имя Божье, Четырёхбуквенное имя  

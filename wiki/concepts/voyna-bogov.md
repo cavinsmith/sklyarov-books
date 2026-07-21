@@ -1,3 +1,10 @@
+---
+slug: voyna-bogov
+title: "Война богов"
+categories: [concepts]
+tags: []
+---
+
 # Война богов
 
 Центральная концепция книги «[[books/06-vavilonskaya-bashnya|Вавилонская башня]]» [[people/andrey-sklyarov|Андрея Склярова]]. Масштабный конфликт между группировками «богов» (высокоразвитых существ), происходивший около 3500-3100 до н.э., результатом которого стала утрата [[concepts/edinaya-pismennost|единой письменности]], [[concepts/period-haosa|Период хаоса]] и гибель нескольких древних цивилизаций.
@@ -17,7 +24,7 @@
 - «Боги» — высокоразвитые существа, создавшие и обучавшие древние цивилизации
 
 ### Потери
-- Уничтожение [[concepts/drevneevropeyskaya-civilizaciya|древнеевропейской цивилизации]] (волны курганщиков по [[people/mariya-gimbutas|Гимбутас]])
+- Уничтожение [[concepts/drevneevropeyskaya-civilizaciya|древнеевропейской цивилизации]] (волны курганщиков по [[people/gimbutas|Гимбутас]])
 - Разрушение цивилизации Хараппы (Индия)
 - Разрушение шумерских городов
 - Утрата [[concepts/edinaya-pismennost|единой письменности]]
@@ -44,3 +51,6 @@
 - [[events/velikii-potop|Великий Потоп]]
 - [[books/06-vavilonskaya-bashnya|Вавилонская башня — рекордсмен долгостроя]]
 - [[books/07-radio-uglerodnoe-datirovanie|Вавилонская башня -- рекордсмен долгостроя (подробный анализ)]]
+- [[concepts/bogi-sklyarova|Боги Склярова]]
+- [[concepts/kurgannaya-kultura|Курганная культура]]
+- [[concepts/zolotoy-vek|Золотой век]]

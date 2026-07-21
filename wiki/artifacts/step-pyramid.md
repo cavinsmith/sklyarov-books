@@ -1,3 +1,10 @@
+---
+slug: step-pyramid
+title: "Ступенчатая пирамида"
+categories: artifacts
+tags: []
+---
+
 # Ступенчатая пирамида
 
 **Другие названия:** Пирамида Джосера, Пирамида в Саккаре, Staircase Pyramid

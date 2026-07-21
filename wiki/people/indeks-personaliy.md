@@ -1,0 +1,353 @@
+---
+slug: indeks-personaliy
+title: "Индекс персоналий"
+categories:
+  - people
+tags: []
+---
+
+# Индекс персоналий
+
+Все персоналии, упоминаемые в работах [[people/andrey-sklyarov|Андрея Склярова]] и в вики.
+
+---
+
+## Исследователи и учёные
+
+- [[people/andrey-sklyarov]] — основатель НИЦ «Евразия», автор книг о Древних богах
+- [[people/alexandr-skyarov]] — Александр Скляров
+- [[people/alla-belokon]] — Алла Белоконь, исследователь
+- [[people/abel-reysler]] — Абель Рейслер (Abel Reysler)
+- [[people/a-p-lisicyn]] — А.П. Лисицын, исследователь
+- [[people/a-v-lalomov]] — А.В. Лаломов, геолог и исследователь
+- [[people/artur-poznanskij]] — Артур Познанский
+- [[people/berg]] — Лев Берг
+- [[people/bergeron]] — Бергерон
+- [[people/baklend]] — Уильям Баклэнд, геолог
+- [[people/balabanova-svetlana]] — Балабанова Светлана, антрополог
+- [[people/byeuvell-robert]] — Бьювелл Роберт
+- [[people/buiteker]] — Буйтекер
+- [[people/byrd]] — Бэрд (Byrd)
+- [[people/chapmen]] — Чапмен
+- [[people/christopher-dunn]] — инженер, автор теории «Электростанция Гизы]
+- [[people/chernousov]] — Черноусов
+- [[people/cotterell]] — Коттерелл
+- [[people/cummings]] — Каммингс
+- [[people/derewyanko]] — Деревянко
+- [[people/devidson-bezil]] — Девидсон Безил
+- [[people/dickerson]] — Рой Дикерсон
+- [[people/digonskij-sv]] — Дигонский С.В., исследователь
+- [[people/dmitriy-pavlov]] — Дмитрий Павлов, исследователь
+- [[people/don-patton]] — Дон Паттон, исследователь
+- [[people/christopher-dunn]] — Данн Кристофер
+- [[people/dzhos-dzhoan]] — Флетчер Джоан
+- [[people/dzherald-houkins]] — Джеральд Хоукинс
+- [[people/flinders-petri]] — английский египтолог, основатель научной египтологии
+- [[people/falk]] — Дин Фолк
+- [[people/friedrich-kliks]] — биолог, исследователь происхождения человека
+- [[people/fritjof-kapra]] — Фритйоф Капра, физик и философ
+- [[people/garsilaso-de-la-vega]] — историк, потомок инков
+- [[people/geer]] — Вильям Геер
+- [[people/george-smith]] — Джордж Смит
+- [[people/gilbert]] — Гилберт
+- [[people/gimbutas]] — археолог, исследовательница неолитических культур Европы
+- [[people/gould]] — Стивен Гоулд
+- [[people/graham-hancock]] — исследователь древних цивилизаций, автор «Отпечатка Бога»
+- [[people/hepgud-charlz]] — Хэпгуд Чарльз, исследователь
+- [[people/howard-veis]] — Говард Вайс
+- [[people/ivan-guzman-de-rohas]] — Иван Гусман де Рохас
+- [[people/ivanov-a]] — Иванов А., исследователь
+- [[people/ivanova-s]] — Иванова С.
+- [[people/jeffrey-schwartz]] — Джеффри Шварц, антрополог
+- [[people/khenkok-greym]] — Хэнкок Грейм
+- [[people/kifishin]] — Кифишин
+- [[people/kimura]] — Мотоо Кимура
+- [[people/koglen]] — Коглен
+- [[people/kolinc]] — Колинц
+- [[people/kremo]] — Кремо Майкл, исследователь запретной археологии
+- [[people/krasilov]] — Владимир Красилов
+- [[people/lambert]] — Патрис Ламбер
+- [[people/larin-viktor]] — российский исследователь
+- [[people/leon-vishnyatsky]] — Леон Александрович Вишняцкий
+- [[people/lipe-yulius]] — Юлиус Липе
+- [[people/mariya-rajhe]] — исследовательница геоглифов Наски
+- [[people/markus-rejndel]] — Маркус Рейндель, исследователь древних цивилизаций
+- [[people/margoliash]] — Эмануэль Марголиаш
+- [[people/millard]] — Алл Millard
+- [[people/minsky]] — Минский
+- [[people/murashov]] — биолог
+- [[people/nikolay-vavilov]] — ботаник, генетик, открывший центры происхождения культурных растений
+- [[people/nina-ryndina]] — Нина Рындина, исследователь
+- [[people/paul-kosok]] — немецкий историк, первый исследовавший геоглифы Наски с воздуха
+- [[people/pauling]] — Лайнус Полинг
+- [[people/panchelyuga]] — Виктор Панчелюга
+- [[people/pautov]] — Леонид Паутов
+- [[people/perlov]] — Перлов
+- [[people/pettinato]] — Петтинато
+- [[people/reich]] — Дэвид Райх
+- [[people/richard-leakey]] — Ричард Лики
+- [[people/robert-schoch]] — американский геолог, датирующий возраст Сфинкса
+- [[people/robinson]] — Джонатан Робинсон
+- [[people/rusanov-igor]] — Русанов Игорь
+- [[people/ruz-lujilye-alberto]] — Руз Луйилье Альберто
+- [[people/ryndina-nina]] — Рындина Нина
+- [[people/sergej-grigorev]] — Сергей Григорьев
+- [[people/shaposhnikov]] — Георгий Шапошников
+- [[people/shlikman-genrikh]] — Шлиман Генрих
+- [[people/shunkov]] — Михаил Шунков
+- [[people/siparov-sergey]] — Сергей Сипаров
+- [[people/skalan-zhak]] — Жак Скалан, исследователь
+- [[people/nikolay-vavilov]] — Николай Вавилов
+- [[people/vishnyatsky]] — Лев Вишняцкий
+- [[people/vurmbrend]] — Вурмбренд
+- [[people/yulsrud-vilgelm]] — Юльсрюд Вильгельм, коллекционер
+- [[people/yunker-sherer]] — Юнкер Р. и Шерер З.
+- [[people/erih-fon-daniken]] — Захария Ситчин, автор «Хроники Земли»
+- [[people/zahi-hawass]] — египетский археолог, глава Комитета по древностям Египта
+- [[people/zak-mayol]] — Жак Майоль, нырятель за губками
+- [[people/zdanovich-g]] — Зданович Г.
+- [[people/zhih-vl]] — Жуков, исследователь
+- [[people/zuckerkandl]] — Эмиль Цукеркандль
+- [[people/pedro-syeza-de-leon]] — Педро Сьеса де Леон
+- [[people/alekseev]] — И. Алексеев (дубль)
+- [[people/belokon]] — Алла Белоконь (дубль)
+- [[people/litinovskij]] — Б. Литвинский (дубль)
+- [[people/marija-rajhe]] — Мария Райхе (дубль)
+- [[people/ozar]] — Оза (дубль)
+- [[people/petri]] — Флиндерс Петри (дубль)
+- [[people/ryndina]] — Нина Рындина (дубль)
+- [[people/sitchin]] — Захария Ситчин (дубль)
+- [[people/telelinger]] — М. Теллингер (дубль)
+- [[people/teplihov]] — С. Теплоухов (дубль)
+- [[people/vershinin]] — Эдуард Вершинин (дубль)
+
+## «Боги» и мифологические персонажи
+
+- [[people/enki]] — шумерский бог водной стихии и мудрости
+- [[people/enlil]] — шумерский бог неба и ветра
+- [[people/ziusudra]] — шумерский царь, спасённый от Великого Потопа
+- [[people/utnapishti]] — Утнапишти — герой эпоса о Гильгамеше, переживший Потоп
+- [[people/gilgamesh]] — Гильгамеш, полубог и царь Урука
+- [[people/yima]] — Йима — зороастрийский царь, спасшийся от ледникового периода
+- [[people/virakocha]] — бог инков, создатель цивилизации
+- [[people/kecalcoatl]] — Кецалькоатль, бог ацтеков
+- [[people/baal]] — Баал, бог бури и плодородия в ханаанской мифологии
+- [[people/athirat]] — Ашера, богиня-мать в ханаанской мифологии
+- [[people/bel]] — Бел, месопотамский бог
+- [[people/dagan]] — Даган, ханаанский бог плодородия
+- [[people/hadad]] — Хадад (Адад), бог грома и дождя
+- [[people/osiris]] — Осирис, бог загробного мира в египетской мифологии
+- [[people/kothar-wa-khasis]] — Котар-ва-Хасис, божественный кузнец
+- [[people/ilu]] — Илу (Эл), верховный бог ханаанского пантеона
+- [[people/wadjet]] — Уаджет, богиня-змея, хранительница Египта
+- [[people/satet]] — Сатет, богиня Нила
+- [[people/shapash]] — Шапаш, богиня солнца в угаритской мифологии
+- [[people/aqhat]] — Акхат, персонаж ханаанского эпоса
+- [[people/ra]] — Ра, бог солнца в египетской мифологии
+- [[people/horus]] — Гор, бог неба в египетской мифологии
+- [[people/sehmet]] — Сехмет, богиня войны и исцеления
+- [[people/hapi]] — Хапи, бог Нила
+- [[people/neit]] — Неит, богиня-воительница
+- [[people/isi]] — Иси (Исида)
+- [[people/tot]] — Тот, бог мудрости и письменности
+- [[people/marduk]] — Мардук, верховный бог Вавилона
+- [[people/ninhursag]] — Нинхурсаг, богиня-мать
+- [[people/nidaba]] — Нидаба, богиня письменности
+- [[people/mutu]] — Муту
+- [[people/sezhat]] — Седжат
+- [[people/temgrizhe]] — Темгриже
+
+## Библейские и исторические персонажи
+
+- [[people/moisey]] — Моисей, пророк, давший Тору
+- [[people/aaron]] — Аарон (Харун), брат Моисея, первый первосвященник
+- [[people/avraam]] — Авраам, патриарх, основатель монотеизма
+- [[people/david]] — Давид, царь Израиля
+- [[people/solomon]] — Соломон, царь Израиля, строитель Первого Храма
+- [[people/noah]] — Ной, спасённый от Потопа
+- [[people/abel]] — Авель, первый жертва в Библии
+- [[people/adam]] — Адам, первый человек
+- [[people/cain]] — Каин, братоубийца
+- [[people/iezekiel]] — Иезекииль, пророк
+- [[people/jesus-nave]] — Иисус Навин, преемник Моисея
+- [[people/melkhisedek]] — Мельхиседек, загадочный священник
+- [[people/nimrod]] — Нимрод, мифический царь-зиждитель
+- [[people/veseleil]] — Веселеил, строитель Скинии
+- [[people/itro]] — Итро (Рагуэль), тесть Моисея
+- [[people/arnon-noam]] — Арнон Ноам
+
+## Фараоны и правители
+
+- [[people/ramesses-ii]] — Рамсес II Великий, фараон XIX династии
+- [[people/akhenaton]] — Эхнатон (Аменхотеп IV), фараон-реформатор, введший монотеизм
+- [[people/tutankhamon]] — Тутанхамон, фараон XVIII династии
+- [[people/herod-great]] — Ирод Великий, царь Иудеи
+- [[people/seti-i]] — Сети I, фараон XIX династии
+- [[people/kheops]] — Хеопс (Хуфу), строитель Великой пирамиды
+- [[people/khafra]] — Хафра, фараон IV династии
+- [[people/menkaur]] — Менкаура (Микерин), фараон IV династии
+- [[people/djoser]] — Джосер, фараон III династии, строитель Ступенчатой пирамиды
+- [[people/snofru]] — Снофру, фараон IV династии
+- [[people/amenhotep-iii]] — Аменхотеп III, фараон XVIII династии
+- [[people/amenemhat]] — Аменемхат I, фараон XII династии
+- [[people/hatshepsut]] — Хатшепсут, женщина-фараон XVIII династии
+- [[people/khoremkheb]] — Хоремхеб, последний фараон XVIII династии
+- [[people/unas]] — Унас, фараон V династии
+- [[people/userkaf]] — Усеркаф
+- [[people/niuserre]] — Ниусерра
+- [[people/teti]] — Тети
+- [[people/pepi-ii]] — Пепи II
+- [[people/khammurapi]] — Хаммурапи, царь Вавилона, автор законодательства
+- [[people/nebuchadnezzar]] — Навуходоносор II, царь Вавилона
+- [[people/korey]] — Корей, библейский мятежник
+- [[people/piya]] — Пиа Ю., царь Эфиопии
+- [[people/inkapachakuti]] — Инка Пачакути, правитель инков
+- [[people/manko-inka]] — Манко Инка, основатель династии инков
+- [[people/pachacuti]] — Пачакути
+- [[people/inke]] — Инке
+- [[people/feysal]] — Фейсал I, король Ирака
+- [[people/zenobia]] — Зенобия, царица Пальмиры
+- [[people/princ-sotoku]] — Принц Сётоку
+
+## Историки и хронисты
+
+- [[people/gerodot]] — Геродот, древнегреческий историк, «отец истории»
+- [[people/josephus]] — Иосиф Флавий, древнееврейский историк
+- [[people/manetho]] — Манефон, египетский жрец и историк
+- [[people/rawlinson]] — Генри Роулинсон, дешифровщик клинописи
+- [[people/schliemann]] — Генрих Шлиман, археолог, открывший Трою
+- [[people/knorozov-yuriy]] — Кнорозов Юрий Валентинович, дешифровщик письменности майя
+- [[people/mariette]] — Огюст Мариетт, французский египтолог
+- [[people/manefon]] — Манефон
+- [[people/vlassa]] — Власса
+
+## Учёные и философы
+
+- [[people/charles-darwin]] — Чарльз Дарвин, создатель теории эволюции
+- [[people/charles-lyell]] — Чарльз Лайель, основоположник современной геологии
+- [[people/charlz-layel]] — Чарльз Лайель (Charles Lyell)
+- [[people/einstein]] — Альберт Эйнштейн, создатель теории относительности
+- [[people/freyd-zigmund]] — Зигмунд Фрейд, основатель психоанализа
+- [[people/yung]] — Карл Густав Юнг, аналитический психолог
+- [[people/berdyayev]] — Николай Бердяев, русский философ
+- [[people/vernodsky]] — Владимир Вернадский, создатель учения о ноосфере
+- [[people/vernadsky]] — Владимир Вернадский (1863-1945)
+- [[people/bor-nils]] — Нильс Бор, физик-теоретик
+- [[people/fred-hoyle]] — Фред Хойл, астрофизик
+- [[people/pauli-volfgang]] — Вольфганг Паули, физик-теоретик
+- [[people/geyzenberg-verner]] — Вернер Гейзенберг, физик-теоретик
+- [[people/shredinger-ervin]] — Эрвин Шрёдингер, физик
+- [[people/maxwell]] — Джеймс Клерк Максвелл, физик
+- [[people/lord-kelvin]] — лорд Кельвин, физик
+- [[people/karl-linney]] — Карл Линней, ботаник, создатель классификации живых организмов
+- [[people/georges-cuvier]] — Жорж Кювье, основоположник палеонтологии
+- [[people/william-smith]] — Уильям Смит, геолог
+- [[people/buffon]] — Бюффон, натуралист
+- [[people/erazm-darvin]] — Иразм Дарвин, дед Чарльза Дарвина
+- [[people/lamark]] — Жан Батист де Ламарк, биолог
+- [[people/engels-fridrih]] — Фридрих Энгельс, философ
+- [[people/marks-karl]] — Карл Маркс, философ и экономист
+- [[people/lenin]] — Владимир Ильич Ленин, политик
+- [[people/gel]] — Гегель, немецкий философ
+- [[people/gegel]] — Георг Вильгельм Фридрих Гегель
+- [[people/kont-ogyst]] — Огюст Конт, философ, основатель позитивизма
+- [[people/friedrich-schelling]] — Фридрих Шеллинг, немецкий идеалист
+- [[people/fromm-erih]] — Эрих Фромм, психолог и социальный философ
+- [[people/frankl-viktor-emil]] — Виктор Эмиль Франкл, психиатр и невролог
+- [[people/kardec]] — Аллан Карде, основатель спиритизма
+- [[people/raushenbakh-boris]] — Раушенбах Борис Викторович, физик
+- [[people/lyubishchev]] — Любищев А.А., биолог
+- [[people/dm-raup]] — Д.М. Рауп, палеонтолог
+- [[people/haeckel]] — Эрнст Геккель
+- [[people/huxley]] — Джулиан Хаксли
+- [[people/eldridge]] — Нилс Элдридж
+- [[people/wallace]] — Альфред Уоллес
+- [[people/monboddo]] — Лорд Монбоддо
+- [[people/lucreciy-kar]] — Лукреций Кар
+
+## Духовные и религиозные деятели
+
+- [[people/bernard-clairvaux]] — Бернар Клервосский, проповедник крестовых походов
+- [[people/gugo-de-peyen]] — Гуго де Пейен, основатель ордена тамплиеров
+- [[people/teilhard]] — Пьер Тейяр де Шарден
+- [[people/teillard]] — Пьер Тейяр де Шарден, священник и палеонтолог
+- [[people/ussher]] — Ашер
+
+## Другие персоналии
+
+- [[people/akambaro]] — Акамбаро, коллекционер
+- [[people/cortes]] — Эрнан Кортес, конкистадор
+- [[people/havyer-kabrera]] — Хавьер Кабрера, коллекционер камней Ики
+- [[people/kihachiro-aratake]] — Кихатиро Аракатэ
+- [[people/nicolae-vlassa]] — Николае Власса, археолог
+- [[people/villi-munyes]] — Вилли Муньес
+- [[people/vikramasingh]] — Викрамасингх Чандра
+- [[people/toribio]] — Торибио Ксесспе
+- [[people/makarevich]] — Макаревич
+- [[people/shultz]] — Шульц
+- [[people/dymnikov]] — Дымников
+- [[people/stokes]] — Стокс
+- [[people/thompson]] — Томпсон Ричард
+- [[people/vainberg-salam-glashou]] — Вайнберг-Салам-Глошоу
+- [[people/vayz-howard]] — Вайз Говард
+- [[people/soldi-bratya]] — Братья Сольди
+- [[people/lahuis]] — Лауис Фред
+- [[people/dayan-moshe]] — Моше Даян, израильский политик и военный деятель
+- [[people/theophilus]] — Теофил
+- [[people/gouland]] — Гоуланд
+- [[people/gamio]] — Гамио
+- [[people/konzele]] — Генрих Конце
+- [[people/ruy-vl]] — Жуков
+- [[people/muh]] — Мух
+- [[people/woolly]] — Вулли
+- [[people/babilonyane]] — Вавилоняне
+- [[people/siriyane]] — Сирийцы
+- [[people/maya-people]] — Майя
+- [[people/alunni]] — Алуни
+- [[people/fu-si]] — Фу Си (伏羲, Fu Xi)
+- [[people/ten-v]] — Тен В.
+- [[people/indiyce]] — Индице
+- [[people/djon-dey]] — Джон Дэй
+- [[people/blavatskaya-elena]] — Блаватская Елена Петровна, основательница теософского движения
+- [[people/cherneih-evgenij]] — Чернеих Евгений
+- [[people/dunn]] — Данн
+- [[people/erih-fon-daniken]] — Эрих фон Дэникен, швейцарский писатель
+- [[people/ernst-muldashev]] — Эрнст Мульдашев, офтальмолог и путешественник
+- [[people/eye]] — Эйе (Eye), фараон
+- [[people/imhotep]] — Имхотеп, архитектор и врач
+- [[people/kolchin-boris]] — Колчин Борис
+- [[people/lehtman]] — Лехтман
+- [[people/levchenko-v]] — Левченко В.
+- [[people/libbi-uilyam]] — Либби Уильям
+- [[people/litvinskij]] — Литвинский
+- [[people/nil]] — Нил
+- [[people/paabo]] — Сванте Pääbo
+- [[people/shekspir]] — Шекспир
+- [[people/shiyatov]] — Шиятов
+- [[people/teplohov]] — Теплохов
+- [[people/bernshtejn]] — Бернштейн
+- [[people/bossi]] — Босси
+- [[people/chernobrov]] — Чернобров
+- [[people/chernyh-nikolay]] — Черных Николай
+- [[people/ershova-g]] — Ершова Г.
+- [[people/fomenko-at]] — Фоменко А.Т.
+- [[people/gomez]] — Гомес
+- [[people/igorev]] — Игорев
+- [[people/postnikov-aa]] — Постников А.А.
+- [[people/veresnin]] — Вереснин
+- [[people/avraam]] — Авраам (dup)
+- [[people/aratake]] — Аракатаке
+- [[people/berdyaev-nikolay-aleksandrovich]] — Бердяев Николай Александрович
+- [[people/bernar-klervosskiy]] — Бернар Клервосский
+- [[people/iisus-navin]] — Иисус Навин
+- [[people/kardek-allan]] — Карде-Аллан (Аллан Карде)
+- [[people/lenin-vladimir-ilich]] — Владимир Ильич Ленин
+- [[people/teyyar-de-sharden]] — Пьер Тейяр де Шарден
+- [[people/uilyam-bukland]] — Уильям Букланд (William Buckland)
+- [[people/yung-karl-gustav]] — Карл Густав Юнг
+- [[people/zhukov]] — Жуков
+- [[people/ekhnaton]] — Эхнатон
+- [[people/kabrera]] — Кабрера
+- [[people/maksvell]] — Джеймс Клерк Максвелл
+- [[people/manejon]] — Манефон
+- [[people/mudi-reymond]] — Муди-Реймонд

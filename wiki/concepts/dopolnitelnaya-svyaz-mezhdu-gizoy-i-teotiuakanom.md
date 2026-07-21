@@ -1,3 +1,10 @@
+---
+slug: dopolnitelnaya-svyaz-mezhdu-gizoy-i-teotiuakanom
+title: "Связь Гизы и Теотиуакана"
+categories: [concepts]
+tags: []
+---
+
 # Связь Гизы и Теотиуакана
 
 **Описание:** Совпадения математических констант, систем мер и геометрических пропорций между пирамидами Гизы (Египет) и Теотиуакана (Мексика), указывающие на единых строителей.
@@ -21,3 +28,4 @@
 - [[places/teotihuacan]] -- мексиканский комплекс
 - [[concepts/dopootopniy-severniy-polyus]] -- ориентация обоих комплексов
 - [[events/velikii-potop]] -- датировка обоих комплексов
+- [[concepts/slyudyanoy-hram|Слюдяной храм]]

@@ -1,3 +1,10 @@
+---
+slug: deformaciya-cherepov
+title: "Деформация черепов"
+categories: artifacts
+tags: []
+---
+
 # Деформация черепов
 
 ## Описание

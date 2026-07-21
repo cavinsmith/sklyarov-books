@@ -1,3 +1,11 @@
+---
+slug: alexandr-skyarov
+title: "Александр Скляров"
+categories:
+  - people
+tags: []
+---
+
 # Александр Скляров
 
 Физик по образованию, исследователь, руководитель экспедиций [[events/expedition-3rd-millennium|Фонда «III тысячелетие»]]. Автор серии книг «Тайны древних цивилизаций», составляющих основу данной базы знаний. Основная концепция: древние «боги» — реальные представители высокоразвитой цивилизации, а не мифические существа.
@@ -12,9 +20,9 @@
 
 ## Основные направления исследований
 
-- [[concepts/civilization-of-gods|Цивилизация богов]] и [[concepts/Палеоконтакт|палеоконтакт]]
+- [[concepts/civilization-of-gods|Цивилизация богов]] и [[concepts/paleokontakt|палеоконтакт]]
 - [[concepts/megaculture-traces|Мегалиты как следы присутствия «богов»]]
-- [[concepts/lost-technology|Утраченные технологии]]
+- [[concepts/utrachennye-tekhnologii|Утраченные технологии]]
 - [[concepts/cultural-continuity|Культурная преемственность цивилизаций]]
 - Критика переводов древних текстов (хеттские клинописи, Библия, Упанишады)
 
@@ -49,5 +57,5 @@
 - [[events/expedition-3rd-millennium|Экспедиции Фонда «III тысячелетие»]]
 - [[books/18-drevnie-bogi|Древние боги — кто они?]]
 - [[books/24-opasnoe-nasledie|Опасное наследие богов]]
-- [[concepts/Древние боги|Древние боги]]
+- [[concepts/drevnie-bogi|Древние боги]]
 - [[concepts/civilization-of-gods|Цивилизация богов]]

@@ -1,3 +1,10 @@
+---
+slug: napoleon-egypt-expedition
+title: "Экспедиция Наполеона в Египет"
+categories: [events]
+tags: []
+---
+
 # Экспедиция Наполеона в Египет
 
 **Полное название:** Египетская экспедиция Наполеона Бонапарта (Expédition d'Égypte)

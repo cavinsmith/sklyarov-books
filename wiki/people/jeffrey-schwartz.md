@@ -1,3 +1,11 @@
+---
+slug: jeffrey-schwartz
+title: "Джеффри Шварц"
+categories:
+  - people
+tags: []
+---
+
 # Джеффри Шварц
 
 **Полное имя:** Джеффри Х. Шварц (Jeffrey H. Schwartz)  

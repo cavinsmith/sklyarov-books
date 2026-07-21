@@ -1,3 +1,10 @@
+---
+slug: baalbek-trilithon
+title: "Баальбекский трилитон"
+categories: [places]
+tags: []
+---
+
 # Баальбекский трилитон
 
 Мегалитическая каменная кладка в [[places/baalbek|Баальбеке]], состоящая из трёх блоков весом около 800 тонн каждый. Ключевой объект экспедиции А. Склярова 2009 года, описанной в [[books/26-siriyskie-perekrestki|«Сирийских перекрёстках»]].
@@ -19,5 +26,5 @@
 
 - [[places/baalbek]] — Баальбек, общий объект
 - [[concepts/megalithic-architecture]] — мегалитическая архитектура
-- [[concepts/lost-technology]] — утраченные технологии
+- [[concepts/utrachennye-tekhnologii]] — утраченные технологии
 - [[concepts/machine-processing]] — следы машинной обработки камня

@@ -1,0 +1,810 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "provider": {
+    "mimo-1": {
+      "name": "MiMo (port 8788)",
+      "api": "openai",
+      "options": {
+        "baseURL": "http://127.0.0.1:8788/v1",
+        "apiKey": "mimo"
+      },
+      "models": {
+        "mimo-auto": {
+          "id": "mimo-auto",
+          "name": "MiMo Auto",
+          "tool_call": true,
+          "reasoning": false,
+          "limit": {
+            "context": 1000000,
+            "output": 128000
+          }
+        }
+      }
+    },
+    "mimo-2": {
+      "name": "MiMo (port 8789)",
+      "api": "openai",
+      "options": {
+        "baseURL": "http://127.0.0.1:8789/v1",
+        "apiKey": "mimo"
+      },
+      "models": {
+        "mimo-auto": {
+          "id": "mimo-auto",
+          "name": "MiMo Auto",
+          "tool_call": true,
+          "reasoning": false,
+          "limit": {
+            "context": 1000000,
+            "output": 128000
+          }
+        }
+      }
+    },
+    "mimo-3": {
+      "name": "MiMo (port 8790)",
+      "api": "openai",
+      "options": {
+        "baseURL": "http://127.0.0.1:8790/v1",
+        "apiKey": "mimo"
+      },
+      "models": {
+        "mimo-auto": {
+          "id": "mimo-auto",
+          "name": "MiMo Auto",
+          "tool_call": true,
+          "reasoning": false,
+          "limit": {
+            "context": 1000000,
+            "output": 128000
+          }
+        }
+      }
+    },
+    "mimo-4": {
+      "name": "MiMo (port 8791)",
+      "api": "openai",
+      "options": {
+        "baseURL": "http://127.0.0.1:8791/v1",
+        "apiKey": "mimo"
+      },
+      "models": {
+        "mimo-auto": {
+          "id": "mimo-auto",
+          "name": "MiMo Auto",
+          "tool_call": true,
+          "reasoning": false,
+          "limit": {
+            "context": 1000000,
+            "output": 128000
+          }
+        }
+      }
+    },
+    "mimo-5": {
+      "name": "MiMo (port 8792)",
+      "api": "openai",
+      "options": {
+        "baseURL": "http://127.0.0.1:8792/v1",
+        "apiKey": "mimo"
+      },
+      "models": {
+        "mimo-auto": {
+          "id": "mimo-auto",
+          "name": "MiMo Auto",
+          "tool_call": true,
+          "reasoning": false,
+          "limit": {
+            "context": 1000000,
+            "output": 128000
+          }
+        }
+      }
+    },
+    "mimo-6": {
+      "name": "MiMo (port 8793)",
+      "api": "openai",
+      "options": {
+        "baseURL": "http://127.0.0.1:8793/v1",
+        "apiKey": "mimo"
+      },
+      "models": {
+        "mimo-auto": {
+          "id": "mimo-auto",
+          "name": "MiMo Auto",
+          "tool_call": true,
+          "reasoning": false,
+          "limit": {
+            "context": 1000000,
+            "output": 128000
+          }
+        }
+      }
+    },
+    "mimo-7": {
+      "name": "MiMo (port 8794)",
+      "api": "openai",
+      "options": {
+        "baseURL": "http://127.0.0.1:8794/v1",
+        "apiKey": "mimo"
+      },
+      "models": {
+        "mimo-auto": {
+          "id": "mimo-auto",
+          "name": "MiMo Auto",
+          "tool_call": true,
+          "reasoning": false,
+          "limit": {
+            "context": 1000000,
+            "output": 128000
+          }
+        }
+      }
+    },
+    "mimo-8": {
+      "name": "MiMo (port 8795)",
+      "api": "openai",
+      "options": {
+        "baseURL": "http://127.0.0.1:8795/v1",
+        "apiKey": "mimo"
+      },
+      "models": {
+        "mimo-auto": {
+          "id": "mimo-auto",
+          "name": "MiMo Auto",
+          "tool_call": true,
+          "reasoning": false,
+          "limit": {
+            "context": 1000000,
+            "output": 128000
+          }
+        }
+      }
+    },
+    "mimo-9": {
+      "name": "MiMo (port 8796)",
+      "api": "openai",
+      "options": {
+        "baseURL": "http://127.0.0.1:8796/v1",
+        "apiKey": "mimo"
+      },
+      "models": {
+        "mimo-auto": {
+          "id": "mimo-auto",
+          "name": "MiMo Auto",
+          "tool_call": true,
+          "reasoning": false,
+          "limit": {
+            "context": 1000000,
+            "output": 128000
+          }
+        }
+      }
+    },
+    "mimo-10": {
+      "name": "MiMo (port 8797)",
+      "api": "openai",
+      "options": {
+        "baseURL": "http://127.0.0.1:8797/v1",
+        "apiKey": "mimo"
+      },
+      "models": {
+        "mimo-auto": {
+          "id": "mimo-auto",
+          "name": "MiMo Auto",
+          "tool_call": true,
+          "reasoning": false,
+          "limit": {
+            "context": 1000000,
+            "output": 128000
+          }
+        }
+      }
+    },
+    "mimo-11": {
+      "name": "MiMo (port 8798)",
+      "api": "openai",
+      "options": {
+        "baseURL": "http://127.0.0.1:8798/v1",
+        "apiKey": "mimo"
+      },
+      "models": {
+        "mimo-auto": {
+          "id": "mimo-auto",
+          "name": "MiMo Auto",
+          "tool_call": true,
+          "reasoning": false,
+          "limit": {
+            "context": 1000000,
+            "output": 128000
+          }
+        }
+      }
+    },
+    "mimo-12": {
+      "name": "MiMo (port 8799)",
+      "api": "openai",
+      "options": {
+        "baseURL": "http://127.0.0.1:8799/v1",
+        "apiKey": "mimo"
+      },
+      "models": {
+        "mimo-auto": {
+          "id": "mimo-auto",
+          "name": "MiMo Auto",
+          "tool_call": true,
+          "reasoning": false,
+          "limit": {
+            "context": 1000000,
+            "output": 128000
+          }
+        }
+      }
+    },
+    "mimo-13": {
+      "name": "MiMo (port 8800)",
+      "api": "openai",
+      "options": {
+        "baseURL": "http://127.0.0.1:8800/v1",
+        "apiKey": "mimo"
+      },
+      "models": {
+        "mimo-auto": {
+          "id": "mimo-auto",
+          "name": "MiMo Auto",
+          "tool_call": true,
+          "reasoning": false,
+          "limit": {
+            "context": 1000000,
+            "output": 128000
+          }
+        }
+      }
+    },
+    "mimo-14": {
+      "name": "MiMo (port 8801)",
+      "api": "openai",
+      "options": {
+        "baseURL": "http://127.0.0.1:8801/v1",
+        "apiKey": "mimo"
+      },
+      "models": {
+        "mimo-auto": {
+          "id": "mimo-auto",
+          "name": "MiMo Auto",
+          "tool_call": true,
+          "reasoning": false,
+          "limit": {
+            "context": 1000000,
+            "output": 128000
+          }
+        }
+      }
+    },
+    "mimo-15": {
+      "name": "MiMo (port 8802)",
+      "api": "openai",
+      "options": {
+        "baseURL": "http://127.0.0.1:8802/v1",
+        "apiKey": "mimo"
+      },
+      "models": {
+        "mimo-auto": {
+          "id": "mimo-auto",
+          "name": "MiMo Auto",
+          "tool_call": true,
+          "reasoning": false,
+          "limit": {
+            "context": 1000000,
+            "output": 128000
+          }
+        }
+      }
+    },
+    "mimo-16": {
+      "name": "MiMo (port 8803)",
+      "api": "openai",
+      "options": {
+        "baseURL": "http://127.0.0.1:8803/v1",
+        "apiKey": "mimo"
+      },
+      "models": {
+        "mimo-auto": {
+          "id": "mimo-auto",
+          "name": "MiMo Auto",
+          "tool_call": true,
+          "reasoning": false,
+          "limit": {
+            "context": 1000000,
+            "output": 128000
+          }
+        }
+      }
+    },
+    "mimo-17": {
+      "name": "MiMo (port 8804)",
+      "api": "openai",
+      "options": {
+        "baseURL": "http://127.0.0.1:8804/v1",
+        "apiKey": "mimo"
+      },
+      "models": {
+        "mimo-auto": {
+          "id": "mimo-auto",
+          "name": "MiMo Auto",
+          "tool_call": true,
+          "reasoning": false,
+          "limit": {
+            "context": 1000000,
+            "output": 128000
+          }
+        }
+      }
+    },
+    "mimo-18": {
+      "name": "MiMo (port 8805)",
+      "api": "openai",
+      "options": {
+        "baseURL": "http://127.0.0.1:8805/v1",
+        "apiKey": "mimo"
+      },
+      "models": {
+        "mimo-auto": {
+          "id": "mimo-auto",
+          "name": "MiMo Auto",
+          "tool_call": true,
+          "reasoning": false,
+          "limit": {
+            "context": 1000000,
+            "output": 128000
+          }
+        }
+      }
+    },
+    "mimo-19": {
+      "name": "MiMo (port 8806)",
+      "api": "openai",
+      "options": {
+        "baseURL": "http://127.0.0.1:8806/v1",
+        "apiKey": "mimo"
+      },
+      "models": {
+        "mimo-auto": {
+          "id": "mimo-auto",
+          "name": "MiMo Auto",
+          "tool_call": true,
+          "reasoning": false,
+          "limit": {
+            "context": 1000000,
+            "output": 128000
+          }
+        }
+      }
+    },
+    "mimo-20": {
+      "name": "MiMo (port 8807)",
+      "api": "openai",
+      "options": {
+        "baseURL": "http://127.0.0.1:8807/v1",
+        "apiKey": "mimo"
+      },
+      "models": {
+        "mimo-auto": {
+          "id": "mimo-auto",
+          "name": "MiMo Auto",
+          "tool_call": true,
+          "reasoning": false,
+          "limit": {
+            "context": 1000000,
+            "output": 128000
+          }
+        }
+      }
+    },
+    "mimo-21": {
+      "name": "MiMo (port 8808)",
+      "api": "openai",
+      "options": {
+        "baseURL": "http://127.0.0.1:8808/v1",
+        "apiKey": "mimo"
+      },
+      "models": {
+        "mimo-auto": {
+          "id": "mimo-auto",
+          "name": "MiMo Auto",
+          "tool_call": true,
+          "reasoning": false,
+          "limit": {
+            "context": 1000000,
+            "output": 128000
+          }
+        }
+      }
+    },
+    "mimo-22": {
+      "name": "MiMo (port 8809)",
+      "api": "openai",
+      "options": {
+        "baseURL": "http://127.0.0.1:8809/v1",
+        "apiKey": "mimo"
+      },
+      "models": {
+        "mimo-auto": {
+          "id": "mimo-auto",
+          "name": "MiMo Auto",
+          "tool_call": true,
+          "reasoning": false,
+          "limit": {
+            "context": 1000000,
+            "output": 128000
+          }
+        }
+      }
+    },
+    "mimo-23": {
+      "name": "MiMo (port 8810)",
+      "api": "openai",
+      "options": {
+        "baseURL": "http://127.0.0.1:8810/v1",
+        "apiKey": "mimo"
+      },
+      "models": {
+        "mimo-auto": {
+          "id": "mimo-auto",
+          "name": "MiMo Auto",
+          "tool_call": true,
+          "reasoning": false,
+          "limit": {
+            "context": 1000000,
+            "output": 128000
+          }
+        }
+      }
+    },
+    "mimo-24": {
+      "name": "MiMo (port 8811)",
+      "api": "openai",
+      "options": {
+        "baseURL": "http://127.0.0.1:8811/v1",
+        "apiKey": "mimo"
+      },
+      "models": {
+        "mimo-auto": {
+          "id": "mimo-auto",
+          "name": "MiMo Auto",
+          "tool_call": true,
+          "reasoning": false,
+          "limit": {
+            "context": 1000000,
+            "output": 128000
+          }
+        }
+      }
+    },
+    "mimo-25": {
+      "name": "MiMo (port 8812)",
+      "api": "openai",
+      "options": {
+        "baseURL": "http://127.0.0.1:8812/v1",
+        "apiKey": "mimo"
+      },
+      "models": {
+        "mimo-auto": {
+          "id": "mimo-auto",
+          "name": "MiMo Auto",
+          "tool_call": true,
+          "reasoning": false,
+          "limit": {
+            "context": 1000000,
+            "output": 128000
+          }
+        }
+      }
+    },
+    "mimo-26": {
+      "name": "MiMo (port 8813)",
+      "api": "openai",
+      "options": {
+        "baseURL": "http://127.0.0.1:8813/v1",
+        "apiKey": "mimo"
+      },
+      "models": {
+        "mimo-auto": {
+          "id": "mimo-auto",
+          "name": "MiMo Auto",
+          "tool_call": true,
+          "reasoning": false,
+          "limit": {
+            "context": 1000000,
+            "output": 128000
+          }
+        }
+      }
+    },
+    "mimo-27": {
+      "name": "MiMo (port 8814)",
+      "api": "openai",
+      "options": {
+        "baseURL": "http://127.0.0.1:8814/v1",
+        "apiKey": "mimo"
+      },
+      "models": {
+        "mimo-auto": {
+          "id": "mimo-auto",
+          "name": "MiMo Auto",
+          "tool_call": true,
+          "reasoning": false,
+          "limit": {
+            "context": 1000000,
+            "output": 128000
+          }
+        }
+      }
+    },
+    "mimo-28": {
+      "name": "MiMo (port 8815)",
+      "api": "openai",
+      "options": {
+        "baseURL": "http://127.0.0.1:8815/v1",
+        "apiKey": "mimo"
+      },
+      "models": {
+        "mimo-auto": {
+          "id": "mimo-auto",
+          "name": "MiMo Auto",
+          "tool_call": true,
+          "reasoning": false,
+          "limit": {
+            "context": 1000000,
+            "output": 128000
+          }
+        }
+      }
+    },
+    "mimo-29": {
+      "name": "MiMo (port 8816)",
+      "api": "openai",
+      "options": {
+        "baseURL": "http://127.0.0.1:8816/v1",
+        "apiKey": "mimo"
+      },
+      "models": {
+        "mimo-auto": {
+          "id": "mimo-auto",
+          "name": "MiMo Auto",
+          "tool_call": true,
+          "reasoning": false,
+          "limit": {
+            "context": 1000000,
+            "output": 128000
+          }
+        }
+      }
+    },
+    "mimo-30": {
+      "name": "MiMo (port 8817)",
+      "api": "openai",
+      "options": {
+        "baseURL": "http://127.0.0.1:8817/v1",
+        "apiKey": "mimo"
+      },
+      "models": {
+        "mimo-auto": {
+          "id": "mimo-auto",
+          "name": "MiMo Auto",
+          "tool_call": true,
+          "reasoning": false,
+          "limit": {
+            "context": 1000000,
+            "output": 128000
+          }
+        }
+      }
+    }
+  },
+  "model": "mimo-30/mimo-auto",
+  "small_model": "mimo-30/mimo-auto",
+  "permission": {
+    "read": "allow",
+    "list": "allow",
+    "glob": "allow",
+    "grep": "allow",
+    "edit": "allow",
+    "task": "allow",
+    "skill": "allow",
+    "webfetch": "allow",
+    "bash": {
+      "*": "ask",
+      "ls *": "allow",
+      "cat *": "allow",
+      "head *": "allow",
+      "tail *": "allow",
+      "grep *": "allow",
+      "rg *": "allow",
+      "find *": "allow",
+      "echo *": "allow",
+      "mkdir *": "allow",
+      "touch *": "allow",
+      "cp *": "allow",
+      "mv *": "allow",
+      "file *": "allow",
+      "wc *": "allow",
+      "sort *": "allow",
+      "uniq *": "allow",
+      "sed *": "allow",
+      "awk *": "allow",
+      "python3 *": "allow",
+      "pip3 install *": "allow",
+      "pip3 show *": "allow",
+      "brew install *": "allow",
+      "brew list *": "allow",
+      "brew info *": "allow",
+      "pandoc *": "allow",
+      "ebook-convert *": "allow",
+      "pdftotext *": "allow",
+      "pdfinfo *": "allow",
+      "mutool *": "allow",
+      "unzip *": "allow",
+      "sudo *": "deny",
+      "rm -rf *": "deny",
+      "rm -rf /*": "deny",
+      ": | *": "deny",
+      "curl * | *": "deny",
+      "wget * | *": "deny",
+      "* | sh": "deny",
+      "* | bash": "deny",
+      "* | zsh": "deny"
+    }
+  },
+  "agent": {
+    "build": {
+      "model": "mimo-30/mimo-auto",
+      "description": "Оркестратор роя. Держит общую картину: какие книги ещё не разобраны, какие статьи вики пусты/устарели/не связаны. Раздаёт задачи 15 аналитикам книг и 14 вики-агентам, следит за очередью и не даёт работе останавливаться. Ведёт учёт прогресса в .opencode/progress/."
+    },
+    "book-analyst-01": {
+      "model": "mimo-1/mimo-auto",
+      "mode": "subagent",
+      "description": "Аналитик книг Склярова #01. Читает один назначенный источник (fb2/epub/pdf/mht) большими фрагментами, извлекает факты, концепции, персоналии, места, артефакты, события, методы и цитаты. Отдаёт структурированную выжимку в .opencode/extracts/ как сырьё для вики-агентов. Ничего не выдумывает — только то, что есть в тексте, с указанием книги и главы."
+    },
+    "book-analyst-02": {
+      "model": "mimo-2/mimo-auto",
+      "mode": "subagent",
+      "description": "Аналитик книг Склярова #02. Читает один назначенный источник (fb2/epub/pdf/mht) большими фрагментами, извлекает факты, концепции, персоналии, места, артефакты, события, методы и цитаты. Отдаёт структурированную выжимку в .opencode/extracts/ как сырьё для вики-агентов. Ничего не выдумывает — только то, что есть в тексте, с указанием книги и главы."
+    },
+    "book-analyst-03": {
+      "model": "mimo-3/mimo-auto",
+      "mode": "subagent",
+      "description": "Аналитик книг Склярова #03. Читает один назначенный источник (fb2/epub/pdf/mht) большими фрагментами, извлекает факты, концепции, персоналии, места, артефакты, события, методы и цитаты. Отдаёт структурированную выжимку в .opencode/extracts/ как сырьё для вики-агентов. Ничего не выдумывает — только то, что есть в тексте, с указанием книги и главы."
+    },
+    "book-analyst-04": {
+      "model": "mimo-4/mimo-auto",
+      "mode": "subagent",
+      "description": "Аналитик книг Склярова #04. Читает один назначенный источник (fb2/epub/pdf/mht) большими фрагментами, извлекает факты, концепции, персоналии, места, артефакты, события, методы и цитаты. Отдаёт структурированную выжимку в .opencode/extracts/ как сырьё для вики-агентов. Ничего не выдумывает — только то, что есть в тексте, с указанием книги и главы."
+    },
+    "book-analyst-05": {
+      "model": "mimo-5/mimo-auto",
+      "mode": "subagent",
+      "description": "Аналитик книг Склярова #05. Читает один назначенный источник (fb2/epub/pdf/mht) большими фрагментами, извлекает факты, концепции, персоналии, места, артефакты, события, методы и цитаты. Отдаёт структурированную выжимку в .opencode/extracts/ как сырьё для вики-агентов. Ничего не выдумывает — только то, что есть в тексте, с указанием книги и главы."
+    },
+    "book-analyst-06": {
+      "model": "mimo-6/mimo-auto",
+      "mode": "subagent",
+      "description": "Аналитик книг Склярова #06. Читает один назначенный источник (fb2/epub/pdf/mht) большими фрагментами, извлекает факты, концепции, персоналии, места, артефакты, события, методы и цитаты. Отдаёт структурированную выжимку в .opencode/extracts/ как сырьё для вики-агентов. Ничего не выдумывает — только то, что есть в тексте, с указанием книги и главы."
+    },
+    "book-analyst-07": {
+      "model": "mimo-7/mimo-auto",
+      "mode": "subagent",
+      "description": "Аналитик книг Склярова #07. Читает один назначенный источник (fb2/epub/pdf/mht) большими фрагментами, извлекает факты, концепции, персоналии, места, артефакты, события, методы и цитаты. Отдаёт структурированную выжимку в .opencode/extracts/ как сырьё для вики-агентов. Ничего не выдумывает — только то, что есть в тексте, с указанием книги и главы."
+    },
+    "book-analyst-08": {
+      "model": "mimo-8/mimo-auto",
+      "mode": "subagent",
+      "description": "Аналитик книг Склярова #08. Читает один назначенный источник (fb2/epub/pdf/mht) большими фрагментами, извлекает факты, концепции, персоналии, места, артефакты, события, методы и цитаты. Отдаёт структурированную выжимку в .opencode/extracts/ как сырьё для вики-агентов. Ничего не выдумывает — только то, что есть в тексте, с указанием книги и главы."
+    },
+    "book-analyst-09": {
+      "model": "mimo-9/mimo-auto",
+      "mode": "subagent",
+      "description": "Аналитик книг Склярова #09. Читает один назначенный источник (fb2/epub/pdf/mht) большими фрагментами, извлекает факты, концепции, персоналии, места, артефакты, события, методы и цитаты. Отдаёт структурированную выжимку в .opencode/extracts/ как сырьё для вики-агентов. Ничего не выдумывает — только то, что есть в тексте, с указанием книги и главы."
+    },
+    "book-analyst-10": {
+      "model": "mimo-10/mimo-auto",
+      "mode": "subagent",
+      "description": "Аналитик книг Склярова #10. Читает один назначенный источник (fb2/epub/pdf/mht) большими фрагментами, извлекает факты, концепции, персоналии, места, артефакты, события, методы и цитаты. Отдаёт структурированную выжимку в .opencode/extracts/ как сырьё для вики-агентов. Ничего не выдумывает — только то, что есть в тексте, с указанием книги и главы."
+    },
+    "book-analyst-11": {
+      "model": "mimo-11/mimo-auto",
+      "mode": "subagent",
+      "description": "Аналитик книг Склярова #11. Читает один назначенный источник (fb2/epub/pdf/mht) большими фрагментами, извлекает факты, концепции, персоналии, места, артефакты, события, методы и цитаты. Отдаёт структурированную выжимку в .opencode/extracts/ как сырьё для вики-агентов. Ничего не выдумывает — только то, что есть в тексте, с указанием книги и главы."
+    },
+    "book-analyst-12": {
+      "model": "mimo-12/mimo-auto",
+      "mode": "subagent",
+      "description": "Аналитик книг Склярова #12. Читает один назначенный источник (fb2/epub/pdf/mht) большими фрагментами, извлекает факты, концепции, персоналии, места, артефакты, события, методы и цитаты. Отдаёт структурированную выжимку в .opencode/extracts/ как сырьё для вики-агентов. Ничего не выдумывает — только то, что есть в тексте, с указанием книги и главы."
+    },
+    "book-analyst-13": {
+      "model": "mimo-13/mimo-auto",
+      "mode": "subagent",
+      "description": "Аналитик книг Склярова #13. Читает один назначенный источник (fb2/epub/pdf/mht) большими фрагментами, извлекает факты, концепции, персоналии, места, артефакты, события, методы и цитаты. Отдаёт структурированную выжимку в .opencode/extracts/ как сырьё для вики-агентов. Ничего не выдумывает — только то, что есть в тексте, с указанием книги и главы."
+    },
+    "book-analyst-14": {
+      "model": "mimo-14/mimo-auto",
+      "mode": "subagent",
+      "description": "Аналитик книг Склярова #14. Читает один назначенный источник (fb2/epub/pdf/mht) большими фрагментами, извлекает факты, концепции, персоналии, места, артефакты, события, методы и цитаты. Отдаёт структурированную выжимку в .opencode/extracts/ как сырьё для вики-агентов. Ничего не выдумывает — только то, что есть в тексте, с указанием книги и главы."
+    },
+    "book-analyst-15": {
+      "model": "mimo-15/mimo-auto",
+      "mode": "subagent",
+      "description": "Аналитик книг Склярова #15. Читает один назначенный источник (fb2/epub/pdf/mht) большими фрагментами, извлекает факты, концепции, персоналии, места, артефакты, события, методы и цитаты. Отдаёт структурированную выжимку в .opencode/extracts/ как сырьё для вики-агентов. Ничего не выдумывает — только то, что есть в тексте, с указанием книги и главы."
+    },
+    "wiki-writer-01": {
+      "model": "mimo-16/mimo-auto",
+      "mode": "subagent",
+      "description": "Составитель вики. Из выжимок аналитиков (.opencode/extracts/) создаёт новые статьи в ./wiki в нужной категории (concepts/people/places/artifacts/events/methods/books/...), с YAML-фронтматтером, [[вики-ссылками]] и обратными ссылками. Соблюдает формат существующих статей. (экземпляр 01)"
+    },
+    "wiki-writer-02": {
+      "model": "mimo-17/mimo-auto",
+      "mode": "subagent",
+      "description": "Составитель вики. Из выжимок аналитиков (.opencode/extracts/) создаёт новые статьи в ./wiki в нужной категории (concepts/people/places/artifacts/events/methods/books/...), с YAML-фронтматтером, [[вики-ссылками]] и обратными ссылками. Соблюдает формат существующих статей. (экземпляр 02)"
+    },
+    "wiki-writer-03": {
+      "model": "mimo-18/mimo-auto",
+      "mode": "subagent",
+      "description": "Составитель вики. Из выжимок аналитиков (.opencode/extracts/) создаёт новые статьи в ./wiki в нужной категории (concepts/people/places/artifacts/events/methods/books/...), с YAML-фронтматтером, [[вики-ссылками]] и обратными ссылками. Соблюдает формат существующих статей. (экземпляр 03)"
+    },
+    "wiki-writer-04": {
+      "model": "mimo-19/mimo-auto",
+      "mode": "subagent",
+      "description": "Составитель вики. Из выжимок аналитиков (.opencode/extracts/) создаёт новые статьи в ./wiki в нужной категории (concepts/people/places/artifacts/events/methods/books/...), с YAML-фронтматтером, [[вики-ссылками]] и обратными ссылками. Соблюдает формат существующих статей. (экземпляр 04)"
+    },
+    "wiki-writer-05": {
+      "model": "mimo-20/mimo-auto",
+      "mode": "subagent",
+      "description": "Составитель вики. Из выжимок аналитиков (.opencode/extracts/) создаёт новые статьи в ./wiki в нужной категории (concepts/people/places/artifacts/events/methods/books/...), с YAML-фронтматтером, [[вики-ссылками]] и обратными ссылками. Соблюдает формат существующих статей. (экземпляр 05)"
+    },
+    "wiki-editor-01": {
+      "model": "mimo-21/mimo-auto",
+      "mode": "subagent",
+      "description": "Редактор вики. Улучшает существующие статьи ./wiki: дополняет фактами из новых выжимок, устраняет заглушки и дубликаты, объединяет разрозненные страницы, уточняет формулировки и перелинковку. Сохраняет нейтральное изложение источника. (экземпляр 01)"
+    },
+    "wiki-editor-02": {
+      "model": "mimo-22/mimo-auto",
+      "mode": "subagent",
+      "description": "Редактор вики. Улучшает существующие статьи ./wiki: дополняет фактами из новых выжимок, устраняет заглушки и дубликаты, объединяет разрозненные страницы, уточняет формулировки и перелинковку. Сохраняет нейтральное изложение источника. (экземпляр 02)"
+    },
+    "wiki-editor-03": {
+      "model": "mimo-23/mimo-auto",
+      "mode": "subagent",
+      "description": "Редактор вики. Улучшает существующие статьи ./wiki: дополняет фактами из новых выжимок, устраняет заглушки и дубликаты, объединяет разрозненные страницы, уточняет формулировки и перелинковку. Сохраняет нейтральное изложение источника. (экземпляр 03)"
+    },
+    "wiki-editor-04": {
+      "model": "mimo-24/mimo-auto",
+      "mode": "subagent",
+      "description": "Редактор вики. Улучшает существующие статьи ./wiki: дополняет фактами из новых выжимок, устраняет заглушки и дубликаты, объединяет разрозненные страницы, уточняет формулировки и перелинковку. Сохраняет нейтральное изложение источника. (экземпляр 04)"
+    },
+    "wiki-editor-05": {
+      "model": "mimo-25/mimo-auto",
+      "mode": "subagent",
+      "description": "Редактор вики. Улучшает существующие статьи ./wiki: дополняет фактами из новых выжимок, устраняет заглушки и дубликаты, объединяет разрозненные страницы, уточняет формулировки и перелинковку. Сохраняет нейтральное изложение источника. (экземпляр 05)"
+    },
+    "wiki-validator-01": {
+      "model": "mimo-26/mimo-auto",
+      "mode": "subagent",
+      "description": "Валидатор вики. Проверяет ./wiki на битые [[ссылки]], сиротские страницы, несоответствие фактов исходным выжимкам, ошибки фронтматтера и структуры категорий. Заводит список проблем в .opencode/validation/ и чинит очевидное. (экземпляр 01)"
+    },
+    "wiki-validator-02": {
+      "model": "mimo-27/mimo-auto",
+      "mode": "subagent",
+      "description": "Валидатор вики. Проверяет ./wiki на битые [[ссылки]], сиротские страницы, несоответствие фактов исходным выжимкам, ошибки фронтматтера и структуры категорий. Заводит список проблем в .opencode/validation/ и чинит очевидное. (экземпляр 02)"
+    },
+    "wiki-validator-03": {
+      "model": "mimo-28/mimo-auto",
+      "mode": "subagent",
+      "description": "Валидатор вики. Проверяет ./wiki на битые [[ссылки]], сиротские страницы, несоответствие фактов исходным выжимкам, ошибки фронтматтера и структуры категорий. Заводит список проблем в .opencode/validation/ и чинит очевидное. (экземпляр 03)"
+    },
+    "wiki-validator-04": {
+      "model": "mimo-29/mimo-auto",
+      "mode": "subagent",
+      "description": "Валидатор вики. Проверяет ./wiki на битые [[ссылки]], сиротские страницы, несоответствие фактов исходным выжимкам, ошибки фронтматтера и структуры категорий. Заводит список проблем в .opencode/validation/ и чинит очевидное. (экземпляр 04)"
+    }
+  }
+}

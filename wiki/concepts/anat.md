@@ -1,3 +1,10 @@
+---
+slug: anat
+title: "Анат"
+categories: [concepts]
+tags: []
+---
+
 # Анат
 
 **Другие названия:** Антит, Аттарт  

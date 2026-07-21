@@ -1,3 +1,11 @@
+---
+slug: fritjof-kapra
+title: "Фритйоф Капра (Fritjof Capra)"
+categories:
+  - people
+tags: []
+---
+
 # Фритйоф Капра (Fritjof Capra)
 
 **Описание:** Физик-теоретик и писатель, автор книги «[[concepts/dao-fiziki|Дао физики]]» (The Tao of Physics, 1975), в которой он проводит параллели между восточной философией и современной физикой.

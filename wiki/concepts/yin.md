@@ -1,3 +1,10 @@
+---
+slug: yin
+title: "Инь (陰)"
+categories: [concepts]
+tags: []
+---
+
 # Инь (陰)
 
 **Другие названия:** Инь-линия, прерванная линия
@@ -13,6 +20,10 @@
 - В сочетании с [[concepts/yang|ян]] образует [[concepts/trigrama|триграммы]] и [[concepts/geksagramma|гексаграммы]]
 
 ---
+
+## Источники
+
+- [[books/10-kompyuter-drevnego-kitaya|Компьютер Древнего Китая]]
 
 ## См. также
 

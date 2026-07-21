@@ -1,3 +1,10 @@
+---
+slug: ierusalim
+title: "Иерусалим"
+categories: [places]
+tags: []
+---
+
 # Иерусалим
 
 Древний город, центр трёх авраамических религий, место [[places/temple-mount|Храмовой горы]]. В работах А. Склярова Иерусалим является одним из ключевых объектов исследования.
@@ -22,5 +29,5 @@
 - [[places/temple-mount]] — Храмовая гора, главный объект
 - [[places/gora-moriya]] — Гора Мория
 - [[people/herod-great]] — Ирод Великий
-- [[concepts/ковчег-завета]] — Ковчег Завета
+- [[concepts/kovcheg-zaveta]] — Ковчег Завета
 - [[places/dome-of-the-rock]] — Купол Скалы

@@ -1,3 +1,10 @@
+---
+slug: dinozavri-na-kamnyah-iki
+title: "Динозавры на камнях Ики"
+categories: [concepts]
+tags: []
+---
+
 # Динозавры на камнях Ики
 
 ## Описание
@@ -32,6 +39,6 @@
 ## Связанные страницы
 - [[artifacts/kamni-iki]]
 - [[events/vsemirnyi-potop]]
-- [[concepts/Палеоконтакт]]
+- [[concepts/paleokontakt]]
 - [[books/15-peru-i-boliviya|«Перу и Боливия задолго до инков»]]
 - [[books/16-sensacionnaya-istoriya|«Сенсационная история Земли»]]

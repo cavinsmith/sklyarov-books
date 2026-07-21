@@ -1,3 +1,10 @@
+---
+slug: plodorodnyi-polumesyac
+title: "Плодородный полумесяц"
+categories: [places]
+tags: []
+---
+
 # Плодородный полумесяц
 
 Регион Ближнего Востока.

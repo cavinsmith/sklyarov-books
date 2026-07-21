@@ -1,3 +1,10 @@
+---
+slug: princzip-dopolneniya
+title: "Принцип дополнения"
+categories: [concepts]
+tags: []
+---
+
 # Принцип дополнения
 
 **Другие названия:** Принцип замены, Complementation principle

@@ -1,3 +1,10 @@
+---
+slug: princzip-inverzii
+title: "Принцип инверсии"
+categories: [concepts]
+tags: []
+---
+
 # Принцип инверсии
 
 **Другие названия:** Принцип обратного чтения, Inversion principle

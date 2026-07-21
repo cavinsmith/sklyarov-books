@@ -1,10 +1,18 @@
+---
+slug: nevem
+title: Невем
+categories: [people]
+tags: [researcher, dragonography]
+---
+
 # Невем
 
-Исследователь.
+Исследователь, упоминаемый в контексте [[concepts/dracoonografiya|драконографии]].
 
 ## Основные сведения
 
-- Исследователь.
+- Исследователь
+- Связан с изучением [[concepts/dracoonografiya|драконов]] в мифологии
 
 ## Упоминание в работах
 
@@ -12,4 +20,6 @@
 
 ## См. также
 
+- [[concepts/dracoonografiya]] — Драконография
+- [[books/11-dragonografiya]]
 - [[books/01-mif-o-potope]]

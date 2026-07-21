@@ -1,3 +1,11 @@
+---
+slug: baklend
+title: "Уильям Баклэнд"
+categories:
+  - people
+tags: []
+---
+
 # Уильям Баклэнд
 
 ## Описание

@@ -1,3 +1,10 @@
+---
+slug: uari
+title: "Уари"
+categories: [places]
+tags: []
+---
+
 # Уари
 
 ## Описание

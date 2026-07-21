@@ -1,3 +1,11 @@
+---
+slug: nicolae-vlassa
+title: "Николае Власса (Nicolae Vlassa)"
+categories:
+  - people
+tags: []
+---
+
 # Николае Власса (Nicolae Vlassa)
 
 **Описание:** Румынский археолог, обнаруживший в 1961 году [[artifacts/tyerteriyskie-tablichki|Тартарийские (Тэртерийские) таблички]] на раскопках в [[places/tirteriya|Тартарии]] (Тэртерии), Трансильвания, Румыния.

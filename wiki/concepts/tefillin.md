@@ -1,3 +1,10 @@
+---
+slug: tefillin
+title: "Тефиллин"
+categories: [concepts]
+tags: []
+---
+
 # Тефиллин
 
 **Другие названия:** Тфилин, Филактерии  

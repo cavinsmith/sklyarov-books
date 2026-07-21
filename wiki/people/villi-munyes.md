@@ -1,3 +1,11 @@
+---
+slug: villi-munyes
+title: "Вилли Муньес"
+categories:
+  - people
+tags: []
+---
+
 # Вилли Муньес
 
 ## Описание

@@ -1,3 +1,10 @@
+---
+slug: zheleznye-meteority
+title: "Железные метеориты"
+categories: [concepts]
+tags: []
+---
+
 # Железные метеориты
 
 **Другие названия:** Железные метеориты, Siderиты  

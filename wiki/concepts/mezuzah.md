@@ -1,3 +1,10 @@
+---
+slug: mezuzah
+title: "Мезуза"
+categories: [concepts]
+tags: []
+---
+
 # Мезуза
 
 **Другие названия:** Mezuzah  

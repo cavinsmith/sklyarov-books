@@ -1,3 +1,10 @@
+---
+slug: templo-mayor
+title: "Тепло Майор"
+categories: artifacts
+tags: []
+---
+
 # Тепло Майор
 
 Ацтекская пирамида в Теночтитлане.

@@ -1,3 +1,10 @@
+---
+slug: nan-madol
+title: "Нан-Мадол"
+categories: [places]
+tags: []
+---
+
 # Нан-Мадол
 
 Древний город на Тихом океане.

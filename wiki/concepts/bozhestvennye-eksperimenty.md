@@ -1,3 +1,10 @@
+---
+slug: bozhestvennye-eksperimenty
+title: "Божественные эксперименты"
+categories: [concepts]
+tags: []
+---
+
 # Божественные эксперименты
 
 ## Описание
@@ -17,5 +24,5 @@
 - [[artifacts/trepanaciya-cherepov]]
 - [[artifacts/deformaciya-cherepov]]
 - [[artifacts/kamni-iki]]
-- [[concepts/Палеоконтакт]]
+- [[concepts/paleokontakt]]
 - [[books/15-peru-i-boliviya|«Перу и Боливия задолго до инков»]]

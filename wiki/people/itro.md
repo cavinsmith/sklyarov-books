@@ -1,3 +1,11 @@
+---
+slug: itro
+title: "Итро (Рагуэль)"
+categories:
+  - people
+tags: []
+---
+
 ## Итро (Рагуэль)
 
 Тесть Моисея, бывший египетский жрец и советник фараона.
@@ -19,5 +27,5 @@
 ### Связанные сущности
 
 - [[people/moisey|Моисей]] — зять
-- [[concepts/Ковчег Завета]]
+- [[concepts/kovcheg-zaveta]]
 - [[books/25-kovcheg-zaveta]]

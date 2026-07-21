@@ -1,3 +1,10 @@
+---
+slug: parakas
+title: "Паракас"
+categories: [places]
+tags: []
+---
+
 # Паракас
 
 ## Описание

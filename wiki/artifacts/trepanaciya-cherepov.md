@@ -1,3 +1,17 @@
+---
+slug: trepanaciya-cherepov
+title: "Трепанация черепов"
+categories:
+  - artifacts
+  - medicine
+  - archaeology
+tags:
+  - trepanation
+  - skull
+  - surgery
+  - peru
+---
+
 # Трепанация черепов
 
 ## Описание

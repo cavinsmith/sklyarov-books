@@ -1,3 +1,10 @@
+---
+slug: potop-i-yuzhnaya-amerika
+title: "Потоп в Южной Америке"
+categories: [events]
+tags: []
+---
+
 # Потоп в Южной Америке
 
 ## Описание
@@ -35,3 +42,4 @@
 - [[books/15-peru-i-boliviya|«Перу и Боливия задолго до инков»]]
 - [[books/14-obitaemyy-ostrov|«Обитаемый остров Земля»]]
 - [[books/16-sensacionnaya-istoriya|«Сенсационная история Земли»]]
+- [[concepts/kulturnaya-preemstvennost-tsivilizatsiy|Культурная преемственность цивилизаций]]

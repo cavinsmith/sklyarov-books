@@ -1,3 +1,11 @@
+---
+slug: panchelyuga
+title: "Виктор Панчелюга"
+categories:
+  - people
+tags: []
+---
+
 # Виктор Панчелюга
 
 ## Описание
@@ -12,7 +20,7 @@
 - Эти исследования показали проблемные аспекты используемых методов датирования.
 
 ## Связанные страницы
-- [[methods/Радиоуглеродное датирование]]
-- [[concepts/Геохронология]]
+- [[methods/radiouglerodnoe-datirovanie]]
+- [[concepts/geokhronologiya]]
 - [[people/andrey-sklyarov]]
 - [[books/16-sensacionnaya-istoriya|«Сенсационная история Земли»]]

@@ -1,3 +1,10 @@
+---
+slug: cholula
+title: "Чолула"
+categories: [places]
+tags: []
+---
+
 # Чолула
 
 **Полное название:** Гора Чолула (исп. Gran Pirámide de Cholula), также Тлачихуэлько (науатль: Tlachihualtepetl — «Искусственная гора»)

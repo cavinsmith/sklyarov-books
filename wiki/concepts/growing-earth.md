@@ -1,3 +1,10 @@
+---
+slug: growing-earth
+title: "Растущая Земля"
+categories: [concepts]
+tags: []
+---
+
 # Растущая Земля
 
 **Другие названия:** Гипотеза растущей Земли, Expansion Earth  

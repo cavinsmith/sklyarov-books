@@ -1,3 +1,11 @@
+---
+slug: gerodot
+title: "Геродот"
+categories:
+  - people
+tags: []
+---
+
 # Геродот
 
 **Полное имя:** Геродот из Галикарнаса (Herodotus)

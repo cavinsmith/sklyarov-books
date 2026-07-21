@@ -1,0 +1,30 @@
+---
+slug: dzhoanni-isla
+title: "Джонни Исла"
+categories:
+  - people
+  - researchers
+tags:
+  - nazca
+  - palpa
+  - archaeology
+---
+
+# Джонни Исла
+
+**Джонни Исла** — перуанский археолог, соруководитель проекта **«[[projects/naska-palpa|Наска-Пальпа]]»**.
+
+## Деятельность
+
+- Совместно с [[people/markus-rejndel|Маркусом Рейнделем]] возглавляет проект «[[projects/naska-palpa|Наска-Пальпа]]» с 1997 года
+- Проводит масштабные исследования геоглифов на [[places/plato-naska|плато Наска]] и [[places/palpa|Пальпы]] с использованием цифровых технологий
+
+## Источники
+
+- [[books/23-naska|Наска: гигантские рисунки на полях]]
+
+## См. также
+
+- [[places/plato-naska|Плато Наска]]
+- [[places/palpa|Плато Пальпы]]
+- [[people/markus-rejndel|Маркус Рейндель]]

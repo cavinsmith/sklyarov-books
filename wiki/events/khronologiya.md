@@ -1,0 +1,138 @@
+---
+slug: khronologiya
+title: "Хронология событий"
+categories: [events]
+tags: []
+---
+
+# Хронология событий
+
+Хронология ключевых событий, описанных в работах [[people/andrey-sklyarov|Андрея Склярова]].
+
+---
+
+## Доисторический период
+
+### ~4,5 млрд лет назад
+- [[concepts/raskol-faetona]] — разрушение гипотетической планеты [[concepts/faeton|Фаэтон]]
+- [[concepts/udarnaya-zima]] — глобальное похлобание после катастрофы
+- [[concepts/spreading-subduction]] — начало процессов спрединга и субдукции океанической плиты
+
+### ~65 млн лет назад
+- [[events/padenie-meteorita]] — падение метеорита, уничтожившего динозавров и вызвавшего [[concepts/udarnaya-zima|ударную зиму]]
+
+### ~252 млн лет назад
+- [[concepts/permsko-triasovoe-poboische]] — Пермско-триасовое побоище — массовое вымирание видов
+- [[concepts/kalievyy-vzryv]] — калиевый взрыв — катастрофическое событие в истории Земли
+- [[concepts/melovaya-transgressiya]] — меловая трансгрессия — повышение уровня моря в меловом периоде
+
+### ~11 000 лет назад
+- [[events/velikii-potop]] — Великий Потоп — глобальная катастрофа
+- Гибель [[concepts/faeton|Фаэтона]] и начало нового цикла
+- Затопление [[places/chernoe-more|Чёрного моря]] — прорыв Средиземного моря в бассейн
+- [[concepts/dopootopniy-severniy-polyus]] — допотопный Северный полюс на другой позиции
+- Начало нового цикла [[concepts/predpotopnaya-civilizaciya|предпотопной цивилизации]]
+
+### ~10 000 лет назад
+- [[concepts/zemledelie-kak-dar-bogov]] — появление земледелия на Земле
+- Переход от [[concepts/okhota-i-sobiratelstvo|охоты и собирательства]] к земледелию
+- Появление первых [[concepts/predpotopnaya-civilizaciya|поселений и городов]]
+- [[concepts/zernovoye-zemledelie]] — зарождение зернового земледелия
+
+## Древний мир
+
+### ~5000-4000 лет до н.э.
+- Расцвет [[concepts/civilization-of-gods|цивилизации богов]]
+- [[concepts/paleokontakt|Активный контакт]] «богов» с людьми
+- [[concepts/metally-dar-nebesnykh-bogov]] — привнесение металлургии
+- [[concepts/neytralnye-yazyki]] — появление нейтральных языков общения
+- [[concepts/bozhestvennye-eksperimenty]] — генетические эксперименты «богов» над людьми
+- ~2852-2737 до н.э. — [[people/fu-si|Фу Си]], легендарный правитель Древнего Китая, создаёт 8 [[concepts/trigrama|триграмм]], положивших начало [[concepts/kniga-peremen|Книге Перемен]]
+
+### ~3500-3000 лет до н.э.
+- Строительство [[places/giza-plateau|Великих пирамид в Гизе]]
+- [[events/epokha-tsivilizatsii-bogov]] — расцвет «богов» и их присутствия на Земле
+- [[concepts/megaliticheskaya-arkhitektura|Мегалитическая архитектура]] — создание каменных сооружений
+- [[concepts/paleokontakt|Контакт с «богами»]] — установление религиозных систем
+
+### ~3000-2000 лет до н.э.
+- [[events/razvedyvatelnaya-missiya-avraama]] — разведывательная миссия Авраама в Ханаан
+- [[concepts/kultovye-sooruzheniya]] — строительство первых храмов и святилищ
+- [[concepts/zemledelie-kak-dar-bogov]] — развитие земледелия под влиянием «богов»
+- [[concepts/drevnie-bogi]] — расцвет цивилизации «богов» в Месопотамии
+
+### ~2000-1500 лет до н.э.
+- [[events/voyna-bogov-iv-tysyacheletie]] — война богов в IV тысячелетии до н.э.
+- [[concepts/baal-worship]] — распространение культа Баала на Ближнем Востоке
+- [[concepts/konflikt-yahve-i-baala]] — начало конфликта Яхве и Баала
+
+### ~1500-1000 лет до н.э.
+- [[events/iskhod]] — Исход евреев из Египта
+- [[events/battle-kadesh]] — битва при Кадеше между Египтом и хеттами
+- [[events/padenie-ierihona]] — падение Иерихона и завоевание Ханаана
+- [[events/relihoznaya-reforma-ehnathona]] — монотеистическая реформа Эхнатона в Египте
+- [[concepts/temple-knights-founding]] — зарождение храмовых традиций
+- [[concepts/monoteizm]] — утверждение монотеизма в Древнем Израиле
+
+### ~1000-500 лет до н.э.
+- Царство [[people/david|Давида]] и [[people/solomon|Соломона]]
+- Строительство [[places/solomon-temple|Храма Соломона]] на [[places/temple-mount|Храмовой горе]]
+- [[events/raspad-izraila]] — разделение царства на Израиль и Иудею
+- [[concepts/mednyy-vek]] — переход от медного к железному веку
+- [[concepts/tectonic-plates]] — осознание движения тектонических плит
+
+### ~500-1 лет до н.э.
+- [[concepts/zakon-istoricheskoy-inertsii]] — Закон исторической инерции в действии
+- [[concepts/skinia]] — сохранение традиции Скинии
+- [[people/herod-great]] — правление Ирода Великого
+
+## Начало новой эры
+
+### I век н.э.
+- [[events/temple-destruction-70]] — разрушение Второго Храма в Иерусалиме в 70 г. н.э.
+- [[concepts/tefillin]] — распространение традиции тфиллинов
+- [[concepts/tetragrammaton]] — закрепление тетраграммона как имени Бога
+
+### II-V века н.э.
+- [[concepts/drevneevropeyskaya-civilizaciya]] — расцвет древнеевропейской цивилизации
+- [[concepts/kultura-naska]] — расцвет культуры [[places/naska|Наски]]
+
+### V-X века н.э.
+- [[concepts/velikaya-siriya]] — формирование понятия Великой Сирии
+
+### XI-XV века н.э.
+- [[events/osnovanie-tamplierov]] — основание ордена тамплиеров (1119 г.)
+- [[concepts/temple-knights-founding]] — деятельность ордена Храмовников
+- Крестовые походы и сражения на Ближнем Востоке
+- Паломничества в [[places/ierusalim|Иерусалим]]
+
+## Современность
+
+### XIX век
+- [[events/napoleon-egypt-expedition]] — египетская экспедиция Наполеона (1798-1801)
+- [[people/flinders-petri]] — начало научной египтологии
+- [[people/schliemann]] — раскопки Трои
+
+### XX век
+- **1927** — [[people/toribio|Торибео Мехия Ксеспе]] первый обращает внимание на линии Наски с поверхности земли
+- **1939** — [[people/paul-kosok|Поль Косок]] публикует первые aerial-фотографии геоглифов Наски
+- **1946** — [[people/mariya-rajhe|Мария Райхе]] начинает картирование геоглифов на [[places/plato-naska|плато Наска]]
+- **1968** — выход книги [[people/erih-fon-daniken|Эриха фон Дэникена]] «Колесницы богов» с теорией о посадочных полосах для инопланетных кораблей
+- **1973** — экспедиция [[people/dzherald-houkins|Джеральда Хоукинса]] по проверке астрономической ориентации линий (обнаружено совпадение лишь для 20% линий)
+- **1994** — геоглифы [[places/plato-naska|Наски]] включены в Список всемирного наследия ЮНЕСКО
+- **1997** — старт проекта «[[projects/naska-palpa|Наска-Пальпа]]» ([[people/markus-rejndel|Маркус Рейндель]] и Джонни Исла)
+- **1998** — смерть [[people/mariya-rajhe|Марии Райхе]] в возрасте 95 лет; посвятила геоглифам более 50 лет
+- [[events/velikoe-osvyaschenie-2000]] — Великое освящение Храмовой горы (2000 г.)
+
+### XXI век
+- [[events/ekspediciya-sklyarova-v-egipet-2004]] — экспедиция Склярова в Египет (2004 г.)
+- **2006** — немецко-перуанская экспедиция на [[places/plato-naska|Наску]] под эгидой [[people/erih-fon-daniken|Дэникена]]
+- [[events/ekspediciya-sklyarova-v-meksiku-2007]] — экспедиция Склярова в Мексику (2007 г.)
+- **2007** — съёмочно-исследовательская экспедиция Фонда «III тысячелетие» на [[places/plato-naska|Наску]] (участие [[people/andrey-sklyarov|Склярова]])
+- [[events/ekspediciya-efiopiya-2008]] — экспедиция в Эфиопию, поиск Ковчега Завета (2008 г.)
+- [[events/ekspediciya-lai-2009]] — экспедиция в Перу и Боливию (2009 г.)
+- [[events/expedition-3rd-millennium]] — экспедиция «Третье тысячелетие»
+- [[events/razrushenie-palmiry]] — уничтожение древнего города [[places/palmyra|Пальмиры]] (2015 г.)
+- [[events/razrushenie-aleppo]] — гражданская война и разрушение [[places/aleppo|Алеппо]] (с 2011 г.)
+- [[events/razrushenie-ollantaytambo]] — разрушение [[places/ollantaytambo|Ольянтайтамбо]]
+- [[events/dvadcatipyatiletniy-spor]] — Двадцатипятилетний спор в археологии

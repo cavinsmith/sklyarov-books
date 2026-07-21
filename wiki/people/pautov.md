@@ -1,3 +1,11 @@
+---
+slug: pautov
+title: "Леонид Паутов"
+categories:
+  - people
+tags: []
+---
+
 # Леонид Паутов
 
 ## Описание
@@ -14,6 +22,6 @@
 
 ## Связанные страницы
 - [[places/mineral-museum]]
-- [[concepts/Геохронология]]
+- [[concepts/geokhronologiya]]
 - [[people/andrey-sklyarov]]
 - [[books/16-sensacionnaya-istoriya|«Сенсационная история Земли»]]

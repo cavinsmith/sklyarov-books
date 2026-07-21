@@ -1,3 +1,10 @@
+---
+slug: reka-huanhe
+title: "Река Хуанхэ"
+categories: [places]
+tags: []
+---
+
 # Река Хуанхэ
 
 **Другие названия:** Жёлтая река, Huang He

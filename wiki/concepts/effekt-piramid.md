@@ -1,3 +1,10 @@
+---
+slug: effekt-piramid
+title: "Эффект пирамид"
+categories: [concepts]
+tags: []
+---
+
 # Эффект пирамид
 
 Научно задокументированное влияние пирамидальных форм на биологические и физические процессы. В работах [[people/andrey-sklyarov|Андрея Склярова]] этот эффект рассматривается как доказательство практического назначения пирамид, выходящего за рамки «культовых сооружений».
@@ -47,5 +54,5 @@
 
 - [[concepts/antenna-piramida]]
 - [[concepts/kultovye-sooruzheniya]]
-- [[concepts/Мегалитические сооружения]]
+- [[concepts/megaliticheskie-sooruzheniya]]
 - [[books/24-opasnoe-nasledie|Опасное наследие]]

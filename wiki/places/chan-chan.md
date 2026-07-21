@@ -1,3 +1,10 @@
+---
+slug: chan-chan
+title: "Чан-Чан"
+categories: [places]
+tags: []
+---
+
 # Чан-Чан
 
 ## Описание

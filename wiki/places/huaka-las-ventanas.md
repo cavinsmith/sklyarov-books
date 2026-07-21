@@ -1,3 +1,10 @@
+---
+slug: huaka-las-ventanas
+title: "Уака Лас Вентанас"
+categories: [places]
+tags: []
+---
+
 # Уака Лас Вентанас
 
 Древнее сооружение в Перу.

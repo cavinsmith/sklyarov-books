@@ -1,3 +1,10 @@
+---
+slug: dva-civilizacii
+title: "Два типа людей на камнях Ики"
+categories: [concepts]
+tags: []
+---
+
 # Два типа людей на камнях Ики
 
 ## Описание
@@ -30,5 +37,5 @@
 - [[artifacts/kamni-iki]]
 - [[people/havyer-kabrera]]
 - [[concepts/bozhestvennye-eksperimenty]]
-- [[concepts/Палеоконтакт]]
+- [[concepts/paleokontakt]]
 - [[books/15-peru-i-boliviya|«Перу и Боливия задолго до инков»]]

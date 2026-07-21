@@ -1,3 +1,10 @@
+---
+slug: orna
+title: "Орна"
+categories: [concepts]
+tags: []
+---
+
 # Орна
 
 **Другие названия:** Орн, Орна-Ашторет  
@@ -21,6 +28,7 @@
 - [[concepts/astarte]] — связь с культом Астарты
 - [[concepts/baal-worship]] — поклонение Баалу, общая религиозная традиция
 - [[concepts/canaanites]] — ханаанеяне, носители финикийской культуры
+- [[concepts/genotsid-zhretsov-khanaana|Геноцид жрецов Ханаана]]
 
 ## Книги, в которых обсуждается
 

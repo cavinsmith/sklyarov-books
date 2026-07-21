@@ -1,3 +1,10 @@
+---
+slug: komalkalko
+title: "Комалькалько"
+categories: [places]
+tags: []
+---
+
 # Комалькалько
 
 Древнее сооружение в Мексике.

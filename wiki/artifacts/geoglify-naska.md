@@ -1,3 +1,10 @@
+---
+slug: geoglify-naska
+title: "Геоглифы Наска"
+categories: artifacts
+tags: []
+---
+
 # Геоглифы Наска
 
 ## Описание

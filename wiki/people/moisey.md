@@ -1,3 +1,11 @@
+---
+slug: moisey
+title: "Моисей"
+categories:
+  - people
+tags: []
+---
+
 # Моисей
 
 **Полное имя:** Моисей (Муса)  

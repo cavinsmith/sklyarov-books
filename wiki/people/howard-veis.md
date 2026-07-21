@@ -1,3 +1,11 @@
+---
+slug: howard-veis
+title: "Говард Вайс"
+categories:
+  - people
+tags: []
+---
+
 # Говард Вайс
 
 **Полное имя:** Говард Вайс (Howard Vyse)

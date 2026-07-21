@@ -1,3 +1,10 @@
+---
+slug: sernyj-kolchedan
+title: "Серный колчедан"
+categories: [concepts]
+tags: []
+---
+
 # Серный колчедан
 
 **Описание:** Минерал -- сульфид железа (FeS2), обнаруживаемый в угольных пластах. Его присутствие в угле используется как аргумент против [[concepts/biogennoe-proishozhdenie-nefti|биогенной теории]] происхождения угля и в пользу [[concepts/abiogennoe-proishozhdenie-nefti|abiогенной]] теории.

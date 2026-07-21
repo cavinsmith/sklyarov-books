@@ -1,3 +1,10 @@
+---
+slug: homo-erectus-java
+title: "Homo erectus Java"
+categories: artifacts
+tags: []
+---
+
 # Homo erectus Java
 
 Окаменелые останки вида Homo erectus, обнаруженные на острове [[places/java|Ява]], ставшие одним из ключевых доказательств существования ранних человекообразных существ в Юго-Восточной Азии.

@@ -1,3 +1,10 @@
+---
+slug: palpa
+title: "Пальпа (плато)"
+categories: [places]
+tags: []
+---
+
 # Пальпа (плато)
 
 ## Описание

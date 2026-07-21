@@ -1,3 +1,10 @@
+---
+slug: ideograficheskiy-princip
+title: "Идеографический принцип"
+categories: [concepts]
+tags: []
+---
+
 # Идеографический принцип
 
 Принцип письма, при котором знаки обозначают целые понятия, идеи или значения, а не звуки. В контексте книги «[[books/07-radio-uglerodnoe-datirovanie|Вавилонская башня]]» идеографический принцип рассматривается как основа [[concepts/piktografika-i-ieroglifika|пиктографической/иероглифической]] системы и [[concepts/edinaya-pismennost|единой древней письменности]].

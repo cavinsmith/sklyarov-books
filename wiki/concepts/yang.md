@@ -1,3 +1,10 @@
+---
+slug: yang
+title: "Ян (陽)"
+categories: [concepts]
+tags: []
+---
+
 # Ян (陽)
 
 **Другие названия:** Ян-линия, сплошная линия
@@ -13,6 +20,10 @@
 - В сочетании с [[concepts/yin|инь]] образует [[concepts/trigrama|триграммы]] и [[concepts/geksagramma|гексаграммы]]
 
 ---
+
+## Источники
+
+- [[books/10-kompyuter-drevnego-kitaya|Компьютер Древнего Китая]]
 
 ## См. также
 

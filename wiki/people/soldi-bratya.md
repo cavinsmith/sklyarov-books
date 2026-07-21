@@ -1,3 +1,11 @@
+---
+slug: soldi-bratya
+title: "Братья Сольди"
+categories:
+  - people
+tags: []
+---
+
 # Братья Сольди
 
 ## Описание

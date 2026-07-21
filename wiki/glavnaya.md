@@ -1,0 +1,176 @@
+# Wiki Андрея Склярова
+
+Энциклопедия знаний, извлечённых из книг [[people/andrey-sklyarov|Андрея Склярова]] — российского исследователя альтернативной истории, создателя Научно-исследовательского центра «Евразия».
+
+## О проекте
+
+Эта вики представляет собой структурированную базу знаний, основанную на работах Андрея Склярова. Все идеи и факты документируются без критической оценки — как изложены в оригинальных источниках.
+
+## Основные темы
+
+### [[concepts/alternativnaya-istoriya]]
+Пересмотр общепринятых представлений о прошлом человечества.
+
+### [[concepts/paleokontakt]]
+Гипотеза о контакте древних людей с высокоразвитой цивилизацией.
+
+### [[concepts/drevnie-bogi]]
+«Боги» как представители высокоразвитой цивилизации.
+
+### [[concepts/potop]]
+Великий Потоп как реальное глобальное событие.
+
+### [[concepts/geokhronologiya]]
+Критика академической хронологии и методов датирования.
+
+## Каталог книг
+
+### Серия «Разгром мифов»
+1. [[books/01-mif-o-potope|Миф о Потопе: расчёты и реальность]]
+2. [[books/02-olyantaytambo|Ольянтайтамбо — свидетель Потопа]]
+3. [[books/03-sudba-faetona|Ждёт ли Землю судьба Фаэтона]]
+4. [[books/04-bitva-za-urozhay|Битва за урожай (Наследие пьяных богов)]]
+5. [[books/05-rodina-bogov|Какова ты, Родина Богов?]]
+6. [[books/06-vavilonskaya-bashnya|Вавилонская башня — рекордсмен долгостроя]]
+7. [[books/07-radio-uglerodnoe-datirovanie|Меню радиоуглеродного датирования и дендрохронологии]]
+8. [[books/08-istoriya-zemli-bez-kamenno|История Земли без каменноугольного периода]]
+9. [[books/09-geohronologiya|Немного о текущей ситуации вокруг геохронологии]]
+10. [[books/10-kompyuter-drevnego-kitaya|Компьютер Древнего Китая]]
+11. [[books/11-dragonografiya|Введение в драконографию]]
+
+### Серия «Тайны древних цивилизаций»
+12. [[books/12-tsivilizaciya-bogov-egipta|Цивилизация богов древнего Египта]]
+13. [[books/13-meksika-bez-krivyh-zerkal|Древняя Мексика без кривых зеркал]]
+14. [[books/14-obitaemyy-ostrov|Обитаемый остров Земля]]
+15. [[books/15-peru-i-boliviya|Перу и Боливия задолго до инков]]
+16. [[books/16-sensacionnaya-istoriya|Сенсационная история Земли]]
+17. [[books/17-piramidy|Пирамиды: загадки строительства и назначения]]
+18. [[books/18-drevnie-bogi|Древние боги — кто они?]]
+19. [[books/19-zemlya-vaala|Земля Ваала]]
+20. [[books/20-strana-voshozhdeniya|Страна восходящего солнца]]
+21. [[books/21-geneticheskiy-kod|Генетический код человечества]]
+22. [[books/22-metally|Металлы — дар небесных богов]]
+23. [[books/23-naska|Наска: гигантские рисунки на полях]]
+24. [[books/24-opasnoe-nasledie|Опасное наследие богов]]
+25. [[books/25-kovcheg-zaveta|По следам Ковчега Завета]]
+26. [[books/26-siriyskie-perekrestki|Сирийские перекрестки цивилизации]]
+27. [[books/27-sozdanie-tsivilizaciy|Создание древних цивилизаций]]
+
+### Философия и метафизика
+28. [[books/28-fizika-duha|Основы физики духа]]
+
+### Другие работы
+29. [[books/29-sprint-po-kairu|Спринт по Каиру]]
+30. [[books/30-yahve-protiv-baala|Яхве против Баала — хроника переворота]]
+
+## Справочные разделы
+
+- [[glossary/glossariy|Глоссарий терминов]]
+- [[people/indeks-personaliy|Индекс персоналий]]
+- [[places/indeks-mest|Индекс географических объектов]]
+- [[artifacts/indeks-artefaktov|Индекс артефактов]]
+- [[events/khronologiya|Хронология событий]]
+
+## Популярные темы
+
+### Цивилизация богов и палеоконтакт
+- [[concepts/civilization-of-gods|Цивилизация богов]] — кто были «боги» древних цивилизаций?
+- [[concepts/paleokontakt|Палеоконтакт]] — гипотеза о контакте с высокоразвитой цивилизацией
+- [[concepts/drevnie-bogi|Древние боги]] — реконструкция облика и природы «богов»
+- [[concepts/geneticheskiy-kod-chelovechestva|Генетический код]] — следы генетического вмешательства
+
+### Мегалиты и утраченные технологии
+- [[concepts/megalithic-architecture|Мегалитическая архитектура]] — загадки строительства из гигантских камней
+- [[concepts/sledy-mashinnoy-obrabotki-kamnya|Следы машинной обработки]] — дисковые пилы, фрезерование в камне
+- [[concepts/utrachennye-tekhnologii|Утраченные технологии]] — что было утрачено после катастроф
+- [[concepts/kultovye-sooruzheniya|Культовые сооружения]] — храмы или технические устройства?
+
+### Потоп и катастрофы
+- [[concepts/potop|Великий Потоп]] — глобальная катастрофа ~11 000 лет назад
+- [[concepts/udarnaya-zima|Ударная зима]] — климатические последствия метеоритного удара
+- [[concepts/proskalzyvanie-kory|Сдвижка коры]] — перемещение земной коры
+- [[concepts/geokhronologiya|Геохронология]] — критика академической хронологии
+
+### Ближний Восток: конфликт культур
+- [[concepts/baal-worship|Поклонение Баалу]] — религия древних хананеев
+- [[concepts/yahweh-vs-baal|Конфликт Яхве и Баала]] — война двух религий
+- [[concepts/divine-genocide|Геноцид жрецов Ханаана]] — уничтожение знаний
+- [[concepts/zemledelie-kak-dar-bogov|Земледелие как дар богов]] — аграрная революция от «богов»
+
+### Египет и Мезоамерика
+- [[concepts/egyptian-pantheon|Египетский пантеон]] — божества Древнего Египта
+- [[concepts/olmeki|Ольмеки]] — древнейшая цивилизация Мезоамерики
+- [[concepts/kultura-naska|Культура Наски]] — гигантские рисунки на полях
+- [[concepts/high-tech-mesoamerica|Высокие технологии Мезоамерики]] — следы_advanced технологий
+
+### Генетика и биохимия
+- [[concepts/geneticheskiy-kod-chelovechestva|Генетический код человечества]] — тайна генома человека
+- [[concepts/golubaya-krov|Голубая кровь]] — гемоцианин вместо гемоглобина
+- [[concepts/gemoglobin|Гемоглобин]] — основа земной крови
+- [[concepts/teoriya-evolyucii|Теория эволюции]] — критика и альтернативы
+
+## Недавно обновлённые статьи
+
+### Экспедиции
+- [[events/ekspediciya-sklyarova-v-egipet-2004|Экспедиция в Египет (2004)]]
+- [[events/ekspediciya-sklyarova-v-meksiku-2007|Экспедиция в Мексику (2007)]]
+- [[events/ekspediciya-efiopiya-2008|Экспедиция в Эфиопию (2008)]]
+- [[events/ekspediciya-lai-2009|Экспедиция в Перу и Боливию (2009)]]
+
+### Артефакты
+- [[artifacts/great-pyramid|Великая пирамида Гизы]]
+- [[artifacts/baalbek-trilithon|Трилитон Баальбека]]
+- [[artifacts/sfinks|Великий Сфинкс]]
+- [[artifacts/geoglify-naska|Геоглифы Наски]]
+- [[artifacts/kamni-iki|Камни Ики]]
+- [[artifacts/olmeckie-golovy|Ольмекские головы]]
+
+### Места
+- [[places/baalbek|Баальбек]]
+- [[places/temple-mount|Храмовая гора]]
+- [[places/olyantaytambo|Ольянтайтамбо]]
+- [[places/yonaguni|Яёнурагуни]]
+- [[places/teotihuacan|Теотиуакан]]
+- [[places/saqqara|Саккара]]
+
+### События
+- [[events/iskhod|Исход]]
+- [[events/conquest-promised-land|Завоевание Земли Обетованной]]
+- [[events/padenie-ierihona|Падение Иерихона]]
+- [[events/raspad-izraila|Распад Израильского царства]]
+- [[events/velikii-potop|Великий Потоп]]
+
+### Персоналии
+- [[people/andrey-sklyarov|Андрей Скляров]] — автор исследований
+- [[people/erih-fon-daniken|Захария Ситчин]] — исследователь шумерских текстов
+- [[people/graham-hancock|Грэм Хэнкок]] — исследователь древних цивилизаций
+- [[people/christopher-dunn|Кристофер Данн]] — инженер, изучающий пирамиды
+
+## Обзорные статьи
+
+- [[concepts/alternativnaya-istoriya|Альтернативная история]]
+- [[concepts/paleokontakt|Палеоконтакт]]
+- [[concepts/geokhronologiya|Геохронология и её критика]]
+- [[concepts/potop|Великий Потоп]]
+- [[concepts/drevnie-bogi|Древние боги]]
+- [[concepts/megaliticheskie-sooruzheniya|Мегалитические сооружения]]
+- [[concepts/geneticheskiy-kod-chelovechestva|Генетический код человечества]]
+- [[concepts/dracoonografiya|Драконография]]
+
+## Тематические путеводители
+
+- [[guides/drevniy-egipet|Путеводитель: Древний Египет]]
+- [[guides/mezoamerika|Путеводитель: Мезоамерика]]
+- [[guides/blizhniy-vostok|Путеводитель: Ближний Восток]]
+- [[guides/paleokontakt|Путеводитель: Палеоконтакт]]
+- [[guides/datirovanie|Путеводитель: Методы датирования]]
+- [[guides/metallurgiya|Путеводитель: Металлургия]]
+
+## Проекты и издательства
+
+### Исследовательские проекты
+- [[projects/naska-palpa|Проект Наска-Пальпа]] — изучение геоглифов с помощью новых технологий
+- [[expeditions/ekspeditsii|Экспедиции НИЦ «Евразия]] — полевые исследования по всему миру
+
+### Издательства
+- [[publishers/veche|Издательство «Вече»]] — publisher книг Склярова

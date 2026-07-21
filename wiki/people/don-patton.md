@@ -1,3 +1,11 @@
+---
+slug: don-patton
+title: "Дон Паттон"
+categories:
+  - people
+tags: []
+---
+
 # Дон Паттон
 
 ## Описание

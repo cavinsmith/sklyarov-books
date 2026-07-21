@@ -1,3 +1,10 @@
+---
+slug: molotok-iz-texasa
+title: "Молоток из Техаса"
+categories: [concepts]
+tags: []
+---
+
 # Молоток из Техаса
 
 **Другие названия:** Молоток Лондонского геолога, Техасский молоток  
@@ -20,7 +27,7 @@
 
 - [[concepts/civilization-of-gods]] — цивилизация, создавшая молоток
 - [[concepts/zheleznye-meteority]] — железо могло быть метеоритного происхождения
-- [[concepts/lost-technology]] — утраченная технология обработки металлов
+- [[concepts/utrachennye-tekhnologii]] — утраченная технология обработки металлов
 - [[concepts/razgrom-mifov]] — аргументы скептиков
 
 ## Книги, в которых обсуждается

@@ -1,3 +1,10 @@
+---
+slug: manejon
+title: "Манехон"
+categories: [concepts]
+tags: []
+---
+
 # Манехон
 
 **Другие названия:** Манехон (Menechon)  

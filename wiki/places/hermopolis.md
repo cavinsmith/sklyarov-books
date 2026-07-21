@@ -1,3 +1,10 @@
+---
+slug: hermopolis
+title: "Гермополис"
+categories: [places]
+tags: []
+---
+
 # Гермополис
 
 Древний египетский город, центр культа [[people/tot|Тота]].

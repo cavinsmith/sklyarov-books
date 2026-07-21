@@ -1,3 +1,10 @@
+---
+slug: nadpisi-vaiza
+title: "Надписи Ваиза"
+categories: artifacts
+tags: []
+---
+
 # Надписи Ваиза
 
 **Другие названия:** Ваизские надписи, Ваизские петроглифы, Waiza inscriptions

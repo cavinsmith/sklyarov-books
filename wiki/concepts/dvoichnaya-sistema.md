@@ -1,3 +1,10 @@
+---
+slug: dvoichnaya-sistema
+title: "Двоичная система счисления"
+categories: [concepts]
+tags: []
+---
+
 # Двоичная система счисления
 
 **Другие названия:** Двоичная запись,.Binary notation

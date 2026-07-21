@@ -1,3 +1,10 @@
+---
+slug: yamm
+title: "Ямм"
+categories: [concepts]
+tags: []
+---
+
 # Ямм
 
 **Другие названия:** Ям, Йам  

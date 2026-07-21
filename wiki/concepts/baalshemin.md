@@ -1,3 +1,10 @@
+---
+slug: baalshemin
+title: "Баал-Шемин"
+categories: [concepts]
+tags: []
+---
+
 # Баал-Шемин
 
 **Другие названия:** Бaal Шемин, «Господин Небес»  
