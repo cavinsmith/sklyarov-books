@@ -38,3 +38,7 @@ description: "Метод плавки металлов с использован
 - [[concepts/mednyy-vek|Медный век]]
 - [[concepts/eksperimentalnaya-metallurgiya|Экспериментальная металлургия]]
 - [[books/22-metally|Металлы - дар небесных богов]]
+
+## Связанные статьи
+- [[people/andrey-sklyarov|Андрей Скляров]]
+- [[artifacts/screw-traces|Шурупные следы обработки]]

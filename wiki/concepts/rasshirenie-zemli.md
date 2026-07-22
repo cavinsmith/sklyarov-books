@@ -12,3 +12,6 @@ tags:
 
 - [[people/tom-ren|Том Рен]]
 - [[events/razdel-zemli|Раздел земли]]
+
+## Связанные статьи
+- [[guides/paleokontakt|Палеоконтакт]]

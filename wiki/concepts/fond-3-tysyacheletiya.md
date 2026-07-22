@@ -30,6 +30,7 @@ description: "Другие названия: Фонд Трёхтысячелет
 - [[concepts/bronzovyj-vek]] — бронзовый век как эпоха исследований
 - [[concepts/copper-technologies]] — медные технологии бронзового века
 - [[concepts/drevnyaya-pismennost]] — письменность как маркер цивилизации
+- [[people/andrey-sklyarov|Андрей Скляров]]
 
 ## Книги, в которых обсуждается
 

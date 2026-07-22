@@ -29,3 +29,6 @@ description: "Пирамида как электростанция — конц�
 - [[people/christopher-dunn]] - Кристофер Данн
 - [[concepts/pyramid-as-antenna]] - Пирамида как антенна
 - [[books/17-piramidy]]
+
+## Связанные статьи
+- [[places/giza-piramidy|Пирамиды Гизы]]

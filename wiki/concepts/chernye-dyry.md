@@ -59,6 +59,8 @@ tags:
 - [[concepts/superstruny]] — Суперстроки.
 
 ---
+- [[people/andrey-sklyarov|Андрей Скляров]]
+- [[guides/paleokontakt|Палеоконтакт]]
 
 ## Связанные книги
 

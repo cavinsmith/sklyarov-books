@@ -43,6 +43,7 @@ description: "Концепция состояния души после смер
 - [[concepts/piramida-dushi]]
 - [[concepts/dukhovno-nematerialnyy-mir]]
 - [[concepts/rezonansno-dissonansnoe-vzaimodeystvie]]
+- [[guides/paleokontakt|Палеоконтакт]]
 
 ## Книги, в которых обсуждается
 

@@ -34,3 +34,5 @@ description: "Тип: Город"
 - [[places/gory-titikaka]] — Горы Титикака
 - [[places/plateau-altiplano]] — Плато Альтиплано
 - [[books/15-peru-i-boliviya|Перу и Боливия]]
+- [[concepts/inca|Инкская империя]]
+- [[artifacts/kamni-iki|Камни Ики]]

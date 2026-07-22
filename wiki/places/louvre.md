@@ -60,6 +60,12 @@ tags:
 
 - [[places/paris]] — Париж.
 
+## Источники
+
+- [[books/12-tsivilizaciya-bogov-egipta|«Цивилизация богов Египта»]] — упоминание Лувра как хранилища египетских артефактов
+
+---
+
 ## См. также
 
 - [[guides/drevnie-tsivilizacii|drevnie-tsivilizacii]]

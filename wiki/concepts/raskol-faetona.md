@@ -31,6 +31,8 @@ description: "Другие названия: Разрушение Фаэтона
 - [[concepts/solnechnaya-sistema]] — пояс астероидов как результат раскола
 - [[concepts/jupiter]] — Юпитер мог повлиять на стабильность орбиты
 - [[concepts/predpotopnaya-civilizaciya]] — цивилизация, погибшая во время катастрофы
+- [[events/vsemirnyi-potop|Великий Потоп]]
+- [[places/phippine-sea|Филиппинское море]]
 
 ## Книги, в которых обсуждается
 

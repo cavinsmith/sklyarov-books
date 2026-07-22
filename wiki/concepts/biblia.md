@@ -25,3 +25,4 @@ description: "Описание: Священная книга иудаизма �
 - [[concepts/christianity|Христианство]]
 - [[books/30-yahve-protiv-baala|Яхве против Баала — хроника переворота]]
 - [[books/19-zemlya-vaala|Земля Баала]]
+- [[events/vsemirnyi-potop|Великий Потоп]]

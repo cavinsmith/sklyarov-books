@@ -2,9 +2,8 @@
 slug: ahet-aton
 title: "Ахет-Атон"
 categories: [places]
-tags: [akhenaten, capital, egypt]
-description: "Ахет-Атон — новая столица Эхнатона, построенная в XIV веке до н.э."
-
+tags: [Эхнатон, столица, Египет, Атон]
+description: "Ахет-Атон — новая столица Эхнатона, построенная в XIV веке до н.э. для культа Атона."
 ---
 
 # Ахет-Атон
@@ -17,12 +16,30 @@ description: "Ахет-Атон — новая столица Эхнатона, 
 - Уничтожена [[people/khoremkheb|Хоремхебом]] после смерти Эхнатона
 - Ныне известна как Тель-эль-Амарна
 
+## Упоминание в работах
+
+- [[books/12-tsivilizaciya-bogov-egipta|Цивилизация богов Египта]] — Ахет-Атон как столица реформаторского культа
+
+## Книги
+
+- [[books/12-tsivilizaciya-bogov-egiptа|Цивилизация богов Египта]]
+
+## Связанные концепции
+
+- [[concepts/genotsid-zhretsov-khanaana|Геноцид жрецов Ханаана]]
+- [[concepts/akhenaten-reform|Реформа Эхнатона]]
+- [[concepts/monoteizm|Монотеизм]]
+
+## Связанные персоналии
+
+- [[people/akhenaton|Эхнатон]] — фараон-реформатор
+- [[people/khoremkheb|Хоремхеб]] — преемник, уничтоживший столицу
+
+## Связанные места
+
+- [[places/egipet-drevniy|Древний Египет]]
+- [[places/tell-el-amarna|Тель-эль-Амарна]]
+
 ## См. также
 
-- [[people/akhenaton|Эхнатон]]
-- [[places/egipet-drevniy|Древний Египет]]
-- [[concepts/genotsid-zhretsov-khanaana|Геноцид жрецов Ханаана]]
-
-## Источники
-
-- [[books/12-tsivilizaciya-bogov-egipta|Цивилизация древних богов Египта]]
+- [[concepts/akhenaten-reform|Реформа Эхнатона]]

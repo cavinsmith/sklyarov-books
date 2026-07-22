@@ -27,3 +27,7 @@ description: "Описание: Город в Южном Египте, расп�
 - [[places/ramesseum]] -- храм с упавшим колоссом
 - [[places/hatshepsut-temple]] -- храм фараонши
 - [[books/12-tsivilizaciya-bogov-egipta]] -- книга, анализирующая комплекс
+
+## Связанные статьи
+- [[concepts/civilization-of-gods|Цивилизация богов]]
+- [[artifacts/step-pyramid|Ступенчатая пирамида]]

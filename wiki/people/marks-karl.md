@@ -35,3 +35,4 @@ description: "Немецкий философ, экономист и социо�
 - [[people/engels-fridrih]] — Фридрих Энгельс, соавтор
 - [[people/gegel]] — Гегель, чья диалектика повлияла на Маркса
 - [[people/lenin-vladimir-ilich]] — Ленин, развивший марксизм
+- [[concepts/drevnie-bogi|Древние боги]]

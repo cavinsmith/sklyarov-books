@@ -1,15 +1,14 @@
 ---
-
 slug: dart
 title: "Раймонд Дарт"
 categories: [people]
-tags: []
+tags: [антропология, ЮАР, австралопитек]
 description: "Южноафриканский антрополог, открывший «челебекский череп» (Taung Child) — первый обнаруженный австралопитек."
 ---
 
 # Раймонд Дарт
 
-Южноафриканский антрополог, открывший «челебекский череп» (Taung Child) — первый обнаруженный австралопитек.
+**Раймонд Дарт** (1893–1988) — южноафриканский антрополог, открывший «челебекский череп» (Taung Child) — первый обнаруженный австралопитек.
 
 ## Описание
 
@@ -20,19 +19,22 @@ description: "Южноафриканский антрополог, открыв�
 
 ## Упоминание в работах
 
-- [[concepts/osteodontokeratic]] — Остеодонтокератический комплекс: теория Дарта об использовании костных орудий австралопитеками
+- [[concepts/osteodontokeratic|Остеодонтокератический комплекс]] — теория Дарта об использовании костных орудий австралопитеками
+- [[books/16-sensacionnaya-istoriya|Сенсационная история Земли]] — критика дартовской теории
 
-## Источники
+## Книги
 
 - [[books/16-sensacionnaya-istoriya|Сенсационная история Земли]]
 
+## Связанные концепции
+
+- [[concepts/osteodontokeratic|Остеодонтокератический комплекс]]
+- [[concepts/evolycionizm|Эволюционизм]]
+- [[concepts/paleoanthropology|Палеоантропология]]
+
 ## См. также
 
-- [[concepts/osteodontokeratic]] — Остеодонтокератический комплекс
-
-- [[places/dome-of-the-rock|Купол Скалы]]
-- [[artifacts/tyerteriyskie-tablichki]]
-- [[artifacts/star-child-skull]]
-- [[places/baalbek]]
-- [[places/kargalinskie-rudniki]]
-- [[places/saksayuaman]]
+- [[artifacts/star-child-skull|Звёздный череп]]
+- [[artifacts/tyerteriyskie-tablichki|Тертерийские таблички]]
+- [[places/baalbek|Баальбек]]
+- [[places/saksayuaman|Саксайуаман]]
